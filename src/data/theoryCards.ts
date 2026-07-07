@@ -25,6 +25,7 @@ export type TheoryCard = {
   cardTitleZh?: string;
   titleSeparator?: ' ' | '：';
   years?: string;
+  role?: string;
   creator?: string;
   creatorZh?: string;
   focusTitle?: string;

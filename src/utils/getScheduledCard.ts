@@ -77,6 +77,7 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
     cardTitleZh: card.titleZh,
     titleSeparator: card.titleSeparator,
     years: card.years,
+    role: card.role,
     creator: card.creator,
     creatorZh: card.creatorZh,
     focusTitle: card.focusTitle,

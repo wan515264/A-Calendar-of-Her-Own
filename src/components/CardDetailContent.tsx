@@ -127,8 +127,8 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
   const cardType = card.cardType ?? 'card';
   const creatorLabel = [card.creator, card.creatorZh].filter(Boolean).join('｜');
   const metadata = card.person
-    ? [card.person.category, card.location ?? (location || card.person.locationName)].filter(Boolean).join(' · ')
-    : [cardType, creatorLabel || undefined, card.location, card.years].filter(Boolean).join(' · ');
+    ? [card.role ?? card.person.category, card.location ?? (location || card.person.locationName)].filter(Boolean).join(' · ')
+    : [card.role ?? cardType, creatorLabel || undefined, card.location, card.years].filter(Boolean).join(' · ');
   const hasManualIntro = Boolean(card.introEn || card.introZh);
   const fallbackIntroEn = uniqueParagraphs([card.person?.shortBioEn, card.person?.summaryEn]).join('\n\n');
   const fallbackIntroZh = uniqueParagraphs([card.person?.shortBioZh, card.person?.summaryZh]).join('\n\n');
