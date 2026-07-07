@@ -1,0 +1,2008 @@
+[
+  {
+    "id": "cameron-1864",
+    "name": "Julia Margaret Cameron",
+    "category": "photographer",
+    "originalCategory": "photography",
+    "originalType": "photography / portrait",
+    "city": "怀特岛 Freshwater",
+    "country": "英国",
+    "locationName": "怀特岛 Freshwater, 英国",
+    "latitude": 50.683,
+    "longitude": -1.524,
+    "year": 1864,
+    "schools": [
+      "liberal"
+    ],
+    "themes": [
+      "body",
+      "education"
+    ],
+    "tags": [
+      "photographer",
+      "photography",
+      "photography / portrait",
+      "liberal",
+      "body",
+      "education"
+    ],
+    "keyWorks": [
+      "《Annie, my first success》（1864）",
+      "《The Mountain Nymph, Sweet Liberty》（1866）",
+      "《The Kiss of Peace》（1869）",
+      "《Julia Jackson》（1867）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "英国摄影先驱 Julia Margaret Cameron（1815–1879）以柔焦、近距离肖像、文学与宗教寓言式摆拍著称。她在48岁左右开始摄影，将当时常被视为技术媒介的摄影推进为具有艺术表达力的肖像实践。",
+    "shortBioEn": "A British pioneer of photography, Cameron used soft focus, close portraiture, and literary or allegorical staging to argue for photography as an expressive art form.",
+    "image": "julia_margaret_cameron_profile.jpeg",
+    "imageCredit": "用户上传图片 / User-provided profile image",
+    "relatedPersonIds": [
+      "cahun-1930",
+      "sherman-1990"
+    ]
+  },
+  {
+    "id": "wollstonecraft-1792",
+    "name": "Mary Wollstonecraft",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "text",
+    "city": "伦敦",
+    "country": "英国",
+    "locationName": "伦敦, 英国",
+    "latitude": 51.5072,
+    "longitude": -0.1276,
+    "year": 1792,
+    "schools": [
+      "liberal"
+    ],
+    "themes": [
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "text",
+      "liberal",
+      "education"
+    ],
+    "keyWorks": [
+      "《女权辩护 / A Vindication of the Rights of Woman》（1792）",
+      "《男权辩护 / A Vindication of the Rights of Men》（1790）",
+      "《玛丽：一部小说 / Mary: A Fiction》（1788）",
+      "《瑞典、挪威和丹麦书简 / Letters Written During a Short Residence in Sweden, Norway, and Denmark》（1796）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "早期女性权利思想文本，强调女性理性、教育权与公民身份。",
+    "shortBioEn": "A foundational text of early feminist political thought, linking women’s reason, education, and citizenship.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Wollstonecraft%20by%20John%20Opie%20%28c.%201797%29.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "sourceLinks": [
+      "https://www.gutenberg.org/ebooks/3420"
+    ],
+    "theoryFramework": "focus: 理性教育、公民身份与早期自由主义女性主义 / Reason, education, citizenship, early liberal feminism\ninherit: 继承启蒙理性、自然权利与共和公民教育传统。 / Inherits Enlightenment reason, natural rights, and republican civic education.\ncritique: 批判把女性训练成取悦男性的装饰性存在。 / Critiques the training of women as ornamental beings made for male approval.\ntransform: 把“理性的人”转化为“女性也应成为理性公民”。 / Transforms the rational human subject into women as rational citizens.\npropose: 提出以教育、经济能力和公民责任作为女性自由的基础。 / Proposes education, economic capacity, and civic responsibility as foundations of women's freedom.",
+    "relatedPersonIds": [
+      "beauvoir-1949"
+    ]
+  },
+  {
+    "id": "kahlo-1930",
+    "name": "Frida Kahlo",
+    "category": "artist",
+    "originalCategory": "art",
+    "originalType": "painting",
+    "city": "墨西哥城",
+    "country": "墨西哥",
+    "locationName": "墨西哥城, 墨西哥",
+    "latitude": 19.4326,
+    "longitude": -99.1332,
+    "year": 1930,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "body"
+    ],
+    "tags": [
+      "artist",
+      "art",
+      "painting",
+      "postcolonial",
+      "body"
+    ],
+    "keyWorks": [
+      "《两个弗里达 / The Two Fridas》（1939）",
+      "《带刺项链和蜂鸟的自画像 / Self-Portrait with Thorn Necklace and Hummingbird》（1940）",
+      "《亨利·福特医院 / Henry Ford Hospital》（1932）",
+      "《破碎的柱子 / The Broken Column》（1944）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "以自画像、身体经验、疼痛、民族身份与亲密关系为线索，呈现女性主体经验的复杂性。",
+    "shortBioEn": "Her self-portraits connect bodily pain, national identity, intimacy, and female subjectivity.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "relatedPersonIds": [
+      "kusama-2000"
+    ]
+  },
+  {
+    "id": "cahun-1930",
+    "name": "Claude Cahun",
+    "category": "photographer",
+    "originalCategory": "photography",
+    "originalType": "photography",
+    "city": "巴黎",
+    "country": "法国",
+    "locationName": "巴黎, 法国",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "year": 1930,
+    "schools": [
+      "queer"
+    ],
+    "themes": [
+      "body"
+    ],
+    "tags": [
+      "photographer",
+      "photography",
+      "queer",
+      "body"
+    ],
+    "keyWorks": [
+      "《Aveux non avenus / Disavowals》（1930）",
+      "《Que me veux-tu?》（1928）",
+      "《I am in training, don’t kiss me》（1927）",
+      "反纳粹抵抗传单与摄影实践 / Anti-Nazi resistance leaflets and photographic practice"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "通过摄影、自我造型与性别表演挑战固定身份，是理解酷儿影像与自我凝视的重要节点。",
+    "shortBioEn": "Cahun used photography, styling, and performance to question fixed identity and gender norms.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Cahun%20self-portrait%201928.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "relatedPersonIds": [
+      "butler-1990",
+      "cameron-1864"
+    ]
+  },
+  {
+    "id": "beauvoir-1949",
+    "name": "Simone de Beauvoir",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "text",
+    "city": "巴黎",
+    "country": "法国",
+    "locationName": "巴黎, 法国",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "year": 1949,
+    "schools": [
+      "radical",
+      "liberal"
+    ],
+    "themes": [
+      "body"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "text",
+      "radical",
+      "liberal",
+      "body"
+    ],
+    "keyWorks": [
+      "《第二性 / The Second Sex》（1949）",
+      "《女宾 / She Came to Stay》（1943）",
+      "《达官贵人 / The Mandarins》（1954）",
+      "《一个规矩女孩的回忆 / Memoirs of a Dutiful Daughter》（1958）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "存在主义性别分析影响第二波女性主义，也开启“女性如何被社会建构”的核心讨论。",
+    "shortBioEn": "Her existential analysis of gender shaped second-wave feminism and debates on social construction.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simone%20de%20Beauvoir2.png",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "sourceLinks": [
+      "https://plato.stanford.edu/entries/beauvoir/"
+    ],
+    "theoryFramework": "focus: 存在主义、身体经验与“成为女人” / Existentialism, embodiment, and becoming woman\ninherit: 继承存在主义、现象学与自由伦理。 / Inherits existentialism, phenomenology, and an ethics of freedom.\ncritique: 批判把女性固定为自然、他者和附属对象的父权神话。 / Critiques patriarchal myths that fix woman as nature, Other, and dependent object.\ntransform: 把性别从生物事实转化为历史和社会生成过程。 / Transforms gender from biological fact into a historical and social process.\npropose: 提出女性通过劳动、行动和互相承认争取主体自由。 / Proposes freedom through work, action, and reciprocal recognition.",
+    "relatedPersonIds": [
+      "chicago-1979",
+      "cixous-1975",
+      "irigaray-1974",
+      "kristeva-1974",
+      "wollstonecraft-1792"
+    ]
+  },
+  {
+    "id": "ono-1964",
+    "name": "Yoko Ono",
+    "category": "artist",
+    "originalCategory": "art",
+    "originalType": "performance",
+    "city": "京都 / 纽约",
+    "country": "日本 / 美国",
+    "locationName": "京都 / 纽约, 日本 / 美国",
+    "latitude": 35.0116,
+    "longitude": 135.7681,
+    "year": 1964,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "body",
+      "violence"
+    ],
+    "tags": [
+      "artist",
+      "art",
+      "performance",
+      "radical",
+      "body",
+      "violence"
+    ],
+    "keyWorks": [
+      "《Cut Piece》（1964）",
+      "《Grapefruit》（1964）",
+      "《Bed-In for Peace》（1969，与 John Lennon）",
+      "《Wish Tree》系列 / Wish Tree series"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "观众剪去表演者衣物的行为艺术作品，将身体、观看、暴力与脆弱性置于现场。",
+    "shortBioEn": "This performance placed the body, spectatorship, violence, and vulnerability into a live encounter.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoko%20Ono%201969.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons"
+  },
+  {
+    "id": "chicago-1979",
+    "name": "Judy Chicago",
+    "category": "artist",
+    "originalCategory": "art",
+    "originalType": "installation",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1979,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "body",
+      "education"
+    ],
+    "tags": [
+      "artist",
+      "art",
+      "installation",
+      "radical",
+      "body",
+      "education"
+    ],
+    "keyWorks": [
+      "《The Dinner Party》（1974–1979）",
+      "《Womanhouse》（1972，与 Miriam Schapiro 等）",
+      "《The Birth Project》（1980–1985）",
+      "《The Holocaust Project》（1985–1993）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "以大型装置重写女性历史与艺术史中的缺席，强调记忆、档案与女性谱系。",
+    "shortBioEn": "Her installations rewrite absences in art history through memory, archives, and women’s genealogies.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Judy%20Chicago%202012%20Shankbone.JPG",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "relatedPersonIds": [
+      "beauvoir-1949",
+      "guerrilla-1985"
+    ]
+  },
+  {
+    "id": "lorde-1984",
+    "name": "Audre Lorde",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "essay/poetry",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1984,
+    "schools": [
+      "black",
+      "queer"
+    ],
+    "themes": [
+      "intersectionality",
+      "body"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "essay/poetry",
+      "black",
+      "queer",
+      "intersectionality",
+      "body"
+    ],
+    "keyWorks": [
+      "《Sister Outsider》（1984）",
+      "《The Cancer Journals》（1980）",
+      "《Zami: A New Spelling of My Name》（1982）",
+      "诗集《The Black Unicorn》（1978）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "她的诗歌与散文强调差异、种族、性、疾病经验与女性主义政治之间的关系。",
+    "shortBioEn": "Lorde’s poetry and essays connect difference, race, sexuality, illness, and feminist politics.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Audre%20Lorde%201980.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "sourceLinks": [
+      "https://www.poetryfoundation.org/poets/audre-lorde"
+    ],
+    "theoryFramework": "focus: 差异、愤怒、黑人女同性恋女性主义 / Difference, anger, Black lesbian feminism\ninherit: 继承黑人解放、诗性表达、女同性恋女性主义与反殖民政治。 / Inherits Black liberation, poetic knowledge, lesbian feminism, and anti-colonial politics.\ncritique: 批判白人中产女性主义把差异当作威胁或附属议题。 / Critiques white middle-class feminism for treating difference as threat or appendix.\ntransform: 把愤怒、欲望和身体经验转化为知识与政治能量。 / Transforms anger, erotic power, and embodied experience into knowledge and political energy.\npropose: 提出以差异为资源的联盟、语言行动和自我命名。 / Proposes coalitions built from difference, speech as action, and self-naming.",
+    "relatedPersonIds": [
+      "anzaldua-1987",
+      "muholi-2010",
+      "rich-1976"
+    ]
+  },
+  {
+    "id": "goldin-1986",
+    "name": "Nan Goldin",
+    "category": "photographer",
+    "originalCategory": "photography",
+    "originalType": "photography",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1986,
+    "schools": [
+      "queer"
+    ],
+    "themes": [
+      "body",
+      "violence"
+    ],
+    "tags": [
+      "photographer",
+      "photography",
+      "queer",
+      "body",
+      "violence"
+    ],
+    "keyWorks": [
+      "《The Ballad of Sexual Dependency》（1986）",
+      "《I’ll Be Your Mirror》（1996）",
+      "《The Other Side》（1993）",
+      "《Sisters, Saints and Sibyls》（2004）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "以亲密关系、酷儿社群、欲望与创伤为题，构成私人影像与社会现实之间的张力。",
+    "shortBioEn": "Goldin’s work frames intimacy, queer communities, desire, and trauma as both personal and social history.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nan%20Goldin%20photographer.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "relatedPersonIds": [
+      "butler-1990",
+      "sherman-1990"
+    ]
+  },
+  {
+    "id": "guerrilla-1985",
+    "name": "Guerrilla Girls",
+    "category": "artist",
+    "originalCategory": "art",
+    "originalType": "collective",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1985,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "education",
+      "intersectionality"
+    ],
+    "tags": [
+      "artist",
+      "art",
+      "collective",
+      "radical",
+      "education",
+      "intersectionality"
+    ],
+    "keyWorks": [
+      "《Do women have to be naked to get into the Met. Museum?》（1989）",
+      "《The Advantages of Being a Woman Artist》（1988）",
+      "《The Guerrilla Girls’ Bedside Companion to the History of Western Art》（1998）",
+      "海报、公共项目与统计行动 / Posters, public interventions, and data activism"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "匿名艺术家集体用海报、数据和幽默批判美术馆、市场与艺术史中的性别/种族不平等。",
+    "shortBioEn": "This anonymous collective uses posters, data, and humor to critique gendered and racial exclusion in art institutions.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guerrilla%20Girls%20V%26A%20Museum.jpg",
+    "imageCredit": "Collective image via Wikimedia Commons",
+    "relatedPersonIds": [
+      "chicago-1979"
+    ]
+  },
+  {
+    "id": "mohanty-1988",
+    "name": "Chandra Talpade Mohanty",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory",
+    "city": "锡拉丘兹",
+    "country": "美国",
+    "locationName": "锡拉丘兹, 美国",
+    "latitude": 43.0481,
+    "longitude": -76.1474,
+    "year": 1988,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "colonialism",
+      "intersectionality"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory",
+      "postcolonial",
+      "colonialism",
+      "intersectionality"
+    ],
+    "keyWorks": [
+      "《Under Western Eyes》（1984/1988）",
+      "《Feminism Without Borders》（2003）",
+      "《Third World Women and the Politics of Feminism》（1991，与 Ann Russo、Lourdes Torres 编）",
+      "《Feminist Genealogies, Colonial Legacies, Democratic Futures》（1997，与 M. Jacqui Alexander 编）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "批判将“第三世界女性”同质化的西方中心叙事，强调位置、历史与跨国资本主义。",
+    "shortBioEn": "Mohanty critiques Western-centered narratives that homogenize “Third World women,” emphasizing location, history, and transnational capitalism.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandra%20Talpade%20Mohanty.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 后殖民女性主义、位置性与跨国团结 / Postcolonial feminism, location, transnational solidarity\ninherit: 继承反殖民理论、马克思主义女性主义和第三世界女性主义。 / Inherits anti-colonial theory, Marxist feminism, and Third World feminism.\ncritique: 批判西方女性主义把“第三世界女性”同质化为受害者。 / Critiques Western feminism's homogenizing figure of the victimized Third World woman.\ntransform: 把普遍女性经验转化为有历史、阶级、民族和地域差异的位置分析。 / Transforms universal womanhood into historically located analysis of class, nation, and place.\npropose: 提出反资本主义、跨国且基于共同斗争的女性主义团结。 / Proposes anti-capitalist transnational solidarity grounded in shared struggle.",
+    "relatedPersonIds": [
+      "alsaji-2014",
+      "neshat-2000"
+    ]
+  },
+  {
+    "id": "butler-1990",
+    "name": "Judith Butler",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory",
+    "city": "伯克利",
+    "country": "美国",
+    "locationName": "伯克利, 美国",
+    "latitude": 37.8715,
+    "longitude": -122.273,
+    "year": 1990,
+    "schools": [
+      "queer"
+    ],
+    "themes": [
+      "body"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory",
+      "queer",
+      "body"
+    ],
+    "keyWorks": [
+      "《Gender Trouble》（1990）",
+      "《Bodies That Matter》（1993）",
+      "《Undoing Gender》（2004）",
+      "《Notes Toward a Performative Theory of Assembly》（2015）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "“性别操演”推动酷儿理论与女性主义关于身份、规范和身体的重新思考。",
+    "shortBioEn": "Butler’s theory of performativity reshaped feminist and queer debates on identity, norms, and embodiment.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Butler%20at%20Hamburg%20University.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "sourceLinks": [
+      "https://plato.stanford.edu/entries/feminism-gender/"
+    ],
+    "theoryFramework": "focus: 性别操演、规范与酷儿理论 / Gender performativity, norms, queer theory\ninherit: 继承后结构主义、福柯式权力分析、精神分析和女性主义争论。 / Inherits poststructuralism, Foucauldian power analysis, psychoanalysis, and feminist debates.\ncritique: 批判把 sex/gender、女性主体或异性恋秩序当作自然前提。 / Critiques naturalized sex/gender, stable womanhood, and heterosexual order.\ntransform: 把身份转化为规范反复生产的效果，而非先验本质。 / Transforms identity into an effect of repeated norms rather than prior essence.\npropose: 提出通过重复中的偏差、联盟和身体集会扰动规范。 / Proposes troubling norms through citational variation, coalition, and embodied assembly.",
+    "relatedPersonIds": [
+      "cahun-1930",
+      "goldin-1986",
+      "wittig-1980"
+    ]
+  },
+  {
+    "id": "sherman-1990",
+    "name": "Cindy Sherman",
+    "category": "photographer",
+    "originalCategory": "photography",
+    "originalType": "photography",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1990,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "body"
+    ],
+    "tags": [
+      "photographer",
+      "photography",
+      "radical",
+      "body"
+    ],
+    "keyWorks": [
+      "《Untitled Film Stills》（1977–1980）",
+      "《Centerfolds》（1981）",
+      "《History Portraits》（1988–1990）",
+      "《Clowns》系列 / Clowns series（2003–2004）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "通过扮演与自拍式摄影拆解电影、广告与艺术史中被制造的女性形象。",
+    "shortBioEn": "Sherman uses staged self-representation to deconstruct feminine stereotypes in cinema, advertising, and art history.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cindy%20Sherman%202012.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "relatedPersonIds": [
+      "cameron-1864",
+      "goldin-1986",
+      "mulvey-1975"
+    ]
+  },
+  {
+    "id": "kusama-2000",
+    "name": "Yayoi Kusama",
+    "category": "artist",
+    "originalCategory": "art",
+    "originalType": "installation",
+    "city": "东京",
+    "country": "日本",
+    "locationName": "东京, 日本",
+    "latitude": 35.6762,
+    "longitude": 139.6503,
+    "year": 2000,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "body"
+    ],
+    "tags": [
+      "artist",
+      "art",
+      "installation",
+      "radical",
+      "body"
+    ],
+    "keyWorks": [
+      "《Infinity Mirror Rooms》系列 / Infinity Mirror Rooms series",
+      "《Accumulation》系列 / Accumulation series",
+      "《Pumpkin》系列 / Pumpkin series",
+      "《Infinity Nets》系列 / Infinity Nets series"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "以波点、镜屋和沉浸式装置建构身体、重复、精神经验与观看机制。",
+    "shortBioEn": "Kusama’s dots, mirror rooms, and immersive installations connect body, repetition, psychic experience, and spectatorship.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yayoi%20Kusama%20crop.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "relatedPersonIds": [
+      "kahlo-1930"
+    ]
+  },
+  {
+    "id": "neshat-2000",
+    "name": "Shirin Neshat",
+    "category": "photographer",
+    "originalCategory": "photography",
+    "originalType": "photography/video",
+    "city": "纽约 / 德黑兰",
+    "country": "伊朗 / 美国",
+    "locationName": "纽约 / 德黑兰, 伊朗 / 美国",
+    "latitude": 35.6892,
+    "longitude": 51.389,
+    "year": 2000,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "body",
+      "colonialism"
+    ],
+    "tags": [
+      "photographer",
+      "photography",
+      "photography/video",
+      "postcolonial",
+      "body",
+      "colonialism"
+    ],
+    "keyWorks": [
+      "《Women of Allah》系列 / Women of Allah series（1993–1997）",
+      "《Turbulent》（1998）",
+      "《Rapture》（1999）",
+      "电影《Women Without Men》（2009）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "以摄影和影像装置处理流亡、宗教、女性身体、书写与政治凝视。",
+    "shortBioEn": "Neshat’s photography and video installations address exile, religion, women’s bodies, writing, and political spectatorship.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirin%20Neshat%20by%20David%20Shankbone.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "relatedPersonIds": [
+      "mohanty-1988"
+    ]
+  },
+  {
+    "id": "muholi-2010",
+    "name": "Zanele Muholi",
+    "category": "photographer",
+    "originalCategory": "photography",
+    "originalType": "photography",
+    "city": "约翰内斯堡",
+    "country": "南非",
+    "locationName": "约翰内斯堡, 南非",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "year": 2010,
+    "schools": [
+      "black",
+      "queer",
+      "postcolonial"
+    ],
+    "themes": [
+      "intersectionality",
+      "violence",
+      "body"
+    ],
+    "tags": [
+      "photographer",
+      "photography",
+      "black",
+      "queer",
+      "postcolonial",
+      "intersectionality",
+      "violence",
+      "body"
+    ],
+    "keyWorks": [
+      "《Faces and Phases》系列 / Faces and Phases series",
+      "《Somnyama Ngonyama》系列 / Somnyama Ngonyama series",
+      "《Brave Beauties》系列 / Brave Beauties series",
+      "《Only Half the Picture》（2006）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "以黑人酷儿与跨性别社群肖像为核心，将摄影作为档案、见证与行动主义。",
+    "shortBioEn": "Muholi photographs Black LGBTQIA+ communities, treating images as archive, testimony, and activism.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zanele%20Muholi%2C%202020.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "relatedPersonIds": [
+      "lorde-1984"
+    ]
+  },
+  {
+    "id": "ahmed-2017",
+    "name": "Sara Ahmed",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory",
+    "city": "伦敦",
+    "country": "英国",
+    "locationName": "伦敦, 英国",
+    "latitude": 51.5072,
+    "longitude": -0.1276,
+    "year": 2017,
+    "schools": [
+      "queer",
+      "postcolonial"
+    ],
+    "themes": [
+      "intersectionality",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory",
+      "queer",
+      "postcolonial",
+      "intersectionality",
+      "education"
+    ],
+    "keyWorks": [
+      "《Living a Feminist Life》（2017）",
+      "《The Cultural Politics of Emotion》（2004）",
+      "《Queer Phenomenology》（2006）",
+      "《Complaint!》（2021）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "从日常经验、情感、制度与投诉出发，讨论女性主义如何成为一种生活实践。",
+    "shortBioEn": "Ahmed writes from everyday experience, affect, institutions, and complaint to understand feminism as lived practice.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Ahmed%202017.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 情感政治、制度批判与女性主义生活 / Affect, institutions, feminist life\ninherit: 继承现象学、酷儿理论、后殖民女性主义和情感研究。 / Inherits phenomenology, queer theory, postcolonial feminism, and affect studies.\ncritique: 批判幸福、包容和多元口号如何遮蔽制度性暴力。 / Critiques how happiness, inclusion, and diversity slogans can hide institutional violence.\ntransform: 把日常不适、投诉和拒绝转化为认识制度的路径。 / Transforms discomfort, complaint, and refusal into ways of knowing institutions.\npropose: 提出“女性主义生活”作为持续实践、支持网络和生存工具箱。 / Proposes feminist life as ongoing practice, support networks, and a survival kit."
+  },
+  {
+    "id": "kristeva-1974",
+    "name": "Julia Kristeva",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / psychoanalysis",
+    "city": "巴黎",
+    "country": "法国",
+    "locationName": "巴黎, 法国",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "year": 1974,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "body",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / psychoanalysis",
+      "postcolonial",
+      "body",
+      "education"
+    ],
+    "keyWorks": [
+      "《Revolution in Poetic Language》（1974）",
+      "《Powers of Horror》（1980）",
+      "《Tales of Love》（1983）",
+      "《Black Sun》（1987）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Julia Kristeva 将语言、身体、母性、卑贱与主体生成联系起来，是法国理论、精神分析女性主义与文学批评的重要节点。",
+    "shortBioEn": "Kristeva connects language, body, maternity, abjection, and subject formation across French theory, psychoanalytic feminism, and literary criticism.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julia%20Kristeva%202008.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 符号界、母性、卑贱与主体生成 / Semiotic, maternity, abjection, subject formation\ninherit: 继承精神分析、结构主义语言学、符号学和文学先锋传统。 / Inherits psychoanalysis, structural linguistics, semiotics, and avant-garde literature.\ncritique: 批判只重秩序和父权象征法则的语言观。 / Critiques language theories centered only on order and paternal symbolic law.\ntransform: 把身体节奏、母性和卑贱经验转化为主体生成的动力。 / Transforms bodily rhythm, maternity, and abjection into forces of subject formation.\npropose: 提出在诗性语言和边界经验中理解主体、欲望与文化。 / Proposes reading subjectivity, desire, and culture through poetic language and boundary experiences.",
+    "relatedPersonIds": [
+      "beauvoir-1949"
+    ]
+  },
+  {
+    "id": "cixous-1975",
+    "name": "Hélène Cixous",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / literature",
+    "city": "巴黎",
+    "country": "法国",
+    "locationName": "巴黎, 法国",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "year": 1975,
+    "schools": [
+      "radical",
+      "postcolonial"
+    ],
+    "themes": [
+      "body",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / literature",
+      "radical",
+      "postcolonial",
+      "body",
+      "education"
+    ],
+    "keyWorks": [
+      "《The Laugh of the Medusa》（1975）",
+      "《Coming to Writing》（1977）",
+      "《Three Steps on the Ladder of Writing》（1993）",
+      "《Portrait of Jacques Derrida as a Young Jewish Saint》（2001）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Hélène Cixous 以“女性书写”挑战父权语言结构，强调身体、欲望、声音与文本形式的解放。",
+    "shortBioEn": "Cixous’s écriture féminine challenges patriarchal language through body, desire, voice, and experimental textual form.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A9l%C3%A8ne%20Cixous.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 女性书写、身体与父权语言批判 / Ecriture feminine, body, patriarchal language\ninherit: 继承解构、精神分析、现代主义文学和法国女性主义。 / Inherits deconstruction, psychoanalysis, modernist literature, and French feminism.\ncritique: 批判二元对立和父权语言把女性排除在写作主体之外。 / Critiques binary oppositions and patriarchal language that exclude women as writing subjects.\ntransform: 把身体、欲望和声音转化为实验性写作力量。 / Transforms body, desire, and voice into experimental writing force.\npropose: 提出女性书写，鼓励女性书写身体、梦和未被允许的经验。 / Proposes ecriture feminine: writing the body, dreams, and forbidden experience.",
+    "relatedPersonIds": [
+      "beauvoir-1949",
+      "wittig-1980"
+    ]
+  },
+  {
+    "id": "mulvey-1975",
+    "name": "Laura Mulvey",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "film theory / essay",
+    "city": "伦敦",
+    "country": "英国",
+    "locationName": "伦敦, 英国",
+    "latitude": 51.5072,
+    "longitude": -0.1276,
+    "year": 1975,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "body",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "film theory / essay",
+      "radical",
+      "body",
+      "education"
+    ],
+    "keyWorks": [
+      "《Visual Pleasure and Narrative Cinema》（1975）",
+      "《Visual and Other Pleasures》（1989）",
+      "《Fetishism and Curiosity》（1996）",
+      "《Death 24x a Second》（2006）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Laura Mulvey 的女性主义电影理论提出“男性凝视”问题，分析经典电影如何组织观看、欲望与女性形象。",
+    "shortBioEn": "Mulvey’s feminist film theory introduced the problem of the “male gaze,” analyzing how classical cinema organizes looking, desire, and images of women.",
+    "sourceLinks": [
+      "https://academic.oup.com/screen/article-abstract/16/3/6/1603296"
+    ],
+    "theoryFramework": "focus: 男性凝视、精神分析电影理论 / Male gaze, psychoanalytic film theory\ninherit: 继承弗洛伊德、拉康精神分析和电影叙事理论。 / Inherits Freud, Lacan, psychoanalysis, and film narrative theory.\ncritique: 批判经典电影把男性设为主动观看者、女性设为被观看对象。 / Critiques classical cinema for coding men as active lookers and women as displayed objects.\ntransform: 把电影快感转化为可被分析的权力结构。 / Transforms cinematic pleasure into an analyzable structure of power.\npropose: 提出破坏叙事快感和视觉秩序的女性主义电影实践。 / Proposes feminist film practice that disrupts narrative pleasure and visual order.",
+    "relatedPersonIds": [
+      "sherman-1990"
+    ]
+  },
+  {
+    "id": "wittig-1980",
+    "name": "Monique Wittig",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / literature",
+    "city": "巴黎",
+    "country": "法国",
+    "locationName": "巴黎, 法国",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "year": 1980,
+    "schools": [
+      "queer",
+      "radical"
+    ],
+    "themes": [
+      "body",
+      "intersectionality"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / literature",
+      "queer",
+      "radical",
+      "body",
+      "intersectionality"
+    ],
+    "keyWorks": [
+      "《The Straight Mind》（1980）",
+      "《The Lesbian Body》（1973）",
+      "《Les Guérillères》（1969）",
+      "《The Opoponax》（1964）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Monique Wittig 批判异性恋制度如何制造“女人”这一政治类别，是女同性恋女性主义与酷儿理论的重要先声。",
+    "shortBioEn": "Wittig critiques heterosexuality as a political regime that produces “woman” as a category, becoming a key precursor to lesbian feminism and queer theory.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monique%20Wittig%201969.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 异性恋制度、语言与女同性恋唯物主义 / Heterosexual regime, language, lesbian materialism\ninherit: 继承唯物主义女性主义、文学实验和女同性恋政治。 / Inherits materialist feminism, literary experiment, and lesbian politics.\ncritique: 批判异性恋制度把“女人”制造成被支配的政治类别。 / Critiques heterosexuality as a regime producing woman as a dominated political category.\ntransform: 把性别从身份转化为阶级关系和语言制度。 / Transforms gender from identity into class relation and linguistic regime.\npropose: 提出通过女同性恋主体、语言改造和类别拒绝打破性别制度。 / Proposes lesbian subjectivity, linguistic transformation, and refusal of imposed categories.",
+    "relatedPersonIds": [
+      "butler-1990",
+      "cixous-1975"
+    ]
+  },
+  {
+    "id": "duras-1984",
+    "name": "Marguerite Duras",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "literature / film",
+    "city": "巴黎 / 西贡",
+    "country": "法国 / 越南",
+    "locationName": "巴黎 / 西贡, 法国 / 越南",
+    "latitude": 10.8231,
+    "longitude": 106.6297,
+    "year": 1984,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "body",
+      "colonialism"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "literature / film",
+      "postcolonial",
+      "body",
+      "colonialism"
+    ],
+    "keyWorks": [
+      "《The Lover》（1984）",
+      "《Hiroshima mon amour》（1959）",
+      "《India Song》（1975）",
+      "《The Ravishing of Lol Stein》（1964）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Marguerite Duras 的小说与电影处理欲望、记忆、殖民关系和女性叙事声音，可作为文学与后殖民女性经验的节点。",
+    "shortBioEn": "Duras’s fiction and cinema explore desire, memory, colonial relations, and women’s narrative voice.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marguerite%20Duras%201993.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 欲望、殖民记忆与女性叙事声音 / Desire, colonial memory, feminine narration\ninherit: 继承现代主义叙事、法国文学、电影语言和殖民记忆书写。 / Inherits modernist narrative, French literature, cinema, and writing of colonial memory.\ncritique: 批判稳定自传、殖民权力和规范化女性欲望的叙述。 / Critiques stable autobiography, colonial power, and normalized stories of female desire.\ntransform: 把断裂记忆、沉默和欲望转化为女性叙事形式。 / Transforms fractured memory, silence, and desire into feminine narrative form.\npropose: 提出以暧昧、重复和空白书写主体与殖民关系。 / Proposes ambiguity, repetition, and gaps as ways to write subjectivity and colonial relations."
+  },
+  {
+    "id": "irigaray-1974",
+    "name": "Luce Irigaray",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / philosophy",
+    "city": "巴黎",
+    "country": "法国",
+    "locationName": "巴黎, 法国",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "year": 1974,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "body",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / philosophy",
+      "radical",
+      "body",
+      "education"
+    ],
+    "keyWorks": [
+      "《Speculum of the Other Woman》（1974）",
+      "《This Sex Which Is Not One》（1977）",
+      "《An Ethics of Sexual Difference》（1984）",
+      "《I Love to You》（1992）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Luce Irigaray 从哲学、语言和精神分析出发批判男性中心主体，提出性差异伦理与女性主体问题。",
+    "shortBioEn": "Irigaray critiques phallocentric subjectivity through philosophy, language, and psychoanalysis, developing an ethics of sexual difference.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luce%20Irigaray%202011.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "detailImage": "irigaray_theoretical_framework.svg",
+    "detailImageCredit": "Bilingual theoretical framework generated from course readings / 基于课程阅读生成的双语理论框架图",
+    "sourceLinks": [
+      "https://plato.stanford.edu/entries/irigaray/"
+    ],
+    "theoryFramework": "focus: 性差异、女性主体与精神分析批判 / Sexual difference, female subjectivity, psychoanalytic critique\ninherit: 继承哲学史、精神分析、语言理论和法国女性主义。 / Inherits philosophy, psychoanalysis, language theory, and French feminism.\ncritique: 批判男性中心主体把女性定义为镜像、缺失或他者。 / Critiques phallocentric subjectivity that defines women as mirror, lack, or other.\ntransform: 把“缺失的女性”转化为具有自身欲望和伦理关系的主体。 / Transforms absent woman into a subject of desire and ethical relation.\npropose: 提出性差异伦理、女性谱系和新的爱与语言关系。 / Proposes ethics of sexual difference, female genealogy, and new relations of love and language.",
+    "relatedPersonIds": [
+      "beauvoir-1949",
+      "braidotti-1994"
+    ]
+  },
+  {
+    "id": "braidotti-1994",
+    "name": "Rosi Braidotti",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / philosophy",
+    "city": "乌得勒支",
+    "country": "荷兰",
+    "locationName": "乌得勒支, 荷兰",
+    "latitude": 52.0907,
+    "longitude": 5.1214,
+    "year": 1994,
+    "schools": [
+      "postcolonial",
+      "queer"
+    ],
+    "themes": [
+      "body",
+      "intersectionality"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / philosophy",
+      "postcolonial",
+      "queer",
+      "body",
+      "intersectionality"
+    ],
+    "keyWorks": [
+      "《Nomadic Subjects》（1994）",
+      "《Metamorphoses》（2002）",
+      "《The Posthuman》（2013）",
+      "《Posthuman Feminism》（2022）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Rosi Braidotti 将女性主义、后结构主义与后人类思想结合，提出游牧主体、生成与关系性主体。",
+    "shortBioEn": "Braidotti links feminism, poststructuralism, and posthuman thought through nomadic subjectivity, becoming, and relational embodiment.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosi%20Braidotti.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 游牧主体、生成与后人类女性主义 / Nomadic subject, becoming, posthuman feminism\ninherit: 继承后结构主义、德勒兹哲学、女性主义和欧洲大陆理论。 / Inherits poststructuralism, Deleuzian philosophy, feminism, and continental theory.\ncritique: 批判固定身份、人文主义普遍主体和欧洲中心知识。 / Critiques fixed identity, humanist universal subject, and Eurocentric knowledge.\ntransform: 把主体转化为流动、多重、关系性的生成过程。 / Transforms subjectivity into mobile, multiple, relational becoming.\npropose: 提出游牧主体与后人类女性主义，用关系性伦理思考差异。 / Proposes nomadic subjectivity and posthuman feminism through relational ethics of difference.",
+    "relatedPersonIds": [
+      "irigaray-1974"
+    ]
+  },
+  {
+    "id": "rich-1976",
+    "name": "Adrienne Rich",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "poetry / theory",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1976,
+    "schools": [
+      "radical",
+      "queer"
+    ],
+    "themes": [
+      "body",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "poetry / theory",
+      "radical",
+      "queer",
+      "body",
+      "education"
+    ],
+    "keyWorks": [
+      "《Of Woman Born》（1976）",
+      "《Compulsory Heterosexuality and Lesbian Existence》（1980）",
+      "《Diving into the Wreck》（1973）",
+      "《The Dream of a Common Language》（1978）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Adrienne Rich 连接诗歌、母性政治、女同性恋存在与知识生产，是美国女性主义写作的关键人物。",
+    "shortBioEn": "Rich connects poetry, motherhood politics, lesbian existence, and knowledge production in feminist writing.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adrienne%20Rich%201980.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 母性政治、强制异性恋与女性诗学 / Motherhood, compulsory heterosexuality, feminist poetics\ninherit: 继承女性诗歌、激进女性主义和女同性恋女性主义。 / Inherits women's poetry, radical feminism, and lesbian feminism.\ncritique: 批判母性制度、异性恋强制和男性文学传统。 / Critiques the institution of motherhood, compulsory heterosexuality, and male literary tradition.\ntransform: 把个人经验、母职矛盾和诗歌转化为政治分析。 / Transforms personal experience, maternal contradiction, and poetry into political analysis.\npropose: 提出女性连续体、重新命名经验和女性知识谱系。 / Proposes lesbian continuum, renaming experience, and women's knowledge genealogies.",
+    "relatedPersonIds": [
+      "lorde-1984"
+    ]
+  },
+  {
+    "id": "anzaldua-1987",
+    "name": "Gloria Anzaldúa",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / memoir",
+    "city": "德州边境",
+    "country": "美国 / 墨西哥",
+    "locationName": "德州边境, 美国 / 墨西哥",
+    "latitude": 26.2034,
+    "longitude": -98.23,
+    "year": 1987,
+    "schools": [
+      "postcolonial",
+      "queer"
+    ],
+    "themes": [
+      "colonialism",
+      "intersectionality",
+      "body"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / memoir",
+      "postcolonial",
+      "queer",
+      "colonialism",
+      "intersectionality",
+      "body"
+    ],
+    "keyWorks": [
+      "《Borderlands/La Frontera》（1987）",
+      "《This Bridge Called My Back》（1981，合编）",
+      "《Making Face, Making Soul/Haciendo Caras》（1990，编）",
+      "《Light in the Dark/Luz en lo Oscuro》（2015）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Gloria Anzaldúa 以边境经验、语言混杂和“新梅斯蒂萨意识”重写种族、性别、性向与殖民边界。",
+    "shortBioEn": "Anzaldúa theorizes borderlands, hybrid language, and mestiza consciousness across race, gender, sexuality, and colonial borders.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20Anzaldua.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 边界、混杂身份与奇卡纳女性主义 / Borderlands, mestiza consciousness, Chicana feminism\ninherit: 继承奇卡纳运动、原住民/墨西哥文化、酷儿女性主义和后殖民理论。 / Inherits Chicana movements, Indigenous/Mexican cultures, queer feminism, and postcolonial theory.\ncritique: 批判国界、语言纯粹性、种族主义和性别/性向规范。 / Critiques borders, linguistic purity, racism, and gender/sexual norms.\ntransform: 把边境创伤和混杂语言转化为新梅斯蒂萨意识。 / Transforms border wounds and hybrid language into mestiza consciousness.\npropose: 提出跨界、双语、多重身份的知识和联盟方式。 / Proposes border-crossing, bilingual, multiple-identity knowledge and coalition.",
+    "relatedPersonIds": [
+      "halberstam-1998",
+      "lorde-1984"
+    ]
+  },
+  {
+    "id": "halberstam-1998",
+    "name": "Jack Halberstam",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "queer theory",
+    "city": "纽约 / 洛杉矶",
+    "country": "美国",
+    "locationName": "纽约 / 洛杉矶, 美国",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "year": 1998,
+    "schools": [
+      "queer"
+    ],
+    "themes": [
+      "body",
+      "intersectionality"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "queer theory",
+      "queer",
+      "body",
+      "intersectionality"
+    ],
+    "keyWorks": [
+      "《Female Masculinity》（1998）",
+      "《In a Queer Time and Place》（2005）",
+      "《The Queer Art of Failure》（2011）",
+      "《Trans*》（2018）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Jack Halberstam 的研究连接跨性别研究、酷儿时间、失败美学与流行文化，扩展了女性主义的性别理论边界。",
+    "shortBioEn": "Halberstam links trans studies, queer temporality, failure, and popular culture, expanding feminist gender theory.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Halberstam%20Transmediale%202014.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 女性男性气质、酷儿时间与失败美学 / Female masculinity, queer time, failure\ninherit: 继承酷儿理论、跨性别研究、文化研究和女性主义性别理论。 / Inherits queer theory, trans studies, cultural studies, and feminist gender theory.\ncritique: 批判把男性气质归为男性所有、把成功归为规范人生路线。 / Critiques masculinity as male property and success as normative life trajectory.\ntransform: 把失败、亚文化和非规范时间转化为知识资源。 / Transforms failure, subculture, and non-normative time into knowledge resources.\npropose: 提出以酷儿时间、低理论和非规范身体重想性别。 / Proposes queer time, low theory, and non-normative embodiment to rethink gender.",
+    "relatedPersonIds": [
+      "anzaldua-1987"
+    ]
+  },
+  {
+    "id": "hooks-1981",
+    "name": "bell hooks",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / pedagogy",
+    "city": "肯塔基",
+    "country": "美国",
+    "locationName": "肯塔基, 美国",
+    "latitude": 37.8393,
+    "longitude": -84.27,
+    "year": 1981,
+    "schools": [
+      "black",
+      "postcolonial"
+    ],
+    "themes": [
+      "intersectionality",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / pedagogy",
+      "black",
+      "postcolonial",
+      "intersectionality",
+      "education"
+    ],
+    "keyWorks": [
+      "《Ain’t I a Woman?》（1981）",
+      "《Feminist Theory: From Margin to Center》（1984）",
+      "《Teaching to Transgress》（1994）",
+      "《All About Love》（2000）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "bell hooks 从种族、阶级、性别、教育和爱的政治出发，推动“从边缘到中心”的女性主义理论。",
+    "shortBioEn": "bell hooks writes from race, class, gender, pedagogy, and love to move feminist theory from margin to center.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bell%20hooks%2C%20October%202014.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "sourceLinks": [
+      "https://www.routledge.com/Feminist-Theory-From-Margin-to-Center/hooks/p/book/9781138821654"
+    ],
+    "theoryFramework": "focus: 黑人女性主义、边缘视角、爱与教育 / Black feminism, margin, love, pedagogy\ninherit: 继承黑人女性思想、民权运动、教育实践和社会主义女性主义。 / Inherits Black women's thought, civil rights struggle, pedagogy, and socialist feminism.\ncritique: 批判白人女性主义、资本主义父权和种族/阶级盲点。 / Critiques white feminism, capitalist patriarchy, and race/class blindness.\ntransform: 把边缘位置转化为批判中心和教育实践。 / Transforms the margin into a critical location and pedagogical practice.\npropose: 提出从边缘到中心的交叉女性主义、爱与解放教育。 / Proposes intersectional feminism from margin to center, love, and liberatory education.",
+    "relatedPersonIds": [
+      "adichie-2012",
+      "davis-1981",
+      "frye-1983",
+      "olufemi-2020"
+    ]
+  },
+  {
+    "id": "davis-1981",
+    "name": "Angela Davis",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / activism",
+    "city": "加州",
+    "country": "美国",
+    "locationName": "加州, 美国",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "year": 1981,
+    "schools": [
+      "black",
+      "socialist"
+    ],
+    "themes": [
+      "intersectionality",
+      "labor",
+      "violence"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / activism",
+      "black",
+      "socialist",
+      "intersectionality",
+      "labor",
+      "violence"
+    ],
+    "keyWorks": [
+      "《Women, Race & Class》（1981）",
+      "《Are Prisons Obsolete?》（2003）",
+      "《Freedom Is a Constant Struggle》（2016）",
+      "《Abolition Democracy》（2005）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Angela Davis 将黑人女性主义、马克思主义、反监狱运动和跨国解放政治联系起来。",
+    "shortBioEn": "Davis connects Black feminism, Marxism, prison abolition, and transnational liberation politics.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angela%20Davis%20in%202019.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "sourceLinks": [
+      "https://www.penguinrandomhouse.com/books/296326/women-race-and-class-by-angela-y-davis/"
+    ],
+    "theoryFramework": "focus: 种族、阶级、性别与废除主义 / Race, class, gender, abolition\ninherit: 继承黑人激进传统、马克思主义、反监狱运动和女性主义。 / Inherits Black radicalism, Marxism, abolitionism, and feminism.\ncritique: 批判把女性压迫与种族、阶级、监狱和劳动剥削分开讨论。 / Critiques separating women's oppression from race, class, prisons, and labor exploitation.\ntransform: 把女性主义转化为反资本主义、反种族主义和废除主义政治。 / Transforms feminism into anti-capitalist, anti-racist, abolitionist politics.\npropose: 提出以联盟、集体自由和制度废除理解解放。 / Proposes liberation through coalition, collective freedom, and institutional abolition.",
+    "relatedPersonIds": [
+      "federici-1975",
+      "hooks-1981"
+    ]
+  },
+  {
+    "id": "friedan-1963",
+    "name": "Betty Friedan",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "text / activism",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1963,
+    "schools": [
+      "liberal"
+    ],
+    "themes": [
+      "labor",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "text / activism",
+      "liberal",
+      "labor",
+      "education"
+    ],
+    "keyWorks": [
+      "《The Feminine Mystique》（1963）",
+      "《The Second Stage》（1981）",
+      "《The Fountain of Age》（1993）",
+      "美国全国妇女组织 NOW 共同创办 / Co-founded NOW（1966）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Betty Friedan 批判中产家庭主妇理想中的压抑与不满足，成为美国第二波自由主义女性主义的重要节点。",
+    "shortBioEn": "Friedan critiques the suburban housewife ideal and became a key node of U.S. second-wave liberal feminism.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Betty%20Friedan%201960.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "sourceLinks": [
+      "https://www.britannica.com/biography/Betty-Friedan"
+    ],
+    "theoryFramework": "focus: 家庭神话、自由主义女性主义与公共平等 / Domestic myth, liberal feminism, public equality\ninherit: 继承自由主义平等、公民权利和战后美国社会批判。 / Inherits liberal equality, civil rights language, and postwar U.S. social critique.\ncritique: 批判郊区家庭主妇理想掩盖女性的不满足和能力浪费。 / Critiques the suburban housewife ideal for hiding women's dissatisfaction and wasted capacities.\ntransform: 把私人焦虑转化为结构性社会问题。 / Transforms private malaise into a structural social problem.\npropose: 提出教育、工作、法律平等和公共参与作为女性解放路径。 / Proposes education, work, legal equality, and public participation as paths to liberation.",
+    "relatedPersonIds": [
+      "wolf-1990"
+    ]
+  },
+  {
+    "id": "wolf-1990",
+    "name": "Naomi Wolf",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "text",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1990,
+    "schools": [
+      "liberal",
+      "radical"
+    ],
+    "themes": [
+      "body"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "text",
+      "liberal",
+      "radical",
+      "body"
+    ],
+    "keyWorks": [
+      "《The Beauty Myth》（1990）",
+      "《Fire with Fire》（1993）",
+      "《Promiscuities》（1997）",
+      "《Vagina: A New Biography》（2012）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Naomi Wolf 讨论美貌标准如何作为社会规训机制作用于女性身体与劳动。",
+    "shortBioEn": "Wolf examines beauty standards as social discipline acting on women’s bodies and work.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naomi%20Wolf%20by%20David%20Shankbone.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 美貌神话、身体规训与媒体文化 / Beauty myth, bodily discipline, media culture\ninherit: 继承第二波女性主义、身体政治和媒体批判。 / Inherits second-wave feminism, body politics, and media critique.\ncritique: 批判美貌标准在女性获得公共权利后继续制造规训。 / Critiques beauty standards as discipline that persists after women gain public rights.\ntransform: 把美容、饮食和年龄焦虑转化为政治经济分析。 / Transforms beauty, dieting, and age anxiety into political-economic analysis.\npropose: 提出识别并拒绝身体规训，重建女性公共能量。 / Proposes recognizing and refusing bodily discipline to reclaim women's public energy.",
+    "relatedPersonIds": [
+      "friedan-1963"
+    ]
+  },
+  {
+    "id": "morgan-1970",
+    "name": "Robin Morgan",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "anthology / activism",
+    "city": "纽约",
+    "country": "美国",
+    "locationName": "纽约, 美国",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1970,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "body",
+      "violence"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "anthology / activism",
+      "radical",
+      "body",
+      "violence"
+    ],
+    "keyWorks": [
+      "《Sisterhood Is Powerful》（1970，编）",
+      "《Going Too Far》（1977）",
+      "《The Demon Lover》（1989）",
+      "《Sisterhood Is Global》（1984，编）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Robin Morgan 通过文集、诗歌与行动主义推动激进女性主义和全球女性主义网络。",
+    "shortBioEn": "Morgan’s anthologies, poetry, and activism helped shape radical feminism and global feminist networks.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robin%20Morgan%202012.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 姐妹情谊、激进女性主义与全球文集 / Sisterhood, radical feminism, global anthologies\ninherit: 继承新左派、反战运动、诗歌和激进女性主义组织。 / Inherits New Left activism, antiwar politics, poetry, and radical feminist organizing.\ncritique: 批判男性左翼、父权暴力和女性声音在公共知识中的缺席。 / Critiques male-dominated left politics, patriarchal violence, and women's exclusion from public knowledge.\ntransform: 把文集和见证转化为运动网络与知识档案。 / Transforms anthologies and testimony into movement networks and archives.\npropose: 提出姐妹情谊作为跨地域女性主义组织和教育形式。 / Proposes sisterhood as a form of translocal feminist organizing and education.",
+    "relatedPersonIds": [
+      "gilbert-gubar-1979"
+    ]
+  },
+  {
+    "id": "gilbert-gubar-1979",
+    "name": "Sandra Gilbert & Susan Gubar",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "literary criticism",
+    "city": "美国东海岸",
+    "country": "美国",
+    "locationName": "美国东海岸, 美国",
+    "latitude": 40.343,
+    "longitude": -74.6514,
+    "year": 1979,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "education",
+      "body"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "literary criticism",
+      "radical",
+      "education",
+      "body"
+    ],
+    "keyWorks": [
+      "《The Madwoman in the Attic》（1979）",
+      "《No Man’s Land》三部曲 / trilogy（1988–1994）",
+      "《The Norton Anthology of Literature by Women》（1985，编）",
+      "《Shakespeare’s Sisters》（1979，编）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Sandra Gilbert 与 Susan Gubar 通过女性主义文学批评重读19世纪女性写作，提出“阁楼上的疯女人”等关键意象。",
+    "shortBioEn": "Gilbert and Gubar reread nineteenth-century women’s writing through feminist literary criticism, developing the influential figure of the “madwoman.”",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandra%20M.%20Gilbert%202012.jpg",
+    "imageCredit": "Archive image via Wikimedia Commons; duo node uses available profile image",
+    "theoryFramework": "focus: 女性主义文学批评与女性作者谱系 / Feminist literary criticism and women writers' genealogy\ninherit: 继承英美文学批评、女性写作传统和精神分析意象分析。 / Inherits Anglo-American literary criticism, women's writing, and psychoanalytic imagery.\ncritique: 批判男性文学经典把女性作者困在天使/疯女人二分中。 / Critiques male literary canon for trapping women writers in angel/madwoman binaries.\ntransform: 把19世纪女性小说转化为抵抗、焦虑和创造的文本地图。 / Transforms nineteenth-century women's fiction into a map of resistance, anxiety, and creation.\npropose: 提出重读女性经典、建立女性文学谱系和课程 canon。 / Proposes rereading women writers and building feminist literary genealogy and curriculum.",
+    "relatedPersonIds": [
+      "morgan-1970"
+    ]
+  },
+  {
+    "id": "adichie-2012",
+    "name": "Chimamanda Ngozi Adichie",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "literature / essay",
+    "city": "拉各斯 / 恩苏卡",
+    "country": "尼日利亚",
+    "locationName": "拉各斯 / 恩苏卡, 尼日利亚",
+    "latitude": 6.5244,
+    "longitude": 3.3792,
+    "year": 2012,
+    "schools": [
+      "postcolonial",
+      "black"
+    ],
+    "themes": [
+      "education",
+      "intersectionality"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "literature / essay",
+      "postcolonial",
+      "black",
+      "education",
+      "intersectionality"
+    ],
+    "keyWorks": [
+      "《We Should All Be Feminists》（2014）",
+      "《Dear Ijeawele》（2017）",
+      "《Half of a Yellow Sun》（2006）",
+      "《Americanah》（2013）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Chimamanda Ngozi Adichie 将文学、演讲与大众传播结合，使女性主义进入更广泛的公共文化讨论。",
+    "shortBioEn": "Adichie connects literature, public speech, and popular culture to bring feminism to wider audiences.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chimamanda%20Ngozi%20Adichie%202013.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 大众女性主义、非洲叙事与公共演讲 / Popular feminism, African narrative, public speech\ninherit: 继承非洲文学、后殖民叙事、公共演讲和自由主义平等话语。 / Inherits African literature, postcolonial narrative, public speech, and liberal equality discourse.\ncritique: 批判把女性主义污名化、把性别不平等正常化的日常文化。 / Critiques stigma around feminism and everyday normalization of gender inequality.\ntransform: 把小说和演讲转化为可进入大众文化的女性主义教育。 / Transforms fiction and speeches into accessible feminist public pedagogy.\npropose: 提出日常教育男孩女孩、重写性别期待的平等实践。 / Proposes everyday education of boys and girls and rewriting gender expectations.",
+    "relatedPersonIds": [
+      "hooks-1981"
+    ]
+  },
+  {
+    "id": "frye-1983",
+    "name": "Marilyn Frye",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "philosophy",
+    "city": "密歇根",
+    "country": "美国",
+    "locationName": "密歇根, 美国",
+    "latitude": 42.7018,
+    "longitude": -84.4822,
+    "year": 1983,
+    "schools": [
+      "radical"
+    ],
+    "themes": [
+      "intersectionality",
+      "body"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "philosophy",
+      "radical",
+      "intersectionality",
+      "body"
+    ],
+    "keyWorks": [
+      "《The Politics of Reality》（1983）",
+      "《Willful Virgin》（1992）",
+      "《Oppression》一文 / essay “Oppression”",
+      "女性主义哲学与分离主义论文 / feminist philosophy essays"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Marilyn Frye 以“鸟笼”隐喻解释压迫并非单一障碍，而是多重结构共同限制行动。",
+    "shortBioEn": "Frye’s birdcage metaphor explains oppression as a structure of interlocking barriers rather than a single obstacle.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Frye.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 压迫结构、鸟笼隐喻与女性主义哲学 / Oppression, birdcage metaphor, feminist philosophy\ninherit: 继承分析哲学、激进女性主义和社会结构分析。 / Inherits analytic philosophy, radical feminism, and structural social analysis.\ncritique: 批判把压迫理解为单个事件或个人偏见。 / Critiques understanding oppression as isolated events or individual prejudice.\ntransform: 把日常限制转化为互相连接的结构图像。 / Transforms everyday constraints into an image of interlocking structure.\npropose: 提出从整体结构看压迫，并区分束缚、选择和权力。 / Proposes seeing oppression structurally and distinguishing constraint, choice, and power.",
+    "relatedPersonIds": [
+      "hooks-1981"
+    ]
+  },
+  {
+    "id": "criado-perez-2019",
+    "name": "Caroline Criado Perez",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "data feminism / journalism",
+    "city": "伦敦",
+    "country": "英国",
+    "locationName": "伦敦, 英国",
+    "latitude": 51.5072,
+    "longitude": -0.1276,
+    "year": 2019,
+    "schools": [
+      "liberal"
+    ],
+    "themes": [
+      "labor",
+      "body",
+      "digital"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "data feminism / journalism",
+      "liberal",
+      "labor",
+      "body",
+      "digital"
+    ],
+    "keyWorks": [
+      "《Invisible Women》（2019）",
+      "《Do It Like a Woman》（2015）",
+      "女性纸币运动 / Women on Banknotes campaign",
+      "数据性别差距公共写作 / public writing on gender data gaps"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Caroline Criado Perez 聚焦性别数据缺口，展示城市、医学、劳动与技术系统如何默认男性身体与生活模式。",
+    "shortBioEn": "Criado Perez highlights gender data gaps in cities, medicine, work, and technology systems that often default to male bodies and lives.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caroline%20Criado-Perez%202019.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 性别数据缺口、设计偏见与隐形女性 / Gender data gap, design bias, invisible women\ninherit: 继承自由主义平等、数据新闻、公共政策和技术批判。 / Inherits liberal equality, data journalism, public policy, and technology critique.\ncritique: 批判城市、医学、劳动和技术系统默认男性身体与生活。 / Critiques systems in cities, medicine, work, and tech that default to male bodies and lives.\ntransform: 把缺失数据转化为可见的不平等证据。 / Transforms missing data into visible evidence of inequality.\npropose: 提出性别敏感的数据收集、设计和政策评估。 / Proposes gender-sensitive data collection, design, and policy evaluation.",
+    "relatedPersonIds": [
+      "bates-2014"
+    ]
+  },
+  {
+    "id": "olufemi-2020",
+    "name": "Lola Olufemi",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "theory / activism",
+    "city": "伦敦",
+    "country": "英国",
+    "locationName": "伦敦, 英国",
+    "latitude": 51.5072,
+    "longitude": -0.1276,
+    "year": 2020,
+    "schools": [
+      "black",
+      "postcolonial",
+      "queer"
+    ],
+    "themes": [
+      "intersectionality",
+      "education",
+      "violence"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "theory / activism",
+      "black",
+      "postcolonial",
+      "queer",
+      "intersectionality",
+      "education",
+      "violence"
+    ],
+    "keyWorks": [
+      "《Feminism, Interrupted》（2020）",
+      "《Experiments in Imagining Otherwise》（2021）",
+      "《A FLY Girl’s Guide to University》（2019，合著）",
+      "废除主义与黑人女性主义写作 / abolitionist and Black feminist writing"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Lola Olufemi 从黑人女性主义、废除主义和集体想象出发，反对将女性主义简化为个人赋权叙事。",
+    "shortBioEn": "Olufemi writes from Black feminism, abolitionism, and collective imagination against individualised empowerment narratives.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lola%20Olufemi%202020.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 废除想象、黑人女性主义与反个人赋权 / Abolitionist imagination, Black feminism, anti-individual empowerment\ninherit: 继承黑人女性主义、废除主义、学生运动和反资本主义政治。 / Inherits Black feminism, abolitionism, student activism, and anti-capitalist politics.\ncritique: 批判把女性主义简化为个人成功、品牌口号或温和改革。 / Critiques feminism reduced to individual success, branding, or mild reform.\ntransform: 把想象、实验和集体写作转化为政治方法。 / Transforms imagination, experiment, and collective writing into political method.\npropose: 提出废除性、集体性和未来导向的女性主义实践。 / Proposes abolitionist, collective, future-oriented feminist practice.",
+    "relatedPersonIds": [
+      "hooks-1981"
+    ]
+  },
+  {
+    "id": "bates-2014",
+    "name": "Laura Bates",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "digital activism / writing",
+    "city": "伦敦",
+    "country": "英国",
+    "locationName": "伦敦, 英国",
+    "latitude": 51.5072,
+    "longitude": -0.1276,
+    "year": 2014,
+    "schools": [
+      "digital",
+      "liberal"
+    ],
+    "themes": [
+      "digital",
+      "violence",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "digital activism / writing",
+      "digital",
+      "liberal",
+      "violence",
+      "education"
+    ],
+    "keyWorks": [
+      "《Everyday Sexism》（2014）",
+      "《Girl Up》（2016）",
+      "《Misogynation》（2018）",
+      "Everyday Sexism Project（2012–）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Laura Bates 通过 Everyday Sexism Project 收集日常性别歧视叙事，将数字档案转化为教育与公共行动。",
+    "shortBioEn": "Bates’s Everyday Sexism Project turns digital testimony into public education and feminist action.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Bates%202014.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 日常性别歧视、数字见证与公共教育 / Everyday sexism, digital testimony, public education\ninherit: 继承自由主义女性主义、反性暴力运动和数字行动主义。 / Inherits liberal feminism, anti-sexual violence activism, and digital activism.\ncritique: 批判把性骚扰、厌女玩笑和日常歧视视为小事。 / Critiques treating harassment, misogynist jokes, and everyday discrimination as trivial.\ntransform: 把个人故事转化为数字档案和公共证据。 / Transforms personal stories into a digital archive and public evidence.\npropose: 提出通过见证、教育和媒体行动改变性别文化。 / Proposes changing gender culture through testimony, education, and media action.",
+    "relatedPersonIds": [
+      "criado-perez-2019"
+    ]
+  },
+  {
+    "id": "federici-1975",
+    "name": "Silvia Federici",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "Marxist feminism",
+    "city": "纽约 / 意大利",
+    "country": "美国 / 意大利",
+    "locationName": "纽约 / 意大利, 美国 / 意大利",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "year": 1975,
+    "schools": [
+      "socialist"
+    ],
+    "themes": [
+      "labor",
+      "body"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "marxist feminism",
+      "socialist",
+      "labor",
+      "body"
+    ],
+    "keyWorks": [
+      "《Wages Against Housework》（1975）",
+      "《Caliban and the Witch》（2004）",
+      "《Revolution at Point Zero》（2012）",
+      "《Re-enchanting the World》（2018）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Silvia Federici 将资本主义、猎巫、殖民、家务劳动和社会再生产联系起来，是马克思主义女性主义的重要思想家。",
+    "shortBioEn": "Federici links capitalism, witch hunts, colonialism, housework, and social reproduction in Marxist feminist theory.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Silvia%20Federici%202014.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "sourceLinks": [
+      "https://files.libcom.org/files/Caliban%20and%20the%20Witch.pdf"
+    ],
+    "theoryFramework": "focus: 再生产劳动、家务工资与资本主义批判 / Reproductive labor, wages for housework, capitalism\ninherit: 继承马克思主义、自治主义、家务工资运动和女性主义劳动理论。 / Inherits Marxism, autonomism, Wages for Housework, and feminist labor theory.\ncritique: 批判资本主义把家务和照护劳动自然化为女性义务。 / Critiques capitalism for naturalizing housework and care as women's unpaid duty.\ntransform: 把家庭、身体和猎巫史转化为资本积累分析。 / Transforms home, body, and witch-hunt history into analysis of accumulation.\npropose: 提出承认再生产劳动、共同体资源和反资本主义女性主义。 / Proposes recognition of reproductive labor, commons, and anti-capitalist feminism.",
+    "relatedPersonIds": [
+      "davis-1981"
+    ]
+  },
+  {
+    "id": "alsaji-2014",
+    "name": "Alia Al-Saji",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "philosophy / phenomenology",
+    "city": "蒙特利尔",
+    "country": "加拿大",
+    "locationName": "蒙特利尔, 加拿大",
+    "latitude": 45.5017,
+    "longitude": -73.5673,
+    "year": 2014,
+    "schools": [
+      "postcolonial",
+      "queer"
+    ],
+    "themes": [
+      "body",
+      "colonialism",
+      "intersectionality"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "philosophy / phenomenology",
+      "postcolonial",
+      "queer",
+      "body",
+      "colonialism",
+      "intersectionality"
+    ],
+    "keyWorks": [
+      "《A Phenomenology of Hesitation》（2014）",
+      "关于面纱与种族化视觉的论文 / essays on veiling and racialized vision",
+      "关于柏格森、感知与情感的论文 / work on Bergson, perception and affect",
+      "现象学女性主义写作 / feminist phenomenology"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Alia Al-Saji 从现象学与后殖民女性主义出发，分析视觉、种族化、面纱、身体和时间性。",
+    "shortBioEn": "Al-Saji analyzes vision, racialization, veiling, embodiment, and temporality through phenomenology and postcolonial feminism.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alia%20Al-Saji.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 种族化感知、面纱、时间性与现象学 / Racialized perception, veiling, temporality, phenomenology\ninherit: 继承现象学、柏格森、后殖民女性主义和种族批判。 / Inherits phenomenology, Bergson, postcolonial feminism, and race critique.\ncritique: 批判把穆斯林女性面纱作为落后、沉默或可拯救对象的视觉框架。 / Critiques visual frames that cast veiled Muslim women as backward, silent, or needing rescue.\ntransform: 把迟疑、感知和时间性转化为反种族化的分析工具。 / Transforms hesitation, perception, and temporality into tools against racialization.\npropose: 提出通过改变观看习惯和时间感来抵抗种族化感知。 / Proposes resisting racialized perception by altering habits of seeing and temporality.",
+    "relatedPersonIds": [
+      "mohanty-1988"
+    ]
+  },
+  {
+    "id": "watson-2009",
+    "name": "Irene Watson",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "Indigenous legal theory",
+    "city": "阿德莱德",
+    "country": "澳大利亚",
+    "locationName": "阿德莱德, 澳大利亚",
+    "latitude": -34.9285,
+    "longitude": 138.6007,
+    "year": 2009,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "colonialism",
+      "environment"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "indigenous legal theory",
+      "postcolonial",
+      "colonialism",
+      "environment"
+    ],
+    "keyWorks": [
+      "《Aboriginal Peoples, Colonialism and International Law》（2015）",
+      "《Raw Law: The Coming of the Muldarbi and the Path to Its Demise》（2009）",
+      "原住民法律与主权论文 / essays on Indigenous law and sovereignty",
+      "First Nations knowledge and legal critique"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Irene Watson 从原住民法律、土地、主权和殖民批判出发，挑战殖民法体系对原住民生命世界的规训。",
+    "shortBioEn": "Watson writes from Indigenous law, land, sovereignty, and anti-colonial critique against colonial legal orders.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Irene%20Watson.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 原住民主权、土地法与殖民法律批判 / Indigenous sovereignty, land law, colonial legal critique\ninherit: 继承原住民法律、反殖民理论、土地知识和国际法批判。 / Inherits Indigenous law, anti-colonial theory, land knowledge, and critique of international law.\ncritique: 批判殖民法把原住民土地、生命和知识纳入外来主权。 / Critiques colonial law for subsuming Indigenous land, life, and knowledge under imposed sovereignty.\ntransform: 把法律从国家规则转化为与土地、祖先和责任相连的生活法。 / Transforms law from state rule into living law tied to land, ancestors, and responsibility.\npropose: 提出以原住民主权、Raw Law 和土地关系重想正义。 / Proposes Indigenous sovereignty, Raw Law, and land relations as bases for justice.",
+    "relatedPersonIds": [
+      "liddle-2020"
+    ]
+  },
+  {
+    "id": "liddle-2020",
+    "name": "Celeste Liddle",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "writing / activism",
+    "city": "墨尔本",
+    "country": "澳大利亚",
+    "locationName": "墨尔本, 澳大利亚",
+    "latitude": -37.8136,
+    "longitude": 144.9631,
+    "year": 2020,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "colonialism",
+      "intersectionality",
+      "violence"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "writing / activism",
+      "postcolonial",
+      "colonialism",
+      "intersectionality",
+      "violence"
+    ],
+    "keyWorks": [
+      "《The Black Woman and the Green Dress》（2022）",
+      "公共评论与专栏写作 / public commentary and columns",
+      "原住民女性主义行动 / Indigenous feminist activism",
+      "工会与反种族主义写作 / union and anti-racist writing"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Celeste Liddle 以澳大利亚原住民女性主义视角书写种族、性别、殖民暴力、劳动与公共文化。",
+    "shortBioEn": "Liddle writes from an Aboriginal feminist perspective on race, gender, colonial violence, labor, and public culture.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Celeste%20Liddle.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 原住民女性主义、公共写作与反殖民劳动政治 / Indigenous feminism, public writing, anti-colonial labor politics\ninherit: 继承澳大利亚原住民女性行动、工会政治和反种族主义写作。 / Inherits Aboriginal women's activism, union politics, and anti-racist writing.\ncritique: 批判主流女性主义忽视原住民女性面对的殖民、种族和劳动暴力。 / Critiques mainstream feminism for neglecting colonial, racial, and labor violence against Indigenous women.\ntransform: 把专栏、演讲和行动转化为公共知识和反殖民教育。 / Transforms columns, speech, and activism into public knowledge and anti-colonial education.\npropose: 提出以原住民女性经验为中心的反种族主义女性主义。 / Proposes anti-racist feminism centered on Indigenous women's experience.",
+    "relatedPersonIds": [
+      "huggins-1994",
+      "watson-2009"
+    ]
+  },
+  {
+    "id": "ien-ang-2001",
+    "name": "Ien Ang",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "cultural studies",
+    "city": "悉尼",
+    "country": "澳大利亚",
+    "locationName": "悉尼, 澳大利亚",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "year": 2001,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "colonialism",
+      "intersectionality"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "cultural studies",
+      "postcolonial",
+      "colonialism",
+      "intersectionality"
+    ],
+    "keyWorks": [
+      "《On Not Speaking Chinese》（2001）",
+      "《Watching Dallas》（1985）",
+      "《Desperately Seeking the Audience》（1991）",
+      "《The SBS Story》（2008，合著）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Ien Ang 从离散、身份、媒体受众与亚洲性出发，拓展后殖民女性主义和文化研究的地图。",
+    "shortBioEn": "Ang’s work on diaspora, identity, media audiences, and Asianness expands postcolonial feminist cultural studies.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ien%20Ang.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 离散身份、亚洲性与文化研究 / Diaspora, Asianness, cultural studies\ninherit: 继承文化研究、媒体受众研究、后殖民理论和离散研究。 / Inherits cultural studies, audience research, postcolonial theory, and diaspora studies.\ncritique: 批判固定民族身份、单一中国性和多元文化主义的表面包容。 / Critiques fixed national identity, singular Chineseness, and superficial multicultural inclusion.\ntransform: 把受众、记忆和离散经验转化为身份政治分析。 / Transforms audience, memory, and diaspora into analysis of identity politics.\npropose: 提出以混杂、位置性和媒体文化理解亚洲女性经验。 / Proposes hybridity, positionality, and media culture for understanding Asian women's experience.",
+    "relatedPersonIds": [
+      "connell-1987"
+    ]
+  },
+  {
+    "id": "huggins-1994",
+    "name": "Jackie Huggins",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "history / memoir",
+    "city": "布里斯班",
+    "country": "澳大利亚",
+    "locationName": "布里斯班, 澳大利亚",
+    "latitude": -27.4698,
+    "longitude": 153.0251,
+    "year": 1994,
+    "schools": [
+      "postcolonial"
+    ],
+    "themes": [
+      "colonialism",
+      "intersectionality",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "history / memoir",
+      "postcolonial",
+      "colonialism",
+      "intersectionality",
+      "education"
+    ],
+    "keyWorks": [
+      "《Auntie Rita》（1994，与 Rita Huggins 合著）",
+      "《Sister Girl》（1998）",
+      "原住民女性历史写作 / writing on Aboriginal women’s history",
+      "和解、记忆与公共历史工作 / reconciliation and public history work"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Jackie Huggins 通过历史、回忆录和公共行动书写澳大利亚原住民女性经验、记忆与殖民创伤。",
+    "shortBioEn": "Huggins writes Aboriginal women’s experience, memory, and colonial trauma through history, memoir, and public activism.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackie%20Huggins.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 原住民女性历史、记忆与公共史 / Aboriginal women's history, memory, public history\ninherit: 继承口述史、原住民女性知识、家庭记忆和反殖民历史写作。 / Inherits oral history, Aboriginal women's knowledge, family memory, and anti-colonial historiography.\ncritique: 批判国家历史和白人女性主义对原住民女性经验的抹除。 / Critiques national history and white feminism for erasing Aboriginal women's experience.\ntransform: 把母女记忆和生活故事转化为历史证词。 / Transforms mother-daughter memory and life story into historical testimony.\npropose: 提出以原住民女性声音重写澳大利亚历史和和解议题。 / Proposes rewriting Australian history and reconciliation through Aboriginal women's voices.",
+    "relatedPersonIds": [
+      "liddle-2020"
+    ]
+  },
+  {
+    "id": "connell-1987",
+    "name": "Raewyn Connell",
+    "category": "thinker",
+    "originalCategory": "thought",
+    "originalType": "sociology / gender theory",
+    "city": "悉尼",
+    "country": "澳大利亚",
+    "locationName": "悉尼, 澳大利亚",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "year": 1987,
+    "schools": [
+      "socialist",
+      "queer"
+    ],
+    "themes": [
+      "body",
+      "intersectionality",
+      "education"
+    ],
+    "tags": [
+      "thinker",
+      "thought",
+      "sociology / gender theory",
+      "socialist",
+      "queer",
+      "body",
+      "intersectionality",
+      "education"
+    ],
+    "keyWorks": [
+      "《Gender and Power》（1987）",
+      "《Masculinities》（1995）",
+      "《Southern Theory》（2007）",
+      "《Gender: In World Perspective》（2002）"
+    ],
+    "originalSourceFile": "data/nodes.json",
+    "shortBioZh": "Raewyn Connell 以性别秩序、霸权男性气质和南方理论影响性别研究、男性气质研究与全球知识政治。",
+    "shortBioEn": "Connell’s work on gender order, hegemonic masculinity, and Southern theory shaped gender studies and global knowledge politics.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raewyn%20Connell.jpg",
+    "imageCredit": "Portrait via Wikimedia Commons",
+    "theoryFramework": "focus: 性别秩序、霸权男性气质与南方理论 / Gender order, hegemonic masculinity, Southern theory\ninherit: 继承社会学、马克思主义、性别角色批判和全球知识政治。 / Inherits sociology, Marxism, gender-role critique, and global knowledge politics.\ncritique: 批判把性别看作个人角色，也批判北方理论的普遍主义。 / Critiques gender as mere individual role and Northern theory's universalism.\ntransform: 把性别转化为制度化权力关系和全球知识结构。 / Transforms gender into institutional power relations and global knowledge structure.\npropose: 提出性别秩序、霸权男性气质和南方理论来分析全球性别。 / Proposes gender order, hegemonic masculinity, and Southern theory for global gender analysis.",
+    "relatedPersonIds": [
+      "ien-ang-2001"
+    ]
+  }
+]
