@@ -838,6 +838,42 @@ h4 {
   line-height: 1.7;
 }
 
+.research-lens {
+  padding: 1.1rem;
+  border: 1px solid rgba(232, 199, 122, 0.2);
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at top right, rgba(232, 199, 122, 0.1), transparent 34%),
+    rgba(255, 244, 216, 0.045);
+  box-shadow: inset 0 1px 0 rgba(255, 244, 216, 0.06);
+}
+
+.research-lens__header {
+  display: grid;
+  gap: 4px;
+}
+
+.research-lens__header h4 {
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: 1.16rem;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.research-lens__header p,
+.research-lens__citation {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.research-lens__citation {
+  padding-left: 0.85rem;
+  border-left: 2px solid rgba(232, 199, 122, 0.34);
+  font-size: 0.9rem;
+}
+
 @media (min-width: 760px) {
   .framework-flow {
     max-width: 46rem;

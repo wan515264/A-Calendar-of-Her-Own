@@ -24,6 +24,7 @@ export type TheoryCard = {
   cardTitle?: string;
   cardTitleZh?: string;
   titleSeparator?: ' ' | '：';
+  years?: string;
   creator?: string;
   creatorZh?: string;
   focusTitle?: string;
@@ -52,6 +53,13 @@ export type TheoryCard = {
   introEn?: string;
   location?: string;
   theoryFramework?: string;
+  researchLens?: {
+    title: string;
+    titleZh?: string;
+    citation?: string;
+    summaryEn?: string;
+    summaryZh?: string;
+  };
 };
 
 // Add new daily almanac cards here. Keep dates in YYYY-MM-DD format so the Today page can match them.

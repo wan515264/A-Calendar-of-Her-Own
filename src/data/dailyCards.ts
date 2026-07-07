@@ -6,6 +6,7 @@ export type DailyCard = {
   title: string;
   titleZh?: string;
   titleSeparator?: " " | "：";
+  years?: string;
   creator?: string;
   creatorZh?: string;
   focusTitle?: string;
@@ -23,6 +24,13 @@ export type DailyCard = {
   quoteSource?: string;
   quoteReadingEn?: string;
   quoteReadingZh?: string;
+  researchLens?: {
+    title: string;
+    titleZh?: string;
+    citation?: string;
+    summaryEn?: string;
+    summaryZh?: string;
+  };
   status?: "published" | "draft";
 };
 
@@ -39,6 +47,7 @@ export type DailyCard = {
 //   title: "Card title",
 //   titleZh: "中文标题",
 //   titleSeparator: "：",
+//   years: "Optional years",
 //   creator: "Optional author / artist / source creator",
 //   creatorZh: "可选中文作者名",
 //   focusTitle: "Short interpretive focus",
@@ -56,6 +65,13 @@ export type DailyCard = {
 //   quoteSource: "Optional quote source",
 //   quoteReadingEn: "Optional English quote reading.",
 //   quoteReadingZh: "可选中文引文精读。",
+//   researchLens: {
+//     title: "Optional research lens title",
+//     titleZh: "可选研究视角中文标题",
+//     citation: "Optional citation note",
+//     summaryEn: "Optional English research summary.",
+//     summaryZh: "可选中文研究总结。"
+//   },
 //   status: "draft"
 // }
 
@@ -249,42 +265,58 @@ The tragedy is that this recognition does not become freedom. It becomes confusi
     type: "writer",
     title: "Jane Austen",
     titleZh: "简·奥斯汀",
-    focusTitle: "Sexual Silence as Strategy",
-    focusTitleZh: "作为策略的性沉默",
-    summaryEn: "Jane Austen rarely makes sex visible in her fiction. This silence is not emptiness: it redirects attention to judgment, consent, money, reputation, and the social conditions under which women choose.",
-    summaryZh: "简·奥斯汀很少在小说中直接呈现性。但这种沉默并不是空白：它把注意力转向判断力、同意、金钱、名誉，以及女性作出选择时所处的社会条件。",
-    introEn: `Jane Austen was an English novelist whose fiction turns domestic life, courtship, conversation, and manners into a precise form of social criticism. Pride and Prejudice, first published in January 1813, follows Elizabeth Bennet as she moves through a world where marriage is never only private romance. It is also tied to property, reputation, family pressure, inheritance, and a woman’s chance of economic security.
+    years: "1775–1817",
+    focusTitle: "Desire in the Material World",
+    focusTitleZh: "物质世界中的欲望",
+    summaryEn: "Jane Austen rarely makes sex visible, but desire is everywhere in her novels: in houses, incomes, gifts, letters, clothes, reputations, and the fragile material conditions under which women choose.",
+    summaryZh: "简·奥斯汀很少直接呈现性，但欲望并没有消失。它存在于房屋、收入、礼物、信件、衣服、名誉，以及女性作出选择时脆弱的物质条件之中。",
+    introEn: `Jane Austen’s fiction is often remembered for courtship, irony, and moral judgment, but it is also deeply attentive to material culture. Pride and Prejudice, first published in January 1813, follows Elizabeth Bennet through a world where love is never separate from property, inheritance, reputation, family pressure, and the question of where a woman can safely live.
 
-The critic Susan Morgan’s essay “Why There’s No Sex in Jane Austen’s Fiction” gives us a useful way to read Austen’s restraint. Austen does not write explicit sexual scenes, but this absence should not be mistaken for a lack of desire, politics, or critique. In many earlier and contemporary narrative traditions, female sexuality often appears through danger: seduction, ruin, coercion, illegitimacy, or the loss of reputation. Austen avoids letting women’s lives be organized only by sexual exposure or sexual punishment.
+Austen’s novels do not usually make sex explicit. But this does not mean that desire is absent. Instead, desire is displaced into the material world: houses, rooms, incomes, carriages, letters, clothes, pianos, gifts, meals, and estates. These things place characters socially, reveal taste, expose dependence, and shape what choices are available to women.
 
-This is why Austen’s sexual silence can be read as a strategy. By refusing to make sex the visible crisis of the plot, Austen shifts the drama elsewhere: to how women read character, negotiate pressure, detect arrogance, protect self-respect, and choose under unequal social conditions. Desire is still present, but it is filtered through judgment, conversation, irony, and the economics of marriage.
+This is why Austen’s restraint matters. If sex is not shown directly, the social conditions around desire become more visible. A woman’s choice is never purely romantic or psychological. It is shaped by whether she has money, whether she can refuse a proposal, whether she can travel, whether her family can protect her, and whether marriage is affection, security, or survival.
 
-In Pride and Prejudice, Elizabeth Bennet’s power does not come from sexual display or scandal. It comes from her capacity to judge—and to revise her judgment. Austen’s feminism is quiet but sharp: she shows that a woman’s inner judgment is a serious force, even in a world where her future may depend on marriage.`,
-    introZh: `简·奥斯汀是英国小说家。她的小说把家庭生活、求爱、谈话与礼仪转化为一种精确的社会批评。《傲慢与偏见》首次出版于 1813 年 1 月，讲述 Elizabeth Bennet 如何在一个婚姻从来不只是私人爱情的世界中周旋。婚姻同时关乎财产、名誉、家庭压力、继承制度，以及女性获得经济安全的可能性。
+In this reading, Austen’s quietness is not weakness. Her novels make visible the material life of choice. They ask how a woman can judge clearly in a world where even love passes through property, objects, manners, and money.`,
+    introZh: `简·奥斯汀的小说常常被记作求爱、讽刺与道德判断的小说，但它们也非常关注物质文化。《傲慢与偏见》首次出版于 1813 年 1 月，讲述 Elizabeth Bennet 如何在一个爱情从不脱离财产、继承、名誉、家庭压力，以及女性能否安全生活的问题的世界中周旋。
 
-批评家 Susan Morgan 的文章《为什么简·奥斯汀小说中没有性》提供了一种有用的阅读方式。奥斯汀并不书写露骨的性场景，但这种缺席不应被误解为没有欲望、没有政治性、也没有批判。在许多更早或同时代的叙事传统中，女性性常常通过危险来出现：诱奸、毁灭、胁迫、私生子，或名誉的丧失。奥斯汀避免让女性生命只被“性暴露”或“性惩罚”所组织。
+奥斯汀的小说通常不直接呈现性。但这并不意味着欲望缺席。相反，欲望被转移到物质世界中：房屋、房间、收入、马车、信件、衣服、钢琴、礼物、餐食与庄园。这些物品标记人物的社会位置，暴露品味与依附，也塑造女性能够作出哪些选择。
 
-这就是为什么奥斯汀的“性沉默”可以被读作一种策略。她拒绝把性变成情节中可见的危机，从而把戏剧性转移到别处：女性如何阅读人的性格、如何与压力周旋、如何识别傲慢、如何保护自尊，以及如何在不平等的社会条件下作出选择。欲望仍然存在，但它通过判断力、谈话、讽刺与婚姻经济被过滤出来。
+这就是为什么奥斯汀的克制很重要。如果性没有被直接展示，欲望周围的社会条件反而变得更加可见。女性的选择从来不是纯粹浪漫或纯粹心理的。它受到许多条件塑造：她是否有钱，是否能拒绝求婚，是否能旅行，家庭是否能保护她，以及婚姻究竟是爱情、安全感，还是生存方式。
 
-在《傲慢与偏见》中，Elizabeth Bennet 的力量并不来自性展示或丑闻，而来自她判断他人、并修正自己判断的能力。奥斯汀的女性主义是安静但尖锐的：她展示了女性内在判断力是一种严肃力量，即使在一个女性未来常常依赖婚姻的世界里。`,
+在这样的阅读中，奥斯汀的安静并不是软弱。她的小说让“选择的物质生活”变得可见。它们追问的是：在一个连爱情都必须穿过财产、物品、礼仪与金钱的世界里，女性如何保持清醒的判断？`,
     location: "Hampshire, England",
+    researchLens: {
+      title: "Sexual Silence and Material Culture in Jane Austen",
+      titleZh: "简·奥斯汀小说中的性沉默与物质文化",
+      citation: "Susan Morgan, “Why There’s No Sex in Jane Austen’s Fiction”; Sandie Byrne, Jane Austen’s Possessions and Dispossessions; Emma Peace, “Of Things in Austen”",
+      summaryEn: `Susan Morgan’s argument helps us read Austen’s sexual silence not as emptiness, but as a literary strategy. Austen refuses to let women’s lives be organized only through seduction, exposure, scandal, or sexual punishment. Instead, she moves the drama into judgment, conversation, reputation, consent, and the economics of marriage.
+
+Sandie Byrne’s work helps us see Austen as a writer of objects. In Austen’s novels, who owns, buys, gives, notices, or lacks objects matters. Objects are not decorative background; they help place characters socially and symbolically.
+
+Emma Peace pushes this further by asking what happens if we privilege objects over subjects in Austen’s fiction. Her essay argues that objects in Austen do not simply sit quietly in the background; they help script and choreograph the worlds they furnish.`,
+      summaryZh: `Susan Morgan 的观点帮助我们把奥斯汀小说中的“性沉默”读作一种文学策略，而不是空白。奥斯汀拒绝让女性生命只通过诱惑、暴露、丑闻或性惩罚来组织。相反，她把戏剧性转移到判断力、谈话、名誉、同意与婚姻经济之中。
+
+Sandie Byrne 的研究帮助我们把奥斯汀看作一位书写“物”的作家。在奥斯汀小说中，谁拥有物品，谁购买物品，谁赠送物品，谁注意到物品，谁缺少物品，都很重要。物品不是装饰性背景，而是在社会与象征层面放置人物。
+
+Emma Peace 则进一步追问：如果我们在奥斯汀小说中把物放到人之前，会发生什么？她的文章指出，奥斯汀小说中的物品并不是安静地待在背景里，而是在编写、安排、调度它们所在的世界。`
+    },
     quote: "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
     quoteSource: "Jane Austen, Pride and Prejudice, Chapter 1",
-    quoteReadingEn: `Project Gutenberg 全文可核对这句《傲慢与偏见》的开篇原文.
+    quoteReadingEn: `This opening sentence is one of Austen’s most famous acts of irony. On the surface, it sounds like a universal truth about men and marriage. But the sentence immediately reveals the material structure behind courtship: fortune comes first, wife comes second. Desire enters the novel already attached to income, property, and social expectation.
 
-This opening sentence is one of Austen’s most famous acts of irony. On the surface, it sounds like a universal truth about men and marriage. But the joke turns quickly: the sentence reveals a society more interested in projecting women’s economic needs onto wealthy men than in speaking honestly about women’s dependence.
+Seen through the research lens of sexual silence and material culture, the sentence becomes even sharper. Austen does not need to show sex directly in order to write about desire. She shows the world that organizes desire: who has fortune, who needs security, who is expected to marry, and who must learn to judge under pressure.`,
+    quoteReadingZh: `这句开篇是奥斯汀最著名的讽刺之一。表面上，它像是在陈述一个关于男性与婚姻的普遍真理。但这句话立刻揭示出求爱背后的物质结构：财富先出现，妻子随后出现。欲望一进入小说，就已经和收入、财产与社会期待绑定在一起。
 
-Seen through Morgan’s argument, the sentence also helps explain Austen’s sexual silence. The danger in Austen’s world is not usually shown through explicit sexual scenes. It appears through money, reputation, family strategy, and the pressure to marry well. Austen’s restraint makes those structures more visible.`,
-    quoteReadingZh: `这句开篇是奥斯汀最著名的讽刺之一。表面上，它像是在陈述一个关于男性与婚姻的普遍真理。但讽刺很快显露出来：这句话揭示的是一个社会如何把女性的经济需求投射到有钱男性身上，却不愿诚实说出女性的依附处境。
-
-如果通过 Morgan 的观点来看，这句话也有助于理解奥斯汀的“性沉默”。在奥斯汀的世界里，危险通常不是通过露骨的性场景出现的，而是通过金钱、名誉、家庭策略与“嫁得好”的压力出现的。奥斯汀的克制反而让这些结构变得更加清晰。`,
-    tags: ["sexual silence", "marriage", "judgment", "consent", "money", "reputation", "satire"],
+如果通过“性沉默”与“物质文化”的研究视角来看，这句话会变得更尖锐。奥斯汀并不需要直接描写性，才能书写欲望。她书写的是组织欲望的世界：谁拥有财富，谁需要安全，谁被期待结婚，谁必须在压力之下学会判断。`,
+    tags: ["material culture", "desire", "marriage", "objects", "judgment", "sexual silence", "property"],
     relatedWorks: [
       "Pride and Prejudice",
       "Sense and Sensibility",
       "Emma",
       "Persuasion",
-      "Susan Morgan, “Why There’s No Sex in Jane Austen’s Fiction”"
+      "Susan Morgan, Why There’s No Sex in Jane Austen’s Fiction",
+      "Sandie Byrne, Jane Austen’s Possessions and Dispossessions",
+      "Emma Peace, Of Things in Austen"
     ],
     sourceText: "Pride and Prejudice, Chapter 1",
     status: "published"

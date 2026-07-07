@@ -128,7 +128,7 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
   const creatorLabel = [card.creator, card.creatorZh].filter(Boolean).join('｜');
   const metadata = card.person
     ? [card.person.category, card.location ?? (location || card.person.locationName)].filter(Boolean).join(' · ')
-    : [cardType, creatorLabel || undefined, card.location].filter(Boolean).join(' · ');
+    : [cardType, creatorLabel || undefined, card.location, card.years].filter(Boolean).join(' · ');
   const hasManualIntro = Boolean(card.introEn || card.introZh);
   const fallbackIntroEn = uniqueParagraphs([card.person?.shortBioEn, card.person?.summaryEn]).join('\n\n');
   const fallbackIntroZh = uniqueParagraphs([card.person?.shortBioZh, card.person?.summaryZh]).join('\n\n');
@@ -168,6 +168,19 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
 
       {theoryFramework && (
         <TheoryFrameworkMap text={theoryFramework} />
+      )}
+
+      {card.researchLens && (
+        <section className="article-section research-lens">
+          <h3>Research Lens</h3>
+          <span>研究视角</span>
+          <div className="research-lens__header">
+            <h4>{card.researchLens.title}</h4>
+            {card.researchLens.titleZh && <p>{card.researchLens.titleZh}</p>}
+          </div>
+          {card.researchLens.citation && <p className="research-lens__citation">{card.researchLens.citation}</p>}
+          <BilingualParagraphs en={card.researchLens.summaryEn} zh={card.researchLens.summaryZh} />
+        </section>
       )}
 
       {(card.quote || card.quoteReadingEn || card.quoteReadingZh) && (
