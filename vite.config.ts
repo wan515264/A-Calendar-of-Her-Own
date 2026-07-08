@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
-const repoBase = '/a-calendar-of-her-own/';
+const repoBase = '/A-Calendar-of-Her-Own/';
 
 export default defineConfig({
   base: repoBase,
