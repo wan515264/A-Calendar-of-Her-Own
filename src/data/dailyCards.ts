@@ -566,5 +566,102 @@ This is the quiet power of Woolf’s fiction. She does not simply tell us that g
       "Virginia Woolf"
     ],
     status: "published"
+  },
+  {
+    id: "2026-07-09-a-room-of-ones-own",
+    date: "2026-07-09",
+    type: "text",
+    title: "A Room of One’s Own",
+    titleZh: "《一间自己的房间》",
+    titleSeparator: " ",
+    years: "1882–1941",
+    role: "Text｜文本",
+    creator: "Virginia Woolf",
+    creatorZh: "弗吉尼亚·伍尔夫",
+    focusTitle: "A Room of Her Own",
+    focusTitleZh: "一个属于她自己的空间",
+    summaryEn: "Virginia Woolf’s A Room of One’s Own is not only about having a physical room. It is a thought experiment about what happens when women’s intelligence is constantly interrupted by poverty, domestic responsibility, emotional labour, and the expectation to care for others.",
+    summaryZh: "弗吉尼亚·伍尔夫的《一间自己的房间》并不只是关于拥有一个房间。它是一场思想实验：当女性的智慧不断被贫困、家庭责任、情感劳动，以及照顾他人的期待打断时，会发生什么。",
+    introEn: `Virginia Woolf’s A Room of One’s Own, published in 1929, is one of the most influential feminist essays of the twentieth century. Based on lectures she delivered at women’s colleges at Cambridge, Woolf transforms a simple question — why are there so few women writers in history? — into a larger investigation of gender, money, space, and intellectual freedom.
+
+Woolf’s famous argument is often simplified as “a woman needs money and a room of her own to write fiction.” But behind this statement is a much deeper thought experiment.
+
+She asks us to imagine a woman with the same intelligence, creativity, and ambition as Shakespeare. What would happen if this woman were denied education, financial independence, privacy, and the freedom to develop her own mind?
+
+Woolf creates the fictional figure of Judith Shakespeare, Shakespeare’s equally talented sister. Judith has the same artistic potential as her brother, but she is trapped by social expectations. She cannot receive the same education, cannot move freely, and cannot pursue writing without punishment.
+
+The tragedy is not that Judith lacks genius. The tragedy is that genius requires conditions to survive.
+
+For Woolf, the greatest obstacle to women’s creativity is not only direct oppression. It is also the invisible labour expected from women every day.
+
+Women are expected to manage homes, maintain relationships, absorb emotional conflicts, care for children and family members, and constantly place others’ needs before their own.
+
+This emotional and domestic labour consumes the very time and mental energy that could become intellectual creation.
+
+A Room of One’s Own is therefore not only a feminist argument about writing. It is an argument about time, space, and the right to develop a self.`,
+    introZh: `弗吉尼亚·伍尔夫的《一间自己的房间》出版于1929年，是二十世纪最重要的女性主义散文之一。它源于她在剑桥女子学院发表的演讲。伍尔夫从一个看似简单的问题开始——为什么文学史中女性作家如此少？——却将问题扩展为关于性别、金钱、空间与思想自由的深刻探索。
+
+伍尔夫最著名的观点常被简单理解为：“女性需要钱和自己的房间才能写小说。”但这个观点背后，其实是一场更深刻的思想实验。
+
+她让我们想象：如果有一个女性拥有与莎士比亚同样的智慧、创造力与抱负，但她被剥夺教育、经济独立、私人空间，以及发展思想的自由，她的一生会发生什么？
+
+伍尔夫创造了一个虚构人物——朱迪斯·莎士比亚（Judith Shakespeare），莎士比亚同样具有天赋的妹妹。她拥有与哥哥一样的艺术潜能，但被社会期待困住：她无法获得同样的教育，无法自由行动，也无法在不受惩罚的情况下追求写作。
+
+悲剧不是朱迪斯没有天赋，而是天赋需要条件才能存活。
+
+对于伍尔夫来说，女性创造力最大的阻碍不仅来自直接压迫，也来自每天被期待承担的隐形劳动。
+
+女性被期待管理家庭、维持关系、吸收情绪冲突、照顾孩子与家人，并不断把他人的需要放在自己的需要之前。
+
+这种情感劳动与家庭劳动，消耗的正是原本可以转化为思想创造的时间与精神能量。
+
+《一间自己的房间》因此不仅是一篇关于女性写作的女性主义文章，也是一篇关于时间、空间，以及一个人发展自我的权利的文章。`,
+    researchLens: {
+      title: "Emotional Labour and the Conditions of Genius",
+      titleZh: "情感劳动与天才产生的条件",
+      citation: "Virginia Woolf, A Room of One’s Own (1929); Elaine Showalter, A Literature of Their Own (1977); Hermione Lee, Virginia Woolf (1996); Silvia Federici, Revolution at Point Zero (2012).",
+      summaryEn: `Woolf’s essay can be read as an early exploration of what feminist theory later describes as emotional labour and reproductive labour.
+
+She reveals that creativity does not exist separately from material conditions. The ability to write, think, and produce knowledge depends on having time, privacy, money, and freedom from constant care work.
+
+The room Woolf asks for is not simply a physical room. It represents intellectual autonomy: the right to think without interruption, create without apology, and exist beyond service to others.`,
+      summaryZh: `伍尔夫的文章可以被看作对后来女性主义理论中“情感劳动”和“再生产劳动”的早期探索。
+
+她揭示创造力并不是脱离物质条件存在的。写作、思考与生产知识的能力，依赖于时间、私人空间、经济资源，以及从持续照护劳动中获得的自由。
+
+伍尔夫要求的“房间”并不只是一个物理空间，它代表思想自主：不被打断地思考、不需要道歉地创造，以及不必永远服务于他人的存在权。`
+    },
+    quote: "A woman must have money and a room of her own if she is to write fiction.",
+    quoteSource: "Virginia Woolf, A Room of One’s Own",
+    quoteReadingEn: `This sentence is often quoted as a simple demand for privacy, but Woolf’s argument is much larger.
+
+Money represents independence. It allows women to exist beyond dependence on fathers, husbands, or institutions.
+
+The room represents mental freedom. The ability to close a door means the ability to protect one’s thoughts.
+
+For Woolf, creativity requires not only talent but conditions. A society that takes women’s time, labour, and emotional energy cannot later claim that women produced fewer works.`,
+    quoteReadingZh: `这句话常被理解为对私人空间的要求，但伍尔夫真正讨论的问题更加广阔。
+
+金钱代表独立。它让女性能够不依附于父亲、丈夫或其他权力结构而存在。
+
+房间代表思想自由。能够关上一扇门，意味着能够保护自己的思想。
+
+对于伍尔夫来说，创造不仅需要天赋，也需要条件。一个消耗女性时间、劳动与情感能量的社会，不能再反过来说女性创造得更少。`,
+    relatedWorks: [
+      "A Room of One’s Own",
+      "Three Guineas",
+      "Mrs Dalloway",
+      "To the Lighthouse",
+      "Orlando"
+    ],
+    tags: [
+      "women’s writing",
+      "emotional labour",
+      "creativity",
+      "domestic work",
+      "feminist theory"
+    ],
+    sourceText: "A Room of One’s Own",
+    status: "published"
   }
 ];
