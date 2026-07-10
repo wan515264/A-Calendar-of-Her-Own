@@ -3,7 +3,7 @@ import { Buffer } from 'node:buffer';
 import ts from 'typescript';
 
 const root = new URL('../', import.meta.url);
-const allowedTypes = new Set(['thinker', 'writer', 'artist', 'photographer', 'concept', 'text', 'quote', 'debate', 'criticism']);
+const allowedTypes = new Set(['thinker', 'writer', 'artist', 'photographer', 'concept', 'text', 'quote', 'debate', 'criticism', 'theory']);
 const allowedStatuses = new Set(['published', 'draft']);
 const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 

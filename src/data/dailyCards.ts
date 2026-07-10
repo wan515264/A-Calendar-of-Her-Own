@@ -1,7 +1,7 @@
 export type DailyCard = {
   id: string;
   date: string;
-  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism";
+  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory";
   personId?: string;
   title: string;
   titleZh?: string;
@@ -662,6 +662,67 @@ For Woolf, creativity requires not only talent but conditions. A society that ta
       "feminist theory"
     ],
     sourceText: "A Room of One’s Own",
+    status: "published"
+  },
+  {
+    id: "2026-07-10-wages-against-housework",
+    date: "2026-07-10",
+    type: "theory",
+    personId: "federici-1975",
+    title: "Wages Against Housework",
+    titleZh: "《反对家务劳动》",
+    titleSeparator: " ",
+    years: "b. 1942",
+    role: "Theory｜理论 / Essay｜文章",
+    creator: "Silvia Federici",
+    creatorZh: "西尔维娅·费代里奇",
+    focusTitle: "To Name Love as Work",
+    focusTitleZh: "把爱命名为劳动",
+    summaryEn: "Silvia Federici argues that housework is not a natural expression of women’s love. It is unwaged labour that reproduces workers, families, and capitalism itself.",
+    summaryZh: "Silvia Federici 指出，家务并不是女性之爱的自然表达。它是一种无偿劳动，生产并维持着工人、家庭，以及资本主义本身。",
+    introEn: `Wages Against Housework is one of Silvia Federici’s most influential feminist essays. Written in the context of the 1970s Wages for Housework movement, it challenges one of the deepest assumptions of modern society: that cooking, cleaning, raising children, caring for husbands, managing emotions, and maintaining daily life are not “real work,” but women’s natural duty.
+
+Federici’s argument begins from a reversal. They say it is love; she says it is work. The home is often imagined as a private space outside the economy, but Federici shows that the household is central to the economy. Domestic labour reproduces the worker every day: feeding, cleaning, comforting, repairing, and making it possible for wage labour to continue.
+
+This is why the demand for wages is not simply a demand for a paycheck. Federici does not ask women to celebrate housework or become better housewives. She asks us to make visible what capitalism hides: that women’s unpaid labour has been treated as a free resource. To demand wages is to refuse the idea that women’s exhaustion is natural, loving, or outside politics.
+
+For A Calendar of Her Own, this essay connects directly to Virginia Woolf’s question about women’s intellectual freedom. Woolf asks what conditions a woman needs in order to write. Federici asks why women so often lack those conditions in the first place. If women’s time, attention, body, and emotional energy are consumed by unpaid reproductive labour, then the problem is not individual failure. It is a social organization of work.`,
+    introZh: `《反对家务劳动》是 Silvia Federici 最有影响力的女性主义文章之一。它写作于 1970 年代“家务有偿”运动的背景之中，挑战了现代社会中一个极深的假设：做饭、打扫、养育孩子、照顾丈夫、管理情绪、维持日常生活，并不被看作“真正的劳动”，而被说成女性天然的责任。
+
+Federici 的论证从一个反转开始。社会说这是爱，她说这是劳动。家庭常被想象成经济之外的私人空间，但 Federici 指出，家庭正是经济的核心。家务劳动每天都在再生产劳动力：喂养、清洁、安慰、修复，使有薪劳动能够继续发生。
+
+这也是为什么“工资”的要求并不只是要求一张薪水单。Federici 并不是要求女性赞美家务，或成为更好的家庭主妇。她要求我们看见资本主义隐藏起来的东西：女性的无偿劳动一直被当作免费的资源。要求工资，是拒绝把女性的疲惫说成自然、爱或政治之外的事情。
+
+对于 A Calendar of Her Own｜她自己的日历 来说，这篇文章与 Virginia Woolf 关于女性思想自由的问题直接相连。Woolf 问：女性需要什么条件才能写作？Federici 则追问：为什么女性一开始就如此缺少这些条件？如果女性的时间、注意力、身体与情感能量都被无偿再生产劳动消耗，那么问题就不是个人失败，而是劳动的社会组织方式。`,
+    quote: "They say it is love. We say it is unwaged work.",
+    quoteSource: "Silvia Federici, Wages Against Housework",
+    quoteReadingEn: `This sentence is the clearest entrance into Federici’s argument. It does not deny that love can exist inside families. Instead, it refuses the use of love as a mask for exploitation. When labour is called love, it becomes harder to count, refuse, redistribute, or politicize.
+
+To name housework as work is therefore a form of feminist visibility. Cooking, cleaning, caring, listening, soothing, arranging, remembering, and repairing are not minor background tasks. They are the hidden infrastructure of everyday life.
+
+Federici’s point remains powerful because it changes the question. Instead of asking why women are tired, she asks who benefits from women’s exhaustion. Instead of asking women to manage time better, she asks why their time has been treated as endlessly available.`,
+    quoteReadingZh: `这句话是进入 Federici 论证最清楚的入口。它并不是否认家庭中可以存在爱。它拒绝的是把爱用作剥削的面具。当劳动被称作爱，它就更难被计算、拒绝、重新分配，也更难被政治化。
+
+因此，把家务命名为劳动，是一种女性主义的可见化。做饭、打扫、照护、倾听、安抚、安排、记忆与修复，并不是微不足道的背景任务。它们是日常生活隐藏的基础设施。
+
+Federici 的观点至今有力，是因为它改变了问题的方向。她不是问女性为什么疲惫，而是问谁从女性的疲惫中获益。她不是要求女性更好地管理时间，而是追问为什么女性的时间一直被当作可以无限索取的资源。`,
+    relatedWorks: [
+      "Wages Against Housework",
+      "Revolution at Point Zero",
+      "Caliban and the Witch",
+      "Mariarosa Dalla Costa and Selma James, The Power of Women and the Subversion of the Community",
+      "Wages for Housework movement writings"
+    ],
+    tags: [
+      "housework",
+      "unwaged labour",
+      "care",
+      "capitalism",
+      "feminist theory",
+      "social reproduction",
+      "emotional labour"
+    ],
+    sourceText: "Wages Against Housework",
     status: "published"
   }
 ];

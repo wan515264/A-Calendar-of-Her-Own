@@ -15,6 +15,7 @@ const cardTypeLabels: Record<NonNullable<TheoryCardType['cardType']>, { en: stri
   quote: { en: 'Quote', zh: '引文' },
   debate: { en: 'Debate', zh: '争鸣' },
   criticism: { en: 'Criticism', zh: '文学批评' },
+  theory: { en: 'Theory', zh: '理论' },
   reflection: { en: 'Reflection', zh: '今日反思' },
   'classic-text': { en: 'Text', zh: '文本' },
   'quote-reading': { en: 'Quote', zh: '引文' },

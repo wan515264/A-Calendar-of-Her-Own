@@ -10,6 +10,7 @@ export type TheoryCardKind =
   | 'quote'
   | 'debate'
   | 'criticism'
+  | 'theory'
   | 'reflection'
   | 'classic-text'
   | 'quote-reading'

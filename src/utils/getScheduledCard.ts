@@ -36,6 +36,8 @@ function getCategoryZh(category?: string) {
       return '艺术家';
     case 'photographer':
       return '摄影师';
+    case 'theory':
+      return '理论';
     default:
       return '理论卡片';
   }
