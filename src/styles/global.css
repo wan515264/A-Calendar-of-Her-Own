@@ -1179,36 +1179,68 @@ blockquote cite {
 
 .archive-calendar__grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(82px, 1fr));
-  gap: 7px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 10px;
 }
 
 .archive-day {
   display: grid;
-  gap: 3px;
-  place-items: center;
-  min-height: 52px;
-  padding: 7px 4px;
+  gap: 5px;
+  min-height: 126px;
+  padding: 14px 12px;
   border: 1px solid rgba(231, 199, 127, 0.12);
   border-radius: 15px;
   color: rgba(255, 244, 216, 0.34);
   background: rgba(255, 244, 216, 0.025);
 }
 
-.archive-day span {
+.archive-day__date {
   display: block;
   font-family: var(--serif);
-  font-size: 0.98rem;
+  font-size: 1rem;
   line-height: 1;
 }
 
-.archive-day small {
+.archive-day__weekday {
   color: currentColor;
   font-size: 0.58rem;
   font-weight: 850;
   letter-spacing: 0.08em;
   opacity: 0.72;
   text-transform: uppercase;
+}
+
+.archive-day strong,
+.archive-day em,
+.archive-day b {
+  display: block;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+
+.archive-day strong {
+  margin-top: 4px;
+  color: var(--archive-cream);
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.12;
+}
+
+.archive-day em {
+  color: rgba(255, 244, 216, 0.74);
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: 650;
+  line-height: 1.25;
+}
+
+.archive-day b {
+  align-self: end;
+  color: var(--archive-muted);
+  font-size: 0.68rem;
+  font-weight: 800;
+  line-height: 1.2;
 }
 
 .archive-day--has-card {
