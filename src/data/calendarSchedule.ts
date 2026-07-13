@@ -101,24 +101,6 @@ export const calendarSchedule: CalendarScheduleItem[] = [
     "status": "published"
   },
   {
-    "id": "2026-07-11-mohanty-1988",
-    "date": "2026-07-11",
-    "personId": "mohanty-1988",
-    "cardType": "thinker",
-    "focusTitle": "Feminist Thought in Context",
-    "focusTitleZh": "处境中的女性主义思想",
-    "status": "published"
-  },
-  {
-    "id": "2026-07-12-butler-1990",
-    "date": "2026-07-12",
-    "personId": "butler-1990",
-    "cardType": "thinker",
-    "focusTitle": "Feminist Thought in Context",
-    "focusTitleZh": "处境中的女性主义思想",
-    "status": "published"
-  },
-  {
     "id": "2026-07-13-sherman-1990",
     "date": "2026-07-13",
     "personId": "sherman-1990",

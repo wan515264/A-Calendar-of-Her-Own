@@ -1177,23 +1177,10 @@ blockquote cite {
   font-style: normal;
 }
 
-.archive-calendar__weekdays,
 .archive-calendar__grid {
   display: grid;
-  grid-template-columns: repeat(7, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(82px, 1fr));
   gap: 7px;
-}
-
-.archive-calendar__weekdays {
-  margin-bottom: 8px;
-}
-
-.archive-calendar__weekdays span {
-  color: var(--archive-muted);
-  font-size: 0.62rem;
-  font-weight: 850;
-  letter-spacing: 0.04em;
-  text-align: center;
 }
 
 .archive-day {
@@ -1222,11 +1209,6 @@ blockquote cite {
   letter-spacing: 0.08em;
   opacity: 0.72;
   text-transform: uppercase;
-}
-
-.archive-day--blank {
-  border-color: transparent;
-  background: transparent;
 }
 
 .archive-day--has-card {
