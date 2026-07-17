@@ -38,6 +38,8 @@ function getCategoryZh(category?: string) {
       return '摄影师';
     case 'theory':
       return '理论';
+    case 'performance':
+      return '行为艺术';
     default:
       return '理论卡片';
   }

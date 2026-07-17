@@ -1,7 +1,7 @@
 export type DailyCard = {
   id: string;
   date: string;
-  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory";
+  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory" | "performance";
   personId?: string;
   title: string;
   titleZh?: string;
@@ -788,6 +788,153 @@ The memoir also asks readers to reconsider how women's histories are written. Mo
       "working-class life"
     ],
     sourceText: "A Woman's Story",
+    status: "published"
+  },
+  {
+    id: "2026-07-14-linda-nochlin",
+    date: "2026-07-14",
+    type: "criticism",
+    title: "Why Have There Been No Great Women Artists?",
+    titleZh: "《为什么没有伟大的女性艺术家？》",
+    titleSeparator: " ",
+    years: "1931–2017",
+    role: "Criticism｜艺术史批评 / Essay｜文章",
+    creator: "Linda Nochlin",
+    creatorZh: "琳达·诺克林",
+    focusTitle: "The Question Is the Institution",
+    focusTitleZh: "问题不在女性，而在制度",
+    summaryEn: "Linda Nochlin asks us to stop treating women’s absence from the canon as proof of insufficient talent. The real question is how education, institutions, professional training, patronage, and social expectations determined who was allowed to become a “great artist.”",
+    summaryZh: "琳达·诺克林要求我们停止把女性在艺术史经典中的缺席，当作她们缺乏天赋的证明。真正的问题是：教育、制度、专业训练、赞助体系与社会期待，如何决定了谁能够成为所谓的“伟大艺术家”。",
+    introEn: `Linda Nochlin was an art historian, critic, and curator whose work helped establish feminist art history as a field of study. Her landmark essay “Why Have There Been No Great Women Artists?” was published in 1971 and challenged the methods through which Western art history had defined talent, achievement, and greatness.
+
+The title appears to ask why women failed to produce artists equal to Michelangelo or Rembrandt. But Nochlin shows that the question already contains a misleading answer: it encourages us to assume that women were absent because they lacked genius. Rather than defending women by producing a short list of forgotten exceptions, she examines the assumptions that make the question seem natural in the first place.
+
+Nochlin rejects the romantic myth of the Great Artist as an isolated genius whose gift naturally overcomes every obstacle. Art is not produced outside society. Becoming a professional artist requires education, time, materials, access to studios and models, relationships with other artists, patronage, exhibition opportunities, and recognition from institutions. Historically, these resources were distributed unequally.
+
+One of Nochlin’s clearest examples is access to training from the nude model. For centuries, studying the nude was treated as essential preparation for prestigious forms such as history painting. Yet women were often prevented from receiving this training because viewing and drawing the naked body was considered improper for them. Women were then judged by standards they had been institutionally prevented from mastering.
+
+Women’s artistic activity was also frequently defined as an accomplishment rather than a profession. Drawing or painting might be encouraged as evidence of refinement in a young lady, but serious ambition, sustained training, competition, and public recognition conflicted with expectations that women should become wives, mothers, and caretakers. The distinction between an accomplishment and a profession helped preserve male authority within art.
+
+Nochlin therefore changes the direction of the investigation. Instead of asking what is wrong with women, she asks how institutions manufacture success and failure. The absence of women from the canon is not a neutral record of natural ability. It is evidence of who was educated, supported, admitted, exhibited, collected, and remembered.
+
+Her argument also changes what feminist art history must do. Recovering neglected women artists remains important, but adding a few names to an unchanged canon is not enough. The standards of greatness, the organisation of artistic education, and the stories art history tells about individual genius must themselves be examined and rewritten.`,
+    introZh: `琳达·诺克林是一位艺术史学家、批评家与策展人，她的研究推动女性主义艺术史成为一个重要领域。她发表于1971年的经典文章《为什么没有伟大的女性艺术家？》，挑战了西方艺术史定义天赋、成就与“伟大”的方式。
+
+这个标题表面上像是在追问：为什么女性没有产生可与米开朗琪罗或伦勃朗比肩的艺术家？但诺克林指出，这个问题本身已经暗含了误导性的答案——它诱导我们认为，女性之所以缺席，是因为她们缺乏天才。她没有仅仅列举几位被遗忘的女性作为反例，而是反过来审视：究竟是什么假设，让这个问题显得如此理所当然？
+
+诺克林拒绝了关于“伟大艺术家”的浪漫神话：仿佛天才是一个孤立的个体，其天赋必然能够战胜一切障碍。艺术并不是在社会之外产生的。成为专业艺术家需要教育、时间、材料、画室与模特，需要与其他艺术家的联系，也需要赞助、展览机会和制度承认。这些资源在历史上从未被平等分配。
+
+诺克林最清楚的例子之一，是女性能否接受裸体模特写生训练。几个世纪以来，裸体写生被视为历史画等高级艺术门类的重要基础，但女性常因观看和描绘裸体被认为“不合体面”，而无法获得同样的训练。随后，艺术制度却又用她们被禁止掌握的标准来评判她们。
+
+女性的艺术活动也经常被定义为一种“才艺”，而不是一种职业。绘画可以被鼓励，因为它能够证明一位年轻女士有教养；但严肃的抱负、持续训练、专业竞争与公共成就，却与女性应成为妻子、母亲和照护者的期待发生冲突。“才艺”与“职业”之间的区分，帮助艺术界继续维持男性权威。
+
+因此，诺克林改变了问题的方向。她不再追问女性究竟“哪里不足”，而是追问制度如何制造成功与失败。女性在经典中的缺席，并不是关于自然能力的中立记录；它反映的是谁曾经获得教育与支持，谁被允许进入学院、参加展览、进入收藏，并最终被历史记住。
+
+她的论证也改变了女性主义艺术史的任务。重新发现被忽视的女性艺术家当然重要，但仅仅把几个名字补进一个没有改变的经典仍然不够。关于伟大的标准、艺术教育的组织方式，以及艺术史围绕个人天才讲述的故事，都必须被重新审视与改写。`,
+    quote: "The fault lies not in our stars … but in our institutions and our education.",
+    quoteSource: "Linda Nochlin, Why Have There Been No Great Women Artists?",
+    quoteReadingEn: `This sentence condenses Nochlin’s central reversal. Women’s historical exclusion cannot be explained by biology, destiny, hormones, or a mysterious absence of genius. It must be examined through the material and institutional conditions that made artistic development possible for some people and nearly impossible for others.
+
+The word “institutions” moves responsibility away from individual women. A woman excluded from academies, professional training, patronage, and public life cannot be fairly judged as though she competed under the same conditions as a man who possessed all of them.
+
+The sentence also challenges how history interprets achievement. Once success is understood as socially produced, the image of the self-made genius begins to dissolve. Greatness is no longer only a quality hidden inside an individual; it is also a result of access, permission, community, opportunity, and recognition.
+
+Nochlin does not replace one simple story with another. She does not claim that every excluded woman would necessarily have become a celebrated artist. Instead, she asks us to stop presenting unequal outcomes as proof of natural inequality.`,
+    quoteReadingZh: `这句话浓缩了诺克林最核心的反转。女性在历史上的缺席，不能用生理、命运、荷尔蒙，或某种神秘的“天才缺失”来解释。我们必须考察具体的物质与制度条件：它们如何让一些人能够发展艺术才能，却让另一些人几乎无法开始。
+
+“制度”这个词把责任从女性个人身上移开。一个被排除在学院、专业训练、赞助体系与公共生活之外的女性，不能被假装成与拥有这一切的男性处于同等条件下，再接受所谓公平的评价。
+
+这句话也挑战了历史解释成就的方式。一旦我们认识到成功由社会条件共同生产，“完全凭借自己成为天才”的形象便开始瓦解。伟大不再只是藏在个人内部的品质；它也是机会、准入、共同体、资源与承认共同作用的结果。
+
+诺克林并没有用另一个简单故事取代旧故事。她并不是说每一位受到排斥的女性都必然会成为著名艺术家。她要求我们停止把不平等条件造成的结果，当作天生不平等的证明。`,
+    relatedWorks: [
+      "Why Have There Been No Great Women Artists?",
+      "Women, Art, and Power and Other Essays",
+      "Representing Women",
+      "The Politics of Vision",
+      "Linda Nochlin and Ann Sutherland Harris, Women Artists: 1550–1950"
+    ],
+    tags: [
+      "feminist art history",
+      "institutions",
+      "artistic education",
+      "genius",
+      "women artists",
+      "the nude",
+      "art canon",
+      "structural inequality"
+    ],
+    sourceText: "Why Have There Been No Great Women Artists?",
+    status: "published"
+  },
+  {
+    id: "2026-07-15-yoko-ono-cut-piece",
+    date: "2026-07-15",
+    type: "performance",
+    personId: "ono-1964",
+    title: "Cut Piece",
+    titleZh: "《切片》",
+    titleSeparator: " ",
+    years: "b. 1933",
+    role: "Performance｜行为艺术 / Conceptual Art｜观念艺术",
+    creator: "Yoko Ono",
+    creatorZh: "小野洋子",
+    focusTitle: "What Will the Audience Take?",
+    focusTitleZh: "观众会从她身上拿走什么？",
+    summaryEn: "In Cut Piece, Yoko Ono sits silently while audience members approach with scissors and cut away parts of her clothing. The work does not simply expose the artist’s body; it exposes the choices, hesitation, restraint, and violence of the audience.",
+    summaryZh: "在《切片》中，小野洋子沉默地坐着，观众依次拿起剪刀，剪下她身上的衣物。作品所暴露的不只是艺术家的身体，也包括观众的选择、犹豫、克制与暴力。",
+    introEn: `Yoko Ono is a Japanese artist whose practice has moved across conceptual art, performance, film, music, installation, and written instructions. She was already developing instruction-based and participatory art before becoming widely known through her relationship with John Lennon. In 1964, she also published Grapefruit, a collection of instructions written between the 1950s and 1964.
+
+Cut Piece was first performed in Japan in 1964. Ono sat almost motionless onstage with a pair of scissors placed before her. Members of the audience were invited to approach one by one and cut away pieces of her clothing. She later performed the work in other cities, including New York, where its 1965 Carnegie Recital Hall presentation was filmed.
+
+At first, the action appears simple. One person approaches, chooses a place to cut, removes a small fragment, and returns to the audience. But with every cut, the atmosphere changes. Some participants act cautiously; others become bolder. The clothing grows thinner, the artist becomes more exposed, and the audience must decide not only whether to participate, but how far to go.
+
+The work therefore transfers part of artistic authorship to the audience. Ono establishes the instruction and places her body within it, but she cannot fully control what follows. The final form of the performance is produced collectively through the participants’ decisions. MoMA describes her early works as performative structures whose meaning emerges through interaction and change rather than through a fixed object.
+
+A feminist reading of Cut Piece notices the vulnerability of a female body made publicly available to looking and cutting. Ono remains composed and largely silent, while the audience gains physical power over her clothing. The piece can evoke objectification, sexual threat, and violence against women—but it also complicates a simple division between passive victim and active aggressor. Ono created the score, invited participation, and retained the option to bring the performance to an end.
+
+Yet gender is not the work’s only possible frame. Jieun Rhee’s study warns that Cut Piece has been too narrowly interpreted only through the female body and male gaze. Because Ono performed it before different audiences in Japan, the United States, and Europe, the meaning of each performance was also shaped by cultural, national, and ethnic contexts. The audience was not a neutral mass: every audience brought its own rules about bodies, shame, spectacle, gender, and participation.
+
+The title Cut Piece also matters. A “piece” can mean an artwork, but it can also mean a fragment taken away. Each spectator leaves with a piece of the artist’s clothing, while the artist remains behind with the consequences of everyone’s actions. The work asks what it means to receive something from another person—and when receiving becomes taking.
+
+Cut Piece does not tell the audience what to feel. It creates a situation in which spectators must watch themselves becoming participants. The scissors reveal less about the fabric than about the person holding them.`,
+    introZh: `小野洋子是一位日本艺术家，她的创作横跨观念艺术、行为艺术、电影、音乐、装置与文字指令。早在因为与约翰·列侬的关系广为人知之前，她就已经开始发展以指令和观众参与为核心的艺术。1964年，她还出版了《葡萄柚》，收录了从20世纪50年代至1964年间创作的指令作品。
+
+《切片》于1964年在日本首次演出。小野洋子几乎一动不动地坐在舞台上，面前放着一把剪刀。观众被邀请逐一上台，剪下她衣服的一部分。此后她又在其他城市表演这件作品，其中包括1965年在纽约卡内基演奏厅的演出，并留下了影像记录。
+
+最初，这个行为看起来非常简单。一个人走上台，选择一个位置剪下衣物，再带着碎片回到观众席。但随着每一次剪切，现场气氛都在改变。有些参与者十分谨慎，有些人则越来越大胆。衣物逐渐减少，艺术家越来越暴露，而观众必须决定的不只是是否参与，也包括究竟要进行到什么程度。
+
+因此，这件作品把一部分艺术创作权交给了观众。小野洋子设定指令，也把自己的身体置于其中，却无法完全控制接下来会发生什么。表演的最终形态由参与者的每一次决定共同产生。纽约现代艺术博物馆对她早期作品的讨论也指出，这些作品的意义来自互动与变化，而不是一个固定不变的物件。
+
+女性主义阅读会注意到，《切片》将一个女性身体置于公共凝视与剪切之下时产生的脆弱。小野洋子保持沉着，几乎始终沉默，而观众却获得了改变她衣物的实际权力。作品令人联想到物化、性威胁与针对女性的暴力，但它也使“被动受害者”和“主动施害者”之间的区分变得复杂：指令由小野洋子制定，参与由她邀请，而她也保留结束表演的权利。
+
+然而，性别并不是理解这件作品的唯一框架。Jieun Rhee 的研究提醒我们，《切片》常被过于狭窄地只从女性身体和男性凝视来解释。由于小野洋子曾在日本、美国与欧洲面对不同观众演出，每一次表演的意义也受到文化、国家与族裔语境的塑造。观众并不是中立的人群；不同观众都带着各自关于身体、羞耻、观看、性别与参与的规则进入现场。
+
+《切片》这个标题本身也很重要。“Piece”既可以指一件艺术作品，也可以指被剪下并带走的碎片。每位参与者都可能带走艺术家衣服的一部分，而艺术家则留在原地，承受所有行为累积起来的后果。作品因此追问：从另一个人那里获得某物意味着什么？而获得又在什么时候变成了索取？
+
+《切片》并不告诉观众应该感受什么。它创造了一个情境，使观看者不得不看见自己如何成为参与者。剪刀最终揭示的，与其说是衣料之下的身体，不如说是握着剪刀的人。`,
+    relatedWorks: [
+      "Cut Piece",
+      "Grapefruit",
+      "Bag Piece",
+      "Painting to Be Stepped On",
+      "Film No. 4 (Bottoms)",
+      "Wish Tree",
+      "Half-A-Room"
+    ],
+    tags: [
+      "performance art",
+      "participation",
+      "vulnerability",
+      "violence",
+      "audience",
+      "body",
+      "consent",
+      "feminist art",
+      "Fluxus",
+      "conceptual art"
+    ],
+    sourceText: "Cut Piece",
     status: "published"
   }
 ];
