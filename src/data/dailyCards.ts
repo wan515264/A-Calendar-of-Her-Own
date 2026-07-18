@@ -1,7 +1,7 @@
 export type DailyCard = {
   id: string;
   date: string;
-  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory" | "performance";
+  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory" | "performance" | "installation" | "sculpture" | "novel";
   personId?: string;
   title: string;
   titleZh?: string;
@@ -935,6 +935,273 @@ Cut Piece does not tell the audience what to feel. It creates a situation in whi
       "conceptual art"
     ],
     sourceText: "Cut Piece",
+    status: "published"
+  },
+  {
+    id: "2026-07-16-judy-chicago-the-dinner-party",
+    date: "2026-07-16",
+    type: "installation",
+    personId: "chicago-1979",
+    title: "The Dinner Party",
+    titleZh: "《晚宴》",
+    titleSeparator: " ",
+    years: "b. 1939",
+    role: "Installation｜装置艺术 / Feminist Art｜女性主义艺术",
+    creator: "Judy Chicago",
+    creatorZh: "朱迪·芝加哥",
+    focusTitle: "Who Gets a Seat at History’s Table?",
+    focusTitleZh: "谁能在历史的餐桌上拥有一个席位？",
+    summaryEn: "Judy Chicago’s The Dinner Party imagines women’s history as a monumental banquet. Around a triangular table, women who were forgotten, marginalized, or erased from dominant historical narratives are given a place, a name, and a seat at the table.",
+    summaryZh: "朱迪·芝加哥的《晚宴》把女性历史想象成一场纪念碑式的宴会。在一张巨大的三角形餐桌旁，那些曾被主流历史遗忘、边缘化或抹去的女性，重新获得了位置、名字，以及属于自己的席位。",
+    introEn: `Judy Chicago is an American artist whose work has played an important role in the development of feminist art. Created between 1974 and 1979, The Dinner Party is her best-known work and has become an icon of feminist art. The monumental installation takes the form of a large triangular banquet table, transforming the familiar space of eating and gathering into a symbolic history of women.
+
+The table is set for thirty-nine mythical and historical women. Each place setting is dedicated to a particular figure, while the Heritage Floor beneath the table carries the names of another 999 women. Together, the installation represents 1,038 women. The work stretches across centuries, attempting to make visible a history of women whose achievements have too often been marginalized or erased.
+
+The question at the centre of The Dinner Party is deceptively simple: who gets invited to history? Traditional histories often appear to be neutral accounts of the past, but Chicago’s work asks us to notice whose names repeatedly occupy the table. Kings, generals, philosophers, and male artists have been given monuments, biographies, museums, and textbooks. Women were often present in history, but presence did not necessarily lead to remembrance.
+
+Chicago therefore does not simply add women to an existing history. She creates another architecture for remembering them. The triangular table has no single position at its head: symbolically, there is no solitary patriarch presiding over the banquet. Instead, history is arranged through relationships between women, with one name leading toward hundreds of others.
+
+The materials of The Dinner Party are equally important. Its place settings incorporate richly decorated textiles, embroidery, needlework, and painted and sculpted ceramic plates. These materials resonate with practices historically associated with women and frequently dismissed as “craft” rather than elevated to the status of “fine art.” Chicago brings these forms of making into a monumental museum installation, challenging the hierarchy that separates celebrated art from devalued forms of women’s creative labour.
+
+In this sense, the dinner table itself becomes political. Historically, women have spent enormous amounts of time preparing food, setting tables, washing dishes, sewing cloth, and caring for others around domestic spaces. Chicago takes the familiar image of the table—a place connected to women’s often invisible labour—and transforms it into a place where women themselves become the guests of honour. Chicago described the work as a reinterpretation of The Last Supper from the perspective of those who had historically done the cooking.
+
+There is a beautiful reversal here. The women who have so often been imagined as preparing the table are now invited to sit at it. They are no longer serving history. They are the subjects of history.
+
+Yet The Dinner Party also raises difficult questions about any attempt to create a shared “women’s history.” Which women are selected? Which cultures and experiences are represented? Can one monumental artwork speak for the enormous differences between women across race, class, nationality, sexuality, and historical period? These questions do not necessarily diminish the work. Instead, they remind us that recovering women’s history is never a finished project. Every archive creates new questions about who remains outside it.
+
+Perhaps this is why The Dinner Party remains such a powerful image. It does not simply ask us to remember individual women. It asks us to reconsider the structure of historical memory itself. Who writes the guest list? Who decides where someone sits? Who is remembered by name, and who disappears into the anonymous labour that made the banquet possible?
+
+The Dinner Party answers historical absence with an invitation: pull out a chair, write down a name, and make the table larger.`,
+    introZh: `朱迪·芝加哥是一位美国艺术家，她的创作在女性主义艺术的发展中具有重要地位。创作于1974年至1979年的《晚宴》是她最著名的作品之一，也成为女性主义艺术的标志性作品。这件大型装置以一张巨大的三角形宴会桌为中心，把人们熟悉的进餐与聚会空间，转化成一部象征性的女性历史。
+
+餐桌为39位神话与历史中的女性设置了席位。每一个席位都献给一位特定的女性，而餐桌下方的“Heritage Floor｜遗产地板”则写有另外999位女性的名字。整件作品因此纪念了1,038位女性。作品跨越漫长的历史时期，试图让那些成就经常被边缘化或抹去的女性重新变得可见。
+
+《晚宴》中心的问题看起来非常简单：谁会收到历史的邀请？传统历史常常看起来像是对过去的中立记录，但芝加哥的作品要求我们注意，究竟是谁的名字反复占据着历史的餐桌。国王、将军、哲学家与男性艺术家拥有纪念碑、传记、博物馆与教科书。女性并非不存在于历史之中，但存在并不意味着会被记住。
+
+因此，芝加哥并不只是把女性添加进一部已经存在的历史。她创造了另一种记忆她们的结构。三角形的餐桌没有唯一的“主位”：在象征意义上，这场宴会没有一个孤立的父权人物坐在桌首。相反，历史通过女性之间的关系被重新排列，一个名字又通向另外数百个名字。
+
+《晚宴》使用的材料同样重要。作品中的席位包含丰富的纺织品、刺绣、针线工艺，以及绘制和塑形的陶瓷餐盘。这些媒介长期与女性的创作和劳动联系在一起，却又经常被归入“手工艺”，无法获得与所谓“纯艺术”同等的地位。芝加哥把这些创作形式带进纪念碑式的博物馆装置中，从而挑战了“伟大艺术”与被贬低的女性创造性劳动之间的等级关系。
+
+从这个意义上说，餐桌本身成为了政治性的空间。在历史上，女性花费了大量时间准备食物、摆放餐桌、清洗餐具、缝制织物，并在家庭空间中照顾他人。芝加哥拿起这个与女性隐形劳动紧密相连的日常物件，把它转变成一个女性自己成为贵宾的地方。芝加哥曾把这件作品构想为从历史上那些一直负责做饭的人的角度，对《最后的晚餐》进行重新想象。
+
+这里发生了一次漂亮的反转。那些长期被想象为负责准备餐桌的女性，现在终于被邀请坐到桌前。她们不再只是服务历史的人。她们成为了历史的主体。
+
+然而，《晚宴》也让我们面对一个更困难的问题：任何试图建立共同“女性历史”的项目，都必须决定哪些女性会被选择，哪些文化与经验会被代表。一件纪念碑式的艺术作品，是否能够容纳不同种族、阶级、国家、性取向与历史时期女性之间巨大的差异？这些问题并不一定削弱《晚宴》的意义。相反，它们提醒我们，重新寻找女性历史永远不会是一项已经完成的工程。每建立一个档案，我们都需要继续追问：还有谁留在它的外面？
+
+或许这正是《晚宴》至今仍具有力量的原因。它不只是要求我们记住一个个具体的女性，也要求我们重新思考历史记忆本身的结构：谁书写宾客名单？谁决定一个人坐在哪里？谁能够留下名字？又是谁消失在让整场宴会成为可能的无名劳动之中？
+
+《晚宴》用一份邀请回应历史中的缺席：拉开一把椅子，写下一个名字，然后让这张桌子变得更大。`,
+    relatedWorks: [
+      "The Dinner Party",
+      "Womanhouse",
+      "Through the Flower",
+      "The Birth Project",
+      "PowerPlay",
+      "The Holocaust Project: From Darkness into Light"
+    ],
+    tags: [
+      "feminist art",
+      "women’s history",
+      "the canon",
+      "craft",
+      "memory",
+      "collective history",
+      "women’s work",
+      "domestic labour",
+      "historical erasure",
+      "feminist archive"
+    ],
+    sourceText: "The Dinner Party",
+    status: "published"
+  },
+  {
+    id: "2026-07-17-meret-oppenheim-object",
+    date: "2026-07-17",
+    type: "sculpture",
+    title: "Object",
+    titleZh: "《物体》",
+    titleSeparator: " ",
+    years: "1913–1985",
+    role: "Surrealism｜超现实主义 / Sculpture｜雕塑",
+    creator: "Meret Oppenheim",
+    creatorZh: "梅雷特·奥本海姆",
+    focusTitle: "When Everyday Objects Refuse to Behave",
+    focusTitleZh: "当日常物件拒绝服从日常",
+    summaryEn: "Meret Oppenheim covered a teacup, saucer, and spoon with fur, transforming an ordinary object of comfort into something intimate, absurd, and unsettling. The work asks what happens when familiar things no longer behave as we expect them to.",
+    summaryZh: "梅雷特·奥本海姆用皮毛覆盖了茶杯、茶托与茶匙，把一件与舒适和日常习惯有关的器具，变成了既亲密、荒诞又令人不安的物体。作品追问：当熟悉的事物不再按照我们的期待发挥作用，会发生什么？",
+    introEn: `Meret Oppenheim was a Swiss artist born in Berlin whose practice moved across sculpture, painting, drawing, jewellery, furniture, poetry, and costume. Although she became closely associated with Surrealism in 1930s Paris, her work never belonged neatly to a single movement. She combined ordinary materials in unexpected ways, allowing familiar objects to become strange, humorous, erotic, or disturbing.
+
+Created in Paris in 1936, Object consists of a teacup, saucer, and spoon covered in fur. Oppenheim purchased the ordinary tableware from a shop and transformed it by wrapping its hard porcelain surfaces in something soft, warm, and animal-like. The Museum of Modern Art acquired the work in the same year, and it quickly became one of the most recognizable objects associated with Surrealism.
+
+The idea emerged through a joke. Oppenheim was wearing a metal bracelet covered with fur when Pablo Picasso remarked that almost anything could be covered in fur. Looking at her teacup, she playfully suggested that the cup itself might need fur to keep warm. What began as a casual exchange became an object in which two incompatible sensations—smooth porcelain and animal hair—were forced together.
+
+A teacup usually invites touch. We lift it toward the mouth, feel its rim against the lips, and associate it with warmth, hospitality, and domestic routine. Fur also invites touch, but in a different way. It suggests skin, animals, clothing, intimacy, and bodily warmth. Once these materials are joined, however, the invitation becomes difficult to accept. The cup looks soft, yet the thought of drinking from it may produce disgust.
+
+The work does not make the object entirely unfamiliar. We can still recognize every part of the tea service. Its strangeness comes from the fact that it remains almost usable while becoming impossible to use. The handle can still be held, the spoon can still be lifted, and the cup can still be brought toward the mouth—but each familiar gesture now feels wrong.
+
+In this way, Object interrupts the quiet obedience of everyday things. A cup is expected to contain liquid. A spoon is expected to enter the mouth. A saucer is expected to protect the table beneath it. Oppenheim preserves their shapes while taking away their functions. The objects have not been destroyed; they have simply stopped cooperating.
+
+The tea service also belongs to a domestic world historically associated with women: serving drinks, receiving guests, arranging a table, and maintaining an atmosphere of comfort. Yet Oppenheim does not present this domestic object as useful, welcoming, or well behaved. She turns it into something excessive and resistant. It can no longer perform the task for which it was designed.
+
+This does not mean that Object has one fixed feminist message. Oppenheim resisted the expectation that women artists should be understood only through their gender. Yet her position within Surrealism remains important. Women in the movement were often represented as muses, models, dreams, or objects of male desire. Oppenheim instead became the maker of the object: the person who determined how desire, humour, attraction, and discomfort would be arranged.
+
+The extraordinary fame of Object later created another difficulty. Oppenheim produced a varied body of work over more than five decades, but the fur-covered cup often overshadowed everything else she made. She became known through a single youthful work, as though one surprising object could explain an entire artistic life. Recent exhibitions have worked to restore the breadth of her practice beyond this one famous image.
+
+Perhaps the enduring power of Object lies in how little it changes and how much it disturbs. A cup remains a cup. Fur remains fur. Yet once they meet, neither can be experienced in quite the same way again.
+
+Oppenheim does not lead us into an imaginary world far from everyday life. She makes everyday life itself behave strangely. The object has not lost its identity. It has lost its obedience.`,
+    introZh: `梅雷特·奥本海姆是一位出生于柏林的瑞士艺术家，她的创作横跨雕塑、绘画、素描、珠宝、家具、诗歌与服装。尽管她与20世纪30年代巴黎的超现实主义关系密切，她的作品却始终难以被完整归入某一种艺术运动。她常常以出人意料的方式组合日常材料，让熟悉的物件变得陌生、幽默、情色或令人不安。
+
+创作于1936年巴黎的《物体》，由一个覆盖皮毛的茶杯、茶托与茶匙组成。奥本海姆从商店购买了这些普通餐具，再用柔软、温暖而近似动物身体的材料，包裹它们原本坚硬的瓷质表面。纽约现代艺术博物馆在作品完成的同年将其收藏，它也很快成为超现实主义最具辨识度的作品之一。
+
+这件作品的构想来自一句玩笑。当时，奥本海姆戴着一只由金属与皮毛制成的手镯，巴勃罗·毕加索开玩笑说，几乎任何东西都可以覆盖皮毛。奥本海姆看着面前的茶杯，随即提出，或许杯子也需要皮毛来保暖。一次随意的交谈，由此变成了一件让光滑瓷器与动物毛发这两种不相容触感彼此相遇的作品。
+
+茶杯通常邀请我们触摸。我们会把它举向嘴边，让杯沿接触嘴唇，并把它与温暖、招待和日常生活联系在一起。皮毛也会邀请触摸，却以另一种方式让人想到皮肤、动物、衣物、亲密与身体的温度。然而，当这两种材料结合在一起时，这份邀请却变得难以接受。杯子看起来柔软，但从中饮水的想象却可能引起厌恶。
+
+作品并没有让这个物体变得完全陌生。我们依然能够认出茶具的每一个部分。它的奇异之处正在于，它似乎仍然可以使用，却又已经无法真正被使用。杯柄依旧可以握住，茶匙依旧可以拿起，杯子也依旧可以被送到嘴边，但每一个熟悉的动作此刻都显得不再正确。
+
+从这个意义上说，《物体》打断了日常器具安静而顺从的秩序。杯子应该盛放液体，茶匙应该进入口中，茶托应该保护下面的桌面。奥本海姆保留了这些物件的形状，却拿走了它们的功能。它们没有遭到破坏，只是不再配合我们的使用。
+
+茶具也属于一个长期与女性联系在一起的家庭世界：端送饮品、接待客人、布置餐桌，并维持舒适得体的氛围。然而，奥本海姆并没有把这个家庭物件表现为实用、友好或举止妥当的器具。她让它变得过度而抗拒，使它再也无法完成原本被设计去执行的任务。
+
+这并不意味着《物体》拥有一个固定不变的女性主义寓意。奥本海姆曾拒绝让女性艺术家只能通过性别获得解释。但她在超现实主义中的位置依然重要。在这一运动中，女性常常被表现为缪斯、模特、梦境，或男性欲望的对象。奥本海姆却成为了制造物体的人：由她来决定欲望、幽默、吸引与不适应该如何被组合。
+
+《物体》巨大的名声后来也制造了另一个难题。奥本海姆在五十多年的创作生涯中留下了形式多样的作品，但覆盖皮毛的茶杯却常常遮蔽了她的其他创作。她通过一件年轻时期的作品被不断辨认，仿佛一个令人惊讶的物体就足以解释一位艺术家的全部人生。近年来的回顾展则试图重新呈现她在这件著名作品之外更为广阔的创作实践。
+
+或许，《物体》持久的力量正在于：它改变得如此之少，却造成了如此强烈的不安。杯子依然是杯子，皮毛依然是皮毛。然而，当它们彼此相遇之后，我们便再也无法以完全相同的方式感受其中任何一个。
+
+奥本海姆并没有把我们带入一个远离日常生活的幻想世界。她让日常生活本身变得异常。这个物体并没有失去它的身份，它失去的是它的服从。`,
+    relatedWorks: [
+      "Object",
+      "Ma gouvernante—My Nurse—Mein Kindermädchen",
+      "Fur Gloves with Wooden Fingers",
+      "Table with Bird’s Feet",
+      "Stone Woman",
+      "Spring Banquet",
+      "The Couple"
+    ],
+    tags: [
+      "surrealism",
+      "object",
+      "desire",
+      "discomfort",
+      "domesticity",
+      "transformation",
+      "touch",
+      "material",
+      "body",
+      "women artists",
+      "function",
+      "everyday life"
+    ],
+    sourceText: "Object",
+    status: "published"
+  },
+  {
+    id: "2026-07-18-olga-tokarczuk-flights",
+    date: "2026-07-18",
+    type: "novel",
+    title: "Flights",
+    titleZh: "《云游》",
+    titleSeparator: " ",
+    years: "b. 1962",
+    role: "Novel｜小说 / Fragmentary Fiction｜碎片化叙事",
+    creator: "Olga Tokarczuk",
+    creatorZh: "奥尔加·托卡尔丘克",
+    focusTitle: "Can We Ever Stay in One Place?",
+    focusTitleZh: "我们真的能够停留在一个地方吗？",
+    summaryEn: "In Flights, Olga Tokarczuk moves between airports, hotel rooms, maps, preserved bodies, lost travellers, and stories separated by centuries. Rather than treating travel as a route from one destination to another, the novel asks what constant movement does to memory, identity, and the body.",
+    summaryZh: "在《云游》中，奥尔加·托卡尔丘克穿行于机场、旅馆、地图、被保存的身体、失踪的旅人，以及彼此相隔数百年的故事之间。小说并不把旅行理解为从一个目的地前往另一个目的地的路线，而是追问：持续移动会如何改变记忆、身份与身体？",
+    introEn: `Olga Tokarczuk is a Polish novelist, essayist, and psychologist whose writing often crosses the boundaries between fiction, history, myth, philosophy, and scientific inquiry. She was awarded the 2018 Nobel Prize in Literature for a body of work that treats the crossing of boundaries as a way of understanding life. Flights was first published in Polish in 2007 under the title Bieguni and appeared in English in Jennifer Croft’s translation in 2017. The novel and its translator received the 2018 International Booker Prize.
+
+Flights does not unfold as a single continuous journey. It is composed of brief observations, longer fictional narratives, historical episodes, maps, lectures, memories, and reflections on airports, museums, anatomy, and migration. Some passages last only a few lines; others follow characters across countries and centuries. The book refuses to settle into one genre just as its travellers refuse—or are unable—to remain in one place.
+
+Its fragmented form resembles the experience of contemporary travel. A journey is rarely one uninterrupted movement. It is made of departures, delays, security checks, waiting rooms, unfamiliar beds, announcements, misplaced belongings, and brief encounters with strangers. Tokarczuk turns these transitional spaces into the true landscape of the novel. Airports and hotels are not merely places passed through on the way somewhere else; they become temporary worlds with their own rhythms and rules.
+
+The travellers in Flights are not always moving toward discovery or freedom. Some are escaping; some are lost; some carry bodies, organs, memories, or grief across borders. Movement may offer possibility, but it can also produce disorientation. To travel is to loosen the connection between identity and place. The person who leaves is not always the same person who arrives.
+
+This uncertainty is reflected in the novel’s unnamed narrator. She observes the world from stations, terminals, rented rooms, and temporary addresses, collecting stories without fully belonging to any of them. Her identity emerges through movement rather than through a stable home. She does not present herself as an explorer who conquers distant places. Instead, she becomes a listener, a passenger, and a collector of fragments.
+
+Yet Flights is as concerned with the body as it is with geography. Alongside airports and maps, Tokarczuk writes about anatomy, preserved specimens, amputated limbs, organs separated from bodies, and attempts to resist physical decay. The human body appears as another kind of territory: it can be examined, divided, transported, labelled, mapped, and preserved.
+
+Maps promise order. They reduce distance to lines, colours, names, and borders. Anatomical drawings make a similar promise: they transform the interior of the body into a system that can be observed and understood. But neither map can fully contain what it represents. A geographical map cannot show what it feels like to leave home, while an anatomical diagram cannot explain what it feels like to inhabit a body.
+
+The novel repeatedly brings movement and preservation into tension. Its characters travel across continents, yet they are fascinated by museums, collections, relics, and preserved bodies—things removed from the movement of time. To preserve something is to try to keep it in place. To travel is to accept that place will change. Flights moves between these two desires: the wish to continue and the wish to prevent disappearance.
+
+For women, movement has never been entirely neutral. To travel alone, occupy public space, enter unfamiliar rooms, or move without explanation can become a form of independence, but it can also involve danger, scrutiny, and restriction. Tokarczuk does not turn the woman traveller into a simple emblem of liberation. Instead, she shows mobility as unevenly distributed: some people cross borders easily, while others are detained, displaced, watched, or made to justify their presence.
+
+The original Polish title, Bieguni, refers to a group described in the novel as believing that evil gains power over whatever remains still. Their response is perpetual motion. Whether or not movement can truly protect anyone, the idea gives the novel one of its central tensions: perhaps remaining still makes us vulnerable, but constant movement may also prevent us from forming attachments, accepting mortality, or understanding where we are.
+
+The English title Flights contains several meanings at once. It suggests aeroplanes and journeys, but also escape, disappearance, and the movement of thought. A story may take flight from another story; an idea may leave its expected path. The novel travels in this way, not by following one straight road, but by making unexpected connections between distant places, bodies, and lives.
+
+Perhaps this is why the book’s fragments do not feel incomplete. Each one resembles a traveller glimpsed briefly through a window or across a departure hall. We may never learn everything about that person, but the encounter alters the shape of the journey. Meaning does not come from reaching a final destination. It accumulates through crossings.
+
+Flights asks us to imagine identity not as a fixed address, but as a pattern made by movement. We are shaped by the places we leave, the borders we cross, the bodies we inhabit, and the stories we carry with us. Perhaps we never stay entirely still. Even when the body rests, memory continues to travel.`,
+    introZh: `奥尔加·托卡尔丘克是一位波兰小说家、散文家与心理学家。她的写作常常穿越小说、历史、神话、哲学与科学研究之间的边界。她凭借一种把跨越边界视为生命形式的叙事想象，获得2018年诺贝尔文学奖。《云游》最初于2007年以波兰语出版，原名为 Bieguni；2017年，詹妮弗·克罗夫特的英译本问世。小说与译者共同获得了2018年国际布克奖。
+
+《云游》并不沿着一段连续的旅程展开。它由短暂的观察、较长的虚构故事、历史片段、地图、讲座、记忆，以及关于机场、博物馆、解剖学与迁徙的思考组成。有些章节只有寥寥数行，有些则跟随人物跨越国家与世纪。正如书中的旅人拒绝——或无法——停留在一个地方，这本书也拒绝安顿在一种固定的文学类型之中。
+
+小说的碎片结构很像当代旅行的真实经验。一段旅程很少是一次毫无中断的移动。它由出发、延误、安检、候机室、陌生的床铺、广播、遗失的物品，以及与陌生人的短暂相遇构成。托卡尔丘克把这些过渡性的空间变成了小说真正的风景。机场与旅馆不再只是前往别处时经过的地点，而是拥有自身节奏与规则的临时世界。
+
+《云游》中的旅人并不总是在走向发现或自由。有些人在逃离，有些人已经迷失，有些人则带着身体、器官、记忆或悲伤穿越边界。移动可以带来可能，也可能制造迷失。旅行意味着松动身份与地点之间的联系。离开的人，并不总是抵达时的那个人。
+
+这种不确定性也体现在小说那位没有名字的叙述者身上。她从车站、航站楼、租来的房间与临时地址观察世界，收集故事，却不完全属于其中任何一个。她的身份通过移动形成，而不是由一个稳定的家来定义。她并不把自己表现为征服远方的探险者，而更像一名倾听者、乘客与碎片的收集者。
+
+然而，《云游》对身体的关注并不亚于它对地理空间的关注。在机场与地图之外，托卡尔丘克还书写解剖学、保存下来的标本、被截除的肢体、脱离身体的器官，以及人们抵抗肉身腐败的尝试。人的身体因此成为另一种领土：它可以被检查、切分、运输、标记、绘制和保存。
+
+地图承诺秩序。它把距离缩减成线条、颜色、名称与边界。解剖图也作出类似的承诺：它把身体内部转化为一个可以被观察和理解的系统。但任何地图都无法完整容纳它所代表的事物。地理地图无法表现离开家园时的感受，解剖图也无法解释居住在一具身体之中究竟意味着什么。
+
+小说不断让移动与保存彼此对峙。人物穿越大陆，却又被博物馆、收藏、遗物与保存下来的身体所吸引——这些事物仿佛被从时间的流动中取出。保存某物，就是试图让它停留在原处；旅行则意味着接受地点与自身都将发生变化。《云游》在这两种欲望之间移动：继续前行的欲望，以及阻止某物消失的欲望。
+
+对女性而言，移动从来不是完全中性的。独自旅行、占据公共空间、进入陌生房间，或在无需解释的情况下自由行动，都可能成为一种独立，同时也可能伴随危险、审视与限制。托卡尔丘克没有把女性旅人塑造成一个简单的解放象征。她让我们看见，移动的权利从来分配不均：有些人可以轻易越过边境，有些人却会被扣留、驱逐、监视，或被迫为自己的出现作出解释。
+
+波兰语原题 Bieguni 指向小说中一个相信邪恶能够控制静止之物的群体。他们的应对方式是永不停息地移动。无论移动是否真的能够保护任何人，这一观念都构成了小说最重要的张力之一：停留也许会使人变得脆弱，但持续移动同样可能让我们无法建立联系、接受死亡，或理解自己究竟身在何处。
+
+英文书名 Flights 同时包含多重含义。它让人想到航班与旅程，也意味着逃离、消失，以及思想的飞行。一个故事可能从另一个故事中起飞，一个念头也可能离开预设的路径。小说正是以这种方式旅行：它不沿着一条笔直的道路前进，而是在遥远的地点、身体与生命之间建立出人意料的联系。
+
+也许正因如此，书中的碎片并不会让人觉得残缺。每一个片段都像一个隔着车窗或候机大厅短暂看见的旅人。我们或许永远无法了解那个人的全部，但这次相遇已经改变了旅程的形状。意义并不来自抵达最终目的地，而是在一次次穿越之中逐渐累积。
+
+《云游》邀请我们不要把身份想象成一个固定地址，而把它理解为移动所留下的图案。塑造我们的，是那些被我们离开的地方、被我们跨越的边界、被我们居住的身体，以及被我们随身携带的故事。也许我们从未真正静止。即使身体停下，记忆仍在继续旅行。`,
+    quote: "HERE I AM｜我在这里",
+    quoteSource: "Olga Tokarczuk, Flights｜奥尔加·托卡尔丘克《云游》",
+    quoteReadingEn: `I’m a few years old. I’m sitting on the window sill, surrounded by strewn toys and toppled-over block towers and dolls with bulging eyes. It’s dark in the house, and the air in the rooms slowly cools, dims. There’s no one else here; they’ve left, they’re gone, though you can still hear their voices dying down, that shuffling, the echoes of their footsteps, some distant laughter. Out the window the courtyard is empty. Darkness spreads softly from the sky, settling on everything like black dew.
+
+The worst part is the stillness, visible, dense—a chilly dusk and the sodium-vapour lamps’ frail light already mired in darkness just a few feet from its source.
+
+Nothing happens—the march of darkness halts at the door to the house, and all the clamour of fading falls silent, makes a thick skin like on hot milk cooling. The contours of the buildings against the backdrop of the sky stretch out into infinity, slowly lose their sharp angles, corners, edges. The dimming light takes the air with it—there’s nothing left to breathe. Now the dark soaks into my skin. Sounds have curled up inside themselves, withdrawn their snail’s eyes; the orchestra of the world has departed, vanishing into the park.
+
+That evening is the limit of the world, and I’ve just happened upon it, by accident, while playing, not in search of anything. I’ve discovered it because I was left unsupervised for a bit. I’ve clearly found myself in a trap now, and I can’t get out. I’m a few years old, I’m sitting on the window sill, and I’m looking out onto the chilled courtyard. The lights in the school’s kitchen are extinguished; everyone has left—there’s nothing anyone can do now, here I am.`,
+    quoteReadingZh: `我很小。我坐在窗台上，身边尽是乱扔一气的玩具、被推倒的积木高塔、眼珠凸出来的洋娃娃。屋里很黑，房间里的空气慢慢冷下来，暗下来。这里没别人；他们都走了，不见了，但你仍可以听到他们的言语声渐渐消失，踢踢踏踏的脚步的回音，几声遥远的笑声。窗外的庭院里空无一人。黑暗从天而降，轻柔地弥漫开来，像黑色露水般落在一切物事上。
+
+那种寂静是最让人难受的，稠密，几乎肉眼可见——阴寒的暮光、钠蒸气灯的昏暗灯光都已沉入黑暗，灯光只能照出几英尺远。
+
+没有任何事发生——黑暗的蔓延止于家门，所有的喧嚣渐息，归于静默，就像热牛奶冷掉后凝成的那层厚厚的膜。房屋映衬在天空的背景里，渐渐失去了鲜明的边缘、分明的棱角，那种轮廓似乎能弥漫到无限远。越来越暗的天光带走了空气——没有剩下可供呼吸的空气。现在，黑暗已浸透我的皮肤。各种声音兀自蜷曲，把自己裹在里面，收起蜗牛般的小眼睛；世界的盛大乐队已离去，消失在公园里了。
+
+那天傍晚是世界的边界，我在玩耍中偶然发现了这一点，并不是刻意去探寻的。只是因为我被单独留下了，几乎无人照管，我才发现了这一点。我意识到自己陷入了一种困境，很清楚自己现在进退不得。我很小，坐在窗台上，望着窗外暗冷下来的庭院。学校厨房里的灯都灭了；大家都走了。所有的门都关上了，门闩落下，百叶窗低垂。我很愿意离开，但我无处可去。我自己的存在，就是眼下唯一具有鲜明轮廓的物事，一圈颤抖又起伏的轮廓，让人痛楚的颤抖和起伏。猛然间，我明白了：现在，我在这里，仅此而已。`,
+    relatedWorks: [
+      "Flights",
+      "Primeval and Other Times",
+      "House of Day, House of Night",
+      "Drive Your Plow Over the Bones of the Dead",
+      "The Books of Jacob",
+      "The Lost Soul",
+      "The Empusium"
+    ],
+    tags: [
+      "movement",
+      "travel",
+      "body",
+      "fragments",
+      "maps",
+      "borders",
+      "identity",
+      "migration",
+      "anatomy",
+      "memory",
+      "displacement",
+      "belonging"
+    ],
+    sourceText: "Flights",
     status: "published"
   }
 ];

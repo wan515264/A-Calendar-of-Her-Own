@@ -40,6 +40,12 @@ function getCategoryZh(category?: string) {
       return '理论';
     case 'performance':
       return '行为艺术';
+    case 'installation':
+      return '装置艺术';
+    case 'sculpture':
+      return '雕塑';
+    case 'novel':
+      return '小说';
     default:
       return '理论卡片';
   }
