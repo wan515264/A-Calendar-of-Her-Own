@@ -9,6 +9,33 @@
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <script type="module">
+      const repoBase = "/A-Calendar-of-Her-Own/";
+      const isLocalDev = ["localhost", "127.0.0.1", ""].includes(window.location.hostname);
+
+      if (isLocalDev) {
+        const devScript = document.createElement("script");
+        devScript.type = "module";
+        devScript.src = "/src/main.tsx";
+        document.body.appendChild(devScript);
+      } else {
+        const stylesheet = document.createElement("link");
+        stylesheet.rel = "stylesheet";
+        stylesheet.crossOrigin = "";
+        stylesheet.href = `${repoBase}assets/index-BSQ8Pomq.css`;
+        document.head.appendChild(stylesheet);
+
+        const manifest = document.createElement("link");
+        manifest.rel = "manifest";
+        manifest.href = `${repoBase}manifest.webmanifest`;
+        document.head.appendChild(manifest);
+
+        const appScript = document.createElement("script");
+        appScript.type = "module";
+        appScript.crossOrigin = "";
+        appScript.src = `${repoBase}assets/index-0mf8jRur.js`;
+        document.body.appendChild(appScript);
+      }
+    </script>
   </body>
 </html>
