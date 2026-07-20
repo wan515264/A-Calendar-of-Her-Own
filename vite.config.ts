@@ -6,6 +6,18 @@ const repoBase = '/A-Calendar-of-Her-Own/';
 
 export default defineConfig({
   base: repoBase,
+  build: {
+    rollupOptions: {
+      output: {
+        entryFileNames: 'assets/index.js',
+        chunkFileNames: 'assets/[name].js',
+        assetFileNames: (assetInfo) => {
+          if (assetInfo.name?.endsWith('.css')) return 'assets/index.css';
+          return 'assets/[name][extname]';
+        }
+      }
+    }
+  },
   plugins: [
     react(),
     VitePWA({

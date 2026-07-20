@@ -9,20 +9,19 @@
   </head>
   <body>
     <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
     <script type="module">
       const repoBase = "/A-Calendar-of-Her-Own/";
       const isLocalDev = ["localhost", "127.0.0.1", ""].includes(window.location.hostname);
+      const hasBuiltEntry = Array.from(document.scripts).some((script) =>
+        script.src.includes(`${repoBase}assets/index.js`)
+      );
 
-      if (isLocalDev) {
-        const devScript = document.createElement("script");
-        devScript.type = "module";
-        devScript.src = "/src/main.tsx";
-        document.body.appendChild(devScript);
-      } else {
+      if (!isLocalDev && !hasBuiltEntry) {
         const stylesheet = document.createElement("link");
         stylesheet.rel = "stylesheet";
         stylesheet.crossOrigin = "";
-        stylesheet.href = `${repoBase}assets/index-BSQ8Pomq.css`;
+        stylesheet.href = `${repoBase}assets/index.css`;
         document.head.appendChild(stylesheet);
 
         const manifest = document.createElement("link");
@@ -33,7 +32,7 @@
         const appScript = document.createElement("script");
         appScript.type = "module";
         appScript.crossOrigin = "";
-        appScript.src = `${repoBase}assets/index-0mf8jRur.js`;
+        appScript.src = `${repoBase}assets/index.js`;
         document.body.appendChild(appScript);
       }
     </script>

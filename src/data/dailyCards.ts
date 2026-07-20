@@ -1203,5 +1203,117 @@ That evening is the limit of the world, and I’ve just happened upon it, by acc
     ],
     sourceText: "Flights",
     status: "published"
+  },
+  {
+    id: "2026-07-19-chiharu-shiota-absence-embodied",
+    date: "2026-07-19",
+    type: "installation",
+    title: "Absence Embodied",
+    titleZh: "《缺席的实体》",
+    titleSeparator: " ",
+    years: "b. 1972",
+    role: "Installation｜装置艺术",
+    creator: "Chiharu Shiota",
+    creatorZh: "盐田千春",
+    focusTitle: "Can Absence Take Up Space?",
+    focusTitleZh: "缺席也能占据空间吗？",
+    summaryEn: "In Absence Embodied, Chiharu Shiota fills the gallery with a dense web of red wool, transforming empty space into something almost physical. Thread becomes blood, memory, distance, and human connection, while the casts of hands and feet suggest bodies that are no longer fully present.",
+    summaryZh: "在《缺席的实体》中，盐田千春以密集的红色羊毛线填满展厅，将原本空无一物的空间变成一种近乎具有实体的存在。线既像血液，也像记忆、距离与人与人之间的联系；散落其中的手脚翻模，则暗示着那些已经无法完整出现的身体。",
+    introEn: `Chiharu Shiota is a Japanese performance and installation artist born in Osaka in 1972. Her work frequently uses thread, wool, blood, metal, earth, and everyday objects to explore memory, the body, motherhood, life cycles, migration, and human relationships. Since moving away from Japan as a young adult and settling in Berlin, displacement and belonging have remained central to her practice.
+
+Absence Embodied was created in 2018 as a site-specific installation for Gallery 14 at the Art Gallery of South Australia. The work consists of a vast three-dimensional labyrinth made from red wool, together with bronze and plaster casts of the artist’s own hands and feet and those of members of her family.
+
+The red wool spreads across the room in thousands of overlapping lines. It does not simply decorate the gallery; it changes how the body moves through it. Visitors are no longer looking at an object placed at a distance. They enter a space that feels tangled, suspended, and alive.
+
+Thread is one of the simplest materials imaginable. It can bind, repair, measure, connect, or trap. In Shiota’s installations, it becomes a way of drawing in space. Instead of making lines on paper, she stretches them across walls, floors, ceilings, objects, and bodies.
+
+The colour red carries several meanings at once. Shiota connects it to blood, the body, and the invisible ties between people. In Japanese culture, the idea of a red thread can describe two lives that are bound together. Within the installation, however, these connections are never neat or simple. They overlap, tighten, loosen, disappear, and begin again.
+
+The work’s title brings together two apparently opposite ideas: absence and embodiment. Absence usually suggests emptiness, loss, or the disappearance of a person. To embody something is to give it a body, a shape, or a physical presence. Shiota asks what happens when something missing becomes the most visible thing in the room.
+
+The casts of hands and feet make this tension more intimate. They are fragments of the body, but they are also traces of touch, movement, and family connection. They suggest people who once occupied space and whose presence is now reduced to an imprint.
+
+A hand can hold, touch, wave goodbye, or reach toward another person. A foot carries the body from one place to another. When separated from the whole body, these forms become both familiar and unsettling. They seem present, yet the person to whom they belong is absent.
+
+This is why Absence Embodied is not simply about loss. It is also about the persistence of relationships. Even when a person is no longer physically present, the ties connected to them may remain. Memory continues to occupy space.
+
+Shiota has compared thread to human relationships. A thread may become tangled, lose tension, or be cut, just as a relationship may become complicated, weakened, or severed. Yet even a broken thread leaves evidence that a connection once existed.
+
+The installation also reflects the experience of migration. Shiota’s life between Japan and Germany informs her interest in geographical displacement. To migrate is to carry memories from one place into another, while never being able to transfer the whole of a former life.
+
+The web of red lines resembles a map without fixed borders. It records movement but offers no clear route. There is no single beginning or destination. Every line meets another, creating a network in which individual paths become difficult to separate.
+
+This may be why the installation feels both protective and suffocating. The threads can resemble a nest, a shelter, or a womb, but they can also feel like a trap. Connection gives us belonging, yet it may also restrict movement.
+
+The body remains central even when no complete body appears. The viewer’s own body must navigate the work, becoming part of its system of distance, tension, and proximity. In this way, absence is not empty. It is something encountered physically.
+
+Absence Embodied suggests that what is gone does not necessarily disappear. It may survive as a thread, a footprint, a gesture, a memory, or the space left behind by a body.
+
+The body may leave.
+
+The connection remains.`,
+    introZh: `盐田千春是一位出生于1972年日本大阪的行为与装置艺术家。她常常使用线、羊毛、血液、金属、泥土以及日常物件，探讨记忆、身体、母性、生命循环、迁徙与人际关系。年轻时离开日本并定居柏林之后，流离、归属与地理位移也始终成为她创作的重要主题。
+
+《缺席的实体》创作于2018年，是盐田千春为南澳大利亚美术馆第14号展厅制作的一件场域特定装置。作品由大规模的红色羊毛线构成一个三维迷宫，同时加入了艺术家本人及其家人的手脚青铜与石膏翻模。
+
+红色羊毛线以成千上万条交叠的轨迹蔓延在展厅之中。它并不只是装饰空间，而是改变了身体在空间中移动的方式。观众不再只是站在远处观看一件物体，而是进入一个纠缠、悬浮、仿佛仍在呼吸的场域。
+
+线是最简单的材料之一。它可以连接、修补、测量，也可以束缚与困住。在盐田千春的装置中，线成为一种在空间中绘画的方式。她不再把线条留在纸面上，而是让它们跨越墙壁、地面、天花板、物件与身体。
+
+红色同时承载着多重含义。盐田千春把它与血液、身体，以及人与人之间不可见的联系联系起来。在日本文化中，红线也可以指向两段被命运连接的生命。然而，在这件装置里，联系从来不是整齐而简单的。它们交叠、收紧、松弛、消失，然后重新开始。
+
+作品的标题把两个看似相反的观念放在一起：缺席与实体化。缺席通常意味着空白、失去，或某个人的消失；而实体化则意味着赋予某物身体、形状与物质存在。盐田千春提出的问题是：当消失之物反而成为空间中最醒目的存在时，会发生什么？
+
+手脚的翻模让这种张力变得更加私人。它们是身体的碎片，也是触摸、移动与亲缘关系留下的痕迹。它们让人想到那些曾经占据某个空间的人，而他们的存在如今只剩下一道印记。
+
+手可以握住、触摸、挥别，也可以伸向另一个人；脚则带着身体从一个地点走向另一个地点。当手与脚脱离完整身体时，它们既熟悉又令人不安。它们仿佛仍然在场，但它们所属的人却已经缺席。
+
+因此，《缺席的实体》并不只是关于失去。它同样在讨论关系如何持续存在。即使某个人已经不再以身体形式出现，与她相关的联系仍可能留下。记忆依然占据空间。
+
+盐田千春曾将线与人际关系相比。线会纠缠、失去张力，也会被剪断；关系同样可能变得复杂、松动，或彻底中止。但即使一根线已经断裂，它仍会留下某种证据，证明连接曾经存在。
+
+这件装置也回应了迁徙经验。盐田千春在日本与德国之间的人生，使她持续关注地理位移。迁徙意味着把一个地方的记忆带入另一个地方，但人永远无法把过去的生活完整地搬走。
+
+红线织成的网络像一张没有固定边界的地图。它记录移动，却不提供清晰路线。这里没有唯一的起点，也没有明确的终点。每一条线都与另一条线相遇，使个体路径最终难以被单独区分。
+
+也正因如此，这件装置同时让人感到被保护与被压迫。红线可以像巢穴、庇护所或子宫，也可以像一张无法逃脱的网。连接给予我们归属，却也可能限制我们的行动。
+
+即使作品中没有出现完整身体，身体仍然是核心。观众必须用自己的身体穿行其中，成为距离、张力与接近关系的一部分。于是，缺席不再是空无，而成为一种可以被身体真实遭遇的存在。
+
+《缺席的实体》提醒我们：已经离去之物，并不一定真正消失。它可能继续存在于一根线、一道足迹、一个动作、一段记忆，或一具身体曾经留下的空间之中。
+
+身体也许会离开。
+
+但连接仍然存在。`,
+    quote: "In making the work, sometimes the string gets tangled, or loses tension, or is cut, much like human relationships. Relationships can become tangled, lost or severed. Red string symbolises the body, blood or relationships between humans.",
+    quoteSource: "Chiharu Shiota｜盐田千春",
+    quoteReadingZh: "在创作过程中，线有时会纠缠、失去张力，或者被剪断，就像人与人之间的关系一样。关系也会变得纠缠、失落，或被切断。红线象征着身体、血液，以及人与人之间的关系。",
+    relatedWorks: [
+      "Absence Embodied",
+      "The Key in the Hand",
+      "Uncertain Journey",
+      "In Silence",
+      "Accumulation: Searching for the Destination",
+      "The Soul Trembles",
+      "State of Being"
+    ],
+    tags: [
+      "absence",
+      "memory",
+      "body",
+      "thread",
+      "connection",
+      "migration",
+      "displacement",
+      "belonging",
+      "family",
+      "blood",
+      "installation",
+      "traces",
+      "relationships",
+      "red thread"
+    ],
+    sourceText: "Absence Embodied",
+    status: "published"
   }
 ];
