@@ -18,10 +18,11 @@
       );
 
       if (!isLocalDev && !hasBuiltEntry) {
+        const cacheBuster = Date.now();
         const stylesheet = document.createElement("link");
         stylesheet.rel = "stylesheet";
         stylesheet.crossOrigin = "";
-        stylesheet.href = `${repoBase}assets/index.css`;
+        stylesheet.href = `${repoBase}assets/index.css?v=${cacheBuster}`;
         document.head.appendChild(stylesheet);
 
         const manifest = document.createElement("link");
@@ -32,7 +33,7 @@
         const appScript = document.createElement("script");
         appScript.type = "module";
         appScript.crossOrigin = "";
-        appScript.src = `${repoBase}assets/index.js`;
+        appScript.src = `${repoBase}assets/index.js?v=${cacheBuster}`;
         document.body.appendChild(appScript);
       }
     </script>

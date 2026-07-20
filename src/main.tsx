@@ -21,9 +21,26 @@ function cleanupStaleServiceWorkers() {
   });
 }
 
+function cleanupStaleCaches() {
+  if (!('caches' in window)) return;
+
+  caches.keys().then((keys) => {
+    keys
+      .filter((key) => key.includes('workbox') || key.includes('precache') || key.includes('A-Calendar'))
+      .forEach((key) => caches.delete(key));
+  });
+}
+
 if (import.meta.env.PROD) {
   cleanupStaleServiceWorkers();
-  registerSW({ immediate: true });
+  cleanupStaleCaches();
+
+  const updateServiceWorker = registerSW({
+    immediate: true,
+    onNeedRefresh() {
+      updateServiceWorker(true);
+    }
+  });
 } else if ('serviceWorker' in navigator) {
   navigator.serviceWorker.getRegistrations().then((registrations) => {
     registrations.forEach((registration) => registration.unregister());
