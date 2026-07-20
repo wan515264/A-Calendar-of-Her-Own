@@ -1320,5 +1320,185 @@ The connection remains.`,
     ],
     sourceText: "Absence Embodied",
     status: "published"
+  },
+  {
+    id: "2026-07-20-riane-eisler-the-chalice-and-the-blade",
+    date: "2026-07-20",
+    type: "book",
+    title: "The Chalice and the Blade",
+    titleZh: "《圣杯与剑》",
+    titleSeparator: " ",
+    years: "b. 1931",
+    role: "Book｜著作",
+    creator: "Riane Eisler",
+    creatorZh: "瑞安·艾斯勒",
+    focusTitle: "Who Writes the Story of Civilization?",
+    focusTitleZh: "谁定义了文明的故事？",
+    summaryEn: "For centuries, history has often been told through conquest, rulers, war, and the rise and fall of empires. In The Chalice and the Blade, Riane Eisler asks whether human societies must always be organised through domination—or whether another way of living together is possible.",
+    summaryZh: "几个世纪以来，历史常常被讲述为征服、统治者、战争，以及帝国兴衰的故事。在《圣杯与剑》中，瑞安·艾斯勒提出：人类社会是否必然建立在统治之上？我们是否可能以另一种方式共同生活？",
+    introEn: `Published in 1987, The Chalice and the Blade: Our History, Our Future is a widely read work of feminist cultural history and social theory. Drawing on archaeology, anthropology, mythology, religion, and social history, Riane Eisler reconsiders the origins of social inequality and asks whether war, hierarchy, and gender domination are inevitable features of human civilization.
+
+Rather than dividing history into a simple opposition between patriarchy and matriarchy, Eisler proposes a broader framework. She describes societies as moving along a spectrum between two orientations: the domination system and the partnership system. These are not two perfectly separate categories, but patterns that can appear in different degrees within families, institutions, cultures, and political systems.
+
+In a domination system, power is maintained through rigid rankings, fear, coercion, and the threat or use of violence. One group is placed above another: men above women, adults above children, rulers above subjects, or one race, class, religion, or nation above others.
+
+A partnership system is organised differently. It places greater value on mutual respect, cooperation, care, shared responsibility, and relations that do not depend on one side controlling the other. Partnership does not mean the absence of disagreement or difference. It means that difference need not become a justification for domination.
+
+The title of the book turns these two orientations into symbols. In Eisler’s framework, the blade represents coercive power, conquest, destruction, and domination. The chalice represents the giving, sustaining, and nurturing of life. The contrast is not simply between two objects, but between two ways of imagining power.
+
+The blade expresses power over others. It asks who is strong enough to command, punish, or conquer. The chalice suggests another form of power: the capacity to sustain relationships, protect life, share resources, and create conditions in which people can flourish.
+
+This distinction is central to Eisler’s argument. She does not claim that women are naturally peaceful or that men are naturally violent. Nor does she propose replacing male domination with female domination. A society ruled by women through fear and hierarchy would still belong to the domination system.
+
+Her question is therefore not simply: Who should rule?
+
+It is: Why must human relationships be organised through ruling and being ruled at all?
+
+To support her argument, Eisler turns to interpretations of prehistoric societies, particularly those associated with Neolithic Europe. Drawing on archaeological theories available when the book was written, she argues that some early communities may have been more egalitarian, less war-oriented, and more centred on life-giving and regenerative symbols than many later hierarchical societies.
+
+She gives particular importance to female figurines, images of birth and regeneration, and religious symbols connected with the body and the cycles of nature. She interprets these materials as evidence that women and life-sustaining activities may once have held a different cultural status.
+
+These archaeological interpretations should not be treated as uncontested historical fact. The meaning of prehistoric figurines, religious practices, gender roles, and social structures remains debated. It is therefore more accurate to understand this section of the book as Eisler’s reconstruction of the past rather than as a definitive account accepted by all archaeologists.
+
+Yet the importance of the book does not depend entirely on whether every claim about prehistory can be proven. Its broader intervention lies in challenging the assumption that hierarchy and violence are natural, universal, and unchangeable.
+
+Traditional histories often present domination as the engine of civilization. Empires expand through conquest. Kings establish order through force. Heroes are remembered for winning battles. Political change is narrated through wars, revolutions, and the transfer of power between rulers.
+
+Within this version of history, care work is easily pushed to the margins. Raising children, preparing food, maintaining households, healing the sick, preserving community knowledge, and sustaining relationships may make collective life possible, yet these activities are rarely treated as the central achievements of civilization.
+
+The chalice asks us to look again at these neglected forms of labour. What if the ability to sustain life is as historically important as the ability to conquer territory? What if caregiving, cooperation, and mutual dependence are not signs of weakness, but foundations of social survival?
+
+This is also why gender remains central to Eisler’s analysis. In domination-oriented societies, traits associated with masculinity—such as aggression, control, and emotional hardness—are often ranked above traits culturally associated with femininity, including care, empathy, and vulnerability.
+
+The problem is not simply that women are devalued. Activities, emotions, and forms of knowledge associated with women are also devalued. In this way, gender hierarchy shapes the values of an entire society, affecting both women and men.
+
+A partnership model attempts to break this ranking. It does not require everyone to become identical. Instead, it refuses the idea that qualities such as care, cooperation, or vulnerability are inferior to competition, control, and force.
+
+For feminist readers, this framework offers a different historical imagination. If domination is a social arrangement rather than an unavoidable law of nature, then inequality can be challenged. Institutions are created and maintained through choices, customs, stories, and systems of reward. They can therefore be questioned and reorganised.
+
+Eisler later extended the partnership framework beyond the historical argument of The Chalice and the Blade. Her subsequent work applies it to education, economics, caregiving, childhood, gender relations, environmental questions, and social transformation.
+
+The Chalice and the Blade does not offer a simple blueprint for an ideal society. Its argument is better understood as an invitation to recognise the patterns through which power operates.
+
+Where do we see fear being used to enforce obedience?
+
+Whose work is valued, and whose work remains invisible?
+
+Which qualities are rewarded as strength, and which are dismissed as weakness?
+
+Who is permitted to speak, decide, remember, and define the meaning of civilization?
+
+The book’s continuing question is therefore not whether the chalice once defeated the blade, or whether one symbol can permanently replace the other.
+
+It asks what kinds of relationships we choose to reproduce—in our homes, schools, economies, institutions, and histories.
+
+What kind of civilization do we choose to build?`,
+    introZh: `《圣杯与剑：我们的历史，我们的未来》出版于1987年，是一部受到广泛阅读与讨论的女性主义文化史及社会理论著作。瑞安·艾斯勒结合考古学、人类学、神话、宗教与社会史，重新思考社会不平等的起源，并追问战争、等级制度与性别统治是否真的是人类文明不可避免的组成部分。
+
+艾斯勒并没有简单地把历史划分为父权社会与母权社会，而是提出了一个更广泛的分析框架。她将社会理解为处在一个连续谱之中，其两端分别是统治体系与伙伴体系。它们并不是两种完全分离的社会类型，而是可能以不同程度存在于家庭、制度、文化与政治结构中的关系模式。
+
+在统治体系中，权力通过严格的等级、恐惧、强制，以及暴力的威胁或使用得以维持。一部分人被置于另一部分人之上：男性高于女性，成年人高于儿童，统治者高于被统治者，或者某种种族、阶级、宗教与国家高于其他群体。
+
+伙伴体系则以不同的方式组织关系。它更重视相互尊重、合作、照护、共同责任，以及不依赖一方控制另一方的社会关系。伙伴关系并不意味着不存在分歧或差异，而是意味着差异不必成为统治的理由。
+
+书名将这两种社会取向转化为象征。在艾斯勒的理论框架中，剑代表强制性权力、征服、毁灭与统治；圣杯则代表生命的给予、维系与滋养。它们之间的对照并不只是两件物品的对照，而是两种理解权力的方式之间的对照。
+
+剑所表现的是凌驾于他人之上的权力。它追问谁足够强大，可以命令、惩罚或征服他人。圣杯则暗示另一种力量：维系关系、保护生命、共享资源，并创造使人能够成长的条件。
+
+这种区分是艾斯勒论述的核心。她并不认为女性天生和平，也不认为男性天生暴力；她同样没有主张以女性统治取代男性统治。一个由女性通过恐惧与等级进行统治的社会，依然属于统治体系。
+
+因此，她提出的问题并不只是：谁应该统治？
+
+而是：为什么人类关系必须被组织成统治与被统治？
+
+为了支持这一论点，艾斯勒转向了对史前社会，尤其是新石器时代欧洲的解释。她依据本书写作时期已有的考古理论提出，一些早期社群可能比后来的许多等级社会更加平等，较少以战争为中心，也更重视与生命、滋养和再生相关的象征。
+
+她尤其重视女性塑像、有关出生与再生的图像，以及与身体和自然循环相关的宗教象征。她将这些材料解释为一种证据，认为女性以及维系生命的活动，曾经可能拥有不同于后来父权社会的文化地位。
+
+这些考古解释不能被视为毫无争议的历史事实。史前塑像的含义、宗教实践、性别角色与社会结构至今仍存在讨论。因此，更准确的阅读方式，是把这一部分理解为艾斯勒对过去所作的理论重构，而不是所有考古学者都认可的最终历史结论。
+
+然而，这本书的意义并不完全取决于它对史前社会的每一项主张是否都能得到证实。它更重要的介入，在于挑战一种长期存在的假设：等级与暴力是自然的、普遍的，也是无法改变的。
+
+传统历史常常把统治描述为文明发展的动力。帝国通过征服扩张，国王通过武力建立秩序，英雄因赢得战争而被铭记，政治变化则通过战争、革命与统治权的转移来叙述。
+
+在这种历史叙事中，照护劳动很容易被推到边缘。抚育儿童、准备食物、维持家庭、照料病人、保存共同体知识以及维系关系，使集体生活得以持续，却很少被视为文明的核心成就。
+
+圣杯要求我们重新注视这些被忽略的劳动形式。维系生命的能力，是否与征服领土的能力同样具有历史意义？照护、合作与相互依赖，是否并非软弱的表现，而是社会得以存续的基础？
+
+这也是为什么性别始终处于艾斯勒分析的中心。在统治取向的社会中，与男性气质相关的特征，例如攻击性、控制与情感上的强硬，往往被置于与女性气质相关的照护、同理心与脆弱之上。
+
+问题并不只是女性受到贬低。那些与女性相关的活动、情感和知识形式，同样会被贬低。于是，性别等级影响的不只是女性的社会地位，也塑造了整个社会的价值体系，并同时限制女性与男性。
+
+伙伴模式试图打破这种价值排序。它并不要求所有人变得相同，而是拒绝把照护、合作与脆弱视为低于竞争、控制与武力的品质。
+
+对于女性主义读者而言，这一框架提供了一种不同的历史想象。如果统治是一种社会安排，而不是不可避免的自然法则，那么不平等就可以受到挑战。制度通过选择、习俗、叙事与奖惩系统被建立和维持，因此也可以被质疑与重新组织。
+
+此后，艾斯勒又将伙伴关系框架延伸到《圣杯与剑》的历史论述之外。她在后续研究中将这一理论应用于教育、经济、照护、儿童成长、性别关系、环境问题与社会转型。
+
+《圣杯与剑》并没有为理想社会提供一套简单的蓝图。它更像是一份邀请，让人们辨认权力在社会中运作的不同模式。
+
+我们在哪里看到恐惧被用来制造服从？
+
+谁的劳动得到重视？谁的劳动仍然不可见？
+
+哪些品质被赞扬为力量？哪些品质又被贬低为软弱？
+
+谁被允许发言、决定、记忆，并定义文明的意义？
+
+因此，这本书持续提出的问题，并不是圣杯是否曾经战胜剑，也不是一种象征能否永远取代另一种象征。
+
+它追问的是：在家庭、学校、经济、制度与历史叙事之中，我们选择不断复制怎样的关系？
+
+我们究竟选择建立怎样的文明？`,
+    researchLens: {
+      title: "Editorial Reflection",
+      titleZh: "编辑札记",
+      citation: "This is an editorial summary based on Eisler’s partnership–domination framework, not a direct quotation from the author.",
+      summaryEn: "Eisler’s central concern is not whether women should rule men, but whether human relationships can be organised without placing one group above another.",
+      summaryZh: "艾斯勒真正关心的并不是女性是否应该统治男性，而是人类关系能否不再建立在一方高于另一方的等级之上。"
+    },
+    relatedWorks: [
+      "The Chalice and the Blade",
+      "Sacred Pleasure",
+      "The Power of Partnership",
+      "The Real Wealth of Nations",
+      "Tomorrow’s Children",
+      "Nurturing Our Humanity"
+    ],
+    tags: [
+      "partnership",
+      "domination",
+      "feminism",
+      "archaeology",
+      "civilization",
+      "history",
+      "gender",
+      "equality",
+      "caregiving",
+      "social change",
+      "power",
+      "cooperation"
+    ],
+    sourceText: "The Chalice and the Blade",
+    sourceNote: "This entry is based primarily on the 1987 bibliographic record, the official HarperCollins book description, and Riane Eisler’s public explanations of the partnership–domination framework. The sections on prehistory are explicitly presented as Eisler’s interpretation rather than as uncontested archaeological fact. An unverified direct quotation from the earlier draft has been removed.｜本篇主要依据1987年初版书目信息、HarperCollins官方书籍介绍，以及瑞安·艾斯勒关于“伙伴体系—统治体系”的公开说明整理。有关史前社会的段落已明确写成艾斯勒的理论解释，而不是无争议的考古事实；原稿中无法确认出处的直接引文也已删除。",
+    sources: [
+      {
+        label: "HarperCollins official book page",
+        url: "https://www.harpercollins.com/products/the-chalice-and-the-blade-riane-eisler"
+      },
+      {
+        label: "Riane Eisler partnership–domination framework",
+        url: "https://rianeeisler.com/wp-content/uploads/2021/09/WPPartnershipDominatorDominationSocieties.pdf"
+      },
+      {
+        label: "WorldCat bibliographic record",
+        url: "https://search.worldcat.org/title/The-chalice-and-the-blade-%3A-our-history-our-future/oclc/15222627"
+      },
+      {
+        label: "The Power of Partnership",
+        url: "https://rianeeisler.com/the-power-of-partnership-seven-relationships-that-will-change-your-life/"
+      }
+    ],
+    status: "published"
   }
 ];
