@@ -15,6 +15,7 @@ export type TheoryCardKind =
   | 'installation'
   | 'sculpture'
   | 'novel'
+  | 'book'
   | 'reflection'
   | 'classic-text'
   | 'quote-reading'
