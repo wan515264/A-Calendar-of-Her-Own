@@ -46,6 +46,8 @@ function getCategoryZh(category?: string) {
       return '雕塑';
     case 'novel':
       return '小说';
+    case 'book':
+      return '著作';
     default:
       return '理论卡片';
   }
