@@ -22,6 +22,7 @@ const cardTypeLabels: Record<NonNullable<TheoryCard['cardType']>, { en: string; 
   sculpture: { en: 'Sculpture', zh: '雕塑' },
   novel: { en: 'Novel', zh: '小说' },
   book: { en: 'Book', zh: '著作' },
+  essay: { en: 'Essay', zh: '论文' },
   reflection: { en: 'Reflection', zh: '今日反思' },
   'classic-text': { en: 'Text', zh: '文本' },
   'quote-reading': { en: 'Quote', zh: '引文' },

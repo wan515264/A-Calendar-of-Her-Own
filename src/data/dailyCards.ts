@@ -1,7 +1,7 @@
 export type DailyCard = {
   id: string;
   date: string;
-  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory" | "performance" | "installation" | "sculpture" | "novel" | "book";
+  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory" | "performance" | "installation" | "sculpture" | "novel" | "book" | "essay";
   personId?: string;
   title: string;
   titleZh?: string;
@@ -1499,6 +1499,87 @@ What kind of civilization do we choose to build?`,
         url: "https://rianeeisler.com/the-power-of-partnership-seven-relationships-that-will-change-your-life/"
       }
     ],
+    status: "published"
+  },
+  {
+    id: "2026-07-21-sianne-ngai-our-aesthetic-categories",
+    date: "2026-07-21",
+    type: "essay",
+    title: "Our Aesthetic Categories",
+    titleZh: "《我们的审美范畴》",
+    titleSeparator: " ",
+    years: "Published 2010",
+    role: "Essay｜论文",
+    creator: "Sianne Ngai",
+    creatorZh: "Sianne Ngai",
+    focusTitle: "How Has Capitalism Changed Aesthetics?",
+    focusTitleZh: "资本主义如何改变了审美？",
+    summaryEn: "For centuries, aesthetics revolved around beauty and the sublime. Sianne Ngai argues that these are no longer the concepts through which we most often experience everyday life. Instead, contemporary culture is increasingly organised around three ordinary judgments: cute, interesting, and zany.",
+    summaryZh: "几个世纪以来，美学始终围绕着“美”与“崇高”展开。Sianne Ngai认为，在当代生活中，我们真正不断使用的审美判断已经发生改变。今天，我们越来越通过三个普通的词理解世界：可爱（cute）、有趣（interesting）和疯癫（zany）。",
+    introEn: `When people think about aesthetics, they often think about beauty. Since the eighteenth century, Western aesthetic theory has been shaped by concepts such as the beautiful and the sublime. Philosophers from Immanuel Kant onward asked why certain objects move us, how aesthetic judgment works, and whether beauty carries universal meaning.
+
+Yet Sianne Ngai begins from a different observation. She notices that these are not the words people use most often in everyday life. Instead of constantly saying that something is beautiful or sublime, we are much more likely to describe it as cute, interesting, or zany.
+
+Rather than dismissing these words as trivial, Ngai argues that they deserve serious theoretical attention. They are not merely casual expressions. They are aesthetic categories through which contemporary culture understands itself.
+
+Together, these three categories form a new map of aesthetics. Instead of asking what art means in isolation, Ngai asks how aesthetic judgments reveal the structures of late capitalist life.
+
+Ngai reminds us that aesthetic judgments are never merely personal preferences. When we describe something as cute, interesting, or zany, we are also describing how we work, consume, communicate, and relate to one another.
+
+Perhaps the most important aesthetic question today is no longer: What is beautiful? But: What kinds of life do our aesthetic judgments make visible?`,
+    introZh: `当人们谈论美学时，首先想到的往往是“美”。自十八世纪以来，西方美学理论一直围绕“美”与“崇高”等概念展开。从康德开始，哲学家不断追问：为什么某些事物会打动我们？审美判断如何发生？美是否具有普遍意义？
+
+然而，Sianne Ngai 从另一个观察开始。她发现，人们在日常生活中其实很少不断说某件事“很美”或“很崇高”。相反，我们更常说的是：它很可爱、很有趣，或者很疯癫。
+
+Ngai 并没有把这些词视为轻浮的口头表达。相反，她认为，它们正是当代文化理解自身的重要审美范畴，而值得严肃研究。
+
+它们共同组成了一张新的审美地图。Ngai 不再孤立地讨论艺术意味着什么，而是追问：审美判断如何揭示晚期资本主义的社会结构。
+
+Ngai 提醒我们，审美判断从来不仅仅是个人喜好。当我们说某件事“可爱”“有趣”或“疯癫”时，我们也在描述自己如何工作、消费、交流，以及如何与他人建立关系。
+
+也许，今天最重要的美学问题已经不再是：什么是美？而是：我们的审美判断，让怎样的生活方式变得可见？`,
+    theoryFramework: `focus: 当代文化中的日常审美判断：可爱、有趣与疯癫 / Everyday aesthetic judgments in contemporary culture: cute, interesting, and zany.
+inherit: Ngai 并没有否定经典美学，而是在经典美学之上继续思考。她与康德、施莱格尔、本雅明、阿伦特、布迪厄、卡维尔以及詹明信等思想家对话，尤其继承康德的审美判断理论与詹明信关于晚期资本主义文化逻辑的分析。 / Ngai does not reject classical aesthetics; her essay is built upon it. She enters into conversation with thinkers such as Immanuel Kant, Friedrich Schlegel, Walter Benjamin, Hannah Arendt, Pierre Bourdieu, Stanley Cavell, and Fredric Jameson, especially inheriting Kantian aesthetic judgment and Jameson's Marxist analysis of late capitalist culture.
+critique: Ngai 的批判指向传统美学与文学批评：为什么美学理论仍围绕美与崇高，而这些已经不是现代人最常使用的审美词汇？她也指出，当代批评常把作品化约为历史或意识形态的体现，却忽略了审美范畴本身如何在解释开始之前调节我们的感受。 / Ngai critiques both classical aesthetics and literary criticism: why do aesthetic theories continue to focus on beauty and the sublime when these are no longer the concepts people most frequently use? She also observes that contemporary criticism often reduces artworks to history or ideology while neglecting how aesthetic categories mediate experience before interpretation begins.
+transform: Ngai 最重要的介入在于指出资本主义改变的不只是艺术，而是审美本身。工作越来越依赖表演与情感劳动，信息持续流通，消费塑造商品与身份；因此问题不再只是“它为什么美”，而是“这种审美表达了怎样的社会关系”。 / Ngai's key intervention is to argue that capitalism has transformed aesthetics itself. Work has become performative, information circulates constantly, and consumption shapes objects and identities; the question is no longer simply "Why is this beautiful?" but "What kind of social relation does this aesthetic express?"
+propose: Ngai 提出三个理解当代社会的审美范畴：Cute 对应消费，Interesting 对应流通，Zany 对应生产。 / Ngai proposes three aesthetic categories for understanding contemporary life: cute as consumption, interesting as circulation, and zany as production.`,
+    researchLens: {
+      title: "Cute, Interesting, Zany",
+      titleZh: "可爱、有趣、疯癫",
+      citation: "Sianne Ngai, “Our Aesthetic Categories,” PMLA, Vol. 125, No. 4, October 2010, pp. 948–958.",
+      summaryEn: `Cute is connected to consumption. It reflects our contradictory feelings toward small, vulnerable, and seemingly harmless objects. Cuteness invites affection, yet it may also encourage possession, control, or even aggression.
+
+Interesting belongs to circulation. It emerges in a world saturated by information, communication, and endless commentary. To call something “interesting” often postpones judgment rather than completing it.
+
+Zany belongs to production. It is the aesthetic of performance, frantic activity, multitasking, emotional labour, and exhausting flexibility. The zany body is always working, entertaining, adapting, and performing.`,
+      summaryZh: `Cute（可爱）对应消费。它反映了人们面对脆弱、小巧、无害事物时复杂而矛盾的情感。可爱激发照护欲，却也可能伴随着占有、控制，甚至攻击。
+
+Interesting（有趣）对应流通。它属于一个被信息、媒介与持续讨论充满的世界。说某件事“很有趣”，往往并不是结束判断，而是延迟判断，让讨论继续传播。
+
+Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情感劳动以及持续适应的审美。疯癫的人始终在工作、娱乐、协调与表演。`
+    },
+    relatedWorks: [
+      "Our Aesthetic Categories (2010)",
+      "Ugly Feelings (2005)",
+      "Our Aesthetic Categories: Zany, Cute, Interesting (2012)",
+      "Theory of the Gimmick (2020)"
+    ],
+    tags: [
+      "aesthetics",
+      "cultural theory",
+      "literary criticism",
+      "capitalism",
+      "cute",
+      "interesting",
+      "zany",
+      "affect",
+      "labor",
+      "consumption",
+      "media",
+      "everyday life"
+    ],
+    sourceText: "Our Aesthetic Categories",
+    sourceNote: "This entry is based on Sianne Ngai’s essay “Our Aesthetic Categories,” published in PMLA, Vol. 125, No. 4, October 2010, pp. 948–958.｜本篇依据 Sianne Ngai 发表于《PMLA》2010年10月第125卷第4期、948–958页的论文《Our Aesthetic Categories》整理。",
     status: "published"
   }
 ];
