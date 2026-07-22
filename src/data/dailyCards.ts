@@ -16,6 +16,13 @@ export type DailyCard = {
   summaryZh?: string;
   introEn?: string;
   introZh?: string;
+  articleSections?: Array<{
+    id?: string;
+    title: string;
+    titleZh?: string;
+    en?: string;
+    zh?: string;
+  }>;
   location?: string;
   theoryFramework?: string;
   tags: string[];
@@ -25,6 +32,11 @@ export type DailyCard = {
   quoteSource?: string;
   quoteReadingEn?: string;
   quoteReadingZh?: string;
+  quoteSelections?: Array<{
+    en: string;
+    zh?: string;
+    source?: string;
+  }>;
   researchLens?: {
     title: string;
     titleZh?: string;
@@ -1603,62 +1615,119 @@ The man is absent for much of the book. He appears, disappears, calls, visits, a
 
 She waits for the telephone to ring. She prepares for his arrival. She replays past encounters and imagines future ones. Ordinary life continues, but it no longer feels fully real.
 
-Ernaux does not try to make this passion beautiful, noble, or morally acceptable. She records it with startling directness.
-
-In most love stories, time is structured by events: a first meeting, a confession, a separation, a reunion. In Simple Passion, time is structured by waiting.
-
-The narrator measures her days according to whether the man might call, whether he might come, and how long it has been since she last saw him. What matters is not the calendar but proximity to his presence.
-
-Waiting changes the scale of ordinary life. A few hours can feel endless. Several days can disappear into anticipation. Time becomes emotional rather than chronological.
-
-The narrator still works, shops, watches television, reads, and speaks to other people. But these activities lose their independence. Everything becomes connected to the affair: clothes are chosen for a possible meeting, rooms are prepared for his arrival, and songs, advertisements, streets, and films become signs that lead back to him.
-
-Passion does not merely occupy one part of life. It reorganises perception itself. The world remains visible, but it is filtered through desire.
-
-Ernaux writes about desire without separating it from the body. The narrator’s body waits, remembers, prepares, and reacts. Desire is not presented as an abstract emotion; it appears through habits, gestures, clothing, rooms, sleeplessness, and physical anticipation.
-
-This gives the novel its intensity. Nothing dramatic needs to happen. The smallest detail can carry the full pressure of longing. A ringing telephone can change the atmosphere of an entire day; a closed door can hold the memory of a body that is no longer there.
-
-One of the most striking qualities of Simple Passion is its refusal to defend the narrator. Ernaux does not ask the reader to admire her. She does not turn the affair into a lesson about romance, freedom, or regret. She does not soften obsession by giving it a more respectable name.
-
-Instead, she writes with precision: this is what I thought, this is what I did, this is how I waited. That refusal is central to the book. The narrator does not seek innocence. She seeks accuracy.
-
-When the affair ends, the novel does not suddenly become clear or resolved. The end of passion does not erase the time lived inside it.
-
-What remains is the knowledge that a human being can live for months inside an altered reality—one in which attention, memory, and desire all point toward the same absent figure.
-
-Ernaux does not present this as a failure of reason. She presents it as an experience that was real because it was lived.`,
+Ernaux does not try to make this passion beautiful, noble, or morally acceptable. She records it with startling directness.`,
     introZh: `《简单的激情》从一种极其私密、几乎难以解释的经验开始：一个女人被一段情事彻底占据。
 
 在书中的大部分时间里，那个男人并不在场。他出现、消失、打电话、来访，然后离开。然而，他身体上的缺席并没有削弱他的存在。恰恰相反，他开始支配叙述者整个内在世界。
 
 她等待电话响起，为他的到来做准备，反复回想过去的相见，并想象下一次相会。日常生活仍在继续，却不再显得完全真实。
 
-埃尔诺并不试图把这种激情写得美丽、高尚，或在道德上可以接受。她只是以惊人的直接，记录它如何发生。
+埃尔诺并不试图把这种激情写得美丽、高尚，或在道德上可以接受。她只是以惊人的直接，记录它如何发生。`,
+    articleSections: [
+      {
+        id: "waiting",
+        title: "A Life Organised by Waiting",
+        titleZh: "被等待组织起来的生活",
+        en: `In most love stories, time is structured by events: a first meeting, a confession, a separation, a reunion.
 
-在多数爱情故事中，时间由事件构成：初次相遇、表白、分离、重逢。而在《简单的激情》中，时间由等待构成。
+In Simple Passion, time is structured by waiting.
+
+The narrator measures her days according to whether the man might call, whether he might come, and how long it has been since she last saw him. What matters is not the calendar but proximity to his presence.
+
+Waiting changes the scale of ordinary life. A few hours can feel endless. Several days can disappear into anticipation. Time becomes emotional rather than chronological.
+
+What happens when another person becomes the measure of time?`,
+        zh: `在多数爱情故事中，时间由事件构成：初次相遇、表白、分离、重逢。
+
+而在《简单的激情》中，时间由等待构成。
 
 叙述者衡量每一天的方式，不是看日期，而是看他是否可能来电话、是否可能出现，以及距离上一次见面过去了多久。真正重要的，不是日历，而是她离他的出现还有多远。
 
 等待改变了日常生活的尺度。几个小时可能漫长得没有尽头，几天却可能在期待中迅速消失。时间不再只是钟表上的时间，而成为一种情绪化的时间。
 
-叙述者仍然工作、购物、看电视、阅读，也与他人交谈。但这些活动逐渐失去自身的独立意义。一切都开始与这段情事发生联系：衣服是为了可能的见面而选择，房间为他的到来而准备，歌曲、广告、街道和电影都变成指向他的符号。
+当另一个人成为时间的尺度，会发生什么？`
+      },
+      {
+        id: "background",
+        title: "The World Becomes Background",
+        titleZh: "世界退到背景",
+        en: `The narrator still works, shops, watches television, reads, and speaks to other people. But these activities lose their independence.
 
-激情并不只是占据生活的一部分，它重新组织了感知本身。世界依然可见，却被欲望重新过滤。
+Everything becomes connected to the affair. Clothes are chosen for a possible meeting. Rooms are prepared for his arrival. Songs, advertisements, streets, and films become signs that lead back to him.
 
-埃尔诺书写欲望，却从不把它与身体分开。叙述者的身体在等待、记忆、准备和反应。欲望并不是一种抽象情绪，而是通过习惯、动作、衣着、房间、失眠，以及身体性的期待显现出来。
+Passion does not merely occupy one part of life. It reorganises perception itself.
 
-这也构成了小说的强度。故事不需要发生戏剧性的事件，最细微的事物也能承载全部渴望的压力。一通响起的电话，足以改变整整一天的气氛；一扇关闭的门，也可能保留一个已经离开的身体的记忆。
+The world remains visible, but it is filtered through desire.`,
+        zh: `叙述者仍然工作、购物、看电视、阅读，也与他人交谈。但这些活动逐渐失去自身的独立意义。
 
-《简单的激情》最令人震动的地方之一，是它拒绝为叙述者辩护。埃尔诺并不要求读者欣赏她，也没有把这段情事转化为关于浪漫、自由或悔恨的教训。她没有用一个更体面的词，去软化“执迷”本身。
+一切都开始与这段情事发生联系。衣服是为了可能的见面而选择，房间为他的到来而准备，歌曲、广告、街道和电影都变成指向他的符号。
 
-她只是精确地写下：我曾这样想，我曾这样做，我曾这样等待。这种拒绝构成了全书的核心。叙述者追求的不是清白，而是准确。
+激情并不只是占据生活的一部分，它重新组织了感知本身。
 
-当这段情事结束时，小说并没有突然变得清晰，也没有获得圆满的解决。激情的结束，并不会抹去曾经生活在其中的时间。
+世界依然可见，却被欲望重新过滤。`
+      },
+      {
+        id: "body",
+        title: "A Body in Suspense",
+        titleZh: "悬置中的身体",
+        en: `Ernaux writes about desire without separating it from the body.
+
+The narrator’s body waits, remembers, prepares, and reacts. Desire is not presented as an abstract emotion. It appears through habits, gestures, clothing, rooms, sleeplessness, and physical anticipation.
+
+This gives the novel its intensity. Nothing dramatic needs to happen. The smallest detail can carry the full pressure of longing.
+
+A ringing telephone can change the atmosphere of an entire day.
+
+A closed door can hold the memory of a body that is no longer there.`,
+        zh: `埃尔诺书写欲望，却从不把它与身体分开。
+
+叙述者的身体在等待、记忆、准备和反应。欲望并不是一种抽象情绪，而是通过习惯、动作、衣着、房间、失眠，以及身体性的期待显现出来。
+
+这也构成了小说的强度。故事不需要发生戏剧性的事件，最细微的事物也能承载全部渴望的压力。
+
+一通响起的电话，足以改变整整一天的气氛。
+
+一扇关闭的门，也可能保留一个已经离开的身体的记忆。`
+      },
+      {
+        id: "writing",
+        title: "Writing Without Self-Defence",
+        titleZh: "不为自己辩护的写作",
+        en: `One of the most striking qualities of Simple Passion is its refusal to defend the narrator.
+
+Ernaux does not ask the reader to admire her. She does not turn the affair into a lesson about romance, freedom, or regret. She does not soften obsession by giving it a more respectable name.
+
+Instead, she writes with precision: this is what I thought, this is what I did, this is how I waited.
+
+That refusal is central to the book. The narrator does not seek innocence. She seeks accuracy.`,
+        zh: `《简单的激情》最令人震动的地方之一，是它拒绝为叙述者辩护。
+
+埃尔诺并不要求读者欣赏她，也没有把这段情事转化为关于浪漫、自由或悔恨的教训。她没有用一个更体面的词，去软化“执迷”本身。
+
+她只是精确地写下：我曾这样想，我曾这样做，我曾这样等待。
+
+这种拒绝构成了全书的核心。叙述者追求的不是清白，而是准确。`
+      },
+      {
+        id: "ending",
+        title: "The End of Passion",
+        titleZh: "激情的终点",
+        en: `When the affair ends, the novel does not suddenly become clear or resolved.
+
+The end of passion does not erase the time lived inside it.
+
+What remains is the knowledge that a human being can live for months inside an altered reality—one in which attention, memory, and desire all point toward the same absent figure.
+
+Ernaux does not present this as a failure of reason. She presents it as an experience that was real because it was lived.`,
+        zh: `当这段情事结束时，小说并没有突然变得清晰，也没有获得圆满的解决。
+
+激情的结束，并不会抹去曾经生活在其中的时间。
 
 留下来的，是这样一种认识：一个人可以在数月之中生活于被改变的现实里。在那个现实中，注意力、记忆与欲望，全都指向同一个缺席的人。
 
-埃尔诺并不把它写成理性的失败。她只是表明：它之所以真实，是因为它确实被经历过。`,
+埃尔诺并不把它写成理性的失败。她只是表明：它之所以真实，是因为它确实被经历过。`
+      }
+    ],
     researchLens: {
       title: "Waiting, Time, and the Body",
       titleZh: "等待、时间与身体",
@@ -1678,10 +1747,36 @@ The book’s force comes from its refusal of self-defence. Ernaux does not moral
     quoteSource: "Annie Ernaux, Simple Passion",
     quoteReadingEn: `This short sentence names the central transformation of Simple Passion. Time is no longer measured only by clocks, calendars, or schedules. It is measured by the body: by anticipation, nervousness, memory, desire, and waiting.
 
-The line also shows why Ernaux’s writing is so sharp. She does not treat passion as an idea separate from ordinary life. It appears in the body and in time, in the way a day expands or collapses around the possibility of another person.`,
+The line also shows why Ernaux’s writing is so sharp. She does not treat passion as an idea separate from ordinary life. It appears in the body and in time, in the way a day expands or collapses around the possibility of another person.
+
+The selected passages widen this insight: passion becomes a threshold between self and others, an altered relation to dignity, a form of attention that pulls the narrator closer to the world, and finally a gift translated into words for readers who come after the affair itself.`,
     quoteReadingZh: `这句短句说出了《简单的激情》中最核心的变化：时间不再只是由钟表、日历或日程丈量，而是由身体来丈量，由期待、紧张、记忆、欲望与等待来丈量。
 
-这句话也显示出埃尔诺写作的锋利之处。她没有把激情写成脱离日常生活的抽象观念。它出现在身体与时间之中，出现在一天如何围绕另一个人的可能出现而膨胀或坍缩。`,
+这句话也显示出埃尔诺写作的锋利之处。她没有把激情写成脱离日常生活的抽象观念。它出现在身体与时间之中，出现在一天如何围绕另一个人的可能出现而膨胀或坍缩。
+
+这些引文选段进一步展开了这一点：激情成为自我与他人之间的边界经验，成为尊严被重新感受的时刻，也成为一种把叙述者拉近世界的注意力，最终被转译成留给读者的文字。`,
+    quoteSelections: [
+      {
+        en: "Whether or not he was “worth it” is of no consequence. And the fact that all this is gradually slipping away from me, as if it concerned another woman, does not change this one truth: thanks to him, I was able to approach the frontier separating me from others, to the extent of actually believing that I could sometimes cross over it.",
+        zh: "他是否“值得”显然已经没有任何意义。即便这一切已经开始变得陌生，如同是另一个女人的故事，也不会改变一点：多亏了他，我接近了把我与他人分隔开来的边界，以至于有时我甚至想过穿越这一边界。",
+        source: "Annie Ernaux, Simple Passion"
+      },
+      {
+        en: "I discovered what people are capable of, in other words, anything: sublime or deadly desires, lack of dignity, attitudes and beliefs I had found absurd in others until I myself turned to them. Without knowing it, he brought me closer to the world.",
+        zh: "我发现了我们所能做的，换句话说，我们什么都能做。高尚的或致命的欲望，自尊的泯灭，信仰和行为，在他人那里我曾认为这些都很荒谬，直到我也转向他们。他并不知道，他将我和世界更加紧密地联系在了一起。",
+        source: "Annie Ernaux, Simple Passion"
+      },
+      {
+        en: "He had said, “You won’t write a book about me.” But I haven’t written a book about him, neither have I written a book about myself. All I have done is translate into words—words he will probably never read; they are not intended for him—the way in which his existence has affected my life. An offering of a sort, bequeathed to others.",
+        zh: "他曾经对我说过，“你不要写关于我的书”。但是我写的不是关于他的书，甚至不是关于我的书。我只是用文字——也许他不会读到，而且也不是写给他的——将关于他的存在，将只是通过他的存在带给我的东西还原出来。在某种程度上是一份保留下来的礼物。",
+        source: "Annie Ernaux, Simple Passion"
+      },
+      {
+        en: "When I was a child, luxury was fur coats, evening dresses, and villas by the sea. Later on, I thought it meant leading the life of an intellectual. Now I feel that it is also being able to live out a passion for a man or a woman.",
+        zh: "小的时候，在我看来，奢侈品是毛皮大衣，是长裙，是海边的别墅。后来，我又觉得是一种知识分子的生活。而现在，我觉得是可以对某个男人或者女人抱有一种激情。",
+        source: "Annie Ernaux, Simple Passion"
+      }
+    ],
     relatedWorks: [
       "Simple Passion",
       "A Woman’s Story",

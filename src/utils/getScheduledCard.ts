@@ -118,9 +118,11 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
     imageCredit,
     introZh: card.introZh,
     introEn: card.introEn,
+    articleSections: card.articleSections,
     location: card.location,
     theoryFramework: card.theoryFramework,
     researchLens: card.researchLens,
+    quoteSelections: card.quoteSelections,
     dailyCard: card,
     title: card.title,
     titleZh: card.titleZh

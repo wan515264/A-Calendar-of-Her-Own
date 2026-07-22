@@ -173,6 +173,14 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
         </section>
       )}
 
+      {card.articleSections?.map((section) => (
+        <section className="article-section" key={section.id ?? section.title}>
+          <h3>{section.title}</h3>
+          {section.titleZh && <span>{section.titleZh}</span>}
+          <BilingualParagraphs en={section.en} zh={section.zh} />
+        </section>
+      ))}
+
       {theoryFramework && (
         <TheoryFrameworkMap text={theoryFramework} />
       )}
@@ -190,7 +198,7 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
         </section>
       )}
 
-      {(card.quote || card.quoteReadingEn || card.quoteReadingZh) && (
+      {(card.quote || card.quoteSelections?.length || card.quoteReadingEn || card.quoteReadingZh) && (
         <section className="article-section">
           <h3>Quote Reading</h3>
           <span>引文精读</span>
@@ -200,6 +208,13 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
               {card.quoteSource && <cite>{card.quoteSource}</cite>}
             </blockquote>
           )}
+          {card.quoteSelections?.map((selection, index) => (
+            <blockquote key={`${selection.en}-${index}`}>
+              <p>{selection.en}</p>
+              {selection.zh && <p>{selection.zh}</p>}
+              {(selection.source || card.quoteSource) && <cite>{selection.source ?? card.quoteSource}</cite>}
+            </blockquote>
+          ))}
           <BilingualParagraphs en={card.quoteReadingEn} zh={card.quoteReadingZh} />
         </section>
       )}
