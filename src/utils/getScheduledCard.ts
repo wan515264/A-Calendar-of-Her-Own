@@ -75,6 +75,31 @@ function mergeTags(card: DailyCard, person?: Person) {
   return Array.from(new Set([...(card.tags ?? []), ...(person?.tags ?? [])])).filter(Boolean);
 }
 
+function splitAuthor(author?: string) {
+  if (!author) return { en: undefined, zh: undefined };
+  const [en, zh] = author.split('｜');
+  return { en: en?.trim() || undefined, zh: zh?.trim() || undefined };
+}
+
+function bilingualBlocksToText(blocks: Array<{ en?: string; zh?: string }> | undefined, lang: 'en' | 'zh') {
+  return blocks
+    ?.map((block) => block[lang]?.trim())
+    .filter(Boolean)
+    .join('\n\n');
+}
+
+function getArticleSections(card: DailyCard) {
+  if (card.articleSections) return card.articleSections;
+
+  return card.sections?.map((section) => ({
+    id: section.id,
+    title: section.title,
+    titleZh: section.titleZh,
+    en: bilingualBlocksToText(section.paragraphs, 'en'),
+    zh: bilingualBlocksToText(section.paragraphs, 'zh')
+  }));
+}
+
 function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
   const person = getPerson(card.personId);
   const personLabel = getCategoryZh(person?.category ?? card.type);
@@ -82,6 +107,14 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
   const imageCredit = getImageCredit(person);
   const relatedWorks = Array.from(new Set([...(card.relatedWorks ?? []), ...(person?.keyWorks ?? [])]));
   const tags = mergeTags(card, person);
+  const author = splitAuthor(card.author);
+  const introEn = card.introEn ?? bilingualBlocksToText(card.introduction, 'en');
+  const introZh = card.introZh ?? bilingualBlocksToText(card.introduction, 'zh');
+  const quoteSelections = card.quoteSelections ?? card.quotes?.map((quote) => ({
+    en: quote.en,
+    zh: quote.zh,
+    source: card.quoteSource ?? card.title
+  }));
 
   return {
     id: card.id,
@@ -92,13 +125,13 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
     titleSeparator: card.titleSeparator,
     years: card.years,
     role: card.role,
-    creator: card.creator,
-    creatorZh: card.creatorZh,
+    creator: card.creator ?? author.en,
+    creatorZh: card.creatorZh ?? author.zh,
     focusTitle: card.focusTitle,
     focusTitleZh: card.focusTitleZh,
     thinkerId: card.personId ?? card.id,
-    thinkerName: person?.name ?? card.creator ?? card.title,
-    thinkerNameZh: person?.nameZh ?? card.creatorZh ?? personLabel,
+    thinkerName: person?.name ?? card.creator ?? author.en ?? card.title,
+    thinkerNameZh: person?.nameZh ?? card.creatorZh ?? author.zh ?? personLabel,
     birthDeath: person?.year ? String(person.year) : card.date,
     concept: card.focusTitle ?? card.title,
     conceptZh: card.focusTitleZh ?? card.titleZh ?? card.title,
@@ -116,13 +149,13 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
     sourceText: card.sourceText,
     image,
     imageCredit,
-    introZh: card.introZh,
-    introEn: card.introEn,
-    articleSections: card.articleSections,
+    introZh,
+    introEn,
+    articleSections: getArticleSections(card),
     location: card.location,
     theoryFramework: card.theoryFramework,
     researchLens: card.researchLens,
-    quoteSelections: card.quoteSelections,
+    quoteSelections,
     dailyCard: card,
     title: card.title,
     titleZh: card.titleZh

@@ -32,6 +32,35 @@ export type Person = {
 // Internal content database for the daily calendar. Do not render this whole array as a public Library list.
 export const people: Person[] = [
   {
+    "id": "annie-ernaux",
+    "name": "Annie Ernaux",
+    "nameZh": "安妮·埃尔诺",
+    "category": "writer",
+    "originalCategory": "writing",
+    "originalType": "novel / autofiction",
+    "year": 1991,
+    "tags": [
+      "desire",
+      "waiting",
+      "time",
+      "memory",
+      "body",
+      "obsession",
+      "intimacy",
+      "autofiction",
+      "women’s writing",
+      "everyday life"
+    ],
+    "keyWorks": [
+      "Simple Passion",
+      "A Woman’s Story",
+      "A Man’s Place",
+      "Happening",
+      "The Years",
+      "Getting Lost"
+    ]
+  },
+  {
     "id": "cameron-1864",
     "name": "Julia Margaret Cameron",
     "category": "photographer",
