@@ -130,7 +130,7 @@ export default function TheoryCard({ card, mode = 'compact', showActions = true 
         </p>
         <header className="theory-card__header">
           <div>
-            <h2>{card.person?.name ?? title}</h2>
+            <h2>{title}</h2>
             <p className="name-zh">{thematicTitle.en}</p>
             <p className="years">{thematicTitle.zh}</p>
           </div>
@@ -140,8 +140,8 @@ export default function TheoryCard({ card, mode = 'compact', showActions = true 
         {isVisualPerson(card) && renderImagePreview(card)}
 
         <section className="text-block text-block--today">
-          <p>{card.person?.shortBioEn ?? card.explanationEn}</p>
-          <p>{card.person?.shortBioZh ?? card.explanationZh}</p>
+          <p>{card.explanationEn}</p>
+          <p>{card.explanationZh}</p>
         </section>
 
         <div className="tag-row">

@@ -127,15 +127,18 @@ function formatDetailTitle(card: TheoryCard, title: string) {
 
 export default function CardDetailContent({ card, showActions = false }: CardDetailContentProps) {
   const title = card.cardTitle ?? card.concept;
-  const detailTitle = formatDetailTitle(card, card.person?.name ?? title);
+  const detailTitle = formatDetailTitle(card, title);
   const detailFocus = getThematicTitle(card);
   const shouldShowFocusEn = Boolean(detailFocus.en && detailFocus.en !== title && detailFocus.en !== detailTitle);
   const location = [card.person?.city, card.person?.country].filter(Boolean).join(', ');
   const cardType = card.cardType ?? 'card';
   const creatorLabel = [card.creator, card.creatorZh].filter(Boolean).join('｜');
-  const metadata = card.person
-    ? [card.role ?? card.person.category, card.location ?? (location || card.person.locationName)].filter(Boolean).join(' · ')
-    : [card.role ?? cardType, creatorLabel || undefined, card.location, card.years].filter(Boolean).join(' · ');
+  const metadata = [
+    card.role ?? card.person?.category ?? cardType,
+    creatorLabel || undefined,
+    card.location ?? (location || card.person?.locationName),
+    card.years
+  ].filter(Boolean).join(' · ');
   const hasManualIntro = Boolean(card.introEn || card.introZh);
   const fallbackIntroEn = uniqueParagraphs([card.person?.shortBioEn, card.person?.summaryEn]).join('\n\n');
   const fallbackIntroZh = uniqueParagraphs([card.person?.shortBioZh, card.person?.summaryZh]).join('\n\n');
