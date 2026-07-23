@@ -156,6 +156,8 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
     theoryFramework: card.theoryFramework,
     researchLens: card.researchLens,
     quoteSelections,
+    quotesTitle: card.quotesTitle,
+    quotesTitleZh: card.quotesTitleZh,
     dailyCard: card,
     title: card.title,
     titleZh: card.titleZh

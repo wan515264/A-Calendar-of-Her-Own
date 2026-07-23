@@ -96,6 +96,26 @@ function uniqueParagraphs(values: Array<string | undefined>) {
     });
 }
 
+function getWorkKey(work: TheoryCard['relatedWorks'][number]) {
+  return typeof work === 'string' ? work : `${work.title}-${work.titleZh ?? ''}`;
+}
+
+function renderWork(work: TheoryCard['relatedWorks'][number]) {
+  if (typeof work === 'string') return work;
+
+  return (
+    <>
+      <strong>{work.title}{work.titleZh ? `｜${work.titleZh}` : ''}</strong>
+      {(work.relationEn || work.relationZh) && (
+        <span className="soft-list__note">
+          {work.relationEn && <em>{work.relationEn}</em>}
+          {work.relationZh && <small>{work.relationZh}</small>}
+        </span>
+      )}
+    </>
+  );
+}
+
 function renderDetailImage(card: TheoryCard) {
   const { image, credit } = { image: card.image ?? getImageInfo(card).image, credit: card.imageCredit ?? getImageInfo(card).credit };
   const imageSrc = getUsableImageSrc(image);
@@ -203,8 +223,8 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
 
       {(card.quote || card.quoteSelections?.length || card.quoteReadingEn || card.quoteReadingZh) && (
         <section className="article-section">
-          <h3>Quote Reading</h3>
-          <span>引文精读</span>
+          <h3>{card.quotesTitle ?? 'Quote Reading'}</h3>
+          <span>{card.quotesTitleZh ?? '引文精读'}</span>
           {card.quote && (
             <blockquote>
               <p>{card.quote}</p>
@@ -228,7 +248,7 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
           <span>相关作品</span>
           <ul className="soft-list">
             {works.map((work) => (
-              <li key={work}>{work}</li>
+              <li key={getWorkKey(work)}>{renderWork(work)}</li>
             ))}
           </ul>
         </section>

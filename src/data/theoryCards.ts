@@ -51,7 +51,12 @@ export type TheoryCard = {
   explanationEn: string;
   explanationZh: string;
   reflectionQuestion: string;
-  relatedWorks: string[];
+  relatedWorks: Array<string | {
+    title: string;
+    titleZh?: string;
+    relationEn?: string;
+    relationZh?: string;
+  }>;
   person?: Person;
   personId?: string;
   sourceText?: string;
@@ -80,6 +85,8 @@ export type TheoryCard = {
     zh?: string;
     source?: string;
   }>;
+  quotesTitle?: string;
+  quotesTitleZh?: string;
 };
 
 // Add new daily almanac cards here. Keep dates in YYYY-MM-DD format so the Today page can match them.
