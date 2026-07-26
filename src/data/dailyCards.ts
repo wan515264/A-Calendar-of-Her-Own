@@ -2141,10 +2141,6 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
         ]
       }
     ],
-    quoteReadingEn:
-      "All highlighted lines in this entry are editorial summaries written for the calendar. They are not presented as direct quotations from the book.",
-    quoteReadingZh:
-      "本条目中的重点句均为日历编辑性概括，并非原书直接引文。",
     relatedWorks: [
       "Women in the Picture: What Culture Does with Female Bodies",
       "Katy Hessel, The Story of Art Without Men",
