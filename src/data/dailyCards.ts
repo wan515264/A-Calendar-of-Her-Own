@@ -36,6 +36,7 @@ export type DailyCard = {
       en?: string;
       zh?: string;
     }>;
+    quoteEn?: string;
     quoteZh?: string;
     attribution?: string;
     closingEn?: string;
@@ -2718,15 +2719,6 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
         ]
       },
       {
-        id: "selected-passage",
-        title: "Selected Passage",
-        titleZh: "书中引文",
-        quoteZh:
-          "浪漫小说是一种补偿性文学（compensatory literature）。它为她们提供了一种重要的、但在日常生活中被禁止的情感释放渠道，因为她们自己所认同的社会角色让她们几乎无法毫无愧疚、只为一己之欲地去追求个人的快乐。",
-        attribution:
-          "Janice A. Radway, Reading the Romance, Chapter 3｜珍妮斯·A. 拉德威，《阅读浪漫小说》，第三章“阅读浪漫小说的行为：逃避和教化”"
-      },
-      {
         id: "desire-to-be-cared-for",
         title: "The Desire to Be Cared For",
         titleZh: "被照顾的渴望",
@@ -2950,9 +2942,20 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
         closingEn:
           "The book gives her a room. But when the book closes, the room disappears.",
         closingZh:
-          "书为她提供了一间房间。但当书合上，那间房间也随之消失。",
-        closingNote:
-          "Editorial summary for this calendar entry; not a direct quotation from the book.｜以上为日历总结文案，并非原书引文。"
+          "书为她提供了一间房间。但当书合上，那间房间也随之消失。"
+      },
+      {
+        id: "quote-reading",
+        title: "Quote Reading",
+        titleZh: "引文精读",
+        chapterReference: "Selected Passage",
+        chapterReferenceZh: "书中引文",
+        quoteEn:
+          "Romance novels are a form of compensatory literature. They provide women with an important channel for emotional release, one that is forbidden in everyday life, because the social roles with which they identify make it almost impossible for them to pursue personal pleasure solely for their own desire and without guilt.",
+        quoteZh:
+          "浪漫小说是一种补偿性文学（compensatory literature）。它为她们提供了一种重要的、但在日常生活中被禁止的情感释放渠道，因为她们自己所认同的社会角色让她们几乎无法毫无愧疚、只为一己之欲地去追求个人的快乐。",
+        attribution:
+          "Janice A. Radway, Reading the Romance, Chapter 3｜珍妮斯·A. 拉德威，《阅读浪漫小说》，第三章“阅读浪漫小说的行为：逃避和教化”"
       }
     ],
     tagsZh: [

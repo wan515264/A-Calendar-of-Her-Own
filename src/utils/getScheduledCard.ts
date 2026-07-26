@@ -97,6 +97,7 @@ function getArticleSections(card: DailyCard) {
     titleZh: section.titleZh,
     en: [
       section.chapterReference,
+      section.quoteEn,
       bilingualBlocksToText(section.paragraphs, 'en'),
       section.closingEn
     ].filter(Boolean).join('\n\n'),
