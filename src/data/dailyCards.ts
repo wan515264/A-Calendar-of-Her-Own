@@ -17,6 +17,7 @@ export type DailyCard = {
   summaryZh?: string;
   highlightEn?: string;
   highlightZh?: string;
+  highlightNote?: string;
   focusSentenceEn?: string;
   focusSentenceZh?: string;
   introduction?: Array<{
@@ -29,10 +30,17 @@ export type DailyCard = {
     id?: string;
     title: string;
     titleZh?: string;
-    paragraphs: Array<{
+    chapterReference?: string;
+    chapterReferenceZh?: string;
+    paragraphs?: Array<{
       en?: string;
       zh?: string;
     }>;
+    quoteZh?: string;
+    attribution?: string;
+    closingEn?: string;
+    closingZh?: string;
+    closingNote?: string;
   }>;
   articleSections?: Array<{
     id?: string;
@@ -44,6 +52,7 @@ export type DailyCard = {
   location?: string;
   theoryFramework?: string;
   tags: string[];
+  tagsZh?: string[];
   relatedWorks?: Array<string | {
     title: string;
     titleZh?: string;
@@ -2527,20 +2536,440 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
   {
     id: "2026-07-26-reading-the-romance",
     date: "2026-07-26",
-    type: "criticism",
+    type: "book",
     title: "Reading the Romance: Women, Patriarchy, and Popular Literature",
     titleZh: "《阅读浪漫小说：女性、父权制和通俗文学》",
     author: "Janice A. Radway｜珍妮斯·A. 拉德威",
+    years: "First published 1984｜初版于1984年",
+    role: "Cultural Studies / Feminist Criticism｜文化研究 / 女性主义批评",
     focusTitle: "A Room Made of Reading",
     focusTitleZh: "一间由阅读构成的房间",
+    summaryEn:
+      "A woman opens a romance novel and, for a while, becomes unavailable to everyone around her. Janice A. Radway asks us to look beyond the stories inside these books and notice the act of reading itself: the privacy it creates, the demands it suspends, and the emotional care it offers to women who are usually expected to care for others.",
+    summaryZh:
+      "一个女人打开一本浪漫小说，并在一段时间里不再随时为身边的人待命。珍妮斯·A. 拉德威提醒我们，不应只关注书中的爱情故事，也要看见阅读行为本身：它创造的私人空间、它暂时中止的家庭要求，以及它给予那些总被期待照顾他人的女性的情感补给。",
+    highlightEn:
+      "Sometimes, reading is not an escape from life. It is a brief refusal to remain available to everyone.",
+    highlightZh:
+      "有时，阅读并不是逃离生活。它只是短暂地拒绝继续随时为所有人待命。",
+    highlightNote:
+      "Editorial summary for this calendar entry; not a direct quotation from the book.｜以上为日历概括文案，并非原书引文。",
     tags: [
+      "reading",
       "romance",
-      "popular literature",
-      "women readers",
+      "privacy",
+      "emotional care",
       "patriarchy",
-      "reading"
+      "popular culture"
+    ],
+    introduction: [
+      {
+        en: "Why do women read romance novels?",
+        zh: "女性为什么阅读浪漫小说？"
+      },
+      {
+        en: "For a long time, critics answered this question by analysing the books alone. They examined repetitive plots, idealised heroes, heterosexual marriage, and happy endings, then treated readers as passive recipients of whatever ideology the stories contained.",
+        zh: "长期以来，批评者主要通过分析文本本身来回答这个问题。他们研究重复的情节、理想化的男主人公、异性恋婚姻与幸福结局，并把读者视为被动接受故事意识形态的人。"
+      },
+      {
+        en: "Janice A. Radway changes the question. She does not ask only what romance novels mean. She asks what women are doing when they read them.",
+        zh: "珍妮斯·A. 拉德威改变了提问方式。她不仅追问浪漫小说意味着什么，也追问女性在阅读这些小说时究竟在做什么。"
+      },
+      {
+        en: "Her study follows a group of romance readers whom she calls the women of “Smithton.” By listening to their reading habits, preferences, frustrations, and interpretations, Radway shows that reading is not a simple transfer of meaning from a book into a reader’s mind.",
+        zh: "她的研究关注一群被称作“史密斯顿女性”的浪漫小说读者。通过倾听她们的阅读习惯、偏好、不满与解释，拉德威表明，阅读并不是文本意义被简单灌输进读者头脑的过程。"
+      },
+      {
+        en: "Reading is an activity embedded in everyday life. Its meaning depends on who reads, where she reads, what she temporarily refuses, and what she hopes the experience will provide.",
+        zh: "阅读是一种嵌入日常生活的活动。它的意义取决于谁在阅读、她在哪里阅读、她暂时拒绝了什么，以及她希望从阅读中获得什么。"
+      }
+    ],
+    sections: [
+      {
+        id: "reading-is-an-event",
+        title: "Reading Is an Event",
+        titleZh: "阅读本身就是一个事件",
+        chapterReference:
+          "Chapter 2: The Readers and Their Romances; Chapter 3: The Act of Romance Reading: Escape and Instruction",
+        chapterReferenceZh:
+          "第二章“读者和她们的浪漫小说”；第三章“阅读浪漫小说的行为：逃避和教化”",
+        paragraphs: [
+          {
+            en: "One of Radway’s most important methodological choices is to distinguish between the meaning of the romance narrative and the meaning of the act of reading it.",
+            zh: "拉德威最重要的方法之一，是区分浪漫小说叙事的意义与阅读这一行为本身的意义。"
+          },
+          {
+            en: "The story may end by reaffirming heterosexual marriage and traditional gender roles. Yet the act of picking up the book may have a different significance in the reader’s domestic life.",
+            zh: "故事可能最终重新确认异性恋婚姻与传统性别角色，但在读者的家庭生活中，拿起一本书这个动作却可能拥有完全不同的意义。"
+          },
+          {
+            en: "For the women Radway interviewed, reading announced a temporary withdrawal from the social roles of wife and mother.",
+            zh: "对于拉德威访谈的女性来说，阅读意味着暂时退出妻子与母亲的社会角色。"
+          },
+          {
+            en: "A woman absorbed in a book was physically present in the home, but her attention was no longer freely available to her family.",
+            zh: "一个沉浸在书中的女人，身体仍然留在家中，但她的注意力不再可以被家人随意调用。"
+          },
+          {
+            en: "The book created a boundary around her.",
+            zh: "书在她周围建立了一道边界。"
+          },
+          {
+            en: "In this sense, reading became what Radway describes as a small declaration of independence.",
+            zh: "从这个意义上说，阅读成为拉德威所描述的一种微小的“独立宣言”。"
+          }
+        ]
+      },
+      {
+        id: "temporary-refusal",
+        title: "A Temporary Refusal",
+        titleZh: "一次短暂的拒绝",
+        paragraphs: [
+          {
+            en: "The women in Radway’s study lived within households where they were expected to remain responsive to the physical and emotional needs of others.",
+            zh: "拉德威研究中的女性生活在这样的家庭结构中：她们被期待持续回应他人的身体需求与情感需求。"
+          },
+          {
+            en: "They prepared food, cared for children, maintained relationships, anticipated problems, and helped restore husbands and family members after the pressures of the outside world.",
+            zh: "她们准备食物、照顾孩子、维持关系、预见问题，也帮助丈夫与家庭成员从外部世界的压力中恢复过来。"
+          },
+          {
+            en: "But within this arrangement, no equivalent role was clearly responsible for restoring the wife and mother.",
+            zh: "然而，在这种安排中，却没有一个与之对应的角色，专门负责帮助妻子与母亲恢复精力。"
+          },
+          {
+            en: "Reading allowed her to say, without always speaking the words: For this moment, I am doing something for myself.",
+            zh: "阅读让她无需真正说出口，也能表达：在这一刻，我所做的事情只为了我自己。"
+          },
+          {
+            en: "The refusal was limited. It did not necessarily reorganise the division of labour in the family. But it interrupted the assumption that her time and attention belonged naturally to everyone else.",
+            zh: "这种拒绝是有限的。它未必会重新组织家庭中的劳动分工，却能够短暂打断一个根深蒂固的假设：她的时间与注意力天然属于其他所有人。"
+          },
+          {
+            en: "The simple act of opening a book exposed the personal cost hidden inside the ideal of the endlessly available wife and mother.",
+            zh: "打开一本书这个简单的动作，使“永远随时待命的妻子与母亲”这一理想背后的个人代价变得可见。"
+          }
+        ]
+      },
+      {
+        id: "escape-two-meanings",
+        title: "Escape Has Two Meanings",
+        titleZh: "“逃避”有两层含义",
+        chapterReference:
+          "Chapter 3: The Act of Romance Reading: Escape and Instruction",
+        chapterReferenceZh:
+          "第三章“阅读浪漫小说的行为：逃避和教化”",
+        paragraphs: [
+          {
+            en: "Romance reading is frequently dismissed as escapism.",
+            zh: "浪漫小说阅读常被贬低为一种逃避。"
+          },
+          {
+            en: "Radway refuses to treat the word so simply.",
+            zh: "拉德威拒绝如此简单地理解“逃避”。"
+          },
+          {
+            en: "Escape can mean withdrawing from an oppressive or exhausting environment. But it can also mean imagining a different future—one in which needs that remain unmet in ordinary life might finally be recognised.",
+            zh: "逃避可以意味着离开一种压迫性或令人疲惫的环境，也可以意味着想象另一种未来：在那里，日常生活中无法得到满足的需求终于能够被承认。"
+          },
+          {
+            en: "The women Radway interviewed were aware that romance novels were fantasies. Their reading did not depend on confusing fiction with reality.",
+            zh: "拉德威访谈的女性知道浪漫小说是幻想。她们的阅读并不建立在把虚构误认为现实的基础上。"
+          },
+          {
+            en: "What mattered was the distance the books created between ordinary life and another possible emotional world.",
+            zh: "真正重要的，是这些书在日常生活与另一种可能的情感世界之间创造出的距离。"
+          },
+          {
+            en: "In that distance, the reader could refuse the present and rehearse a wish for something else.",
+            zh: "在这段距离中，读者既可以拒绝当下，也可以预演对另一种生活的渴望。"
+          },
+          {
+            en: "Escape was therefore both a withdrawal and a utopian gesture.",
+            zh: "因此，逃避既是一种退离，也是一种乌托邦式的动作。"
+          }
+        ]
+      },
+      {
+        id: "compensatory-literature",
+        title: "Compensatory Literature",
+        titleZh: "补偿性文学",
+        paragraphs: [
+          {
+            en: "Radway finds that romance reading often functions as emotional restoration.",
+            zh: "拉德威发现，浪漫小说阅读常常发挥着情感恢复的作用。"
+          },
+          {
+            en: "The women in her study did not always read because they had nothing else to do. They often made deliberate space for reading within already busy lives.",
+            zh: "她研究中的女性并不总是因为无事可做才读书。相反，她们常常在已经十分忙碌的生活中，有意识地为阅读腾出时间。"
+          },
+          {
+            en: "Some reread familiar novels when they felt pressured, exhausted, or depressed because they already knew what emotional effect the ending would produce.",
+            zh: "有些女性会在感到压力、疲惫或低落时重读熟悉的小说，因为她们已经知道故事的结局会带来怎样的情绪效果。"
+          },
+          {
+            en: "The predictable movement toward safety and happiness could calm anxiety, restore optimism, and return the reader to everyday life feeling temporarily renewed.",
+            zh: "故事可以预期地走向安全与幸福，这能够舒缓焦虑、恢复乐观，并让读者带着短暂恢复的精神重新进入日常生活。"
+          },
+          {
+            en: "In this sense, romance fiction did not merely entertain. It supplied forms of emotional attention missing from the reader’s own environment.",
+            zh: "从这个意义上说，浪漫小说并不只是提供娱乐，也替读者补充了她们自身环境中缺失的情感关怀。"
+          }
+        ]
+      },
+      {
+        id: "selected-passage",
+        title: "Selected Passage",
+        titleZh: "书中引文",
+        quoteZh:
+          "浪漫小说是一种补偿性文学（compensatory literature）。它为她们提供了一种重要的、但在日常生活中被禁止的情感释放渠道，因为她们自己所认同的社会角色让她们几乎无法毫无愧疚、只为一己之欲地去追求个人的快乐。",
+        attribution:
+          "Janice A. Radway, Reading the Romance, Chapter 3｜珍妮斯·A. 拉德威，《阅读浪漫小说》，第三章“阅读浪漫小说的行为：逃避和教化”"
+      },
+      {
+        id: "desire-to-be-cared-for",
+        title: "The Desire to Be Cared For",
+        titleZh: "被照顾的渴望",
+        chapterReference:
+          "Chapter 3; Chapter 4: The Ideal Romance: The Promise of Patriarchy",
+        chapterReferenceZh:
+          "第三章；第四章“理想的浪漫小说：父权制的承诺”",
+        paragraphs: [
+          {
+            en: "Radway’s readers did not simply want stories of sexual passion.",
+            zh: "拉德威研究中的读者并不只是想阅读有关性激情的故事。"
+          },
+          {
+            en: "Again and again, they preferred narratives in which a distant, difficult, or emotionally restrained man eventually learned to recognise the heroine, understand her needs, and care for her tenderly.",
+            zh: "她们反复偏爱的，是这样的叙事：一个疏离、难以接近或不善表达情感的男人，最终学会承认女主人公、理解她的需求，并温柔地照顾她。"
+          },
+          {
+            en: "The fantasy was therefore not only about being desired.",
+            zh: "因此，这种幻想并不只是关于被欲望。"
+          },
+          {
+            en: "It was also about receiving care.",
+            zh: "它同样是关于接受照护。"
+          },
+          {
+            en: "The reader could identify with a heroine who was finally valued, protected, listened to, and emotionally replenished by another person.",
+            zh: "读者可以认同这样的女主人公：她最终被珍视、被保护、被倾听，也终于从另一个人那里得到情感补给。"
+          },
+          {
+            en: "This is especially significant because the reader’s ordinary role required her to provide precisely this kind of attention to others.",
+            zh: "这一点尤其重要，因为在日常生活中，读者自己的社会角色恰恰要求她把这种关注不断给予他人。"
+          },
+          {
+            en: "The romance reversed the direction of care.",
+            zh: "浪漫小说暂时倒转了照护的方向。"
+          },
+          {
+            en: "The woman who habitually nurtured everyone else could imagine herself as the person being nurtured.",
+            zh: "那个习惯于照顾所有人的女性，终于可以想象自己成为被照顾的人。"
+          }
+        ]
+      },
+      {
+        id: "hero-must-learn-to-read-her",
+        title: "The Hero Must Learn to Read Her",
+        titleZh: "男主人公必须学会理解她",
+        paragraphs: [
+          {
+            en: "In the romance novels preferred by Radway’s readers, the heroine is often misunderstood at first.",
+            zh: "在拉德威研究中的读者所偏爱的浪漫小说里，女主人公最初常常遭到误解。"
+          },
+          {
+            en: "The hero may appear cold, arrogant, emotionally unavailable, or even threatening. Much of the narrative is organised around the heroine’s attempt to interpret his contradictory behaviour.",
+            zh: "男主人公可能显得冷漠、傲慢、情感封闭，甚至带有威胁性。故事的大部分内容都围绕女主人公如何解释他矛盾的行为展开。"
+          },
+          {
+            en: "But the desired ending requires more than marriage.",
+            zh: "然而，读者所期待的结局并不只是婚姻。"
+          },
+          {
+            en: "The hero must be transformed.",
+            zh: "男主人公必须发生改变。"
+          },
+          {
+            en: "He must reveal that beneath his distance lies tenderness, loyalty, and the capacity to care.",
+            zh: "他必须证明，在疏离的外表之下，存在着温柔、忠诚与照护他人的能力。"
+          },
+          {
+            en: "The heroine’s emotional labour is rewarded when the man finally becomes capable of reading her as carefully as she has been required to read him.",
+            zh: "当这个男人终于能够像女主人公一直被要求理解他那样，细致地理解她时，她付出的情感劳动才算得到回报。"
+          },
+          {
+            en: "The fantasy promises that a powerful man can be converted into an attentive partner without the woman having to abandon heterosexual love or marriage.",
+            zh: "这种幻想承诺：一个拥有权力的男人可以转变为体贴的伴侣，而女性无需因此放弃异性恋爱情或婚姻。"
+          }
+        ]
+      },
+      {
+        id: "contradiction-of-romance",
+        title: "The Contradiction of Romance",
+        titleZh: "浪漫小说的矛盾",
+        paragraphs: [
+          {
+            en: "Radway does not describe romance reading as simply liberating or simply oppressive.",
+            zh: "拉德威并没有把浪漫小说阅读描述成纯粹的解放，也没有把它描述成纯粹的压迫。"
+          },
+          {
+            en: "The act of reading can be resistant.",
+            zh: "阅读行为本身可以具有抵抗性。"
+          },
+          {
+            en: "It gives women private time, emotional restoration, pleasure, and a temporary refusal of self-sacrifice.",
+            zh: "它给予女性私人时间、情感恢复、快乐，以及对自我牺牲的短暂拒绝。"
+          },
+          {
+            en: "Yet the narratives often resolve women’s dissatisfaction within the very structures that helped produce it.",
+            zh: "然而，故事往往又在最初制造女性不满的同一套结构中解决这些不满。"
+          },
+          {
+            en: "The heroine receives care not because domestic and emotional labour has been redistributed across society, but because one exceptional man has learned to care for her.",
+            zh: "女主人公之所以获得照护，并不是因为社会重新分配了家庭劳动与情感劳动，而是因为一个不同寻常的男人终于学会照顾她。"
+          },
+          {
+            en: "The reader’s desire is acknowledged, but its fulfilment remains attached to heterosexual monogamy and patriarchal marriage.",
+            zh: "读者的欲望得到了承认，但这种欲望的满足仍然依附于异性恋一夫一妻制与父权婚姻。"
+          },
+          {
+            en: "The books therefore offer relief without necessarily transforming the conditions that made relief necessary.",
+            zh: "因此，这些书提供了安慰，却未必改变了使这种安慰成为必要的现实条件。"
+          }
+        ]
+      },
+      {
+        id: "resistance-and-recontainment",
+        title: "Resistance and Recontainment",
+        titleZh: "抵抗与重新收编",
+        paragraphs: [
+          {
+            en: "Radway’s analysis remains powerful because she refuses a simple answer.",
+            zh: "拉德威的分析之所以仍然有力量，正是因为她拒绝给出简单答案。"
+          },
+          {
+            en: "If we study only the content of romance novels, we may conclude that the genre reinforces patriarchal values.",
+            zh: "如果我们只研究浪漫小说的文本内容，可能会认为这一文类强化了父权价值。"
+          },
+          {
+            en: "If we study only the readers’ experience, we may conclude that reading offers autonomy, pleasure, and resistance.",
+            zh: "如果我们只研究读者的经验，又可能认为阅读提供了自主、快乐与抵抗。"
+          },
+          {
+            en: "Radway insists that both can be true at once.",
+            zh: "拉德威坚持认为，这两种判断可以同时成立。"
+          },
+          {
+            en: "A cultural practice can resist one part of a social order while reproducing another.",
+            zh: "一种文化实践可以抵抗某一部分社会秩序，同时又复制它的另一部分。"
+          },
+          {
+            en: "The reading act may challenge the family’s claim over a woman’s time, while the story may reassure her that emotional fulfilment will eventually arrive through the right man.",
+            zh: "阅读行为可能挑战家庭对女性时间的占有，但故事又可能安慰她：情感满足终究会通过那个“正确的男人”到来。"
+          },
+          {
+            en: "The contradiction cannot be resolved simply by calling the reader liberated or deceived.",
+            zh: "这种矛盾无法通过把读者称作“获得解放”或“受到欺骗”来解决。"
+          },
+          {
+            en: "It must be understood as part of the complexity of living, reading, and seeking pleasure within structures one has not freely chosen.",
+            zh: "我们必须把它理解为一种复杂处境：人们生活在并非由自己自由选择的结构中，却仍然试图在其中阅读、感受并寻找快乐。"
+          }
+        ]
+      },
+      {
+        id: "limits-of-study",
+        title: "The Limits of the Study",
+        titleZh: "这项研究的边界",
+        paragraphs: [
+          {
+            en: "Radway is careful not to present the women of Smithton as representatives of all romance readers.",
+            zh: "拉德威谨慎地避免把史密斯顿女性当作所有浪漫小说读者的代表。"
+          },
+          {
+            en: "They formed a relatively small and socially similar group, and their reading practices cannot automatically be generalised to women of different classes, races, educational backgrounds, generations, or sexual identities.",
+            zh: "她们是一个规模较小且社会背景相对相似的群体。她们的阅读实践不能被自动推广到不同阶级、种族、教育背景、世代或性身份的女性身上。"
+          },
+          {
+            en: "This limitation is not a weakness to be hidden. It is part of the book’s method.",
+            zh: "这种局限并不是需要掩盖的缺陷，而是本书研究方法的一部分。"
+          },
+          {
+            en: "Radway shows that meanings cannot be assumed in advance. They must be studied in relation to particular readers, social positions, institutions, and habits.",
+            zh: "拉德威表明，意义不能被预先假定，而必须结合具体的读者、社会位置、制度与习惯进行研究。"
+          },
+          {
+            en: "Different women may use the same genre in different ways.",
+            zh: "不同的女性可能以完全不同的方式使用同一种文类。"
+          },
+          {
+            en: "The lesson is not that romance always liberates or always confines, but that criticism must listen to readers before deciding what reading does to them.",
+            zh: "真正的结论并不是浪漫小说总能解放女性，或总会限制女性，而是：在判断阅读对人产生何种影响之前，批评必须首先倾听读者。"
+          }
+        ]
+      },
+      {
+        id: "room-made-of-reading",
+        title: "A Room Made of Reading",
+        titleZh: "一间由阅读构成的房间",
+        paragraphs: [
+          {
+            en: "Virginia Woolf argued that a woman needed money and a room of her own in order to write.",
+            zh: "弗吉尼亚·伍尔夫曾指出，女性若要写作，需要金钱与一间自己的房间。"
+          },
+          {
+            en: "The women in Radway’s study did not always possess such a room.",
+            zh: "拉德威研究中的女性未必真正拥有这样一间房间。"
+          },
+          {
+            en: "Instead, they sometimes made one through reading.",
+            zh: "于是，她们有时通过阅读制造出这样一间房间。"
+          },
+          {
+            en: "The room was not built from walls. It was built from attention.",
+            zh: "这间房间不是由墙壁构成，而是由注意力构成。"
+          },
+          {
+            en: "It existed when a woman opened a book, withdrew from the demands surrounding her, and claimed a portion of time as her own.",
+            zh: "当一个女人打开一本书，从周围的要求中暂时退出，并把一段时间认作属于自己时，这间房间便出现了。"
+          },
+          {
+            en: "But it was fragile.",
+            zh: "然而，它十分脆弱。"
+          },
+          {
+            en: "It depended on the book remaining open.",
+            zh: "它依赖那本书始终保持打开。"
+          },
+          {
+            en: "When the story ended, the reader often returned to the same household arrangements, the same emotional obligations, and the same uneven distribution of care.",
+            zh: "当故事结束，读者往往重新回到原有的家庭安排、原有的情感义务，以及原有的不平等照护分工之中。"
+          }
+        ],
+        closingEn:
+          "The book gives her a room. But when the book closes, the room disappears.",
+        closingZh:
+          "书为她提供了一间房间。但当书合上，那间房间也随之消失。",
+        closingNote:
+          "Editorial summary for this calendar entry; not a direct quotation from the book.｜以上为日历总结文案，并非原书引文。"
+      }
+    ],
+    tagsZh: [
+      "阅读",
+      "浪漫小说",
+      "私人空间",
+      "情感恢复",
+      "照护",
+      "家庭劳动",
+      "父权制",
+      "通俗文学",
+      "受众研究",
+      "女性主义批评"
     ],
     sourceText: "Reading the Romance",
+    sourceNote:
+      "This entry is based on Janice A. Radway, Reading the Romance: Women, Patriarchy, and Popular Literature. The Related Works section has been intentionally omitted.｜本篇依据珍妮斯·A. 拉德威《阅读浪漫小说：女性、父权制和通俗文学》整理，并按要求删除“相关作品”部分。",
     status: "published"
   }
 ];

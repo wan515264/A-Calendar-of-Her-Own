@@ -95,8 +95,19 @@ function getArticleSections(card: DailyCard) {
     id: section.id,
     title: section.title,
     titleZh: section.titleZh,
-    en: bilingualBlocksToText(section.paragraphs, 'en'),
-    zh: bilingualBlocksToText(section.paragraphs, 'zh')
+    en: [
+      section.chapterReference,
+      bilingualBlocksToText(section.paragraphs, 'en'),
+      section.closingEn
+    ].filter(Boolean).join('\n\n'),
+    zh: [
+      section.chapterReferenceZh,
+      section.quoteZh,
+      section.attribution,
+      bilingualBlocksToText(section.paragraphs, 'zh'),
+      section.closingZh,
+      section.closingNote
+    ].filter(Boolean).join('\n\n')
   }));
 }
 
