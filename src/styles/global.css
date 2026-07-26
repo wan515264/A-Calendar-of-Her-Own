@@ -21,6 +21,27 @@
   --sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
+:root[data-theme='light'] {
+  --bg: #fff8f2;
+  --bg-deep: #f6e9dd;
+  --card: rgba(255, 252, 247, 0.86);
+  --card-soft: rgba(91, 42, 66, 0.06);
+  --text: #3b1027;
+  --muted: #7a5a66;
+  --gold: #9b6f22;
+  --gold-soft: rgba(155, 111, 34, 0.28);
+  --purple: #7a5ca2;
+  --purple-soft: rgba(217, 199, 232, 0.44);
+  --rose-gold: #b36e78;
+  --border: rgba(128, 83, 74, 0.24);
+  --pink: #b36e78;
+  --lavender: #d9c7e8;
+  --beige: #f3e3c3;
+  --soft-pink: rgba(217, 139, 165, 0.2);
+  --soft-lavender: rgba(217, 199, 232, 0.42);
+  --shadow: 0 22px 54px rgba(87, 49, 38, 0.16);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -45,6 +66,14 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
+}
+
+:root[data-theme='light'] body {
+  background-image:
+    radial-gradient(circle at 18% 8%, rgba(217, 139, 165, 0.16), transparent 18rem),
+    radial-gradient(circle at 92% 12%, rgba(217, 199, 232, 0.42), transparent 16rem),
+    linear-gradient(rgba(255, 248, 242, 0.88), rgba(255, 248, 242, 0.94)),
+    url("/A-Calendar-of-Her-Own/magical-library-bg.jpeg");
 }
 
 button,
@@ -74,6 +103,36 @@ h4 {
   min-height: 100vh;
   margin: 0 auto;
   padding: 18px 16px calc(108px + env(safe-area-inset-bottom));
+}
+
+.theme-toggle {
+  position: fixed;
+  top: calc(14px + env(safe-area-inset-top));
+  right: max(14px, calc((100vw - 720px) / 2 + 14px));
+  z-index: 30;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 40px;
+  padding: 9px 12px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--gold);
+  font: 0.78rem/1 var(--sans);
+  font-weight: 800;
+  background: color-mix(in srgb, var(--card) 88%, transparent);
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(14px);
+  cursor: pointer;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+  outline: none;
+  border-color: var(--gold-soft);
+  box-shadow:
+    0 0 0 3px rgba(232, 199, 122, 0.12),
+    0 14px 32px rgba(0, 0, 0, 0.18);
 }
 
 .home-page {
@@ -131,7 +190,7 @@ h4 {
   border-radius: 24px;
   background:
     radial-gradient(circle at top right, rgba(232, 199, 122, 0.14), transparent 34%),
-    rgba(20, 9, 25, 0.76);
+    var(--card);
   box-shadow: 0 24px 80px rgba(0, 0, 0, 0.32);
   backdrop-filter: blur(14px);
 }
@@ -172,7 +231,7 @@ h4 {
 
 .sister-project-note {
   margin: 0.75rem 0 0;
-  color: rgba(255, 244, 216, 0.78);
+  color: var(--muted);
   font-size: 0.95rem;
   line-height: 1.6;
 }
@@ -232,7 +291,7 @@ h4 {
   background:
     linear-gradient(90deg, rgba(232, 199, 122, 0.055) 1px, transparent 1px),
     linear-gradient(rgba(232, 199, 122, 0.04) 1px, transparent 1px),
-    linear-gradient(180deg, rgba(24, 12, 28, 0.86), rgba(9, 4, 13, 0.74));
+    linear-gradient(180deg, color-mix(in srgb, var(--card) 92%, transparent), color-mix(in srgb, var(--bg-deep) 78%, transparent));
   background-size: 18px 18px, 18px 18px, auto;
   box-shadow:
     0 2px 0 rgba(232, 199, 122, 0.16),
@@ -408,7 +467,7 @@ h4 {
 .detail-section {
   border: 1px solid var(--border);
   border-radius: 26px;
-  background: rgba(20, 9, 25, 0.78);
+  background: var(--card);
   box-shadow: var(--shadow);
   backdrop-filter: blur(14px);
 }
@@ -567,7 +626,7 @@ h4 {
   max-height: 320px;
   border: 1px solid rgba(232, 199, 122, 0.35);
   border-radius: 24px;
-  background: rgba(9, 4, 13, 0.65);
+  background: var(--bg-deep);
   box-shadow: 0 18px 44px rgba(0, 0, 0, 0.34);
 }
 
@@ -1023,7 +1082,7 @@ blockquote cite {
   padding: 18px;
   border: 1px solid var(--border);
   border-radius: 22px;
-  background: rgba(20, 9, 25, 0.72);
+  background: var(--card);
   box-shadow: 0 18px 46px rgba(0, 0, 0, 0.24);
   backdrop-filter: blur(12px);
 }
@@ -1330,7 +1389,7 @@ blockquote cite {
   padding: 18px;
   border: 1px solid var(--border);
   border-radius: 24px;
-  background: rgba(20, 9, 25, 0.72);
+  background: var(--card);
   backdrop-filter: blur(12px);
 }
 
@@ -1353,7 +1412,7 @@ blockquote cite {
   border-radius: 999px;
   color: var(--muted);
   font-weight: 800;
-  background: rgba(20, 9, 25, 0.62);
+  background: var(--card);
 }
 
 .library-tabs button.is-active {
@@ -1370,7 +1429,7 @@ blockquote cite {
   padding: 18px;
   border: 1px solid var(--border);
   border-radius: 24px;
-  background: rgba(20, 9, 25, 0.74);
+  background: var(--card);
   box-shadow: 0 18px 46px rgba(0, 0, 0, 0.24);
   backdrop-filter: blur(14px);
 }
@@ -1393,14 +1452,14 @@ blockquote cite {
 }
 
 .library-section--feature {
-  background: linear-gradient(135deg, rgba(95, 58, 126, 0.42), rgba(20, 9, 25, 0.76));
+  background: linear-gradient(135deg, var(--purple-soft), var(--card));
 }
 
 .library-section--collection,
 .library-section--keywords {
   background:
     radial-gradient(circle at top left, rgba(232, 199, 122, 0.08), transparent 34%),
-    rgba(20, 9, 25, 0.74);
+    var(--card);
 }
 
 .library-card-list {
@@ -1595,7 +1654,7 @@ blockquote cite {
   color: var(--text);
   font: inherit;
   font-weight: 730;
-  background: rgba(20, 9, 25, 0.72);
+  background: var(--card);
   backdrop-filter: blur(12px);
 }
 
@@ -1611,9 +1670,9 @@ blockquote cite {
   width: min(calc(100% - 24px), 700px);
   margin: 0 auto;
   padding: 8px 8px calc(8px + env(safe-area-inset-bottom));
-  border: 1px solid rgba(201, 137, 143, 0.38);
+  border: 1px solid var(--border);
   border-radius: 22px;
-  background: rgba(12, 5, 16, 0.78);
+  background: color-mix(in srgb, var(--card) 88%, transparent);
   box-shadow: 0 20px 54px rgba(0, 0, 0, 0.42);
   backdrop-filter: blur(18px);
 }
@@ -1627,7 +1686,7 @@ blockquote cite {
   justify-content: center;
   gap: 3px;
   border-radius: 16px;
-  color: rgba(255, 244, 216, 0.68);
+  color: var(--muted);
   font-size: 0.62rem;
   font-weight: 720;
 }
@@ -1661,6 +1720,14 @@ blockquote cite {
 }
 
 @media (max-width: 768px) {
+  .theme-toggle {
+    top: calc(10px + env(safe-area-inset-top));
+    right: 12px;
+    min-height: 36px;
+    padding: 8px 10px;
+    font-size: 0.7rem;
+  }
+
   .sister-project-card {
     align-items: flex-start;
     flex-direction: column;

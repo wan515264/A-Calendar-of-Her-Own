@@ -1930,112 +1930,288 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
     status: "published"
   },
   {
-    id: "2026-07-23-why-love-hurts",
+    id: "2026-07-23-eva-illouz-why-love-hurts",
     date: "2026-07-23",
     type: "theory",
     title: "Why Love Hurts: A Sociological Explanation",
     titleZh: "《爱，为什么痛？》",
     author: "Eva Illouz｜伊娃·易洛思",
+    years: "Published 2012",
     role: "Theory / Sociology｜理论 / 社会学",
     focusTitle: "Why Does Freedom Also Make Love Hurt?",
     focusTitleZh: "为什么自由也会让爱变得更痛？",
     summaryEn:
-      "We often experience romantic suffering as evidence that something is wrong with us. Eva Illouz invites us to look beyond the private self. The pain of modern love is also shaped by the social conditions under which people desire, choose, compare, and commit to one another.",
+      "We often experience romantic suffering as evidence that something is wrong with us. We search our childhood, personality, appearance, and past decisions for an explanation. Eva Illouz asks us to look beyond the private self. The pain of modern love is also produced by the social conditions under which people desire, choose, compare, and commit to one another.",
     summaryZh:
-      "我们常把爱情中的痛苦理解为自身出了问题。伊娃·易洛思邀请我们把目光移出私人自我：现代爱情的痛苦，也产生于人们学习欲望、选择、比较与承诺的社会条件之中。",
-    focusSentenceEn:
+      "我们常把爱情中的痛苦理解为自身出了问题。我们从童年、性格、外貌和过去的选择中寻找原因。伊娃·易洛思却邀请我们把目光移出私人自我：现代爱情的痛苦，也产生于人们学习欲望、选择、比较与承诺的社会条件之中。",
+    highlightEn:
       "Love may feel entirely personal. Yet the conditions under which we love are social.",
-    focusSentenceZh:
+    highlightZh:
       "爱情或许是一种极其私人的感受，但我们如何去爱，始终受到社会条件的塑造。",
-    articleSections: [
+    introduction: [
       {
-        id: "introduction",
-        title: "Introduction",
-        titleZh: "爱的痛苦，不只是个人的失败",
-        en: "Illouz argues that psychological explanations become incomplete when they hide the institutions, markets, gender relations, and cultural ideals that organise intimate life.",
-        zh: "易洛思指出，当心理解释遮蔽了组织亲密生活的制度、市场、性别关系与文化理想时，它就变得不完整。"
+        en: "Heartbreak is usually narrated in the first person. Why was I rejected? Why was I not enough? Why did I choose the wrong person? Contemporary culture encourages us to answer these questions through psychology: perhaps we are emotionally damaged, afraid of intimacy, or repeating patterns learned in childhood.",
+        zh: "心碎通常以第一人称被讲述：为什么我被拒绝？为什么我不够好？为什么我选择了错误的人？当代文化往往引导我们从心理层面寻找答案：也许我们曾经受过伤，也许我们害怕亲密，也许我们正在重复童年形成的模式。"
       },
+      {
+        en: "Illouz does not deny that personal history matters. But she argues that psychological explanations become misleading when they hide the institutions, markets, gender relations, and cultural ideals that organise intimate life.",
+        zh: "易洛思并不否认个人经历的重要性。但她指出，当心理解释遮蔽了组织亲密生活的制度、市场、性别关系与文化理想时，它就会误导我们。"
+      },
+      {
+        en: "Her question is therefore not simply why a particular relationship failed. It is why uncertainty, self-doubt, unequal commitment, and disappointment have become recurring features of modern love.",
+        zh: "因此，她所追问的并不只是某一段关系为何失败，而是：为什么不确定、自我怀疑、不平等的承诺与失望，会成为现代爱情中反复出现的经验？"
+      }
+    ],
+    sections: [
       {
         id: "romantic-freedom",
         title: "Romantic Freedom Has a History",
         titleZh: "浪漫自由也有它的历史",
-        en: "Modern love is organised around freedom, autonomy, and personal choice.",
-        zh: "现代爱情围绕自由、自主与个人选择展开。"
+        paragraphs: [
+          {
+            en: "Modern love is built around ideals that earlier societies did not organise in quite the same way: individual freedom, emotional authenticity, sexual autonomy, and the right to choose one’s own partner.",
+            zh: "现代爱情建立在一些过去的社会并未以相同方式组织的理想之上：个人自由、情感真实、性自主，以及自行选择伴侣的权利。"
+          },
+          {
+            en: "These freedoms were historically significant, especially for women. They weakened the authority of family, religion, and community over marriage. Yet liberation did not remove power from intimate life. It reorganised it.",
+            zh: "这些自由具有重要的历史意义，尤其对女性而言。它们削弱了家庭、宗教与共同体对婚姻的支配。但解放并没有让权力从亲密关系中消失，而是重新组织了权力。"
+          },
+          {
+            en: "Once partners must be freely chosen, the question of who is desirable, who has more options, and who can define the terms of a relationship becomes increasingly consequential.",
+            zh: "当伴侣必须通过自由选择产生时，谁更有吸引力、谁拥有更多选择，以及谁有能力决定关系的条件，便变得越来越重要。"
+          },
+          {
+            en: "Freedom expands the possibility of love. It also makes the social inequalities hidden inside choice more difficult to see.",
+            zh: "自由扩大了爱情的可能性，却也让隐藏在“选择”之中的社会不平等更难被察觉。"
+          }
+        ]
       },
       {
         id: "marriage-markets",
         title: "The Emergence of Marriage Markets",
         titleZh: "婚姻市场如何形成",
-        en: "Partner selection increasingly operates within market-like structures.",
-        zh: "现代伴侣选择越来越发生在一种类似市场的结构中。"
+        paragraphs: [
+          {
+            en: "Illouz describes modern partner selection as taking place within a market-like structure. This does not mean that people literally purchase one another, or that love is unreal. It means that potential partners meet within fields organised by competition, comparison, scarcity, and unequal forms of value.",
+            zh: "易洛思将现代伴侣选择描述为一种类似市场的结构。这并不是说人们真的在购买彼此，也不是说爱情并不真实，而是说：潜在伴侣相遇的场域受到竞争、比较、稀缺与不平等价值的组织。"
+          },
+          {
+            en: "Appearance, education, class, income, cultural competence, sexuality, and lifestyle can all become criteria through which people are evaluated.",
+            zh: "外貌、教育、阶级、收入、文化能力、性吸引力与生活方式，都可能成为人们评价彼此的标准。"
+          },
+          {
+            en: "The language of romantic freedom suggests that everyone chooses as an autonomous individual. Yet choices are never made on equal ground. Some people possess more social, sexual, or economic resources and therefore have greater power to attract, delay, compare, or refuse.",
+            zh: "浪漫自由的语言仿佛意味着，每个人都作为自主个体进行选择。但选择从来不是在平等的基础上发生的。有些人拥有更多社会、性或经济资源，因此也拥有更大的吸引、拖延、比较或拒绝他人的能力。"
+          },
+          {
+            en: "Love circulates through a social world in which not everyone has the same power to determine how they will be loved.",
+            zh: "爱情流通于一个并不平等的社会世界。在这个世界里，并不是每个人都同样有能力决定自己将以何种方式被爱。"
+          }
+        ]
       },
       {
-        id: "choice-and-certainty",
+        id: "choice-and-uncertainty",
         title: "Too Much Choice, Too Little Certainty",
         titleZh: "选择越多，确定反而越困难",
-        en: "Freedom expands possibilities but also postpones commitment.",
-        zh: "自由扩大了可能性，却也推迟了承诺。"
+        paragraphs: [
+          {
+            en: "Modern romantic choice is expected to be both free and correct. We are asked not only to find someone, but to identify the person who best satisfies an expanding list of emotional, intellectual, sexual, and social expectations.",
+            zh: "现代爱情要求我们的选择既自由又正确。我们不仅要找到一个人，还要从不断扩张的情感、智识、性与社会标准中，辨认出最适合自己的那个人。"
+          },
+          {
+            en: "But an abundance of possibilities can make commitment harder rather than easier. Every choice preserves the thought of alternatives: perhaps someone more compatible, more attractive, or more fulfilling remains elsewhere.",
+            zh: "然而，可能性的增加未必让承诺变得更容易。每一次选择都保留着对其他可能的想象：也许在别处，还有一个更合适、更有吸引力，或更能满足自己的人。"
+          },
+          {
+            en: "The problem is not simply that modern people are selfish or immature. The very architecture of choice encourages comparison, evaluation, and the postponement of final decisions.",
+            zh: "问题并不只是现代人更加自私或不成熟。选择本身的结构就在鼓励比较、评估，以及对最终决定的不断延迟。"
+          },
+          {
+            en: "Commitment becomes difficult when freedom is understood as the permanent preservation of options.",
+            zh: "当自由被理解为永远保留其他选项时，承诺便会变得格外困难。"
+          }
+        ]
       },
       {
         id: "commitment-and-power",
         title: "Commitment Is Also a Question of Power",
         titleZh: "承诺也是一个权力问题",
-        en: "Illouz describes emotional inequality within the heterosexual romantic field she studies.",
-        zh: "易洛思描述了她所研究的异性恋爱情场域中的情感不平等。"
+        paragraphs: [
+          {
+            en: "Illouz treats commitment not only as a feeling, but as a social act. To commit is to reduce one’s alternatives, bind one’s future to another person, and accept a measure of dependence.",
+            zh: "易洛思并不只把承诺视为一种感受，也把它视为一种社会行动。承诺意味着减少自己的其他选择，把未来与另一个人联系起来，并接受一定程度的依赖。"
+          },
+          {
+            en: "The person who can remain uncertain, delay definition, or withdraw emotional investment often occupies the stronger position. The person who waits for clarity bears more of the anxiety.",
+            zh: "能够保持不确定、推迟定义关系或撤回情感投入的人，往往处于更有力量的位置；而等待明确答案的人，则承担了更多焦虑。"
+          },
+          {
+            en: "In the heterosexual relationships analysed in the book, Illouz argues that sexual freedom continued to operate within persistent gender inequalities. Men and women did not necessarily enter the romantic field with the same opportunities, expectations, or consequences.",
+            zh: "在书中分析的异性恋关系里，易洛思认为，性自由依然运行于持续存在的性别不平等之中。男性与女性进入爱情场域时，未必拥有相同的机会、期待与后果。"
+          },
+          {
+            en: "She uses the term “emotional inequality” to describe structures in which one group has a greater capacity to withhold emotion or avoid commitment, while another is more likely to seek continuity and recognition through the relationship.",
+            zh: "她使用“情感不平等”一词，描述这样一种结构：一方拥有更大的能力撤回情感或回避承诺，另一方则更可能通过关系寻求持续性与承认。"
+          },
+          {
+            en: "This is not a universal description of every man, woman, or relationship. It is an account of patterned inequalities within the particular heterosexual field the book examines.",
+            zh: "这并不是对每一个男人、女人或每一段关系的普遍判断，而是对本书所研究的特定异性恋场域中，反复出现的结构性不平等的分析。"
+          }
+        ]
       },
       {
-        id: "romantic-recognition",
+        id: "recognition",
         title: "Why Being Loved Feels Like Proof of Our Worth",
-        titleZh: "为什么被爱会成为自我价值的证明",
-        en: "Romantic recognition increasingly becomes a way through which people experience self-worth.",
-        zh: "浪漫关系中的承认越来越成为人们确认自我价值的重要方式。"
+        titleZh: "为什么被爱会成为自我价值的证明？",
+        paragraphs: [
+          {
+            en: "In modern societies, identity is expected to come from within. We are told to know our worth independently of other people’s judgment. Yet our sense of value remains deeply dependent on recognition.",
+            zh: "现代社会要求身份来自内在。我们被告知，应当独立于他人的判断确认自己的价值。然而，我们的价值感依然深深依赖他人的承认。"
+          },
+          {
+            en: "Romantic love has become one of the most powerful sites where this recognition is sought. To be chosen by someone desirable can feel like confirmation that we ourselves are valuable.",
+            zh: "浪漫爱情已经成为人们寻求承认的最重要场域之一。被一个具有吸引力的人选择，可能让我们觉得，自己的价值也因此获得了确认。"
+          },
+          {
+            en: "For this reason, rejection rarely feels like the loss of a single possibility. It can be experienced as a judgment on the whole self.",
+            zh: "正因如此，被拒绝很少只意味着失去一种可能。它可能被体验为对整个自我的判决。"
+          },
+          {
+            en: "We do not merely ask, “Why did this relationship end?” We ask, “What does its ending reveal about me?”",
+            zh: "我们不仅会问：“这段关系为什么结束？”还会问：“它的结束说明了我是一个怎样的人？”"
+          },
+          {
+            en: "The modern self is required to appear autonomous, yet love makes visible how dependent self-worth remains on the gaze and choice of others.",
+            zh: "现代自我被要求表现得自主独立，但爱情却揭示了：我们的价值感依然多么依赖他人的目光与选择。"
+          }
+        ]
       },
       {
         id: "rationalised-passion",
         title: "Passion Has Been Rationalised",
         titleZh: "激情如何被理性化",
-        en: "Love becomes caught between spontaneity and calculation.",
-        zh: "爱情因此处于自发与计算之间。"
+        paragraphs: [
+          {
+            en: "Modern culture celebrates intense feeling, but it also asks us to examine, manage, and justify it. We assess compatibility, identify emotional needs, establish boundaries, calculate risks, and look for warning signs.",
+            zh: "现代文化一方面赞美强烈的情感，另一方面又要求我们审视、管理并证明这些情感的合理性。我们评估契合度、辨认情感需求、设定边界、计算风险，并寻找危险信号。"
+          },
+          {
+            en: "Illouz does not argue that reason has simply destroyed passion. Her subtler claim is that rationality now works from inside emotional life.",
+            zh: "易洛思并不是简单地认为理性摧毁了激情。她更细致的观点是：理性如今从情感生活的内部发挥作用。"
+          },
+          {
+            en: "We are expected to feel spontaneously and, at the same time, to monitor whether those feelings are healthy, reciprocal, efficient, and compatible with our long-term interests.",
+            zh: "我们既被要求自发地感受，又必须持续监控这些感受是否健康、互惠、有效，以及是否符合自身的长期利益。"
+          },
+          {
+            en: "Love is therefore caught between surrender and self-protection. We are invited to lose ourselves in feeling, while remaining sufficiently detached to evaluate it.",
+            zh: "因此，爱情被置于投入与自我保护之间。我们被邀请沉浸于情感，同时又必须保持足够的距离，对它进行评估。"
+          },
+          {
+            en: "This tension can produce irony: we desire belief in love, yet remain suspicious of our own desire to believe.",
+            zh: "这种张力会产生一种反讽：我们渴望相信爱情，却又怀疑自己为何如此渴望相信。"
+          }
+        ]
       },
       {
         id: "romantic-imagination",
         title: "Romantic Imagination and Disappointment",
         titleZh: "浪漫想象如何制造失望",
-        en: "Consumer culture provides images of ideal intimacy before relationships begin.",
-        zh: "消费文化在关系开始之前，就提供了理想亲密关系的图景。"
+        paragraphs: [
+          {
+            en: "Love never begins with two people alone. It also begins with stories, images, songs, films, advertisements, memories, and fantasies about what love should feel like.",
+            zh: "爱情从来不只始于两个人。它也始于故事、图像、歌曲、电影、广告、记忆，以及关于爱情应当是什么感觉的幻想。"
+          },
+          {
+            en: "Modern consumer culture does not merely sell objects. It provides scenes in which intimacy can be imagined: travel, beauty, privacy, luxury, transformation, and escape from ordinary life.",
+            zh: "现代消费文化出售的并不只是物品，也提供了想象亲密关系的场景：旅行、美、私密、奢华、改变，以及对日常生活的逃离。"
+          },
+          {
+            en: "These images give desire a form before a real relationship has begun. We may therefore compare lived intimacy not only with other possible partners, but with an imagined emotional experience.",
+            zh: "在真实关系开始之前，这些图像就已经赋予欲望某种形式。因此，我们不仅会把眼前的伴侣与其他可能对象比较，也会把实际的亲密关系与想象中的情感经验比较。"
+          },
+          {
+            en: "Disappointment emerges from the distance between the intensity promised by fantasy and the unevenness of ordinary life.",
+            zh: "失望便产生于两者之间的距离：一边是幻想所承诺的强烈体验，另一边是普通生活不可避免的琐碎与不均衡。"
+          },
+          {
+            en: "The problem is not that imagination is false. It is that imagination has become institutionalised, repeated, and connected to systems of consumption that continually renew longing.",
+            zh: "问题不在于想象是虚假的，而在于想象已经被制度化、被反复复制，并与不断更新欲望的消费体系联系在一起。"
+          }
+        ]
       },
       {
-        id: "sociology-question",
+        id: "sociological-question",
         title: "Sociology Changes the Question",
         titleZh: "社会学改变了我们提问的方式",
-        en: "Personal suffering can be understood within broader historical and institutional structures.",
-        zh: "个人痛苦可以放在更广阔的历史与制度结构中理解。"
+        paragraphs: [
+          {
+            en: "Illouz does not claim that social analysis can make love painless. Nor does she argue that every failed relationship is caused by capitalism, patriarchy, or the abundance of choice.",
+            zh: "易洛思并不认为社会分析能够让爱情从此不再痛苦，也没有把每一段失败的关系都简单归因于资本主义、父权制或选择过剩。"
+          },
+          {
+            en: "Her intervention is more precise: experiences that feel uniquely personal often follow social patterns. Our most intimate emotions are shaped by institutions and histories that existed before us.",
+            zh: "她的介入更加准确：那些看起来只属于个人的经验，往往遵循着社会模式。我们最私密的情感，也受到早于我们存在的制度与历史塑造。"
+          },
+          {
+            en: "This recognition does not erase responsibility. But it interrupts the habit of interpreting every wound as proof of a defective self.",
+            zh: "这种认识并不会消除个人责任，却能够打断一种习惯：不再把每一道伤口都解释为自我存在缺陷的证据。"
+          },
+          {
+            en: "Instead of asking only, “What is wrong with me?”, we can also ask, “What kind of social world has made this pain so common?”",
+            zh: "我们不再只问“是不是我出了问题？”，也可以进一步问：“是什么样的社会世界，让这种痛苦变得如此普遍？”"
+          },
+          {
+            en: "The question shifts from private failure to shared conditions.",
+            zh: "问题由个人失败，转向了共同的社会条件。"
+          },
+          {
+            en: "And sometimes, understanding that difference is the beginning of treating ourselves with greater clarity—and less shame.",
+            zh: "有时，理解这一差别，正是我们更清醒地看待自己，并减少羞耻感的开始。"
+          }
+        ]
+      },
+      {
+        id: "closing",
+        title: "Closing Thought",
+        titleZh: "结语",
+        paragraphs: [
+          {
+            en: "Romantic pain is lived by individuals, but it is not produced by individuals alone.",
+            zh: "爱的痛苦由个人亲身承受，却从来不只由个人制造。"
+          }
+        ]
       }
     ],
     quote: "My aim is to do to love what Marx did to commodities.",
-    quoteSource: "Eva Illouz, Why Love Hurts, Chapter 1",
+    quoteSource:
+      "Eva Illouz, Why Love Hurts, Chapter 1｜伊娃·易洛思，《爱，为什么痛？》，第1章",
     quoteReadingEn:
-      "This sentence clarifies the scale of Illouz’s project. Romantic pain is not treated only as private failure or psychological lack. It becomes something that can be studied through social forms, markets, power, recognition, and historical change.",
+      "This sentence summarises the book’s sociological method. Illouz examines love as something shaped by concrete social relations, circulated within unequal fields, and experienced by people who do not possess equal power to define the terms under which they are loved.",
     quoteReadingZh:
-      "这句话说明了易洛思研究的尺度。爱情中的痛苦并不只被理解为私人的失败或心理上的缺失，而是可以通过社会形式、市场、权力、承认与历史变化来分析。",
+      "这句话概括了全书的社会学方法：易洛思把爱情视为一种由具体社会关系塑造的经验。它流通于不平等的场域之中，而身处其中的人，并不拥有同等的能力决定自己将在何种条件下被爱。",
     relatedWorks: [
-      "Why Love Hurts: A Sociological Explanation",
-      "Cold Intimacies",
-      "Consuming the Romantic Utopia",
-      "The End of Love",
-      "The Managed Heart",
-      "All About Love"
+      "Eva Illouz, Cold Intimacies: The Making of Emotional Capitalism｜《冷亲密：情感资本主义的形成》",
+      "Eva Illouz, Consuming the Romantic Utopia｜《消费浪漫乌托邦》",
+      "Eva Illouz, The End of Love｜《爱的终结》",
+      "Arlie Russell Hochschild, The Managed Heart｜《心灵的整饰》",
+      "bell hooks, All About Love｜《关于爱的一切》"
     ],
     tags: [
       "love",
       "sociology",
+      "romantic freedom",
+      "choice",
       "recognition",
       "commitment",
+      "emotional inequality",
       "gender",
-      "capitalism"
+      "capitalism",
+      "imagination"
     ],
     sourceText: "Why Love Hurts",
-    sourceNote: "This entry is based on Eva Illouz’s Why Love Hurts: A Sociological Explanation.｜本篇依据 Eva Illouz《爱，为什么痛？》整理。",
+    sourceNote:
+      "This entry was rewritten and verified against Eva Illouz, Why Love Hurts: A Sociological Explanation, Polity Press, 2012. The chapter references follow the uploaded edition. Except for the explicitly marked verified passage, all sentences are editorial summaries rather than direct quotations.｜本篇依据伊娃·易洛思《爱，为什么痛？：一种社会学解释》2012年Polity版本重写并核实。章节标注依据上传版本。除明确标出的核实引文外，其余内容均为编辑性概括，并非作者原句。",
     status: "published"
   },
   {
