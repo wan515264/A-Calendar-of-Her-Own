@@ -1928,5 +1928,244 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
     ],
 
     status: "published"
+  },
+  {
+    id: "2026-07-23-why-love-hurts",
+    date: "2026-07-23",
+    type: "theory",
+    title: "Why Love Hurts: A Sociological Explanation",
+    titleZh: "《爱，为什么痛？》",
+    author: "Eva Illouz｜伊娃·易洛思",
+    role: "Theory / Sociology｜理论 / 社会学",
+    focusTitle: "Why Does Freedom Also Make Love Hurt?",
+    focusTitleZh: "为什么自由也会让爱变得更痛？",
+    summaryEn:
+      "We often experience romantic suffering as evidence that something is wrong with us. Eva Illouz invites us to look beyond the private self. The pain of modern love is also shaped by the social conditions under which people desire, choose, compare, and commit to one another.",
+    summaryZh:
+      "我们常把爱情中的痛苦理解为自身出了问题。伊娃·易洛思邀请我们把目光移出私人自我：现代爱情的痛苦，也产生于人们学习欲望、选择、比较与承诺的社会条件之中。",
+    focusSentenceEn:
+      "Love may feel entirely personal. Yet the conditions under which we love are social.",
+    focusSentenceZh:
+      "爱情或许是一种极其私人的感受，但我们如何去爱，始终受到社会条件的塑造。",
+    articleSections: [
+      {
+        id: "introduction",
+        title: "Introduction",
+        titleZh: "爱的痛苦，不只是个人的失败",
+        en: "Illouz argues that psychological explanations become incomplete when they hide the institutions, markets, gender relations, and cultural ideals that organise intimate life.",
+        zh: "易洛思指出，当心理解释遮蔽了组织亲密生活的制度、市场、性别关系与文化理想时，它就变得不完整。"
+      },
+      {
+        id: "romantic-freedom",
+        title: "Romantic Freedom Has a History",
+        titleZh: "浪漫自由也有它的历史",
+        en: "Modern love is organised around freedom, autonomy, and personal choice.",
+        zh: "现代爱情围绕自由、自主与个人选择展开。"
+      },
+      {
+        id: "marriage-markets",
+        title: "The Emergence of Marriage Markets",
+        titleZh: "婚姻市场如何形成",
+        en: "Partner selection increasingly operates within market-like structures.",
+        zh: "现代伴侣选择越来越发生在一种类似市场的结构中。"
+      },
+      {
+        id: "choice-and-certainty",
+        title: "Too Much Choice, Too Little Certainty",
+        titleZh: "选择越多，确定反而越困难",
+        en: "Freedom expands possibilities but also postpones commitment.",
+        zh: "自由扩大了可能性，却也推迟了承诺。"
+      },
+      {
+        id: "commitment-and-power",
+        title: "Commitment Is Also a Question of Power",
+        titleZh: "承诺也是一个权力问题",
+        en: "Illouz describes emotional inequality within the heterosexual romantic field she studies.",
+        zh: "易洛思描述了她所研究的异性恋爱情场域中的情感不平等。"
+      },
+      {
+        id: "romantic-recognition",
+        title: "Why Being Loved Feels Like Proof of Our Worth",
+        titleZh: "为什么被爱会成为自我价值的证明",
+        en: "Romantic recognition increasingly becomes a way through which people experience self-worth.",
+        zh: "浪漫关系中的承认越来越成为人们确认自我价值的重要方式。"
+      },
+      {
+        id: "rationalised-passion",
+        title: "Passion Has Been Rationalised",
+        titleZh: "激情如何被理性化",
+        en: "Love becomes caught between spontaneity and calculation.",
+        zh: "爱情因此处于自发与计算之间。"
+      },
+      {
+        id: "romantic-imagination",
+        title: "Romantic Imagination and Disappointment",
+        titleZh: "浪漫想象如何制造失望",
+        en: "Consumer culture provides images of ideal intimacy before relationships begin.",
+        zh: "消费文化在关系开始之前，就提供了理想亲密关系的图景。"
+      },
+      {
+        id: "sociology-question",
+        title: "Sociology Changes the Question",
+        titleZh: "社会学改变了我们提问的方式",
+        en: "Personal suffering can be understood within broader historical and institutional structures.",
+        zh: "个人痛苦可以放在更广阔的历史与制度结构中理解。"
+      }
+    ],
+    quote: "My aim is to do to love what Marx did to commodities.",
+    quoteSource: "Eva Illouz, Why Love Hurts, Chapter 1",
+    quoteReadingEn:
+      "This sentence clarifies the scale of Illouz’s project. Romantic pain is not treated only as private failure or psychological lack. It becomes something that can be studied through social forms, markets, power, recognition, and historical change.",
+    quoteReadingZh:
+      "这句话说明了易洛思研究的尺度。爱情中的痛苦并不只被理解为私人的失败或心理上的缺失，而是可以通过社会形式、市场、权力、承认与历史变化来分析。",
+    relatedWorks: [
+      "Why Love Hurts: A Sociological Explanation",
+      "Cold Intimacies",
+      "Consuming the Romantic Utopia",
+      "The End of Love",
+      "The Managed Heart",
+      "All About Love"
+    ],
+    tags: [
+      "love",
+      "sociology",
+      "recognition",
+      "commitment",
+      "gender",
+      "capitalism"
+    ],
+    sourceText: "Why Love Hurts",
+    sourceNote: "This entry is based on Eva Illouz’s Why Love Hurts: A Sociological Explanation.｜本篇依据 Eva Illouz《爱，为什么痛？》整理。",
+    status: "published"
+  },
+  {
+    id: "2026-07-24-women-in-the-picture",
+    date: "2026-07-24",
+    type: "book",
+    title: "Who Gets to Look?",
+    titleZh: "谁拥有观看的权力？",
+    author: "Catherine McCormack｜凯瑟琳·麦考马克",
+    role: "Art History / Feminist Criticism｜艺术史 / 女性主义批评",
+    focusTitle: "Who Gets to Look?",
+    focusTitleZh: "谁拥有观看的权力？",
+    summaryEn:
+      "Pictures do more than represent women. They also teach us what kinds of women deserve admiration, sympathy, fear, or silence.",
+    summaryZh:
+      "图像不仅描绘女性。它们也教会我们：哪些女性值得赞美，哪些女性值得同情，哪些女性令人恐惧，又有哪些女性应该保持沉默。",
+    highlightEn: "Every image teaches a way of seeing.",
+    highlightZh: "每一幅图像，都在教会我们一种观看世界的方式。",
+    introduction: [
+      {
+        en: "Women in the Picture begins with a visit to the National Gallery in London. Walking through the museum with her young child, Catherine McCormack notices that the paintings around her tell remarkably similar stories about women.",
+        zh: "《画框中的女性》从作者带着年幼孩子参观伦敦国家美术馆开始。凯瑟琳·麦考马克发现，展厅里的绘画不断重复着相似的女性故事。"
+      },
+      {
+        en: "Again and again, women appear as objects of beauty, desire, sacrifice, punishment, grief, or death. The book asks what we have learned from seeing such images repeated across centuries.",
+        zh: "女性一次又一次以美丽、欲望、牺牲、惩罚、悲伤或死亡的形象出现。这本书追问：当这些图像在数个世纪中反复出现时，我们究竟从中学会了什么？"
+      }
+    ],
+    sections: [
+      {
+        id: "looking-is-never-neutral",
+        title: "Looking Is Never Neutral",
+        titleZh: "观看从来不是中立的",
+        paragraphs: [
+          {
+            en: "Every image carries assumptions about gender, power, beauty, virtue, and violence. Looking is not simply a private act between a viewer and an artwork; it is shaped by habits, institutions, and inherited cultural expectations.",
+            zh: "每一幅图像都携带着关于性别、权力、美、德性与暴力的观念。观看并不只是观者与作品之间的私人行为，它也受到习惯、制度与文化传统的塑造。"
+          },
+          {
+            en: "Museums do not simply preserve paintings. They also preserve ways of seeing.",
+            zh: "美术馆保存的不只是绘画，也保存了一种观看方式。"
+          }
+        ]
+      },
+      {
+        id: "beautiful-suffering",
+        title: "Beautiful Suffering",
+        titleZh: "被美化的受苦",
+        paragraphs: [
+          {
+            en: "Across centuries of Western art, women repeatedly appear within similar narratives. Some are praised for obedience, some are punished for desire, some are admired in moments of vulnerability, while others are remembered through violence done to their bodies.",
+            zh: "纵观数个世纪的西方艺术，女性不断出现在相似的叙事之中。有些女性因顺从而受到赞美，有些因欲望而受到惩罚；有些在脆弱时刻被欣赏，而另一些则因身体遭受暴力而被历史记住。"
+          },
+          {
+            en: "Figures such as Griselda, Lucretia, Susanna, and Procris are not isolated examples. Together, they reveal a recurring cultural pattern in which female suffering is transformed into moral virtue, emotional drama, or aesthetic beauty.",
+            zh: "格里塞尔达、卢克丽霞、苏珊娜与普罗克里斯并不是彼此孤立的例子。她们共同揭示了一种反复出现的文化模式：女性的受苦被转化为道德美德、情感戏剧，甚至审美对象。"
+          }
+        ]
+      },
+      {
+        id: "museum-story",
+        title: "The Museum Is Also a Story",
+        titleZh: "美术馆也是一种叙事",
+        paragraphs: [
+          {
+            en: "The meaning of an artwork is shaped not only by what is painted, but also by where it is displayed, how it is named, what the label explains, and which works are placed beside it.",
+            zh: "一件作品的意义不仅由画面内容决定，也由它被陈列在哪里、如何命名、标签如何解释，以及哪些作品与它并置共同塑造。"
+          },
+          {
+            en: "A museum tells two stories at once: the story inside the image, and the story of why this image continues to be displayed, admired, and remembered.",
+            zh: "每一座美术馆都同时讲述两个故事：一个发生在图像之中，另一个则关于为什么这幅图像会一直被展出、被欣赏、被记住。"
+          }
+        ]
+      },
+      {
+        id: "explanation-power",
+        title: "Who Gets to Explain?",
+        titleZh: "谁拥有解释权？",
+        paragraphs: [
+          {
+            en: "One of the book's most revealing moments occurs when a stranger begins explaining the artworks to McCormack without invitation. The encounter is ordinary, but it exposes how authority over interpretation is reproduced through everyday behaviour.",
+            zh: "本书最具揭示性的场景之一，是一位陌生人在未经邀请的情况下开始向麦考马克解释作品。这个场景看似普通，却暴露了解释权如何在日常行为中被不断复制。"
+          },
+          {
+            en: "The question 'Who gets to look?' therefore leads to another: who is assumed to possess the knowledge and confidence to tell others what they are seeing?",
+            zh: "因此，“谁拥有观看的权力？”也引出了另一个问题：谁被默认拥有知识与自信，能够告诉别人他们正在看什么？"
+          }
+        ]
+      },
+      {
+        id: "look-again",
+        title: "Learning to Look Again",
+        titleZh: "学会重新观看",
+        paragraphs: [
+          {
+            en: "Women in the Picture does not ask us to stop looking at canonical art. It asks us to notice what centuries of looking have trained us to accept as natural.",
+            zh: "《画框中的女性》并没有要求我们停止观看经典艺术。它要求我们意识到，数个世纪的观看已经把哪些观念训练成了理所当然。"
+          },
+          {
+            en: "To look again is not to reject art. It is to recover the stories that art has taught us not to see.",
+            zh: "重新观看，并不是拒绝艺术，而是重新看见那些艺术曾经教会我们忽略的故事。"
+          }
+        ]
+      }
+    ],
+    quoteReadingEn:
+      "All highlighted lines in this entry are editorial summaries written for the calendar. They are not presented as direct quotations from the book.",
+    quoteReadingZh:
+      "本条目中的重点句均为日历编辑性概括，并非原书直接引文。",
+    relatedWorks: [
+      "Women in the Picture: What Culture Does with Female Bodies",
+      "Katy Hessel, The Story of Art Without Men",
+      "John Berger, Ways of Seeing",
+      "Rozsika Parker and Griselda Pollock, Old Mistresses: Women, Art and Ideology",
+      "Griselda Pollock, Vision and Difference"
+    ],
+    tags: [
+      "art history",
+      "representation",
+      "museums",
+      "looking",
+      "women",
+      "feminist criticism",
+      "visual culture",
+      "gender",
+      "power",
+      "images"
+    ],
+    sourceText: "Women in the Picture",
+    sourceNote: "This entry is based on Catherine McCormack’s Women in the Picture: What Culture Does with Female Bodies.｜本篇依据 Catherine McCormack《画框中的女性》整理。",
+    status: "published"
   }
 ];
