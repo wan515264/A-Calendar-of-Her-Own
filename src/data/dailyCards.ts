@@ -2339,5 +2339,208 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
     sourceText: "Women in the Picture",
     sourceNote: "This entry is based on Catherine McCormack’s Women in the Picture: What Culture Does with Female Bodies.｜本篇依据 Catherine McCormack《画框中的女性》整理。",
     status: "published"
+  },
+  {
+    id: "2026-07-25-rebecca-traister-good-and-mad",
+    date: "2026-07-25",
+    type: "theory",
+    title: "Good and Mad: The Revolutionary Power of Women’s Anger",
+    titleZh: "《好不愤怒：女性愤怒的革命力量》",
+    author: "Rebecca Traister｜丽贝卡·特雷斯特",
+    years: "Published 2018",
+    role: "Theory / Feminism｜理论 / 女性主义",
+    focusTitle: "Who Gets to Be Angry?",
+    focusTitleZh: "谁有资格愤怒？",
+    summaryEn:
+      "Some emotions are treated as signs of authority. Others are treated as signs of instability. Rebecca Traister asks why anger has so often strengthened men’s authority while undermining women’s credibility. Rather than seeing women’s anger as a personal failing, she argues that it can reveal structures of inequality that have long been ignored.",
+    summaryZh:
+      "有些情绪会被理解为权威的象征，有些情绪却会被理解为失控的证据。丽贝卡·特雷斯特追问：为什么愤怒常常强化男性的权威，却削弱女性的可信度？她认为，女性的愤怒并不是一种个人缺陷，而是一种揭示长期不平等结构的力量。",
+    highlightEn:
+      "Anger does not always destroy relationships. Sometimes, it destroys silence.",
+    highlightZh:
+      "愤怒未必摧毁关系。它有时摧毁的是沉默。",
+    introduction: [
+      {
+        en: "Anger is one of the most common human emotions, yet not everyone is allowed to express it in the same way.",
+        zh: "愤怒是人类最普遍的情绪之一，但并不是每个人都被允许以同样的方式表达它。"
+      },
+      {
+        en: "When men display anger, it is often interpreted as confidence, conviction, or leadership. When women display the same emotion, it is more likely to be described as irrational, emotional, unstable, or unlikeable.",
+        zh: "当男性表现出愤怒时，人们往往将它理解为自信、坚定或领导力；而当女性表现出同样的情绪时，它却更容易被描述为不理性、情绪化、不稳定，甚至“不讨人喜欢”。"
+      },
+      {
+        en: "Rebecca Traister argues that this difference is not accidental. It reflects a long history in which women’s anger has been discouraged, dismissed, or punished rather than understood.",
+        zh: "丽贝卡·特雷斯特认为，这种差异并非偶然，而是长期历史的结果：女性的愤怒不断被压抑、忽视或惩罚，而不是被理解。"
+      }
+    ],
+    sections: [
+      {
+        id: "anger-is-political",
+        title: "Anger Is Political",
+        titleZh: "愤怒从来不是私人情绪",
+        paragraphs: [
+          {
+            en: "Good and Mad begins from a simple observation: women have always been angry. What changes across history is not the existence of that anger, but whether it becomes visible.",
+            zh: "《好不愤怒》从一个简单的观察开始：女性一直都在愤怒。历史真正改变的，不是愤怒是否存在，而是它是否能够被看见。"
+          },
+          {
+            en: "Anger is often treated as a personal emotion, but Traister argues that it is also shaped by political conditions. When large numbers of people encounter similar forms of exclusion, violence, or inequality, their anger reflects more than individual experience.",
+            zh: "愤怒常被视为一种私人情绪，但特雷斯特指出，它同样受到政治条件塑造。当大量的人经历相似的排斥、暴力或不平等时，她们的愤怒已经不仅仅属于个人。"
+          },
+          {
+            en: "Women’s anger therefore becomes evidence that something larger than individual frustration is taking place.",
+            zh: "因此，女性的愤怒也成为一种证据：它表明，正在发生的并不仅仅是个人的不满，而是更大的社会问题。"
+          }
+        ]
+      },
+      {
+        id: "cost-of-being-pleasant",
+        title: "The Cost of Being Pleasant",
+        titleZh: "温柔的代价",
+        paragraphs: [
+          {
+            en: "Many women learn from an early age that they should remain pleasant, accommodating, patient, and emotionally controlled.",
+            zh: "许多女性从小便学会：要保持温柔、体贴、耐心，并管理好自己的情绪。"
+          },
+          {
+            en: "They are encouraged to smooth over conflict, protect other people’s feelings, and avoid appearing difficult.",
+            zh: "她们被鼓励缓和冲突、照顾他人的感受，并避免显得“难相处”。"
+          },
+          {
+            en: "These expectations do not eliminate anger. They often force it inward.",
+            zh: "这些期待并不会消除愤怒，反而常常迫使愤怒向内转化。"
+          },
+          {
+            en: "The effort required to remain agreeable can become another form of invisible labour.",
+            zh: "不断维持“讨人喜欢”的状态，本身也成为一种隐形劳动。"
+          },
+          {
+            en: "Traister suggests that the demand for constant pleasantness has long limited women’s ability to speak publicly about injustice.",
+            zh: "特雷斯特指出，对女性持续保持温和的要求，长期限制了她们公开表达不公的能力。"
+          }
+        ]
+      },
+      {
+        id: "collective-anger",
+        title: "When Anger Becomes Collective",
+        titleZh: "当愤怒成为集体经验",
+        paragraphs: [
+          {
+            en: "One of the book’s central insights is that anger changes when it is recognised as shared.",
+            zh: "本书最重要的观点之一是：当愤怒被发现是共同经验时，它便发生了改变。"
+          },
+          {
+            en: "A woman may initially believe that her frustration belongs only to her own life. But when many people describe similar experiences, private emotion becomes collective knowledge.",
+            zh: "一个女性最初可能以为自己的愤怒只属于自己。但当越来越多人讲述相似经历时，私人情绪便转化为共同知识。"
+          },
+          {
+            en: "Movements such as #MeToo demonstrated that what had been experienced as isolated incidents were often parts of larger social patterns.",
+            zh: "像 #MeToo 这样的运动显示，那些曾被视为孤立事件的经历，其实属于更大的社会模式。"
+          },
+          {
+            en: "Recognition transforms anger. It is no longer only something one feels. It becomes something people can think with, organise around, and act upon together.",
+            zh: "承认改变了愤怒。它不再只是个人的感受，而成为一种能够帮助人们共同思考、组织行动并推动改变的力量。"
+          }
+        ]
+      },
+      {
+        id: "anger-creates-knowledge",
+        title: "Anger Creates Knowledge",
+        titleZh: "愤怒创造知识",
+        paragraphs: [
+          {
+            en: "Anger is often contrasted with reason, as though one excludes the other.",
+            zh: "愤怒常常被放在理性的对立面，仿佛两者无法共存。"
+          },
+          {
+            en: "Traister challenges this assumption.",
+            zh: "特雷斯特对这种假设提出质疑。"
+          },
+          {
+            en: "People become angry because they notice patterns of unfairness that have too often been normalised or ignored.",
+            zh: "人们之所以愤怒，正是因为她们看见了那些长期被正常化、被忽视的不公。"
+          },
+          {
+            en: "Anger can therefore become a way of recognising injustice before society has found the language to describe it.",
+            zh: "因此，愤怒也可能成为一种认识不公的方式，在社会尚未拥有完整语言之前，它已经提醒人们：某些事情出了问题。"
+          },
+          {
+            en: "In this sense, anger is not the opposite of knowledge. It can be one of its beginnings.",
+            zh: "从这个意义上说，愤怒并不是知识的反面，它可能正是知识的起点。"
+          }
+        ]
+      },
+      {
+        id: "beyond-niceness",
+        title: "Beyond Niceness",
+        titleZh: "超越“做好女人”",
+        paragraphs: [
+          {
+            en: "Traister does not argue that anger is always virtuous, nor that every expression of anger produces justice.",
+            zh: "特雷斯特并没有认为愤怒天然正确，也没有认为每一次愤怒都会带来正义。"
+          },
+          {
+            en: "Her argument is more careful.",
+            zh: "她真正的观点更加谨慎。"
+          },
+          {
+            en: "A democratic society should not ask only whether women are angry.",
+            zh: "一个民主社会不应只问：女性为什么愤怒。"
+          },
+          {
+            en: "It should also ask why that anger has so often been dismissed before anyone has listened to what it says.",
+            zh: "它更应该追问：为什么在人们真正倾听这些愤怒之前，它们就已经被否定了。"
+          },
+          {
+            en: "The question is therefore not whether women should be allowed to feel anger.",
+            zh: "因此，真正的问题并不是女性是否应该愤怒。"
+          },
+          {
+            en: "The question is whether society is willing to hear what anger reveals.",
+            zh: "真正的问题是：社会是否愿意倾听愤怒所揭示的现实。"
+          }
+        ]
+      }
+    ],
+    quote: "Remember, all men would be tyrants if they could.",
+    quoteSource:
+      "Abigail Adams, quoted in the epigraph to Good and Mad｜Abigail Adams，引自《好不愤怒》题辞",
+    relatedWorks: [
+      "Rebecca Traister, Good and Mad: The Revolutionary Power of Women’s Anger｜《好不愤怒：女性愤怒的革命力量》",
+      "Rebecca Traister, All the Single Ladies｜《单身女性》"
+    ],
+    tags: [
+      "anger",
+      "feminism",
+      "emotion",
+      "power",
+      "patriarchy",
+      "public life",
+      "collective action",
+      "gender",
+      "politics",
+      "social change"
+    ],
+    sourceText: "Good and Mad",
+    status: "published"
+  },
+  {
+    id: "2026-07-26-reading-the-romance",
+    date: "2026-07-26",
+    type: "criticism",
+    title: "Reading the Romance: Women, Patriarchy, and Popular Literature",
+    titleZh: "《阅读浪漫小说：女性、父权制和通俗文学》",
+    author: "Janice A. Radway｜珍妮斯·A. 拉德威",
+    focusTitle: "A Room Made of Reading",
+    focusTitleZh: "一间由阅读构成的房间",
+    tags: [
+      "romance",
+      "popular literature",
+      "women readers",
+      "patriarchy",
+      "reading"
+    ],
+    sourceText: "Reading the Romance",
+    status: "published"
   }
 ];
