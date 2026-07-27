@@ -2974,5 +2974,348 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
     sourceNote:
       "This entry is based on Janice A. Radway, Reading the Romance: Women, Patriarchy, and Popular Literature. The Related Works section has been intentionally omitted.｜本篇依据珍妮斯·A. 拉德威《阅读浪漫小说：女性、父权制和通俗文学》整理，并按要求删除“相关作品”部分。",
     status: "published"
+  },
+  {
+    id: "2026-07-27-beautiful-world-where-are-you",
+    date: "2026-07-27",
+    type: "book",
+    title: "Beautiful World, Where Are You",
+    titleZh: "《美丽的世界，你在哪里》",
+    author: "Sally Rooney｜萨莉·鲁尼",
+    years: "1991–",
+    role: "Novel / Contemporary Fiction｜小说 / 当代文学",
+    focusTitle: "Can Friendship Survive Unequal Lives?",
+    focusTitleZh: "当生活不再平等，友谊还能继续吗？",
+    summaryEn:
+      "Alice and Eileen were once young women moving through the same world. Now their lives have begun to separate. Alice is a famous novelist living alone in an enormous house by the sea. Eileen works for a literary magazine in Dublin, living within the ordinary limits of wages, rent, work, and family. They still write to one another about love, politics, beauty, work, and the future—but money and success have changed what each of them can imagine. Their friendship does not exist outside class. It carries admiration, resentment, shame, tenderness, and the fear that one woman’s life has moved beyond the other’s reach. Yet they continue to write.",
+    summaryZh:
+      "艾莉丝与艾琳曾经是生活在同一个世界里的年轻女性。如今，她们的人生已经开始分离。艾莉丝成为知名小说家，独自住在海边一座巨大的房子里。艾琳则在都柏林的一本文学杂志工作，生活仍受到工资、房租、工作与家庭的日常限制。她们继续在邮件中讨论爱情、政治、美、工作与未来，但金钱和成功已经改变了她们能够想象的生活。她们的友谊并不位于阶级之外。羡慕、怨恨、羞耻、温柔，以及害怕对方已经走入自己无法抵达的生活，都存在于这段关系之中。但她们仍然继续写信。",
+    highlightEn:
+      "Friendship does not make two lives equal. It asks whether they can remain connected after they have become unequal.",
+    highlightZh:
+      "友谊不会让两种生活变得平等。它追问的是：当生活已经不再平等，我们是否仍能保持联系。",
+    introduction: [
+      {
+        en: "At first glance, Beautiful World, Where Are You appears to be organised around two heterosexual relationships: Alice and Felix, Eileen and Simon.",
+        zh: "乍看之下，《美丽的世界，你在哪里》似乎围绕两组异性恋关系展开：艾莉丝与费里克斯，艾琳与西蒙。"
+      },
+      {
+        en: "But the novel’s deepest continuity lies elsewhere. It is sustained by the emails Alice and Eileen send to one another.",
+        zh: "但真正贯穿小说的关系存在于别处：它由艾莉丝与艾琳持续写给彼此的邮件维系。"
+      },
+      {
+        en: "They talk about the men they desire, but the men are not the only subjects of their correspondence. They also discuss work, religion, beauty, climate anxiety, capitalism, family, fame, children, and whether it remains possible to live a good life in a damaged world.",
+        zh: "她们会谈论自己爱上的男人，但男人并不是通信中唯一的主题。她们也谈工作、宗教、美、气候焦虑、资本主义、家庭、名声、孩子，以及在一个已经受损的世界里，人是否仍能过一种好的生活。"
+      },
+      {
+        en: "Their friendship gives both women something their romantic relationships cannot entirely provide: another woman with whom life itself can be interpreted.",
+        zh: "这段友谊给予她们一种爱情关系无法完全提供的东西：一个可以共同解释生活的女性。"
+      }
+    ],
+    sections: [
+      {
+        title: "When Friendship Becomes Unequal",
+        titleZh: "当友谊开始变得不平等",
+        paragraphs: [
+          {
+            en: "Alice and Eileen’s friendship was formed before Alice became wealthy and famous. The emotional language of their relationship still belongs partly to that earlier time, when their futures seemed more comparable.",
+            zh: "艾莉丝与艾琳的友谊形成于艾莉丝获得财富与名声之前。她们之间的情感语言仍然部分属于那个更早的时期——当时，两人的未来似乎仍然可以相互比较。"
+          },
+          {
+            en: "But by the beginning of the novel, their material circumstances have diverged.",
+            zh: "但小说开始时，她们的物质处境已经出现了明显分化。"
+          },
+          {
+            en: "Alice can leave Dublin, withdraw from ordinary employment, travel internationally, and live alone in a house so large that it seems to contain rooms she has not yet discovered. Eileen continues to work for a literary magazine, sell copies at poorly attended readings, and calculate her life within much narrower economic limits.",
+            zh: "艾莉丝可以离开都柏林，退出普通的工作生活，前往国外旅行，也可以独自住进一座巨大到仿佛不断出现新房间的房子。艾琳则继续在文学杂志工作，在乏人问津的朗读会上卖杂志，并在更加有限的经济条件里安排自己的生活。"
+          },
+          {
+            en: "The novel does not treat this difference as background information. Class enters the women’s friendship through invitations, travel, work, success, embarrassment, and the futures available to each of them.",
+            zh: "小说并没有把这种差异当作无关紧要的背景。阶级通过邀请、旅行、工作、成功、尴尬，以及两人各自能够拥有的未来，进入了女性友谊内部。"
+          }
+        ]
+      },
+      {
+        title: "A House That Makes Class Visible",
+        titleZh: "一座让阶级差异显形的房子",
+        paragraphs: [
+          {
+            en: "The first time Felix visits Alice’s home, the difference between their lives becomes immediately visible.",
+            zh: "费里克斯第一次来到艾莉丝家时，两种生活之间的差异立刻变得可见。"
+          },
+          {
+            en: "Felix works in a warehouse and rents a house with friends. Alice is a celebrated novelist living alone in an enormous former rectory overlooking the sea.",
+            zh: "费里克斯在仓库工作，与朋友合租。艾莉丝则是一位成名的小说家，独自住在一座能够望见大海的巨大旧牧师住宅里。"
+          },
+          {
+            en: "When Alice opens the small gate, Felix stops and looks up at the building. He already knows what it is.",
+            zh: "当艾莉丝推开小门时，费里克斯停下来，抬头看着那座房子。他知道这是什么地方。"
+          },
+          {
+            en: "The house does not need to be explained. Its scale has already said something about Alice’s access to money, space, privacy, and freedom.",
+            zh: "这栋房子并不需要任何解释。它的规模已经说明了艾莉丝能够拥有的金钱、空间、隐私与自由。"
+          },
+          {
+            en: "Inside, Felix observes the hall, the kitchen, the staircase, the bedrooms, and the fact that one person occupies so much space. Alice wants to show the house off; Felix walks through it more cautiously.",
+            zh: "进入房子后，费里克斯观察门厅、厨房、楼梯、卧室，也意识到一个人竟然占据了如此巨大的空间。艾莉丝想向他展示这栋房子；费里克斯却更加谨慎地穿行其中。"
+          },
+          {
+            en: "Before either character names their class difference, architecture has already made it visible.",
+            zh: "在两个人用语言说出阶级差异之前，建筑已经先替他们把它呈现出来。"
+          }
+        ]
+      },
+      {
+        title: "The Familiar Scene, Reversed",
+        titleZh: "一个被完全颠倒的传统场景",
+        paragraphs: [
+          {
+            en: "This scene reverses one of the most familiar arrangements in the history of romantic fiction.",
+            zh: "这个场景颠倒了爱情小说史中最熟悉的结构之一。"
+          },
+          {
+            en: "Traditionally, it is the young woman who first enters the wealthy man’s home. She looks at the height of the ceilings, the expensive furniture, the library, the grounds, and the rooms that reveal the scale of his wealth.",
+            zh: "在传统小说中，通常是年轻女性第一次进入富有男性的家。她抬头看高高的天花板、昂贵的家具、藏书室、庭院，以及那些显示男主人财富规模的房间。"
+          },
+          {
+            en: "The house establishes his authority. She enters both a physical building and a social world controlled by him.",
+            zh: "房屋建立了男性的权威。女性所进入的不只是一栋建筑，也是一个由男性控制的社会世界。"
+          },
+          {
+            en: "Rooney reverses every part of this arrangement.",
+            zh: "鲁尼把这一安排的每个部分都颠倒了。"
+          },
+          {
+            en: "The woman has the large house. The woman issues the invitation. The woman possesses cultural status and economic freedom. The man is the one who enters, looks around, and becomes conscious of his relative lack of power.",
+            zh: "拥有巨大房屋的是女性，发出邀请的是女性，拥有文化地位与经济自由的也是女性。进入房屋、观察四周，并意识到自己相对弱势位置的，则是男性。"
+          },
+          {
+            en: "But Rooney does not simply replace male power with female power.",
+            zh: "然而，鲁尼并没有只是用女性权力取代男性权力。"
+          },
+          {
+            en: "Alice’s house gives her social advantage, but it does not give her emotional control. Felix’s position is vulnerable, but he is not reduced to a passive object of fascination.",
+            zh: "艾莉丝的房屋赋予她社会优势，却没有赋予她情感上的控制权。费里克斯处于更加脆弱的位置，却也没有被简化为一个被观看、被诱惑的被动对象。"
+          },
+          {
+            en: "The reversal exposes the old pattern rather than merely reproducing it with the genders exchanged.",
+            zh: "这种颠倒不是简单地交换男女位置，而是让原有的叙事模式本身变得可见。"
+          }
+        ]
+      },
+      {
+        title: "And Then Nothing Happens",
+        titleZh: "然后，什么也没有发生",
+        paragraphs: [
+          {
+            en: "Alice takes Felix upstairs and shows him her bedroom.",
+            zh: "艾莉丝带费里克斯上楼，向他展示自己的卧室。"
+          },
+          {
+            en: "The scene contains everything a conventional novel might use to prepare a sexual encounter: drinking, an invitation home, an enormous house, a private bedroom, mutual attraction, and the awareness that both characters know what might happen next.",
+            zh: "这个场景包含了传统小说中所有用来铺垫性关系的元素：饮酒、回家邀请、巨大的住宅、私密的卧室、相互吸引，以及两个人都知道接下来可能发生什么的意识。"
+          },
+          {
+            en: "But they do not have sex.",
+            zh: "然而，他们没有发生关系。"
+          },
+          {
+            en: "Felix looks around the bedroom, thanks Alice for showing him the house, and leaves.",
+            zh: "费里克斯看了看卧室，感谢艾莉丝带他参观，然后离开。"
+          },
+          {
+            en: "This interruption is what makes the scene so revealing.",
+            zh: "正是这一中断，使这个场景如此意味深长。"
+          },
+          {
+            en: "Had they slept together, the house could have become merely an erotic setting—a luxurious backdrop for a familiar romantic development.",
+            zh: "如果他们发生了关系，这栋房子就可能沦为一个单纯的情色场景，成为熟悉爱情发展中的奢华背景。"
+          },
+          {
+            en: "Because nothing happens, the house retains its social meaning.",
+            zh: "但正因为什么也没有发生，这栋房子才保留了它的社会意义。"
+          },
+          {
+            en: "It remains an uncomfortable fact between them: Alice has access to a form of life Felix does not share, and attraction cannot immediately dissolve that knowledge.",
+            zh: "它仍然作为一个令人不适的事实存在于两人之间：艾莉丝能够进入费里克斯并不拥有的生活，而吸引力无法立即消除这种认知。"
+          }
+        ]
+      },
+      {
+        title: "Desire Does Not Erase Class",
+        titleZh: "欲望无法抹去阶级",
+        paragraphs: [
+          {
+            en: "The scene refuses the fantasy that sexual attraction makes social inequality irrelevant.",
+            zh: "这个场景拒绝了一种常见幻想：只要两个人彼此吸引，社会不平等就会失去意义。"
+          },
+          {
+            en: "Alice and Felix are interested in one another, but they are also evaluating one another. Attraction exists beside embarrassment, suspicion, pride, curiosity, and resentment.",
+            zh: "艾莉丝与费里克斯对彼此感兴趣，但他们也在彼此衡量。吸引与尴尬、怀疑、骄傲、好奇和怨恨同时存在。"
+          },
+          {
+            en: "Felix does not encounter Alice only as a woman. He encounters her as someone whose money and fame have given her access to a world radically different from his own.",
+            zh: "费里克斯所面对的不只是作为女性的艾莉丝。他也面对一个因金钱与名声而进入了与自己截然不同世界的人。"
+          },
+          {
+            en: "Alice, meanwhile, cannot be certain whether Felix sees her as herself, as a wealthy woman, as a famous novelist, or as someone whose privilege should be challenged.",
+            zh: "与此同时，艾莉丝也无法确定，费里克斯看到的究竟是她本人、一个富有的女人、一位著名小说家，还是一个其特权理应受到挑战的人。"
+          },
+          {
+            en: "Their relationship begins not by transcending class, but by becoming conscious of it.",
+            zh: "他们的关系并不是从超越阶级开始，而是从意识到阶级开始。"
+          }
+        ]
+      },
+      {
+        title: "Women Who Think Together",
+        titleZh: "一起思考世界的女性",
+        paragraphs: [
+          {
+            en: "Alice and Eileen’s correspondence offers a different form of intimacy.",
+            zh: "艾莉丝与艾琳的通信提供了另一种亲密形式。"
+          },
+          {
+            en: "With Felix and Simon, desire often makes language unstable. Characters conceal what they want, pretend not to care, test one another, or wait for the other person to speak first.",
+            zh: "在费里克斯和西蒙面前，欲望常常让语言变得不稳定。人物会隐藏自己的愿望，假装并不在意，试探对方，或者等待对方先开口。"
+          },
+          {
+            en: "In their emails, Alice and Eileen can write at length. They attempt to give form to experiences that remain difficult to express face to face.",
+            zh: "而在邮件里，艾莉丝与艾琳可以长篇写作。她们试图为那些难以当面表达的经验赋予形式。"
+          },
+          {
+            en: "They do not merely report what has happened. They interpret it together.",
+            zh: "她们不只是向彼此汇报发生了什么，也一起解释发生的一切。"
+          },
+          {
+            en: "Their friendship becomes a place where the private and political can meet: a date with a warehouse worker leads to questions about class; anxiety about motherhood leads to questions about the future; romantic disappointment leads to reflections on capitalism, beauty, and the meaning of a good life.",
+            zh: "她们的友谊成为私人经验与政治问题相遇的地方：一次与仓库工人的约会通向阶级问题；对母职的焦虑通向关于未来的疑问；爱情中的失望则通向对资本主义、美，以及何为美好生活的思考。"
+          }
+        ]
+      },
+      {
+        title: "Friendship Is Not Automatically Equal",
+        titleZh: "女性友谊并不天然平等",
+        paragraphs: [
+          {
+            en: "Rooney does not idealise female friendship as a relationship untouched by power.",
+            zh: "鲁尼并没有把女性友谊理想化为一种不受权力影响的关系。"
+          },
+          {
+            en: "Alice and Eileen love one another, but they also misunderstand, judge, envy, and wound one another.",
+            zh: "艾莉丝与艾琳彼此相爱，却也会误解、评判、嫉妒和伤害对方。"
+          },
+          {
+            en: "Alice’s fame changes the emotional balance of the friendship. Her suffering attracts public attention, while Eileen’s difficulties remain ordinary and largely invisible.",
+            zh: "艾莉丝的名声改变了友谊中的情感平衡。她的痛苦会获得公众关注，而艾琳的困境则仍然普通，几乎无人看见。"
+          },
+          {
+            en: "Money also changes the meaning of generosity. An invitation that feels spontaneous to Alice may remind another person of everything they cannot afford.",
+            zh: "金钱也改变了慷慨的意义。对艾莉丝而言随意自然的邀请，对另一个人来说，却可能提醒他自己无法负担的一切。"
+          },
+          {
+            en: "Even affection can become entangled with comparison: Who has succeeded? Who has remained behind? Whose pain appears more important? Who is expected to understand whom?",
+            zh: "即使是爱，也可能与比较纠缠在一起：谁获得了成功？谁留在了原地？谁的痛苦看起来更值得重视？谁被期待去理解谁？"
+          }
+        ]
+      },
+      {
+        title: "Remaining Friends Without Pretending",
+        titleZh: "不再假装平等，仍然继续做朋友",
+        paragraphs: [
+          {
+            en: "The novel does not suggest that Alice and Eileen can restore the simpler friendship of their youth.",
+            zh: "小说并没有暗示艾莉丝与艾琳可以恢复年轻时那种更简单的友谊。"
+          },
+          {
+            en: "Their circumstances have changed too much. Fame, money, work, illness, romantic attachment, and geographic distance have all entered the relationship.",
+            zh: "她们的处境已经发生了太多变化。名声、金钱、工作、疾病、爱情与地理距离，都已经进入这段关系。"
+          },
+          {
+            en: "What remains possible is not a return to innocence, but a more difficult form of recognition.",
+            zh: "仍然可能发生的，并不是回到纯真状态，而是一种更加困难的彼此承认。"
+          },
+          {
+            en: "They must learn to see each other not as symbols of success or failure, privilege or ordinariness, but as people whose lives have become unequal without becoming entirely separate.",
+            zh: "她们必须学会不把彼此只看作成功或失败、特权或平凡的象征，而是看作两个生活已经不再平等、却仍未完全分离的人。"
+          },
+          {
+            en: "The strength of their friendship lies not in overcoming every difference.",
+            zh: "这段友谊的力量，并不在于克服所有差异。"
+          },
+          {
+            en: "It lies in their repeated attempts to speak across those differences without denying that they exist.",
+            zh: "它存在于她们一次次试图跨越差异继续说话，同时又不否认差异真实存在。"
+          }
+        ]
+      },
+      {
+        title: "Where Is the Beautiful World?",
+        titleZh: "美丽的世界在哪里？",
+        paragraphs: [
+          {
+            en: "The novel’s title appears to ask for a lost place—a world untouched by exploitation, inequality, ecological collapse, and disappointment.",
+            zh: "小说的标题似乎在寻找一个已经失去的地方：一个尚未被剥削、不平等、生态崩溃与失望破坏的世界。"
+          },
+          {
+            en: "But the novel never discovers such a place.",
+            zh: "但小说从未找到这样的地方。"
+          },
+          {
+            en: "The enormous house by the sea is beautiful, but it also exposes class difference. Romantic love offers intimacy, but it also reproduces insecurity and power. Female friendship offers understanding, but it cannot exist outside money, success, and resentment.",
+            zh: "海边的巨大房屋很美，却也暴露了阶级差异。爱情提供亲密，却也再生产不安全感与权力。女性友谊提供理解，却同样无法脱离金钱、成功与怨恨。"
+          },
+          {
+            en: "The beautiful world is therefore not a perfect space beyond inequality.",
+            zh: "因此，美丽的世界并不是一个位于不平等之外的完美空间。"
+          },
+          {
+            en: "It appears briefly whenever people remain attentive to one another without pretending that love has made their differences disappear.",
+            zh: "它短暂地出现在这样的时刻：人们继续认真地看见彼此，同时不假装爱已经让所有差异消失。"
+          }
+        ]
+      }
+    ],
+    articleSections: [
+      {
+        title: "Calendar Focus",
+        titleZh: "日历焦点",
+        en: "The house reverses an old romantic fantasy: this time, the woman owns the space, and the man enters it. But the novel’s real reversal is that nothing happens. Desire arrives—and class remains.",
+        zh: "这座房子颠倒了一个古老的爱情幻想：这一次，掌握空间的是女人，进入其中的是男人。但小说真正的颠倒在于，什么也没有发生。欲望已经到来，阶级却仍然留在原地。"
+      }
+    ],
+    relatedWorks: [
+      "Conversations with Friends — Sally Rooney",
+      "Normal People — Sally Rooney",
+      "Swing Time — Zadie Smith",
+      "The Years — Annie Ernaux",
+      "The Friend — Sigrid Nunez"
+    ],
+    tags: [
+      "female friendship",
+      "class inequality",
+      "money",
+      "houses",
+      "work",
+      "intimacy",
+      "desire",
+      "writing",
+      "success",
+      "contemporary fiction"
+    ],
+    tagsZh: [
+      "女性友谊",
+      "阶级不平等",
+      "金钱",
+      "房屋",
+      "工作",
+      "亲密关系",
+      "欲望",
+      "写作",
+      "成功",
+      "当代小说"
+    ],
+    sourceText: "Beautiful World, Where Are You",
+    status: "published"
   }
 ];
