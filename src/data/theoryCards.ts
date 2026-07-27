@@ -50,6 +50,9 @@ export type TheoryCard = {
   quoteReadingZh?: string;
   explanationEn: string;
   explanationZh: string;
+  highlightEn?: string;
+  highlightZh?: string;
+  sourceNote?: string;
   reflectionQuestion: string;
   relatedWorks: Array<string | {
     title: string;

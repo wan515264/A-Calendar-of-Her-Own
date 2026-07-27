@@ -1375,7 +1375,7 @@ The connection remains.`,
   {
     id: "2026-07-20-riane-eisler-the-chalice-and-the-blade",
     date: "2026-07-20",
-    type: "book",
+    type: "novel",
     title: "The Chalice and the Blade",
     titleZh: "《圣杯与剑》",
     titleSeparator: " ",
@@ -2982,7 +2982,6 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
     title: "Beautiful World, Where Are You",
     titleZh: "《美丽的世界，你在哪里》",
     author: "Sally Rooney｜萨莉·鲁尼",
-    years: "1991–",
     role: "Novel / Contemporary Fiction｜小说 / 当代文学",
     focusTitle: "Can Friendship Survive Unequal Lives?",
     focusTitleZh: "当生活不再平等，友谊还能继续吗？",
@@ -2994,25 +2993,29 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
       "Friendship does not make two lives equal. It asks whether they can remain connected after they have become unequal.",
     highlightZh:
       "友谊不会让两种生活变得平等。它追问的是：当生活已经不再平等，我们是否仍能保持联系。",
-    introduction: [
-      {
-        en: "At first glance, Beautiful World, Where Are You appears to be organised around two heterosexual relationships: Alice and Felix, Eileen and Simon.",
-        zh: "乍看之下，《美丽的世界，你在哪里》似乎围绕两组异性恋关系展开：艾莉丝与费里克斯，艾琳与西蒙。"
-      },
-      {
-        en: "But the novel’s deepest continuity lies elsewhere. It is sustained by the emails Alice and Eileen send to one another.",
-        zh: "但真正贯穿小说的关系存在于别处：它由艾莉丝与艾琳持续写给彼此的邮件维系。"
-      },
-      {
-        en: "They talk about the men they desire, but the men are not the only subjects of their correspondence. They also discuss work, religion, beauty, climate anxiety, capitalism, family, fame, children, and whether it remains possible to live a good life in a damaged world.",
-        zh: "她们会谈论自己爱上的男人，但男人并不是通信中唯一的主题。她们也谈工作、宗教、美、气候焦虑、资本主义、家庭、名声、孩子，以及在一个已经受损的世界里，人是否仍能过一种好的生活。"
-      },
-      {
-        en: "Their friendship gives both women something their romantic relationships cannot entirely provide: another woman with whom life itself can be interpreted.",
-        zh: "这段友谊给予她们一种爱情关系无法完全提供的东西：一个可以共同解释生活的女性。"
-      }
-    ],
     sections: [
+      {
+        title: "The Friendship at the Centre",
+        titleZh: "位于小说中心的女性友谊",
+        paragraphs: [
+          {
+            en: "At first glance, Beautiful World, Where Are You appears to be organised around two heterosexual relationships: Alice and Felix, Eileen and Simon.",
+            zh: "乍看之下，《美丽的世界，你在哪里》似乎围绕两组异性恋关系展开：艾莉丝与费里克斯，艾琳与西蒙。"
+          },
+          {
+            en: "But the novel’s deepest continuity lies elsewhere. It is sustained by the emails Alice and Eileen send to one another.",
+            zh: "但真正贯穿小说的关系存在于别处：它由艾莉丝与艾琳持续写给彼此的邮件维系。"
+          },
+          {
+            en: "They talk about the men they desire, but the men are not the only subjects of their correspondence. They also discuss work, religion, beauty, climate anxiety, capitalism, family, fame, children, and whether it remains possible to live a good life in a damaged world.",
+            zh: "她们会谈论自己爱上的男人，但男人并不是通信中唯一的主题。她们也谈工作、宗教、美、气候焦虑、资本主义、家庭、名声、孩子，以及在一个已经受损的世界里，人是否仍能过一种好的生活。"
+          },
+          {
+            en: "Their friendship gives both women something their romantic relationships cannot entirely provide: another woman with whom life itself can be interpreted.",
+            zh: "这段友谊给予她们一种爱情关系无法完全提供的东西：一个可以共同解释生活的女性。"
+          }
+        ]
+      },
       {
         title: "When Friendship Becomes Unequal",
         titleZh: "当友谊开始变得不平等",
@@ -3276,20 +3279,9 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
         ]
       }
     ],
-    articleSections: [
-      {
-        title: "Calendar Focus",
-        titleZh: "日历焦点",
-        en: "The house reverses an old romantic fantasy: this time, the woman owns the space, and the man enters it. But the novel’s real reversal is that nothing happens. Desire arrives—and class remains.",
-        zh: "这座房子颠倒了一个古老的爱情幻想：这一次，掌握空间的是女人，进入其中的是男人。但小说真正的颠倒在于，什么也没有发生。欲望已经到来，阶级却仍然留在原地。"
-      }
-    ],
     relatedWorks: [
       "Conversations with Friends — Sally Rooney",
-      "Normal People — Sally Rooney",
-      "Swing Time — Zadie Smith",
-      "The Years — Annie Ernaux",
-      "The Friend — Sigrid Nunez"
+      "Normal People — Sally Rooney"
     ],
     tags: [
       "female friendship",
@@ -3316,6 +3308,7 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
       "当代小说"
     ],
     sourceText: "Beautiful World, Where Are You",
+    sourceNote: "以上为日历编辑性概括，并非原书引文。",
     status: "published"
   }
 ];

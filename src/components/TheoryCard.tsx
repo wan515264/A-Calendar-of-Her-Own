@@ -144,6 +144,15 @@ export default function TheoryCard({ card, mode = 'compact', showActions = true 
           <p>{card.explanationZh}</p>
         </section>
 
+        {(card.highlightEn || card.highlightZh) && (
+          <blockquote>
+            {card.highlightEn && <p>{card.highlightEn}</p>}
+            {card.highlightZh && <p>{card.highlightZh}</p>}
+          </blockquote>
+        )}
+
+        {card.sourceNote && <p className="years">{card.sourceNote}</p>}
+
         <div className="tag-row">
           {todayTags.map((tag) => (
             <Tag key={tag} label={tag} />
