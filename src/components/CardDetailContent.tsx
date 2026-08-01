@@ -146,18 +146,21 @@ function formatDetailTitle(card: TheoryCard, title: string) {
 }
 
 export default function CardDetailContent({ card, showActions = false }: CardDetailContentProps) {
-  const title = card.cardTitle ?? card.concept;
-  const detailTitle = formatDetailTitle(card, title);
+  const title = card.detailTitle ?? card.cardTitle ?? card.concept;
+  const titleCard = card.detailTitle
+    ? { ...card, cardTitleZh: card.detailTitleZh }
+    : card;
+  const detailTitle = formatDetailTitle(titleCard, title);
   const detailFocus = getThematicTitle(card);
   const shouldShowFocusEn = Boolean(detailFocus.en && detailFocus.en !== title && detailFocus.en !== detailTitle);
   const location = [card.person?.city, card.person?.country].filter(Boolean).join(', ');
   const cardType = card.cardType ?? 'card';
   const creatorLabel = [card.creator, card.creatorZh].filter(Boolean).join('｜');
   const metadata = [
-    card.role ?? card.person?.category ?? cardType,
+    card.detailRole ?? card.role ?? card.person?.category ?? cardType,
     creatorLabel || undefined,
     card.location ?? (location || card.person?.locationName),
-    card.years
+    card.detailYears ?? card.years
   ].filter(Boolean).join(' · ');
   const hasManualIntro = Boolean(card.introEn || card.introZh);
   const fallbackIntroEn = uniqueParagraphs([card.person?.shortBioEn, card.person?.summaryEn]).join('\n\n');
@@ -221,7 +224,7 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
         </section>
       )}
 
-      {(card.quote || card.quoteSelections?.length || card.quoteReadingEn || card.quoteReadingZh) && (
+      {!card.quotesAtEnd && (card.quote || card.quoteSelections?.length || card.quoteReadingEn || card.quoteReadingZh) && (
         <section className="article-section">
           <h3>{card.quotesTitle ?? 'Quote Reading'}</h3>
           <span>{card.quotesTitleZh ?? '引文精读'}</span>
@@ -263,6 +266,27 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
               <Tag key={tag} label={tag} />
             ))}
           </div>
+        </section>
+      )}
+
+      {card.quotesAtEnd && (card.quote || card.quoteSelections?.length || card.quoteReadingEn || card.quoteReadingZh) && (
+        <section className="article-section">
+          <h3>{card.quotesTitle ?? 'Quote Reading'}</h3>
+          <span>{card.quotesTitleZh ?? '引文精读'}</span>
+          {card.quote && (
+            <blockquote>
+              <p>{card.quote}</p>
+              {card.quoteSource && <cite>{card.quoteSource}</cite>}
+            </blockquote>
+          )}
+          {card.quoteSelections?.map((selection, index) => (
+            <blockquote key={`${selection.en}-${index}`}>
+              <p>{selection.en}</p>
+              {selection.zh && <p>{selection.zh}</p>}
+              {(selection.source || card.quoteSource) && <cite>{selection.source ?? card.quoteSource}</cite>}
+            </blockquote>
+          ))}
+          <BilingualParagraphs en={card.quoteReadingEn} zh={card.quoteReadingZh} />
         </section>
       )}
 

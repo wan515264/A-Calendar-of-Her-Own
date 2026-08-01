@@ -134,6 +134,10 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
     cardType: card.type as TheoryCardKind,
     cardTitle: card.title,
     cardTitleZh: card.titleZh,
+    detailTitle: card.detailTitle,
+    detailTitleZh: card.detailTitleZh,
+    detailYears: card.detailYears,
+    detailRole: card.detailRole,
     titleSeparator: card.titleSeparator,
     years: card.years,
     role: card.role,
@@ -173,6 +177,7 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
     quoteSelections,
     quotesTitle: card.quotesTitle,
     quotesTitleZh: card.quotesTitleZh,
+    quotesAtEnd: card.quotesAtEnd,
     dailyCard: card,
     title: card.title,
     titleZh: card.titleZh

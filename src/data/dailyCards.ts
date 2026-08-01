@@ -5,6 +5,10 @@ export type DailyCard = {
   personId?: string;
   title: string;
   titleZh?: string;
+  detailTitle?: string;
+  detailTitleZh?: string;
+  detailYears?: string;
+  detailRole?: string;
   titleSeparator?: " " | "：";
   years?: string;
   role?: string;
@@ -67,6 +71,7 @@ export type DailyCard = {
   quoteReadingZh?: string;
   quotesTitle?: string;
   quotesTitleZh?: string;
+  quotesAtEnd?: boolean;
   quotes?: Array<{
     en: string;
     zh?: string;
@@ -3308,6 +3313,1398 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
       "当代小说"
     ],
     sourceText: "Beautiful World, Where Are You",
+    sourceNote: "以上为日历编辑性概括，并非原书引文。",
+    status: "published"
+  },
+  {
+    id: "2026-07-28-conversations-with-friends",
+    date: "2026-07-28",
+    type: "novel",
+    title: "Conversations with Friends",
+    titleZh: "《聊天记录》",
+    author: "Sally Rooney｜萨莉·鲁尼",
+    role: "Novel / Contemporary Fiction｜小说 / 当代文学",
+    focusTitle: "What Does Class Look Like in a Room Full of People?",
+    focusTitleZh: "当人们聚在一起，阶级是什么样子？",
+    summaryEn:
+      "Frances and Bobbi are young, intelligent, and newly entering adult society. They perform poetry together, talk about politics, and know how to appear ironic, self-possessed, and difficult to impress. Then they meet Melissa and Nick. The older couple have a house, careers, cultural recognition, expensive objects, professional contacts, and the relaxed confidence of people who already belong to the world Frances and Bobbi are only beginning to enter. Sally Rooney rarely explains class through abstract statements. She lets it appear through a taxi destination, a bowl of ripe fruit, a glass conservatory, a holiday home, a dinner invitation, and the way a young woman rehearses the facial expressions that might make her seem charming.",
+    summaryZh:
+      "弗朗西丝与博比年轻、聪明，刚刚开始进入成年人的社会。她们一起表演诗歌，谈论政治，也懂得如何显得讽刺、冷静，仿佛不容易被任何事物打动。然后，她们认识了梅利莎与尼克。这对年长的夫妇拥有房屋、事业、文化声望、昂贵的物品、职业关系，以及一种属于“已经进入这个世界的人”的松弛自信。而弗朗西丝与博比，才刚刚站在这个世界的门口。萨莉·鲁尼很少用抽象论述解释阶级。她让阶级通过一个出租车目的地、一碗成熟的水果、一间玻璃暖房、一栋度假屋、一次晚餐邀请，以及年轻女孩为了显得迷人而预先练习的面部表情，慢慢显现出来。",
+    highlightEn:
+      "Class is not only what people own. It is how comfortably they know what to do.",
+    highlightZh:
+      "阶级不只是一个人拥有什么。它也体现在：一个人是否自然地知道该怎么做。",
+    sections: [
+      {
+        title: "Two Young Women Enter Society",
+        titleZh: "两个年轻女孩开始进入社会",
+        paragraphs: [
+          {
+            en: "Conversations with Friends begins at a poetry night.",
+            zh: "《聊天记录》从一场诗歌之夜开始。"
+          },
+          {
+            en: "Frances and Bobbi are performing together. They are not introduced as passive young women waiting to be discovered. They already possess a public form: they write, perform, attract attention, and know how to make themselves interesting.",
+            zh: "弗朗西丝与博比一起登台表演。她们并不是等待被人发现的被动女孩。她们已经拥有自己的公共形象：她们写作、表演、吸引注意，也知道如何让自己显得有趣。"
+          },
+          {
+            en: "Their talent becomes their entry into a wider social world.",
+            zh: "她们的才艺，成为进入更广阔社会世界的通行证。"
+          },
+          {
+            en: "Melissa, an established writer and photographer, sees them perform, photographs them, speaks with them about their work, and invites them back to her house for a drink.",
+            zh: "梅利莎是一位已经获得一定声望的作家与摄影师。她看见她们表演，为她们拍照，与她们讨论创作，并邀请她们回家喝一杯。"
+          },
+          {
+            en: "The encounter appears spontaneous. Yet it follows an old social pattern: young women display accomplishment before people with greater cultural and material power, and that accomplishment earns them an invitation into a new circle.",
+            zh: "这次相遇看起来偶然而自然，却遵循着一种古老的社交模式：年轻女性在拥有更多文化与物质资源的人面前展示才艺，而她们的才艺为自己赢得了进入新社交圈的邀请。"
+          }
+        ]
+      },
+      {
+        title: "Talent as a Social Introduction",
+        titleZh: "才艺是一种社会介绍信",
+        paragraphs: [
+          {
+            en: "Frances and Bobbi do not enter Melissa’s world through family wealth, professional status, or established connections.",
+            zh: "弗朗西丝与博比并不是依靠家庭财富、职业地位或现成的人脉进入梅利莎的世界。"
+          },
+          { en: "They enter as poets.", zh: "她们以诗人的身份进入。" },
+          {
+            en: "Their performance gives them something that can circulate socially. It allows Melissa to introduce them to Nick with a simple sentence: they are poets.",
+            zh: "她们的表演赋予她们一种可以在社交中流通的身份。梅利莎可以用一句简单的话向尼克介绍她们：她们是诗人。"
+          },
+          {
+            en: "The description is flattering, but it also assigns them a role. They are young, talented, unconventional, and interesting enough to bring home.",
+            zh: "这个称呼令人愉悦，却也为她们分配了一个位置：年轻、有才华、不循规蹈矩，也足够有趣，值得被带回家。"
+          },
+          {
+            en: "Rooney understands that talent can be both genuine self-expression and social currency.",
+            zh: "鲁尼理解，才艺既可以是真实的自我表达，也可以是一种社交货币。"
+          },
+          {
+            en: "Frances writes because writing matters to her. But poetry also permits her to enter rooms that money and family background might not otherwise open.",
+            zh: "弗朗西丝写作，是因为写作对她确实重要。但诗歌也让她进入了一些仅凭金钱与家庭背景未必能够打开的房间。"
+          }
+        ]
+      },
+      {
+        title: "Preparing to Seem Charming",
+        titleZh: "准备好让自己显得迷人",
+        paragraphs: [
+          {
+            en: "On the way to Melissa’s house, Frances experiences the visit as a challenge.",
+            zh: "在前往梅利莎家的路上，弗朗西丝把这次拜访感受为一场挑战。"
+          },
+          {
+            en: "She begins preparing compliments and facial expressions that will make her appear charming.",
+            zh: "她开始提前准备赞美的话，也准备好一些能让自己显得讨人喜欢的面部表情。"
+          },
+          {
+            en: "This tiny detail reveals how social confidence is distributed.",
+            zh: "这个微小的细节，揭示了社交自信是如何被不平等地分配的。"
+          },
+          {
+            en: "For Melissa, inviting two young poets home is an effortless gesture. She gives the taxi driver her address, pours wine, takes photographs, smokes, and moves through her own home without needing to consider how she appears.",
+            zh: "对梅利莎而言，邀请两位年轻诗人回家是一件轻松自然的事。她向出租车司机说出地址，倒酒、拍照、抽烟，在自己的房子里自由行动，无须不断思考自己看起来如何。"
+          },
+          {
+            en: "For Frances, entering the house requires preparation. She must observe, interpret, and perform the correct version of herself.",
+            zh: "而对弗朗西丝来说，进入这栋房子却需要准备。她必须观察、理解，并表演出一个恰到好处的自己。"
+          },
+          {
+            en: "Class appears here not simply as wealth, but as the difference between inhabiting a social situation and auditioning for it.",
+            zh: "阶级在这里不仅表现为财富，也表现为一种差异：有些人自然地生活在社交场合里，有些人则像是在为进入其中而参加试演。"
+          }
+        ]
+      },
+      {
+        title: "The House Says “Rich People”",
+        titleZh: "房子说出了“有钱人”",
+        paragraphs: [
+          {
+            en: "When Frances enters Melissa’s home, she immediately begins collecting details.",
+            zh: "弗朗西丝进入梅利莎家后，立刻开始收集细节。"
+          },
+          {
+            en: "She notices the red-brick exterior, the warm hallway, the lights, the objects left casually near the door, the print hanging over the staircase, the fruit in the kitchen, and the glass conservatory.",
+            zh: "她注意到红砖外墙、温暖的门厅、亮着的灯、随意放在门边的物品、楼梯上的画、厨房里的水果，以及玻璃暖房。"
+          },
+          {
+            en: "None of these objects needs to announce its price.",
+            zh: "这些物品都不需要标明价格。"
+          },
+          {
+            en: "Together, they create a form of material ease.",
+            zh: "但它们共同构成了一种物质上的从容。"
+          },
+          {
+            en: "The house is not presented as an extravagant mansion. That is precisely why it feels socially convincing. Wealth appears through space, privacy, warmth, abundance, and the casual accumulation of things.",
+            zh: "这栋房子并不是一座夸张的豪宅。也正因如此，它显得格外真实。财富通过空间、隐私、温暖、充足，以及物品随意积累的状态呈现出来。"
+          },
+          {
+            en: "Frances thinks that an entire family could live there.",
+            zh: "弗朗西丝想到，这样一整栋房子足以住下一个家庭。"
+          },
+          {
+            en: "Then she sees the bowl of ripe fruit and the conservatory, and the conclusion arrives almost automatically:",
+            zh: "随后，她看见一碗成熟的水果和玻璃暖房，一个结论几乎自动浮现："
+          },
+          { en: "Rich people.", zh: "有钱人。" },
+          {
+            en: "Rooney does not pause to explain the economic system. The room has already done the work.",
+            zh: "鲁尼没有停下来解释经济制度。这个房间已经完成了说明。"
+          }
+        ]
+      },
+      {
+        title: "Class Is Made of Small Objects",
+        titleZh: "阶级由微小的物件组成",
+        paragraphs: [
+          {
+            en: "In Rooney’s fiction, class is rarely represented only by salary figures or explicit political debate.",
+            zh: "在鲁尼的小说中，阶级很少只通过工资数字或明确的政治辩论呈现。"
+          },
+          { en: "It appears through objects and habits:", zh: "它通过物品与习惯出现：" },
+          { en: "A professional camera with multiple lenses.", zh: "一台配有多个镜头的专业相机。" },
+          { en: "A house in Monkstown.", zh: "一栋位于蒙克斯敦的房子。" },
+          { en: "A glass conservatory.", zh: "一间玻璃暖房。" },
+          { en: "Wine poured into enormous glasses.", zh: "倒进巨大酒杯里的葡萄酒。" },
+          { en: "A husband who travels for filming.", zh: "一位为了拍摄而出差的演员丈夫。" },
+          {
+            en: "A holiday home once owned by a wealthy South Dublin family.",
+            zh: "一个富裕的南都柏林家庭曾经拥有的度假屋。"
+          },
+          {
+            en: "None of these details functions alone. Together they form a social atmosphere.",
+            zh: "这些细节单独看都不足以说明一切，但它们共同构成了一种社会氛围。"
+          },
+          {
+            en: "Class becomes visible as a way of arranging space, time, work, conversation, and expectation.",
+            zh: "阶级由此成为一种组织空间、时间、工作、谈话与期待的方式。"
+          }
+        ]
+      },
+      {
+        title: "Entering the Middle Class",
+        titleZh: "走进中产阶级的生活",
+        paragraphs: [
+          {
+            en: "Frances is not encountering wealth as a distant spectacle.",
+            zh: "弗朗西丝所面对的财富，并不是一个遥远的奇观。"
+          },
+          { en: "She is entering it socially.", zh: "她正在通过人际交往进入其中。" },
+          {
+            en: "Melissa talks to her as a fellow writer. Nick has studied at the same university and even shared some of the same lecturers. Their cultural references overlap. They can discuss books, theatre, politics, and art.",
+            zh: "梅利莎把她当作另一位写作者与她交谈。尼克曾经在同一所大学读书，甚至与她拥有一些相同的老师。他们共享部分文化参照，可以讨论书籍、戏剧、政治与艺术。"
+          },
+          {
+            en: "This proximity makes class more complicated.",
+            zh: "正是这种接近，让阶级变得更加复杂。"
+          },
+          {
+            en: "Frances is educated enough to speak their language, talented enough to attract their attention, and socially intelligent enough to enter their home.",
+            zh: "弗朗西丝受过足够的教育，能够使用他们的语言；她拥有足够的才华，能够吸引他们的注意；也足够敏锐，能够进入他们的家。"
+          },
+          {
+            en: "Yet she does not possess their security.",
+            zh: "但她并不拥有他们的安全感。"
+          },
+          {
+            en: "She can participate in the conversation without fully belonging to the conditions that make the conversation feel effortless.",
+            zh: "她可以参与谈话，却并不真正属于那种使谈话显得毫不费力的生活条件。"
+          },
+          {
+            en: "Rooney is interested in this unstable position: the young educated woman who can move among middle-class people, while remaining sharply aware that cultural fluency and material security are not the same thing.",
+            zh: "鲁尼关注的正是这种不稳定的位置：一个年轻、受过教育的女孩，可以进入中产阶级的社交生活，却清楚地知道，文化上的熟练与物质上的安全并不是同一回事。"
+          }
+        ]
+      },
+      {
+        title: "Social Life as Performance",
+        titleZh: "社交生活也是一种表演",
+        paragraphs: [
+          {
+            en: "The novel begins with a literal performance, but performance continues after Frances and Bobbi leave the stage.",
+            zh: "小说以一场真实的表演开始，但当弗朗西丝与博比离开舞台后，表演并没有结束。"
+          },
+          { en: "At the poetry night, they perform language publicly.", zh: "在诗歌之夜，她们公开表演语言。" },
+          { en: "At Melissa’s house, they perform personality.", zh: "在梅利莎家里，她们表演性格。" },
+          {
+            en: "They decide what to wear. They prepare compliments. They judge when to speak, when to remain silent, how seriously to take a remark, and how much enthusiasm to reveal.",
+            zh: "她们决定穿什么，准备赞美的话，判断何时开口、何时沉默，判断一句话应当被认真对待到什么程度，也衡量自己应该表现出多少热情。"
+          },
+          {
+            en: "Conversation is not presented as spontaneous transparency. It is a social art.",
+            zh: "谈话并不是完全自发而透明的表达。它是一门社交艺术。"
+          },
+          {
+            en: "The characters use irony, intelligence, beauty, flirtation, silence, and apparent indifference to establish their positions in relation to one another.",
+            zh: "人物使用讽刺、聪明、美貌、调情、沉默与表面上的冷淡，确定彼此之间的位置。"
+          },
+          {
+            en: "In this sense, the title Conversations with Friends is almost misleading.",
+            zh: "从这个意义上说，《聊天记录》这个标题近乎具有误导性。"
+          },
+          {
+            en: "These conversations are never simply exchanges between equals.",
+            zh: "这些对话从来不只是平等者之间的信息交换。"
+          },
+          {
+            en: "They are scenes in which status, desire, vulnerability, and power are continually being negotiated.",
+            zh: "它们是地位、欲望、脆弱与权力被持续协商的场景。"
+          }
+        ]
+      },
+      {
+        title: "Sally Rooney After Jane Austen",
+        titleZh: "萨莉·鲁尼：简·奥斯汀之后",
+        paragraphs: [
+          {
+            en: "Sally Rooney can be read as an inheritor of Jane Austen—not because their novels look the same, but because both writers understand that social life reveals itself through encounters.",
+            zh: "我们可以把萨莉·鲁尼视为简·奥斯汀的继承者。这并不是因为她们的小说外表相似，而是因为两位作家都理解：社会结构通过人与人的相遇显现出来。"
+          },
+          {
+            en: "In Austen’s novels, characters attend balls, dinners, visits, musical evenings, and country-house gatherings.",
+            zh: "在奥斯汀的小说里，人物参加舞会、晚餐、拜访、音乐晚会与乡间宅邸的聚会。"
+          },
+          {
+            en: "They dance, play music, read aloud, sing, converse, and display accomplishments.",
+            zh: "他们跳舞、演奏、朗读、唱歌、交谈，并展示自己的才艺。"
+          },
+          {
+            en: "These activities are pleasurable, but they also make social position visible. Who receives an invitation? Who enters confidently? Who performs well? Who is admired? Who is embarrassed? Who owns the house? Who has the right to judge?",
+            zh: "这些活动带来愉悦，却也使社会位置变得可见：谁获得邀请？谁能够自信地进入？谁表现出色？谁被欣赏？谁感到尴尬？谁拥有房屋？谁拥有评判他人的权力？"
+          },
+          {
+            en: "Rooney replaces the ballroom with the poetry night, the drawing room with the kitchen, the letter with the email and instant message.",
+            zh: "鲁尼用诗歌之夜替代舞会，用厨房替代客厅，用电子邮件与即时消息替代书信。"
+          },
+          { en: "But the social mechanism remains recognisable.", zh: "但其中的社会机制依然清晰可辨。" },
+          { en: "People gather.", zh: "人们相聚。" },
+          {
+            en: "They display intelligence, beauty, taste, wit, and talent.",
+            zh: "他们展示聪明、美貌、品味、机智与才艺。"
+          },
+          { en: "They observe one another.", zh: "他们彼此观察。" },
+          {
+            en: "They decide who is desirable, who belongs, and who has misunderstood the rules.",
+            zh: "他们判断谁值得被欲望，谁属于这里，又是谁误解了规则。"
+          },
+          {
+            en: "Like Austen, Rooney makes manners into social evidence.",
+            zh: "与奥斯汀一样，鲁尼把礼仪与举止变成了社会证据。"
+          }
+        ]
+      },
+      {
+        title: "From Accomplishments to Cultural Capital",
+        titleZh: "从“女性才艺”到文化资本",
+        paragraphs: [
+          {
+            en: "In Jane Austen’s world, a young woman’s accomplishments might include music, drawing, dancing, languages, or elegant conversation.",
+            zh: "在简·奥斯汀的世界里，年轻女性的才艺可能包括音乐、绘画、舞蹈、语言能力或优雅的谈吐。"
+          },
+          {
+            en: "These accomplishments helped establish her value within a tightly organised marriage and class system.",
+            zh: "这些才艺帮助她在由婚姻与阶级严密组织的社会中确立自己的价值。"
+          },
+          {
+            en: "Frances and Bobbi inhabit a different historical world, but their creative performance serves a related social function.",
+            zh: "弗朗西丝与博比生活在不同的历史世界里，但她们的创作表演仍然发挥着相似的社交功能。"
+          },
+          {
+            en: "They do not sing at a piano for eligible men. They perform political spoken-word poetry in a bar.",
+            zh: "她们并不是坐在钢琴前为适婚男性演唱，而是在酒吧里表演具有政治意味的口语诗。"
+          },
+          {
+            en: "Their work appears more rebellious and more autonomous.",
+            zh: "她们的创作看起来更加反叛，也更加自主。"
+          },
+          {
+            en: "Yet it still introduces them to people with greater cultural authority.",
+            zh: "但它仍然把她们介绍给了拥有更多文化权威的人。"
+          },
+          {
+            en: "The old “accomplished young woman” has not disappeared. She has changed form.",
+            zh: "古老的“多才多艺的年轻女性”并没有消失。她只是改变了形式。"
+          },
+          {
+            en: "She may now appear politically radical, artistically experimental, sexually self-aware, and contemptuous of conventional success.",
+            zh: "如今，她可能显得政治激进、艺术实验、具有性自主意识，也可能表现得鄙视传统意义上的成功。"
+          },
+          {
+            en: "But she is still being watched, interpreted, invited, photographed, and evaluated.",
+            zh: "但她仍然被观看、被解释、被邀请、被拍摄，也被评价。"
+          }
+        ]
+      },
+      {
+        title: "Who Gets to Be Effortless?",
+        titleZh: "谁可以显得毫不费力？",
+        paragraphs: [
+          {
+            en: "One of the clearest signs of class privilege in the novel is effortlessness.",
+            zh: "小说中，阶级特权最清晰的标志之一，就是“毫不费力”。"
+          },
+          {
+            en: "Melissa can appear warm, artistic, spontaneous, and casually generous because the material structure of her life supports those qualities.",
+            zh: "梅利莎可以显得温暖、有艺术气质、自发而慷慨，因为她生活中的物质结构支撑着这些品质。"
+          },
+          {
+            en: "She can invite people home without first calculating cost, space, transport, or inconvenience.",
+            zh: "她可以邀请别人回家，而不必先计算费用、空间、交通或不便。"
+          },
+          { en: "Frances, by contrast, calculates constantly.", zh: "相比之下，弗朗西丝不断进行计算。" },
+          {
+            en: "She calculates how to look, what to say, how much to reveal, whether she has been impressive, whether she has been childish, and whether other people can see her discomfort.",
+            zh: "她计算自己应该呈现什么样子、说什么、暴露多少，判断自己是否足够令人印象深刻，是否显得幼稚，也担心别人是否看见了她的不自在。"
+          },
+          {
+            en: "Her intelligence does not free her from class consciousness.",
+            zh: "她的聪明并没有让她摆脱阶级意识。"
+          },
+          { en: "It makes her more capable of perceiving it.", zh: "相反，它让她更敏锐地感受到阶级。" }
+        ]
+      },
+      {
+        title: "Intimacy Does Not Remove Social Position",
+        titleZh: "亲密关系不会消除社会位置",
+        paragraphs: [
+          {
+            en: "As Frances becomes closer to Nick, class does not disappear beneath desire.",
+            zh: "当弗朗西丝与尼克逐渐亲近时，阶级并没有在欲望之下消失。"
+          },
+          {
+            en: "Their conversations are pleasurable partly because they share education, literary interests, and a taste for irony.",
+            zh: "他们的谈话之所以令人愉悦，部分原因在于他们共享教育背景、文学兴趣与讽刺性的表达方式。"
+          },
+          {
+            en: "But their similarities coexist with significant differences in age, money, professional position, housing, and social security.",
+            zh: "然而，这些相似之处与年龄、金钱、职业位置、住房与社会安全感上的巨大差异同时存在。"
+          },
+          {
+            en: "Frances can joke about Nick’s wealthy South Dublin background and his family’s former holiday home.",
+            zh: "弗朗西丝可以拿尼克富裕的南都柏林家庭背景，以及他们家曾经拥有度假屋这件事开玩笑。"
+          },
+          {
+            en: "The joke demonstrates intimacy, but it also protects her.",
+            zh: "这个玩笑显示了亲密，也保护了她。"
+          },
+          {
+            en: "By naming his class position ironically, she can acknowledge the inequality without admitting how much it affects her.",
+            zh: "通过讽刺地指出尼克的阶级位置，她可以承认不平等，却不必承认这种不平等对自己产生了多深的影响。"
+          },
+          {
+            en: "Irony becomes both social intelligence and emotional defence.",
+            zh: "讽刺既是一种社交智慧，也是一种情感防御。"
+          }
+        ]
+      },
+      {
+        title: "Conversation as Class Evidence",
+        titleZh: "谈话本身就是阶级证据",
+        paragraphs: [
+          {
+            en: "Rooney’s characters often speak as though conversation were a free space.",
+            zh: "鲁尼笔下的人物常常表现得仿佛谈话是一处自由空间。"
+          },
+          {
+            en: "They debate capitalism, gender, literature, monogamy, morality, and the political meaning of their relationships.",
+            zh: "他们讨论资本主义、性别、文学、单偶制、道德，以及自身关系的政治意义。"
+          },
+          {
+            en: "Yet the ability to speak fluently about power does not place them outside power.",
+            zh: "但能够熟练地谈论权力，并不会让他们置身于权力之外。"
+          },
+          {
+            en: "Their words reveal education, confidence, insecurity, competition, and the desire to appear unaffected.",
+            zh: "他们的话语暴露出教育背景、自信、不安全感、竞争，以及显得不受影响的欲望。"
+          },
+          {
+            en: "Some characters know how to make an opinion sound casual. Others rehearse it internally before speaking.",
+            zh: "有些人知道如何让一个观点听起来毫不费力；另一些人则必须先在心中反复演练。"
+          },
+          {
+            en: "Some can remain silent without losing status. Others fear that silence will make them disappear.",
+            zh: "有些人可以保持沉默而不失去地位；另一些人则害怕沉默会让自己消失。"
+          },
+          {
+            en: "Class is therefore present not only in what the characters discuss, but in how safely they can participate in the discussion.",
+            zh: "因此，阶级不仅存在于人物讨论的内容里，也存在于他们能够以多大的安全感参与讨论。"
+          }
+        ]
+      },
+      {
+        title: "The Modern Social Novel",
+        titleZh: "一部现代社交小说",
+        paragraphs: [
+          {
+            en: "Conversations with Friends is often described as a novel about friendship, sex, and complicated relationships.",
+            zh: "《聊天记录》常被描述为一部关于友谊、性与复杂关系的小说。"
+          },
+          { en: "It is also a social novel.", zh: "但它同样是一部社会小说。" },
+          {
+            en: "Its drama emerges from invitations, dinners, performances, photographs, emails, bedrooms, holidays, houses, and conversations.",
+            zh: "它的戏剧性来自邀请、晚餐、表演、照片、电子邮件、卧室、假期、房屋与谈话。"
+          },
+          { en: "These are ordinary forms of social life.", zh: "这些都是日常社交生活的形式。" },
+          {
+            en: "But Rooney arranges them so that class becomes visible without turning the characters into simple representatives of economic categories.",
+            zh: "但鲁尼通过安排这些场景，让阶级清晰可见，同时又不把人物简化为经济类别的代表。"
+          },
+          {
+            en: "Melissa is not merely “middle class.” Frances is not merely “poor.” Nick is not merely “privileged.”",
+            zh: "梅利莎不只是“中产阶级”，弗朗西丝也不只是“贫穷”，尼克更不只是“拥有特权”。"
+          },
+          {
+            en: "Each person inhabits class through habits, shame, confidence, taste, generosity, dependency, and desire.",
+            zh: "每个人都通过习惯、羞耻、自信、品味、慷慨、依赖与欲望来生活在自己的阶级位置中。"
+          },
+          {
+            en: "This is what makes Rooney an Austenian novelist for the present.",
+            zh: "这正是鲁尼成为当代奥斯汀式小说家的原因。"
+          },
+          {
+            en: "She shows that society does not exist somewhere outside private life.",
+            zh: "她让我们看到，社会并不存在于私人生活之外的某个地方。"
+          },
+          { en: "It enters the room with the guests.", zh: "它与客人一起走进房间。" }
+        ]
+      }
+    ],
+    relatedWorks: [
+      "Beautiful World, Where Are You — Sally Rooney",
+      "Normal People — Sally Rooney",
+      "Pride and Prejudice — Jane Austen",
+      "Emma — Jane Austen"
+    ],
+    tags: [
+      "class",
+      "social performance",
+      "young women",
+      "cultural capital",
+      "talent",
+      "conversation",
+      "houses",
+      "manners",
+      "intimacy",
+      "contemporary fiction"
+    ],
+    tagsZh: [
+      "阶级",
+      "社交表演",
+      "年轻女性",
+      "文化资本",
+      "才艺",
+      "谈话",
+      "房屋",
+      "礼仪",
+      "亲密关系",
+      "当代小说"
+    ],
+    sourceText: "Conversations with Friends",
+    sourceNote: "以上为日历编辑性概括，并非原书引文。",
+    status: "published"
+  },
+  {
+    id: "2026-07-29-hilma-af-klint-paintings-for-the-future",
+    date: "2026-07-29",
+    type: "artist",
+    title: "Paintings for the Future",
+    titleZh: "《献给未来的绘画》",
+    author: "Hilma af Klint｜希尔玛·阿夫·克林特",
+    role: "Art / Abstraction / Spirituality｜艺术 / 抽象 / 灵性",
+    focusTitle: "Who Enters History—and Who Only Makes It?",
+    focusTitleZh: "谁进入历史，谁只是创造了历史？",
+    summaryEn:
+      "In 1906, Hilma af Klint began The Paintings for the Temple, a vast project that would eventually include 193 works. The paintings were filled with circles, spirals, flowers, letters, geometric structures, and luminous fields of colour. Many no longer represented the visible world in any conventional sense. Af Klint was not simply trying to invent a new artistic style. She believed painting could give form to realities that ordinary sight could not reach. Yet these works remained largely outside public view during her lifetime. For decades, the history of abstraction was written mainly around artists whose work had entered exhibitions, criticism, collections, and textbooks. Hilma af Klint’s paintings existed. But existence alone was not enough to make them part of history.",
+    summaryZh:
+      "1906年，希尔玛·阿夫·克林特开始创作《神殿绘画》。这是一项庞大的艺术计划，最终包含193件作品。画面中充满圆形、螺旋、花朵、字母、几何结构，以及明亮而流动的色彩。许多作品已经不再以传统方式描绘肉眼可见的世界。阿夫·克林特并不只是想发明一种新的艺术风格。她相信，绘画可以为普通视觉无法抵达的现实赋予形式。然而，这批作品在她生前基本没有进入公共视野。此后的几十年里，抽象艺术史主要围绕那些进入展览、评论、收藏与教科书的艺术家展开。希尔玛·阿夫·克林特的画一直存在。但仅仅存在，并不足以让它们进入历史。",
+    highlightEn: "Making history and entering history are not always the same event.",
+    highlightZh: "创造历史，与进入历史，并不总是同一件事。",
+    sections: [
+      {
+        title: "Before Abstraction Had a Stable Name",
+        titleZh: "在抽象艺术拥有稳定名称之前",
+        paragraphs: [
+          { en: "Hilma af Klint was born in Stockholm in 1862. She studied at the Royal Academy of Fine Arts and graduated with honours in 1887.", zh: "希尔玛·阿夫·克林特于1862年出生在斯德哥尔摩。她曾就读于瑞典皇家美术学院，并于1887年以优异成绩毕业。" },
+          { en: "She was not an untrained outsider who accidentally arrived at abstraction.", zh: "她并不是一个未经训练、偶然走向抽象的局外人。" },
+          { en: "She was academically educated and capable of producing portraits, landscapes, and botanical studies in recognised artistic forms. She established herself professionally through figurative painting before beginning the work for which she would later become famous.", zh: "她接受过学院训练，能够按照当时公认的艺术形式创作肖像、风景与植物研究。在开始后来令她闻名的作品之前，她已经通过具象绘画建立了自己的职业身份。" },
+          { en: "This matters because her abstract work was not the result of technical limitation.", zh: "这一点很重要，因为她的抽象作品并不是技术能力不足的结果。" },
+          { en: "It was a deliberate movement away from the visible world.", zh: "那是一次有意识地离开可见世界的行动。" }
+        ]
+      },
+      {
+        title: "The Paintings for the Temple",
+        titleZh: "《神殿绘画》",
+        paragraphs: [
+          { en: "In 1906, af Klint began the project she called The Paintings for the Temple.", zh: "1906年，阿夫·克林特开始创作她称为《神殿绘画》的艺术计划。" },
+          { en: "She continued working on it until 1915. The completed project consisted of 193 works arranged in multiple groups and series.", zh: "这一计划持续至1915年，最终由193件作品组成，并被划分为多个组别与系列。" },
+          { en: "The scale of the undertaking is important.", zh: "这项计划的规模十分重要。" },
+          { en: "These were not a few private experiments made at the edge of an otherwise conventional career.", zh: "它们不是一位传统画家在职业边缘偶尔进行的几次私人实验。" },
+          { en: "They formed an extensive visual system.", zh: "它们构成了一套庞大的视觉体系。" },
+          { en: "Colours, letters, spirals, shells, flowers, circles, and intersecting geometries repeatedly appear. Organic forms meet diagrams. Bodies become symbols. Growth becomes structure.", zh: "色彩、字母、螺旋、贝壳、花朵、圆形与彼此交错的几何结构不断出现。有机形态与图示相遇，身体转化为符号，生长成为结构。" },
+          { en: "The paintings appear to ask whether the visible world is only one layer of reality.", zh: "这些画仿佛在追问：肉眼所见的世界，是否只是现实的其中一层。" }
+        ]
+      },
+      {
+        title: "She Was Not Simply Trying to Be Modern",
+        titleZh: "她并不只是想成为“现代的”",
+        paragraphs: [
+          { en: "It is tempting to describe af Klint as a woman who invented abstract painting before the famous men of modernism.", zh: "人们很容易把阿夫·克林特描述成一个早于那些著名现代主义男性艺术家发明抽象绘画的女性。" },
+          { en: "The chronology is certainly striking.", zh: "这个时间顺序确实令人惊讶。" },
+          { en: "She began making radically nonfigurative works in 1906, several years before the dates commonly associated with the emergence of European abstraction.", zh: "她从1906年开始创作高度非具象的作品，比欧洲抽象艺术通常被认定的开端早了数年。古根海姆也把1906年称为她与具象绘画发生决定性断裂的时间。" },
+          { en: "But chronology does not tell the whole story.", zh: "但时间顺序并不能说明全部问题。" },
+          { en: "Af Klint’s purpose differed from the heroic story often told about modernist innovation.", zh: "阿夫·克林特的创作目的，与现代主义关于创新的英雄叙事并不完全相同。" },
+          { en: "She did not present herself simply as an autonomous genius inventing a new formal language.", zh: "她并没有仅仅把自己理解成一位发明全新形式语言的独立天才。" },
+          { en: "She believed that she was receiving and transmitting knowledge.", zh: "她相信自己正在接收并传递某种知识。" },
+          { en: "For her, painting was not only an aesthetic experiment.", zh: "对她而言，绘画不仅是一场审美实验。" },
+          { en: "It was a means of approaching an invisible order.", zh: "它也是接近不可见秩序的一种方式。" }
+        ]
+      },
+      {
+        title: "Painting What the Eye Cannot See",
+        titleZh: "绘制肉眼无法看见的东西",
+        paragraphs: [
+          { en: "Af Klint was deeply interested in spiritualism and later studied Theosophy, Anthroposophy, and Rosicrucian ideas.", zh: "阿夫·克林特很早便对招魂术与灵性思想产生兴趣，后来又深入接触神智学、人智学与玫瑰十字会思想。" },
+          { en: "In 1896, she formed a group with four other women known as De Fem, or “The Five.”", zh: "1896年，她与另外四位女性组成了一个名为“第五人组”的团体。" },
+          { en: "They met for spiritual sessions and practised automatic writing and drawing.", zh: "她们定期举行灵性聚会，并进行自动书写与自动绘画。" },
+          { en: "Af Klint believed that higher forms of consciousness could communicate through her work.", zh: "阿夫·克林特相信，更高层次的意识可以通过她的创作传递信息。" },
+          { en: "From a contemporary perspective, viewers may not share these beliefs.", zh: "从今天的角度来看，观众未必会认同这些信念。" },
+          { en: "But treating them merely as eccentric superstition would miss their artistic role.", zh: "但如果只把它们视为古怪的迷信，就会忽略它们在创作中的作用。" },
+          { en: "Spiritual practice gave af Klint a method for moving beyond naturalistic representation.", zh: "灵性实践为阿夫·克林特提供了一种离开自然主义再现的方法。" },
+          { en: "It allowed her to treat painting not as a window onto the visible world, but as a diagram of relationships, energies, transformations, and opposing forces.", zh: "它让她不再把绘画理解为通向可见世界的窗口，而是把画面转化为关系、能量、变化与对立力量的图示。" }
+        ]
+      },
+      {
+        title: "A Collective Beginning",
+        titleZh: "一个由女性共同开启的起点",
+        paragraphs: [
+          { en: "The conventional image of the modern artist is often solitary.", zh: "传统叙事中的现代艺术家，常常是孤独的。" },
+          { en: "A single genius enters a studio, rejects the past, and produces an unprecedented form.", zh: "一位天才独自进入工作室，拒绝过去，然后创造出前所未有的形式。" },
+          { en: "Af Klint’s story unsettles this image.", zh: "阿夫·克林特的故事扰乱了这一想象。" },
+          { en: "Her spiritual and artistic experiments developed partly within a group of women.", zh: "她的灵性与艺术实验，部分形成于一个女性团体之中。" },
+          { en: "The Five wrote, drew, gathered, listened, and interpreted together.", zh: "“第五人组”的成员一起书写、绘画、聚会、倾听，并共同解释她们的经验。" },
+          { en: "This does not mean that the group collectively authored all of af Klint’s later paintings.", zh: "这并不意味着阿夫·克林特后来的全部作品都由这个团体共同创作。" },
+          { en: "But it reminds us that artistic breakthroughs do not always begin with an isolated individual.", zh: "但它提醒我们，艺术上的突破并不总是始于一个孤立的个人。" },
+          { en: "They can begin in conversation, ritual, friendship, and repeated collective practice.", zh: "它们也可能始于谈话、仪式、友谊与不断重复的共同实践。" },
+          { en: "A history interested only in individual genius may fail to recognise the social conditions in which new forms become imaginable.", zh: "一种只关注个人天才的历史，很容易忽视新形式得以被想象的社会条件。" }
+        ]
+      },
+      {
+        title: "The Ten Largest",
+        titleZh: "《十幅巨作》",
+        paragraphs: [
+          { en: "Among the best-known works in The Paintings for the Temple are The Ten Largest, created in 1907.", zh: "《神殿绘画》中最著名的部分之一，是创作于1907年的《十幅巨作》。" },
+          { en: "The paintings are monumental. Each is more than three metres high.", zh: "这些作品体量巨大，每一幅都超过三米高。" },
+          { en: "They represent four stages of human life: childhood, youth, adulthood, and old age.", zh: "它们呈现人类生命的四个阶段：童年、青年、成年与老年。" },
+          { en: "Flowers, spirals, letters, shells, and glowing shapes drift across fields of pink, blue, orange, and yellow.", zh: "花朵、螺旋、字母、贝壳与发光般的形状，漂浮在粉色、蓝色、橙色与黄色的色域之中。" },
+          { en: "The series does not describe a single body ageing.", zh: "这个系列并不描绘某一个具体身体的衰老过程。" },
+          { en: "Instead, it imagines life as rhythm, growth, transformation, and movement between states.", zh: "相反，它把生命想象成节奏、生长、变化，以及不同状态之间的流动。" },
+          { en: "Moderna Museet describes evolution as one of the central themes of the series, understood less as physical development than as spiritual transformation.", zh: "现代美术馆指出，“进化”是该系列的核心主题之一，但这里的进化与其说是身体层面的变化，不如说是一种精神层面的转化。" }
+        ]
+      },
+      {
+        title: "Why Were the Paintings Not Seen?",
+        titleZh: "为什么这些画没有被看见？",
+        paragraphs: [
+          { en: "It would be misleading to explain af Klint’s absence from art history through gender alone.", zh: "如果仅仅用性别解释阿夫·克林特为何长期缺席于艺术史，也并不充分。" },
+          { en: "Her own decisions mattered.", zh: "她本人的决定同样重要。" },
+          { en: "She did not promote the abstract works through the same public networks used by many modernist artists.", zh: "她并没有通过许多现代主义艺术家所依赖的公共网络来推广这些抽象作品。" },
+          { en: "Their spiritual purpose also made them difficult to place within the dominant narratives of modern art.", zh: "作品的灵性目的，也使它们难以进入当时占主导地位的现代艺术叙事。" },
+          { en: "And in her will, she stipulated that the works should not be shown publicly until at least twenty years after her death.", zh: "同时，她在遗嘱中要求，这批作品在她去世后至少二十年内不要向公众展示。" },
+          { en: "She believed that a later generation might be better able to understand them.", zh: "她相信，后来的世代或许更有能力理解这些作品。" },
+          { en: "Af Klint died in 1944.", zh: "阿夫·克林特于1944年去世。" },
+          { en: "The requested waiting period therefore extended until 1964.", zh: "因此，她要求的等待期限持续至1964年。" },
+          { en: "But even after that point, recognition did not arrive immediately.", zh: "然而，即使在那之后，认可也没有立刻到来。" },
+          { en: "A work can be released from storage and still remain outside the canon.", zh: "一件作品可以离开仓库，却仍然无法进入经典。" }
+        ]
+      },
+      {
+        title: "Visibility Is an Institution",
+        titleZh: "可见性是一种制度",
+        paragraphs: [
+          { en: "Art does not enter history simply because it has been made.", zh: "艺术并不会因为已经被创作出来，就自然进入历史。" },
+          { en: "It must also be preserved, catalogued, exhibited, photographed, discussed, translated, collected, and taught.", zh: "它还需要被保存、编目、展览、拍摄、讨论、翻译、收藏与教授。" },
+          { en: "These processes create visibility.", zh: "正是这些过程创造了可见性。" },
+          { en: "They are carried out by institutions:", zh: "而执行这些过程的，是一系列制度：" },
+          { en: "Museums.", zh: "美术馆。" }, { en: "Archives.", zh: "档案馆。" }, { en: "Universities.", zh: "大学。" },
+          { en: "Publishers.", zh: "出版机构。" }, { en: "Critics.", zh: "评论家。" }, { en: "Collectors.", zh: "收藏家。" }, { en: "Markets.", zh: "市场。" },
+          { en: "A painting can exist materially while remaining historically inactive.", zh: "一幅画可以在物质上真实存在，却在历史中处于静止状态。" },
+          { en: "It may be protected in a box, documented in a notebook, or remembered by a family.", zh: "它可能被保存在箱子里，被记录在笔记本中，或只被一个家族记得。" },
+          { en: "But until institutions begin to circulate it, the work has little power to alter the story that society tells about art.", zh: "然而，在制度开始让它流通之前，它几乎没有力量改变社会讲述艺术史的方式。" }
+        ]
+      },
+      {
+        title: "The Difference Between Being First and Being Recognised",
+        titleZh: "最早出现，与最早被承认",
+        paragraphs: [
+          { en: "For many years, European abstraction was narrated through artists such as Wassily Kandinsky, Piet Mondrian, and Kazimir Malevich.", zh: "许多年来，欧洲抽象艺术史主要围绕康定斯基、蒙德里安与马列维奇等艺术家展开。" },
+          { en: "Their work was exhibited, reproduced, debated, connected to manifestos, and incorporated into influential modernist movements.", zh: "他们的作品被展览、复制、讨论，与宣言和现代主义运动相连接。" },
+          { en: "Af Klint’s abstract works followed a very different path.", zh: "阿夫·克林特的抽象作品走过的却是另一条道路。" },
+          { en: "They were produced early but circulated late.", zh: "它们出现得很早，却流通得很晚。" },
+          { en: "This is why it is too simple to replace one heroic origin story with another.", zh: "因此，仅仅用一个新的英雄起源故事替代旧故事，并不充分。" },
+          { en: "The question is not merely:", zh: "问题并不只是：" }, { en: "Who painted abstraction first?", zh: "谁最先画出抽象作品？" },
+          { en: "It is also:", zh: "它还包括：" }, { en: "Whose work was visible?", zh: "谁的作品能够被看见？" },
+          { en: "Whose intentions were understood as art?", zh: "谁的意图被理解为艺术？" },
+          { en: "Whose experiments were connected to an influential movement?", zh: "谁的实验能够与具有影响力的运动相连接？" },
+          { en: "Whose archive survived long enough to be reconsidered?", zh: "谁的档案得以保存到可以被重新审视的时刻？" }
+        ]
+      },
+      {
+        title: "She Did Not Completely Reject an Audience",
+        titleZh: "她并没有完全拒绝观众",
+        paragraphs: [
+          { en: "Af Klint is sometimes described as an artist who wanted her work to remain entirely secret.", zh: "阿夫·克林特有时被描述为一个希望作品彻底保密的艺术家。" },
+          { en: "The reality is more complicated.", zh: "事实更为复杂。" },
+          { en: "Her Blue Books contained small reproductions of The Paintings for the Temple. According to the Hilma af Klint Foundation, she travelled with them and hoped to generate interest among selected intellectual and occult circles that might eventually help exhibit the works.", zh: "根据希尔玛·阿夫·克林特基金会的资料，她的“蓝色画册”收录了《神殿绘画》的缩小图像。她曾携带这些画册旅行，并希望在特定的知识界与神秘主义团体中引起兴趣，由此获得展示作品的机会。" },
+          { en: "She therefore did not believe that the paintings should never be seen.", zh: "因此，她并不认为这些画永远不应被看见。" },
+          { en: "Rather, she appears to have believed that they required a particular audience, setting, and degree of readiness.", zh: "更准确地说，她似乎相信，这批作品需要一种特定的观众、环境与理解条件。" },
+          { en: "Her imagined temple was not merely a storage place.", zh: "她所想象的神殿，也并不只是一个保存作品的空间。" },
+          { en: "It was part of the meaning of the paintings.", zh: "它本身就是作品意义的一部分。" },
+          { en: "The viewer was meant to move through them, ascend, and experience the series as a spiritual journey.", zh: "观众应当在作品之间移动、向上行进，并把整个系列体验为一次精神旅程。" }
+        ]
+      },
+      {
+        title: "The World Was Not ‘Ready’—But Which World?",
+        titleZh: "“世界尚未准备好”——但究竟是哪个世界？",
+        paragraphs: [
+          { en: "The phrase “the world was not ready” is seductive.", zh: "“世界尚未准备好”是一句极具吸引力的话。" },
+          { en: "It can make af Klint appear prophetic, as though she foresaw the exact future of modern art.", zh: "它很容易把阿夫·克林特塑造成一位预言家，仿佛她准确预见了现代艺术的未来。" },
+          { en: "But the phrase should be handled carefully.", zh: "但我们需要谨慎使用这句话。" },
+          { en: "She believed that her contemporaries would not understand the work.", zh: "她确实认为，自己的同时代人无法理解这批作品。" },
+          { en: "That was her conviction.", zh: "这是她本人的判断。" },
+          { en: "What followed was not the inevitable fulfilment of a prophecy.", zh: "但后来发生的事，并不是一个预言必然应验的过程。" },
+          { en: "Recognition depended on changing institutions, changing scholarship, changing ideas about spirituality, and a growing willingness to reconsider women omitted from established narratives.", zh: "她获得认可，依赖于艺术制度、学术研究与灵性观念的变化，也依赖于人们越来越愿意重新审视那些被既有叙事排除在外的女性。" },
+          { en: "The world did not simply become more intelligent.", zh: "世界并不只是突然变得更加聪明。" },
+          { en: "The structures of attention changed.", zh: "真正改变的，是分配注意力的结构。" }
+        ]
+      },
+      {
+        title: "When the Paintings Entered Public History",
+        titleZh: "当这些作品进入公共历史",
+        paragraphs: [
+          { en: "Af Klint’s work began receiving broader international attention decades after her death.", zh: "阿夫·克林特的作品在她去世数十年后，才逐渐获得更广泛的国际关注。" },
+          { en: "Her inclusion in the 1986 Los Angeles exhibition The Spiritual in Art: Abstract Painting 1890–1985 became an important moment in that process.", zh: "1986年，她的作品进入洛杉矶展览《艺术中的灵性：1890—1985年的抽象绘画》，这成为其重新进入艺术史讨论的重要节点。" },
+          { en: "Later exhibitions expanded her visibility.", zh: "此后的多次展览进一步扩大了她的影响。" },
+          { en: "The 2013 Moderna Museet retrospective helped introduce her work to a much larger European audience.", zh: "2013年，斯德哥尔摩现代美术馆的大型回顾展让更多欧洲观众认识了她。" },
+          { en: "The Guggenheim Museum’s 2018–2019 exhibition Hilma af Klint: Paintings for the Future turned that recognition into a major international event.", zh: "2018至2019年，古根海姆博物馆举办《希尔玛·阿夫·克林特：献给未来的绘画》，使这场重新认识成为一次重要的国际文化事件。" },
+          { en: "At that point, the paintings did not suddenly become better.", zh: "到了那个时刻，作品本身并没有突然变得更好。" },
+          { en: "The conditions of seeing them had changed.", zh: "改变的是观看它们的条件。" }
+        ]
+      },
+      {
+        title: "A Woman in the History of Abstraction",
+        titleZh: "抽象艺术史中的女性",
+        paragraphs: [
+          { en: "Af Klint’s rediscovery is often folded into a satisfying feminist story:", zh: "阿夫·克林特的重新发现，常常被讲述为一个令人满足的女性主义故事：" },
+          { en: "A brilliant woman was erased.", zh: "一位杰出的女性遭到抹除。" }, { en: "Then history corrected itself.", zh: "后来，历史纠正了错误。" },
+          { en: "There is truth in this account.", zh: "这个叙事包含真实的一面。" },
+          { en: "Women artists did face structural barriers in education, exhibition, professional recognition, collection, and canon formation.", zh: "女性艺术家确实长期面对教育、展览、职业认可、收藏与经典建构中的结构性障碍。" },
+          { en: "But af Klint’s case also resists a simple story of passive exclusion.", zh: "然而，阿夫·克林特的经历也无法被简化为一个完全被动遭到排斥的故事。" },
+          { en: "She chose secrecy in certain contexts.", zh: "她在某些情境中主动选择了隐秘。" },
+          { en: "She directed the future of the archive.", zh: "她亲自安排了档案的未来。" },
+          { en: "She understood the works through a spiritual framework that later art institutions often struggled to accept.", zh: "她通过一套后来艺术机构难以接受的灵性框架理解这些作品。" },
+          { en: "She did not fit neatly into the categories through which modern art recognised itself.", zh: "她并不符合现代艺术用来辨认自身的那些整齐类别。" },
+          { en: "Gender mattered.", zh: "性别很重要。" },
+          { en: "But so did circulation, belief, self-presentation, timing, and institutional taste.", zh: "但流通方式、信仰、自我呈现、时机与制度品味也同样重要。" }
+        ]
+      },
+      {
+        title: "Do We Need Another ‘First Woman’?",
+        titleZh: "我们是否需要另一位“第一女性”？",
+        paragraphs: [
+          { en: "There is an understandable desire to call af Klint the first abstract painter.", zh: "人们很容易理解为什么要把阿夫·克林特称作第一位抽象画家。" },
+          { en: "The title corrects an old history centred on men.", zh: "这个称号似乎能够纠正一段以男性为中心的旧历史。" },
+          { en: "It gives her a place of unmistakable importance.", zh: "它也赋予她一个不容置疑的重要位置。" },
+          { en: "But the language of “the first” can create another problem.", zh: "但“第一”的语言也可能制造新的问题。" },
+          { en: "It keeps the structure of the old heroic narrative intact.", zh: "它保留了旧有英雄叙事的结构。" },
+          { en: "There must still be one origin.", zh: "历史仍然必须拥有一个唯一的起点。" }, { en: "One inventor.", zh: "一个发明者。" },
+          { en: "One decisive breakthrough.", zh: "一次决定性的突破。" }, { en: "Only the name changes.", zh: "改变的只是名字。" },
+          { en: "Af Klint’s work may offer a more radical possibility.", zh: "阿夫·克林特的作品或许提供了一种更激进的可能。" },
+          { en: "Perhaps abstraction did not have one beginning.", zh: "也许抽象艺术并不存在唯一的开端。" },
+          { en: "Perhaps different artists, working in different places and under different intellectual, scientific, political, and spiritual conditions, crossed the boundary of representation through different routes.", zh: "也许不同地区的艺术家，在各自不同的知识、科学、政治与灵性条件中，通过不同道路穿越了再现的边界。" },
+          { en: "To restore af Klint to history should not mean crowning her as a replacement hero.", zh: "让阿夫·克林特重新进入历史，不应只是为旧英雄寻找一个女性替代者。" },
+          { en: "It should mean changing the shape of the story.", zh: "它更应该意味着改变故事本身的形状。" }
+        ]
+      },
+      {
+        title: "The Archive That Waited",
+        titleZh: "等待中的档案",
+        paragraphs: [
+          { en: "Af Klint left behind more than paintings.", zh: "阿夫·克林特留下的不只有绘画。" },
+          { en: "She also produced notebooks, diagrams, records, writings, and systems of classification.", zh: "她还留下了笔记、图表、记录、文字与分类体系。" },
+          { en: "The archive shows how carefully she thought about the meaning and future of the work.", zh: "这些档案表明，她曾极其认真地思考作品的意义与未来。" },
+          { en: "She was not simply waiting for a curator to discover her.", zh: "她并不只是被动等待一位策展人前来发现。" },
+          { en: "She had already organised a future viewer into the work.", zh: "她早已把未来的观看者安排进了作品之中。" },
+          { en: "That viewer would need patience.", zh: "那个观看者需要耐心。" },
+          { en: "They would need to move between image and text, symbol and colour, science and spirituality.", zh: "他们需要在图像与文字、符号与色彩、科学与灵性之间移动。" },
+          { en: "They would also need to accept that a woman working outside the most visible modernist networks might have created something for which the existing history had no adequate category.", zh: "他们还必须接受：一位身处最显眼现代主义网络之外的女性，也可能创造出一种既有艺术史无法充分分类的作品。" }
+        ]
+      },
+      {
+        title: "History Learns by Looking Again",
+        titleZh: "历史通过重新观看而学习",
+        paragraphs: [
+          { en: "When af Klint’s paintings entered major museums, they did more than add one woman to an existing list.", zh: "当阿夫·克林特的绘画进入大型美术馆时，它们所做的不只是把一位女性添加到既有名单中。" },
+          { en: "They changed the questions art history had to ask.", zh: "它们改变了艺术史必须提出的问题。" },
+          { en: "What counts as abstraction?", zh: "什么可以被称为抽象？" }, { en: "Must abstract art be secular?", zh: "抽象艺术是否必须是世俗的？" },
+          { en: "Can spiritual practice be understood as a serious intellectual method?", zh: "灵性实践是否可以被理解为一种严肃的思想方法？" },
+          { en: "Does a work need to be publicly exhibited in order to influence the history of art?", zh: "一件作品是否必须公开展出，才能对艺术史产生影响？" },
+          { en: "How should we write about an innovation that existed early but circulated late?", zh: "我们应当如何书写一种很早出现、却很晚流通的创新？" },
+          { en: "What other works remain invisible because our categories are still too narrow?", zh: "还有哪些作品之所以不可见，是因为我们的分类仍然过于狭窄？" },
+          { en: "A canon is not repaired simply by inserting a missing name.", zh: "经典并不会因为补上一个遗漏的名字就自动得到修复。" },
+          { en: "Sometimes the framework itself must be rebuilt.", zh: "有时候，必须重建的是框架本身。" }
+        ]
+      },
+      {
+        title: "The Future in the Paintings",
+        titleZh: "画中的未来",
+        paragraphs: [
+          { en: "The phrase Paintings for the Future does not mean that af Klint literally knew what future art would become.", zh: "“献给未来的绘画”并不意味着阿夫·克林特真的知道未来艺术会变成什么样子。" },
+          { en: "Its power lies elsewhere.", zh: "它的力量存在于别处。" },
+          { en: "She made work whose intended conditions of reception did not yet fully exist.", zh: "她创作了一批在当时尚未拥有充分接受条件的作品。" },
+          { en: "The future was not a date.", zh: "未来不是一个具体日期。" }, { en: "It was a viewer.", zh: "它是一位观看者。" },
+          { en: "A viewer capable of taking abstraction, spirituality, female authorship, and symbolic complexity seriously at the same time.", zh: "一位能够同时认真对待抽象、灵性、女性创作主体与复杂象征体系的观看者。" },
+          { en: "That viewer did not appear all at once.", zh: "这位观看者并没有在某一天突然出现。" },
+          { en: "She had to be produced through decades of exhibitions, scholarship, feminist criticism, archival work, and changes in public imagination.", zh: "她是通过数十年的展览、研究、女性主义批评、档案工作与公众想象的变化逐渐产生的。" },
+          { en: "Perhaps this is why the paintings still feel directed toward the future.", zh: "也许正因如此，这些作品今天仍然像是面向未来。" },
+          { en: "They ask each generation whether it has learned to see more than the generation before it.", zh: "它们向每一代人发问：我们是否已经比上一代学会看见更多" }
+        ]
+      }
+    ],
+    relatedWorks: [
+      "The Ten Largest — Hilma af Klint",
+      "The Swan — Hilma af Klint",
+      "Altarpieces — Hilma af Klint",
+      "Concerning the Spiritual in Art — Wassily Kandinsky"
+    ],
+    tags: ["abstract art", "women artists", "spirituality", "modernism", "visibility", "archives", "institutions", "art history", "canon", "the future"],
+    tagsZh: ["抽象艺术", "女性艺术家", "灵性", "现代主义", "可见性", "档案", "艺术制度", "艺术史", "经典", "未来"],
+    sourceText: "Paintings for the Future",
+    sourceNote: "以上为日历编辑性概括，并非艺术家原话。",
+    status: "published"
+  },
+  {
+    id: "2026-07-30-women-who-run-with-the-wolves",
+    date: "2026-07-30",
+    type: "book",
+    title: "Women Who Run with the Wolves",
+    titleZh: "《与狼同行的女人》",
+    author: "Clarissa Pinkola Estés｜克拉丽莎·平科拉·埃斯蒂斯",
+    role: "Psychology / Myth / Feminine Instinct｜心理学 / 神话 / 女性本能",
+    focusTitle: "What Remains When a Woman Has Been Stripped Down to the Bones?",
+    focusTitleZh: "当一个女人被剥夺到只剩骨头，还会留下些什么？",
+    summaryEn:
+      "Clarissa Pinkola Estés begins Women Who Run with the Wolves with a striking comparison: women and wolves have both been feared, misrepresented, driven away, and forced into narrower territories. The book calls the instinctive, intuitive, creative, and life-preserving force within women the Wild Woman. ‘Wild’ does not mean reckless or out of control. It means living according to a deeper integrity: sensing danger, protecting boundaries, creating, choosing, leaving, staying, and knowing when something must die so that something else can live. In the story of La Loba, an old woman wanders the desert collecting the bones of wolves. When she has assembled a complete skeleton, she sings over it. The bones grow flesh. The body begins to breathe. The wolf rises, runs, and becomes a laughing woman moving freely toward the horizon.",
+    summaryZh:
+      "克拉丽莎·平科拉·埃斯蒂斯在《与狼同行的女人》开篇提出了一个强烈的类比：女性与狼，都曾被恐惧、误解、驱赶，也都被迫退入越来越狭窄的领地。这本书把女性内部那种本能的、直觉的、创造性的、维持生命的力量称为“野性女人”。这里的“野性”并不是失控或鲁莽。它意味着依照更深层的完整性活着：感知危险、维护边界、进行创造、作出选择、知道何时离开、何时留下，也知道什么必须死去，什么必须继续活下去。在“狼女拉洛芭”的故事中，一位老妇人在沙漠里收集狼的骨头。当她拼出一副完整的骨架，她开始对着骨头歌唱。骨头长出血肉。身体开始呼吸。狼站起来，奔跑，并在途中变成一个大笑着冲向地平线的女人。",
+    sections: [
+      {
+        title: "The Wild Woman Is Not a Fantasy of Escape",
+        titleZh: "“野性女人”并不是逃离现实的幻想",
+        paragraphs: [
+          { en: "The phrase “Wild Woman” can easily be misunderstood.", zh: "“野性女人”这个词很容易被误解。" },
+          { en: "It may sound like a romantic invitation to abandon responsibility, reject society, or live without limits.", zh: "它可能听起来像一种浪漫化的召唤：抛弃责任、拒绝社会，或者不受任何限制地生活。" },
+          { en: "But Estés defines wildness differently.", zh: "但埃斯蒂斯对“野性”的理解并非如此。" },
+          { en: "For her, the wild is not chaos.", zh: "对她而言，野性不是混乱。" },
+          { en: "It is the original intelligence of a living creature.", zh: "它是一种生命原初的智慧。" },
+          { en: "A healthy animal knows its territory.", zh: "一个健康的动物知道自己的领地。" },
+          { en: "It senses threat.", zh: "它能感知威胁。" },
+          { en: "It knows when to approach and when to retreat.", zh: "它知道何时靠近，何时后退。" },
+          { en: "It plays, protects, rests, hunts, nurtures, and moves according to its own rhythms.", zh: "它会玩耍、保护、休息、追寻、养育，并按照自身的节律行动。" },
+          { en: "The Wild Woman represents this same instinctive integrity within the female psyche.", zh: "“野性女人”代表的，正是女性心灵中同样的本能完整性。" },
+          { en: "She is not the opposite of intelligence.", zh: "她并不是理性的对立面。" },
+          { en: "She is a different kind of intelligence—bodily, intuitive, cyclical, and alert.", zh: "她代表另一种智慧：身体性的、直觉性的、循环性的，也是时刻警醒的。" }
+        ]
+      },
+      {
+        title: "Women and Wolves",
+        titleZh: "女性与狼",
+        paragraphs: [
+          { en: "At the beginning of the book, Estés places women and wolves beside one another.", zh: "在书的开头，埃斯蒂斯把女性与狼并置在一起。" },
+          { en: "Both have been described as dangerous.", zh: "两者都曾被描述为危险。" },
+          { en: "Both have been accused of being ravenous, deceptive, aggressive, and difficult to control.", zh: "两者都曾被指责为贪婪、狡猾、攻击性强，也难以控制。" },
+          { en: "Both have had their natural territories reduced.", zh: "两者原本的生存领地，也都曾被不断压缩。" },
+          { en: "The comparison is symbolic, but it is also political.", zh: "这个类比具有象征性，也具有政治性。" },
+          { en: "To call a woman “wild” has often been a way of declaring her unsuitable for obedience.", zh: "把一个女人称为“野”，常常意味着她不适合服从。" },
+          { en: "A woman who speaks too loudly, desires too much, refuses too quickly, or creates outside permission may be treated as dangerous.", zh: "一个说话太响、欲望太多、拒绝太快，或者未经允许就进行创造的女性，很容易被视作危险。" },
+          { en: "The same culture that values a woman for being agreeable may fear her ability to sense, refuse, defend, and leave.", zh: "一个赞美女性温顺的文化，也可能恐惧她感知、拒绝、防御与离开的能力。" },
+          { en: "Estés therefore asks women not to become more socially acceptable, but to recover the parts of themselves that have been domesticated into silence.", zh: "因此，埃斯蒂斯所要求的，不是让女性变得更符合社会期待，而是找回那些被驯化到沉默的自我部分。" }
+        ]
+      },
+      {
+        title: "When the Natural Rhythm Is Broken",
+        titleZh: "当自然节律被打断",
+        paragraphs: [
+          { en: "The book repeatedly describes modern women as overextended.", zh: "书中反复描绘现代女性被过度消耗的状态。" },
+          { en: "A woman may be expected to become everything to everyone.", zh: "一个女人可能被要求成为所有人需要的样子。" },
+          { en: "She must care, perform, work, adapt, soothe, organise, and remain available.", zh: "她必须照顾、表现、工作、适应、安抚、组织，并始终保持可被需要。" },
+          { en: "She may live according to schedules, duties, and expectations that bear little relation to her own inner rhythms.", zh: "她可能依照与自身内在节律毫无关系的时间表、责任与期待生活。" },
+          { en: "The result is not always dramatic collapse.", zh: "结果并不总是一次戏剧性的崩溃。" },
+          { en: "Sometimes it appears as fatigue.", zh: "有时，它只是疲惫。" },
+          { en: "Sometimes as numbness.", zh: "有时，是麻木。" },
+          { en: "Sometimes as irritability, depression, creative blockage, indecision, or the feeling of being estranged from one’s own life.", zh: "有时，它表现为易怒、抑郁、创作受阻、无法决定，或者一种与自己生活疏离的感觉。" },
+          { en: "A woman may continue functioning.", zh: "一个女人仍然可以继续运转。" },
+          { en: "She may appear responsible, capable, and composed.", zh: "她可能显得可靠、能干而冷静。" },
+          { en: "But inwardly, she feels reduced.", zh: "但在内心，她感到自己正在缩小。" },
+          { en: "The book describes this state as separation from the instinctive psyche.", zh: "书中把这种状态描述为与本能心灵的分离。" },
+          { en: "The outer life continues.", zh: "外在生活仍在继续。" },
+          { en: "But the inner fire has gone out.", zh: "但内部的火已经熄灭。" }
+        ]
+      },
+      {
+        title: "‘Nice’ Is Not the Same as Alive",
+        titleZh: "“乖”并不等于活着",
+        paragraphs: [
+          { en: "One of the sharpest ideas in the book is its criticism of the demand that women remain “nice.”", zh: "这本书最尖锐的观点之一，是它对女性必须保持“乖巧”的要求提出批评。" },
+          { en: "Girls and women are often taught to soften their perceptions.", zh: "女孩与女性经常被教导，要把自己的感知变得柔和。" },
+          { en: "Do not overreact.", zh: "不要反应过度。" }, { en: "Do not appear angry.", zh: "不要显得愤怒。" },
+          { en: "Do not make others uncomfortable.", zh: "不要让别人感到不适。" },
+          { en: "Do not trust the feeling that something is wrong.", zh: "不要相信那个认为“事情不对劲”的感受。" },
+          { en: "Do not leave too early.", zh: "不要太早离开。" }, { en: "Do not say no too clearly.", zh: "不要把拒绝说得太明确。" },
+          { en: "Over time, being agreeable can become more important than remaining in contact with one’s own knowledge.", zh: "久而久之，讨人喜欢可能变得比保持与自身认知的联系更加重要。" },
+          { en: "But the instinctive self does not disappear simply because it has been ignored.", zh: "然而，本能的自我不会因为被忽视就消失。" },
+          { en: "It may survive as irritation, restlessness, dreams, bodily tension, grief, or creative longing.", zh: "它可能以烦躁、不安、梦境、身体紧绷、悲伤或创作渴望的形式继续存在。" },
+          { en: "The “bad” feeling may be the part of the psyche that still knows the truth.", zh: "那个“不好的感受”，也许正是心灵中仍然知道真相的部分。" }
+        ]
+      },
+      {
+        title: "La Loba, the Bone Woman",
+        titleZh: "拉洛芭：收集骨头的女人",
+        paragraphs: [
+          { en: "The first major story in the book is La Loba, the Wolf Woman.", zh: "书中的第一个重要故事，是“拉洛芭，狼女”。" },
+          { en: "She is an old woman who lives in a hidden place in the desert.", zh: "她是一位生活在沙漠隐秘之地的老妇人。" },
+          { en: "Her work is to collect bones.", zh: "她的工作，是收集骨头。" },
+          { en: "She gathers the remains of creatures that are in danger of disappearing from the world.", zh: "她收集那些可能从世界上彻底消失的生命遗骸。" },
+          { en: "Her speciality is wolves.", zh: "而她尤其收集狼的骨头。" },
+          { en: "She searches through mountains and dry riverbeds until she has recovered every part of a skeleton.", zh: "她穿行在群山与干涸的河床之间，直到找回一副骨架的每一个部分。" },
+          { en: "Then she places the bones together.", zh: "然后，她把骨头重新排列。" },
+          { en: "She sits beside the fire.", zh: "她坐在火旁。" }, { en: "She decides what song must be sung.", zh: "她决定应该唱哪一首歌。" },
+          { en: "And she begins.", zh: "随后，她开始歌唱。" },
+          { en: "This is not a story about creating life from nothing.", zh: "这并不是一个凭空创造生命的故事。" },
+          { en: "It is a story about recognising that something remains.", zh: "它讲述的是：即使看起来一切都已经失去，仍然有某种东西留了下来。" }
+        ]
+      },
+      {
+        title: "Why Bones?",
+        titleZh: "为什么是骨头？",
+        paragraphs: [
+          { en: "In Estés’s interpretation, bones symbolise what is hardest to destroy.", zh: "在埃斯蒂斯的解释中，骨头象征最难被摧毁的部分。" },
+          { en: "Flesh can be wounded.", zh: "血肉会受伤。" }, { en: "A voice can be silenced.", zh: "声音会被压制。" },
+          { en: "A life can be narrowed.", zh: "生活会被压缩。" }, { en: "Desire can be shamed.", zh: "欲望会被羞辱。" },
+          { en: "Creative work can be abandoned.", zh: "创作会被放弃。" },
+          { en: "But something essential may survive beneath all this damage.", zh: "但在这些损伤之下，某种根本性的东西仍可能幸存。" },
+          { en: "The bones are not the whole living creature.", zh: "骨头并不是完整的生命。" },
+          { en: "But they preserve its structure.", zh: "但它们保留了生命的结构。" },
+          { en: "They remember what the body once was capable of becoming.", zh: "它们记得这个身体曾经能够成为什么。" },
+          { en: "For this reason, the image of bones is both bleak and hopeful.", zh: "因此，骨头的意象既荒凉，又充满希望。" },
+          { en: "They show how much has been lost.", zh: "它们显示已经失去了多少。" },
+          { en: "But they also prove that the loss is not absolute.", zh: "却也证明，这种失去并非彻底。" }
+        ]
+      },
+      {
+        title: "Gathering Is a Form of Attention",
+        titleZh: "收集，是一种注意力",
+        paragraphs: [
+          { en: "La Loba does not discover the complete wolf all at once.", zh: "拉洛芭并不会一次找到完整的狼。" },
+          { en: "She must search.", zh: "她必须寻找。" }, { en: "One bone may lie far from another.", zh: "一块骨头可能离另一块很远。" },
+          { en: "Some may be buried beneath sand.", zh: "有些被埋在沙子下面。" }, { en: "Others may be nearly invisible.", zh: "还有一些几乎无法被看见。" },
+          { en: "This is how recovery often works.", zh: "恢复常常也是如此。" },
+          { en: "A woman rarely returns to herself through one dramatic decision.", zh: "一个女人很少通过一次戏剧性的决定，就完全回到自己。" },
+          { en: "She may recover herself in fragments.", zh: "她可能以碎片的方式找回自己。" },
+          { en: "A memory.", zh: "一段记忆。" }, { en: "A desire she had dismissed.", zh: "一种曾被她否定的欲望。" },
+          { en: "A friendship in which she can speak honestly.", zh: "一段允许她诚实说话的友谊。" },
+          { en: "A piece of writing.", zh: "一段文字。" }, { en: "A bodily sensation.", zh: "一种身体感受。" },
+          { en: "A refusal.", zh: "一次拒绝。" }, { en: "A boundary.", zh: "一条边界。" },
+          { en: "A form of pleasure that does not need to be justified.", zh: "一种不需要被解释的快乐。" },
+          { en: "Each fragment is a bone.", zh: "每一个碎片，都是一块骨头。" },
+          { en: "Recovery begins by treating these fragments as evidence rather than as trivialities.", zh: "恢复始于把这些碎片当作证据，而不是无关紧要的东西。" }
+        ]
+      },
+      {
+        title: "Singing Over the Bones",
+        titleZh: "对着骨头歌唱",
+        paragraphs: [
+          { en: "Collecting the bones is not enough.", zh: "仅仅收集骨头还不够。" }, { en: "La Loba must sing.", zh: "拉洛芭还必须歌唱。" },
+          { en: "In the story, song is what calls the creature back into form.", zh: "在故事中，歌声把生命重新召回形体。" },
+          { en: "For Estés, this song represents the soul-voice.", zh: "对埃斯蒂斯来说，这首歌代表灵魂的声音。" },
+          { en: "It is the voice that tells the truth about what has been lost and what is still needed.", zh: "它说出什么已经失去，也说出什么仍然被需要。" },
+          { en: "It may take the form of literal singing.", zh: "它可以是真正的歌唱。" },
+          { en: "But it may also appear as writing, painting, movement, prayer, storytelling, making, mourning, or speaking aloud what has long remained unsaid.", zh: "它也可以表现为写作、绘画、身体运动、祈祷、讲故事、手工制作、哀悼，或者把长期未说出口的话真正说出来。" },
+          { en: "The song is not decoration.", zh: "歌声并不是装饰。" },
+          { en: "It is breath placed back into what has become lifeless.", zh: "它是重新吹入枯竭之物的呼吸。" }
+        ]
+      },
+      {
+        title: "The Solitary Work of Restoration",
+        titleZh: "恢复是一种必须亲自完成的工作",
+        paragraphs: [
+          { en: "The book makes a difficult point:", zh: "这本书提出了一个并不轻松的观点：" },
+          { en: "No lover can perform this restoration for a woman.", zh: "没有任何爱人能够替一个女人完成这种恢复。" },
+          { en: "Another person may offer support, recognition, companionship, or care.", zh: "另一个人可以提供支持、理解、陪伴与照顾。" },
+          { en: "But no one else can sing her soul fully back into existence.", zh: "但没有人能够替她把自己的灵魂完整地唱回来。" },
+          { en: "The work must involve her own voice.", zh: "这项工作必须包含她自己的声音。" },
+          { en: "Her own desire.", zh: "她自己的欲望。" }, { en: "Her own attention.", zh: "她自己的注意力。" },
+          { en: "Her own willingness to search through the psychic desert.", zh: "以及她亲自穿越心灵荒漠的意愿。" },
+          { en: "This is not because women should heal in isolation.", zh: "这并不意味着女性应该孤立地疗愈自己。" },
+          { en: "The book values stories, mothers, elders, communities, friendships, and traditions.", zh: "这本书重视故事、母亲、年长女性、共同体、友谊与传统。" },
+          { en: "But restoration cannot depend entirely on being chosen, loved, or rescued by someone else.", zh: "但恢复不能完全依赖被另一个人选择、爱上或拯救。" },
+          { en: "The decisive voice must eventually come from within.", zh: "最终，决定性的声音必须来自内部。" }
+        ]
+      },
+      {
+        title: "The Desert Life",
+        titleZh: "沙漠般的生活",
+        paragraphs: [
+          { en: "The desert in the story is not only a place of emptiness.", zh: "故事中的沙漠并不只是一个空无之地。" },
+          { en: "It is a place where life becomes concentrated.", zh: "它也是一个让生命变得高度浓缩的地方。" },
+          { en: "On the surface, very little appears to be happening.", zh: "表面上，看起来几乎什么都没有发生。" },
+          { en: "But underground, roots preserve water.", zh: "但在地下，根系保存着水分。" }, { en: "Seeds wait.", zh: "种子在等待。" },
+          { en: "Life adapts itself to scarcity.", zh: "生命让自己适应匮乏。" },
+          { en: "Estés compares this to the lives of many women.", zh: "埃斯蒂斯把这种状态与许多女性的生活联系起来。" },
+          { en: "A woman’s visible life may appear small.", zh: "一个女人可见的生活可能显得很小。" },
+          { en: "Her work may go unrecognised.", zh: "她的工作可能无人承认。" },
+          { en: "Her creativity may survive only in private.", zh: "她的创造力可能只能秘密存活。" },
+          { en: "Her desires may have almost no public language.", zh: "她的欲望可能几乎没有公开表达的语言。" },
+          { en: "But beneath the surface, an enormous interior life may remain.", zh: "但在表面之下，一个巨大的内在世界仍然可能存在。" },
+          { en: "The desert is therefore not proof that nothing is alive.", zh: "因此，沙漠并不能证明生命已经消失。" },
+          { en: "It may be proof that life has learned to hide.", zh: "它也可能证明，生命已经学会了隐藏。" }
+        ]
+      },
+      {
+        title: "Creativity as an Instinct",
+        titleZh: "创造力是一种本能",
+        paragraphs: [
+          { en: "In this book, creativity is not treated as a luxury.", zh: "在这本书中，创造力并不是一种奢侈品。" },
+          { en: "It is not reserved for professional artists.", zh: "它也不只属于职业艺术家。" },
+          { en: "Creativity is one of the ways the psyche maintains vitality.", zh: "创造，是心灵维持活力的方式之一。" },
+          { en: "To make something is to participate in the Life/Death/Life cycle.", zh: "创造某种东西，就是参与“生命—死亡—生命”的循环。" },
+          { en: "An idea appears.", zh: "一个想法出现。" }, { en: "It develops.", zh: "它成长。" },
+          { en: "It may fail, end, transform, or be abandoned.", zh: "它可能失败、结束、转化，或者被放弃。" },
+          { en: "Then something new grows from what remains.", zh: "随后，新的事物从残余中生长出来。" },
+          { en: "When a woman is separated from her creative life, the problem is not only that she produces less art.", zh: "当一个女人与自己的创作生活分离时，问题并不只是她减少了艺术产出。" },
+          { en: "Her whole life may become less animated.", zh: "她的整个生活都可能失去活力。" },
+          { en: "She may become obedient where she once was inventive.", zh: "她可能在曾经富于创造的地方变得服从。" },
+          { en: "She may repeat where she once imagined.", zh: "她可能在曾经能够想象的地方，只剩重复。" },
+          { en: "She may survive efficiently while feeling that very little inside her is truly living.", zh: "她可能高效地生存，却感觉内在几乎没有什么真正活着。" }
+        ]
+      },
+      {
+        title: "Stories Are Medicine",
+        titleZh: "故事是药",
+        paragraphs: [
+          { en: "Estés describes stories as medicine.", zh: "埃斯蒂斯把故事称作药。" },
+          { en: "Not because every story gives direct advice.", zh: "不是因为每一个故事都会给出明确建议。" },
+          { en: "And not because myth solves material problems by itself.", zh: "也不是因为神话能够独自解决现实问题。" },
+          { en: "Stories work by giving shape to experiences that may otherwise remain confused or unnamed.", zh: "故事的作用，是为那些原本混乱、无法命名的经验赋予形状。" },
+          { en: "A woman may recognise herself in the bones.", zh: "一个女人可能在骨头中认出自己。" },
+          { en: "In the desert.", zh: "在沙漠中认出自己。" }, { en: "In the old woman.", zh: "在老妇人身上认出自己。" },
+          { en: "In the wolf that begins to breathe.", zh: "也在那只重新开始呼吸的狼身上认出自己。" },
+          { en: "The story creates an image large enough to hold pain, endurance, loss, and possibility at the same time.", zh: "故事创造出一个足够宽广的意象，能够同时容纳痛苦、忍耐、失去与可能性。" },
+          { en: "It tells the listener:", zh: "它告诉听故事的人：" },
+          { en: "You are not the first person to feel dismantled.", zh: "你并不是第一个感到自己被拆散的人。" },
+          { en: "There is a pattern for gathering.", zh: "收集碎片有它的路径。" },
+          { en: "There is a language for return.", zh: "归来有它的语言。" }
+        ]
+      },
+      {
+        title: "The Knowledge of Older Women",
+        titleZh: "年长女性的知识",
+        paragraphs: [
+          { en: "La Loba is not young.", zh: "拉洛芭并不年轻。" },
+          { en: "She is old, strange, solitary, and powerful.", zh: "她年老、奇异、孤独而强大。" },
+          { en: "The book repeatedly returns to figures of old women who possess knowledge unavailable to the ordinary social world.", zh: "书中反复出现这样的老妇人形象：她们拥有日常社会无法提供的知识。" },
+          { en: "This matters in a culture that often treats ageing women as increasingly irrelevant.", zh: "这一点在一个常常把年长女性视为越来越无关紧要的文化中，尤其重要。" },
+          { en: "The old woman in myth is not valuable because she remains youthful.", zh: "神话中的老妇人之所以重要，并不是因为她仍然保持年轻。" },
+          { en: "She is valuable because she has stayed near the cycles of life and death long enough to recognise them.", zh: "她之所以重要，是因为她长期靠近生命与死亡的循环，因此能够辨认它们。" },
+          { en: "She knows that endings are not always failures.", zh: "她知道，结束并不总是失败。" },
+          { en: "She knows that decay may be part of transformation.", zh: "她知道，腐败也可能是变化的一部分。" },
+          { en: "She knows that what looks dead may still contain structure.", zh: "她知道，看似死亡的东西仍可能保留结构。" },
+          { en: "She does not panic at the sight of bones.", zh: "她不会因为看见骨头就惊慌。" },
+          { en: "She knows what to do with them.", zh: "她知道应该如何处理它们。" }
+        ]
+      },
+      {
+        title: "What Must Die, and What Must Live?",
+        titleZh: "什么必须死去，什么必须活下来？",
+        paragraphs: [
+          { en: "The Wild Woman is described as a Life/Death/Life force.", zh: "“野性女人”被描述为一种“生命—死亡—生命”的力量。" },
+          { en: "This does not mean preserving everything.", zh: "这并不意味着保存一切。" },
+          { en: "Instinctive wisdom is partly the ability to distinguish between what should be protected and what should be allowed to end.", zh: "本能智慧的一部分，就在于分辨什么应该被保护，什么应该被允许结束。" },
+          { en: "A relationship may need to die.", zh: "一段关系可能需要结束。" }, { en: "An identity may need to die.", zh: "一种身份可能需要消失。" },
+          { en: "A fantasy of being loved by everyone may need to die.", zh: "一种希望被所有人喜欢的幻想可能需要终结。" },
+          { en: "A role that once protected a woman may later confine her.", zh: "一个曾经保护女性的角色，后来可能开始囚禁她。" },
+          { en: "At the same time, creativity may need to live.", zh: "与此同时，创造力必须活下来。" },
+          { en: "Anger may need to live.", zh: "愤怒可能必须活下来。" }, { en: "Desire may need to live.", zh: "欲望可能必须活下来。" },
+          { en: "A boundary may need to live.", zh: "边界可能必须活下来。" }, { en: "A voice may need to live.", zh: "声音可能必须活下来。" },
+          { en: "The difficulty is not simply choosing life over death.", zh: "困难并不只是选择生命而拒绝死亡。" },
+          { en: "It is learning the timing of both.", zh: "而是学习两者各自的时机。" }
+        ]
+      },
+      {
+        title: "Recovery Does Not Mean Returning to Innocence",
+        titleZh: "恢复并不意味着回到纯真",
+        paragraphs: [
+          { en: "When the wolf rises from the bones, it does not return unchanged.", zh: "当狼从骨头中重新站起来时，它并不是原样返回。" },
+          { en: "It has passed through death.", zh: "它已经穿越死亡。" }, { en: "It has been disassembled.", zh: "它曾经被拆散。" },
+          { en: "It has been gathered and sung over.", zh: "它被重新收集，也被歌声重新唤醒。" },
+          { en: "Recovery therefore does not mean becoming the person one was before harm.", zh: "因此，恢复并不意味着重新变成受伤之前的自己。" },
+          { en: "It means becoming alive through what remains.", zh: "它意味着从剩余之物中重新活起来。" },
+          { en: "The restored self carries knowledge of loss.", zh: "恢复后的自我携带着失去的知识。" },
+          { en: "It may have sharper boundaries.", zh: "它可能拥有更清晰的边界。" }, { en: "It may trust differently.", zh: "它可能以不同方式信任。" },
+          { en: "It may refuse more quickly.", zh: "它可能更迅速地拒绝。" },
+          { en: "It may no longer wish to fit into the life that once made it disappear.", zh: "它也可能不再愿意回到那个曾让自己消失的生活中。" },
+          { en: "The laughing woman running toward the horizon is not innocent.", zh: "那个大笑着奔向地平线的女人并不天真。" },
+          { en: "She is free because she has been reassembled.", zh: "她之所以自由，是因为她已经把自己重新拼合起来。" }
+        ]
+      },
+      {
+        title: "A Feminist Reading of the Wild",
+        titleZh: "对“野性”的女性主义理解",
+        paragraphs: [
+          { en: "The language of archetype in Women Who Run with the Wolves can feel universal and expansive.", zh: "《与狼同行的女人》中的原型语言具有一种普遍而宏大的气质。" },
+          { en: "But it should not be used to claim that all women share one fixed nature.", zh: "但它不应被用来断言所有女性都拥有同一种固定本质。" },
+          { en: "The book is most useful when “Wild Woman” is understood not as a biological rule, but as a symbolic language for capacities that women are often discouraged from developing.", zh: "当我们不把“野性女人”理解为一种生物学规则，而是理解为一种象征语言时，这本书最有力量。" },
+          { en: "The capacity to trust perception.", zh: "相信自身感知的能力。" }, { en: "To protect oneself.", zh: "保护自己的能力。" },
+          { en: "To create without permission.", zh: "未经允许就进行创造的能力。" }, { en: "To value pleasure.", zh: "重视快乐的能力。" },
+          { en: "To recognise exhaustion.", zh: "辨认疲惫的能力。" },
+          { en: "To reject compulsory sweetness.", zh: "拒绝被迫温顺的能力。" },
+          { en: "To form relationships without disappearing inside them.", zh: "在关系中保持自我，而不是消失其中的能力。" },
+          { en: "The feminist value of the book lies here:", zh: "这本书的女性主义价值正在这里：" },
+          { en: "It gives women permission to treat instinct not as something shameful, but as a form of knowledge.", zh: "它允许女性不再把本能视为可耻之物，而是把它视作一种知识。" }
+        ]
+      },
+      {
+        title: "The Return Is Not Always Dramatic",
+        titleZh: "归来并不总是戏剧性的",
+        paragraphs: [
+          { en: "Not every woman will run into a desert or howl with wolves.", zh: "并不是每一个女人都会真的跑进沙漠，或者与狼一起嚎叫。" },
+          { en: "The return of the instinctive self may be very quiet.", zh: "本能自我的回归可能非常安静。" },
+          { en: "It may begin when she stops answering immediately.", zh: "它可能始于她不再立刻回应。" },
+          { en: "When she admits that she is tired.", zh: "始于她承认自己疲惫。" },
+          { en: "When she protects an hour for writing.", zh: "始于她为写作保护一个小时。" },
+          { en: "When she stops explaining a boundary.", zh: "始于她不再反复解释自己的边界。" },
+          { en: "When she listens to discomfort before it becomes catastrophe.", zh: "始于她在不适演变为灾难之前，就认真倾听它。" },
+          { en: "When she asks:", zh: "也始于她开始发问：" },
+          { en: "What have I abandoned?", zh: "我放弃了什么？" },
+          { en: "What part of my life has gone underground?", zh: "我的哪一部分生活进入了地下？" },
+          { en: "What still has bones?", zh: "什么仍然保留着骨头？" },
+          { en: "What song would help it breathe again?", zh: "哪一首歌，可以让它重新呼吸？" }
+        ]
+      }
+    ],
+    tags: ["Wild Woman", "instinct", "intuition", "bones", "recovery", "creativity", "storytelling", "boundaries", "Life/Death/Life", "women’s psychology"],
+    tagsZh: ["野性女人", "本能", "直觉", "骨头", "恢复", "创造力", "故事", "边界", "生命—死亡—生命", "女性心理"],
+    sourceText: "Women Who Run with the Wolves",
+    status: "published"
+  },
+  {
+    id: "2026-07-31-peggy-guggenheim-shock-of-the-modern",
+    date: "2026-07-31",
+    type: "book",
+    title: "Peggy Guggenheim: The Shock of the Modern",
+    titleZh: "《佩姬·古根海姆：现代性的震撼》",
+    author: "Francine Prose｜弗朗辛·普罗斯",
+    role: "Art Collecting / Patronage / Modernism｜艺术收藏 / 艺术赞助 / 现代主义",
+    detailTitle: "Peggy Guggenheim",
+    detailTitleZh: "佩姬·古根海姆",
+    detailYears: "1898–1979",
+    detailRole: "Collector / Gallerist / Patron｜收藏家 / 画廊经营者 / 艺术赞助人",
+    focusTitle: "How Does a Collector Enter Art History?",
+    focusTitleZh: "收藏家如何进入艺术史？",
+    summaryEn: "Peggy Guggenheim is often remembered through inherited wealth, unconventional relationships, and the famous artists around her. Francine Prose’s biography offers a more useful foundation: it presents Guggenheim as a woman who gradually learned how the modern art world worked, then used money, social networks, exhibitions, commissions, and institutional space to influence which artists became visible. Her importance does not lie simply in owning major works. She opened galleries, supported artists whose reputations were still uncertain, and converted private wealth into forms of public cultural influence. At the same time, her career remained marked by privilege, dependence on advisers, personal insecurity, and the unequal structures of the art world.",
+    summaryZh: "佩姬·古根海姆经常因为继承财富、非常规的亲密关系，以及围绕在她身边的著名艺术家而被记住。弗朗辛·普罗斯的传记提供了一个更有解释力的基础：佩姬并不是天生拥有完美判断力的收藏家，而是在长期交往、学习与实践中理解现代艺术的运行方式，随后通过金钱、人际网络、展览、委托与机构空间，影响哪些艺术家能够进入公共视野。 她的重要性并不只是拥有大量名作。她开办画廊，支持尚未获得稳定声誉的艺术家，并把私人财富转化为公共文化影响力。与此同时，她的事业始终带有明显的矛盾：继承特权、对顾问的依赖、个人的不安全感，以及艺术世界本身的不平等结构。",
+    highlightEn: "Peggy Guggenheim’s significance lies not only in what she collected, but in how she helped works and artists become visible.",
+    highlightZh: "佩姬·古根海姆的重要性，不只在于她收藏了什么，也在于她如何帮助作品与艺术家变得可见。",
+    sections: [
+      {
+        title: "From Inherited Wealth to Cultural Agency",
+        titleZh: "从继承财富到文化行动",
+        paragraphs: [
+          { en: "Any account of Peggy Guggenheim must begin with her economic position. She was born in New York in 1898 into the wealthy Guggenheim family. Her father, Benjamin Guggenheim, died in the sinking of the Titanic in 1912, and her uncle Solomon R. Guggenheim later established the foundation associated with the Guggenheim Museum in New York. Peggy’s inheritance gave her access to travel, artistic circles, property, and financial risk on a scale unavailable to most women of her generation.", zh: "任何关于佩姬·古根海姆的叙述，都必须首先说明她的经济位置。她于1898年出生在纽约富裕的古根海姆家族。她的父亲本杰明·古根海姆在1912年的“泰坦尼克号”沉没事故中去世；她的叔叔所罗门·R·古根海姆后来建立了与纽约古根海姆博物馆相关的基金会。继承财富让佩姬能够旅行、进入艺术圈、购买房产，并承担当时绝大多数女性无法承担的经济风险。" },
+          { en: "Francine Prose does not treat this privilege as incidental. The biography belongs to Yale’s Jewish Lives series and pays particular attention to how Guggenheim’s wealth coexisted with antisemitic exclusion and with her family’s efforts to assimilate into elite American society. Reviewers have noted that this attention to Jewish identity and antisemitism is one of the book’s central strengths.", zh: "弗朗辛·普罗斯并没有把这种特权当作无关紧要的背景。这部传记属于耶鲁大学出版社的“Jewish Lives”系列，并特别关注古根海姆家族的财富如何与反犹排斥并存，以及这个家庭如何努力融入美国精英社会。评论者也指出，对犹太身份与反犹主义的处理，是这本书最重要的特点之一。" },
+          { en: "Peggy was therefore neither socially powerless nor fully secure. She had unusual freedom, but she also remained conscious of exclusion, appearance, education, and status. Prose uses these contradictions to explain why Guggenheim could be independent in money while still relying heavily on male intellectual and artistic authority.", zh: "因此，佩姬既不是一个缺乏社会权力的人，也不是一个拥有绝对安全感的人。她拥有非同寻常的自由，却始终在意排斥、外貌、教育与社会地位。普罗斯借由这些矛盾说明，为什么佩姬可以在经济上独立，却仍然高度依赖男性所代表的知识与艺术权威。" }
+        ]
+      },
+      {
+        title: "Taste Was Learned, Not Inherited",
+        titleZh: "品味不是继承来的，而是学习形成的",
+        paragraphs: [
+          { en: "Peggy Guggenheim did not begin her career as a trained art historian or an established expert. Her understanding of modern art developed through contact with artists, writers, dealers, and advisers. Marcel Duchamp played a particularly important role in explaining avant-garde movements and introducing her to artistic networks.", zh: "佩姬并不是以受过专业训练的艺术史学者或成熟专家身份开始事业。她对现代艺术的理解，形成于与艺术家、作家、艺术商人与顾问的交往。马塞尔·杜尚尤其重要，他帮助她理解先锋艺术流派，也把她带入相关的人际网络。" },
+          { en: "This does not mean that her achievement belonged to her advisers. It means that collecting was a social practice. Knowledge was produced through conversation, access, recommendation, repeated looking, and eventually through the responsibility of making decisions with financial and institutional consequences.", zh: "这并不意味着她的成就属于那些顾问，而是说明收藏本身是一种社会实践。知识通过谈话、机会、推荐与反复观看形成，最终还必须落实为具有经济与制度后果的决定。" },
+          { en: "The biography’s treatment of Guggenheim is most convincing when it avoids the myth of the solitary visionary. Her contribution was not that she always recognised artistic importance immediately. It was that she built enough knowledge and confidence to act before consensus had been established.", zh: "这部传记最有说服力之处，正是它没有把佩姬塑造成一个孤独而全知的远见者。她的贡献并不在于总能立即辨认艺术价值，而在于她逐渐积累了足够的知识与判断力，能够在共识形成之前采取行动。" }
+        ]
+      },
+      {
+        title: "Guggenheim Jeune and the Work of Running a Gallery",
+        titleZh: "古根海姆青年画廊与经营艺术的劳动",
+        paragraphs: [
+          { en: "In January 1938, Peggy opened Guggenheim Jeune in London. The gallery operated for only eighteen months, but it presented more than twenty exhibitions, including Jean Cocteau, contemporary sculpture, collage, abstract and Surrealist art, and Wassily Kandinsky’s first solo exhibition in London.", zh: "1938年1月，佩姬在伦敦开设“古根海姆青年画廊”。这家画廊只经营了十八个月，却举办了二十多场展览，内容包括让·谷克多、当代雕塑、拼贴、抽象艺术与超现实主义，也举办了瓦西里·康定斯基在伦敦的首次个人展览。" },
+          { en: "This period was important because it moved her beyond private acquisition. Running a gallery required selecting artists, arranging exhibitions, negotiating prices, managing publicity, and responding to audiences. It also forced her to confront the difference between admiring modern art and building a functioning institution around it.", zh: "这一阶段的重要性在于，它让佩姬不再只是私人购买者。经营画廊要求她选择艺术家、安排展览、协商价格、处理宣传，并回应观众。它也迫使她面对一个差别：欣赏现代艺术是一回事，围绕现代艺术建立一个可以运作的机构，则是另一回事。" },
+          { en: "The gallery was not a major commercial success, but it gave her practical experience in how art acquires visibility. A work does not become historically important merely because it exists. It must be exhibited, discussed, sold, photographed, catalogued, and connected to audiences.", zh: "画廊在商业上并不算成功，却让佩姬获得了有关艺术如何取得可见性的实际经验。一件作品不会仅仅因为存在就自动获得历史地位。它还需要被展览、讨论、出售、拍摄、编目，并与观众建立联系。" }
+        ]
+      },
+      {
+        title: "Collecting During the War",
+        titleZh: "战争时期的收藏",
+        paragraphs: [
+          { en: "Peggy assembled much of her collection as Europe moved toward and into the Second World War. Artists were displaced, borders were closing, and modern art had been condemned by fascist regimes. Her collection was eventually moved out of Europe and brought to the United States.", zh: "佩姬收藏事业的重要阶段，正值欧洲走向并进入第二次世界大战。艺术家被迫流亡，边境逐渐关闭，现代艺术也遭到法西斯政权攻击。她的收藏最终被转移出欧洲，并带到美国。" },
+          { en: "It would be misleading to describe this simply as one heroic woman rescuing modern art. Works and people survived through networks of artists, families, dealers, transporters, and aid organisations. Guggenheim’s resources gave her an important role, but that role was part of a wider history of displacement and preservation.", zh: "如果把这一过程简单描述为一位女性英雄独自拯救现代艺术，就会造成误导。作品与人的幸存，依赖艺术家、家庭、艺术商人、运输人员与援助组织构成的网络。古根海姆凭借资源发挥了重要作用，但这种作用属于更广泛的流亡与保存历史。" },
+          { en: "Prose’s biography is useful precisely because it presents Peggy as neither fearless nor fully in control. She could be impulsive, uncertain, and dependent on others while still making consequential decisions. This is a more credible account of cultural agency than the image of a person who never hesitated or misjudged a situation.", zh: "普罗斯的传记之所以有价值，正因为她没有把佩姬写成毫无恐惧、始终掌控局面的人。佩姬可能冲动、犹疑，也依赖他人，却仍然作出具有长期后果的决定。这比一个从不迟疑、从不误判的人物形象，更能解释文化行动如何真实发生。" }
+        ]
+      },
+      {
+        title: "Art of This Century",
+        titleZh: "“本世纪的艺术”",
+        paragraphs: [
+          { en: "On October 20, 1942, Peggy Guggenheim opened Art of This Century at 30 West 57th Street in New York. Designed by Frederick Kiesler, the space combined a permanent display of her collection with temporary commercial exhibitions. Its experimental installation used unusual supports, lighting, and spatial arrangements rather than conventional neutral walls.", zh: "1942年10月20日，佩姬·古根海姆在纽约西57街30号开设“本世纪的艺术”。这处空间由弗雷德里克·基斯勒设计，一部分长期展示她的收藏，另一部分举办临时商业展览。它采用非常规的支架、灯光与空间结构，而不是传统的中性墙面。" },
+          { en: "The gallery became an important meeting point between European avant-garde art and a younger generation of American painters. It did not create Abstract Expressionism by itself, but it provided exhibition space, social contact, and public attention at a moment when the movement’s artists had not yet acquired stable historical status.", zh: "这家画廊成为欧洲先锋艺术与年轻一代美国画家之间的重要交汇点。它并不是凭一己之力创造了抽象表现主义，但在相关艺术家尚未获得稳定历史地位时，它提供了展览空间、社会联系与公众关注。" },
+          { en: "Art of This Century shows why Guggenheim cannot be understood only as someone who purchased objects. She was also involved in exhibition design, circulation, publicity, and the construction of artistic reputations. The gallery turned private taste into an organised public encounter.", zh: "“本世纪的艺术”说明，古根海姆不能只被理解为购买物品的人。她也参与展览设计、艺术流通、宣传与声誉建构。画廊把私人品味转化为一种有组织的公共观看经验。" }
+        ]
+      },
+      {
+        title: "Supporting Jackson Pollock",
+        titleZh: "对杰克逊·波洛克的支持",
+        paragraphs: [
+          { en: "Peggy Guggenheim is frequently described as the person who discovered Jackson Pollock, but this formulation is too simple. Pollock’s work came to her attention through a network of artists and advisers. Her distinctive contribution was to convert interest into material support.", zh: "佩姬·古根海姆经常被称为“发现”杰克逊·波洛克的人，但这种表述过于简单。波洛克的作品通过艺术家与顾问构成的网络进入她的视野。她真正具有决定性的贡献，是把兴趣转化为物质支持。" },
+          { en: "Pollock’s first solo exhibition was held at Art of This Century in 1943. Guggenheim gave him a contract that continued through 1947, enabling him to devote substantially more time to painting. She also commissioned the large work later known as Mural.", zh: "1943年，波洛克在“本世纪的艺术”举办首次个人展览。古根海姆向他提供了一份持续至1947年的合约，使他能够把更多时间投入绘画。她还委托他创作后来被称为《壁画》的大型作品。" },
+          { en: "This part of the story makes patronage concrete. Artistic recognition requires more than praise. It may require income, time, exhibition space, commissions, publicity, and access to other collectors. Guggenheim’s support mattered because it changed Pollock’s working conditions.", zh: "这部分经历让“艺术赞助”变得具体。艺术认可所需要的不只是赞美，还可能包括收入、时间、展览空间、委托、宣传，以及接触其他收藏家的机会。古根海姆的支持之所以重要，是因为它改变了波洛克的创作条件。" }
+        ]
+      },
+      {
+        title: "Women Artists and Institutional Visibility",
+        titleZh: "女性艺术家与制度可见性",
+        paragraphs: [
+          { en: "In 1943, Art of This Century presented Exhibition by 31 Women. Another women-focused exhibition, The Women, followed in 1945. These exhibitions included artists working across Surrealism, abstraction, sculpture, and other modernist practices.", zh: "1943年，“本世纪的艺术”举办“31位女性艺术家展”；1945年，又举办了另一场聚焦女性艺术家的展览“女性”。这些展览汇集了活跃于超现实主义、抽象艺术、雕塑及其他现代主义实践中的女性艺术家。" },
+          { en: "It would be anachronistic to describe Peggy Guggenheim as a consistently feminist curator in the present-day sense. Her attitudes and choices remained shaped by her period, and her collection still reflected major gender inequalities. Nevertheless, these exhibitions created institutional documentation of women as artists rather than only as partners, muses, or social figures around famous men.", zh: "如果按照今天的标准，把佩姬·古根海姆描述成一位立场始终一致的女性主义策展人，会显得时代错置。她的态度与选择仍然受到当时环境影响，收藏本身也反映明显的性别不平等。然而，这些展览确实留下了制度性记录，让女性作为艺术家出现，而不仅是著名男性身边的伴侣、缪斯或社交人物。" },
+          { en: "The distinction matters because institutional visibility affects historical memory. An exhibition creates catalogues, reviews, photographs, sales records, and professional connections. Even when it does not immediately transform a career, it can leave evidence against later erasure.", zh: "这种区分之所以重要，是因为制度可见性会影响历史记忆。展览会产生目录、评论、照片、销售记录与职业联系。即使它不能立即改变一位艺术家的事业，也可能留下反对后来遗忘的证据。" }
+        ]
+      },
+      {
+        title: "Venice and the Public Legacy of a Private Collection",
+        titleZh: "威尼斯与私人收藏的公共遗产",
+        paragraphs: [
+          { en: "After closing Art of This Century in 1947, Guggenheim returned to Europe. In 1948, her collection was shown in the Greek Pavilion at the Venice Biennale. The exhibition included 136 works and introduced Pollock and several other American painters to European audiences.", zh: "1947年关闭“本世纪的艺术”后，古根海姆回到欧洲。1948年，她的收藏在威尼斯双年展希腊馆展出，共包括136件作品，也使波洛克及其他几位美国画家进入欧洲观众的视野。" },
+          { en: "She later settled in Palazzo Venier dei Leoni on the Grand Canal. Her home became the setting for her collection and was periodically opened to visitors. She eventually transferred the property and collection to the Solomon R. Guggenheim Foundation, ensuring that the collection remained in Venice.", zh: "此后，她定居于大运河畔的韦尼耶·莱奥尼宫。她的住所成为收藏展示空间，并定期向观众开放。她最终把房产与收藏交给所罗门·R·古根海姆基金会，并确保收藏继续留在威尼斯。" },
+          { en: "This transformation from inheritance to collection, from collection to exhibition, and from private home to public museum is the most substantial achievement of her career. It also raises a critical question: when private taste becomes public cultural memory, whose choices become permanent and whose absence becomes harder to notice?", zh: "从继承财富到私人收藏，从收藏到展览，再从私人住宅到公共美术馆，这一转变构成了她事业中最重要的成就。同时，它也提出一个必须保持批判的问题：当私人品味成为公共文化记忆时，谁的选择会被永久保存，谁的缺席又会因此变得更难察觉？" }
+        ]
+      },
+      {
+        title: "Why Francine Prose’s Biography Matters",
+        titleZh: "为什么以弗朗辛·普罗斯的传记为基础",
+        paragraphs: [
+          { en: "Prose does not separate Guggenheim’s institutional achievements from her personal contradictions. The biography discusses her insecurity, dependence on male approval, Jewish identity, family conflicts, sexual relationships, and the tragedies surrounding her daughter Pegeen. At the same time, it does not allow these subjects to replace the history of her work.", zh: "普罗斯没有把古根海姆的制度成就与个人矛盾分开处理。传记讨论了她的不安全感、对男性认可的依赖、犹太身份、家庭冲突、亲密关系，以及围绕女儿佩金发生的悲剧。同时，它也没有让这些内容取代对其工作历史的分析。" },
+          { en: "This balance is important because biographies of powerful women frequently move too quickly from professional activity to private scandal. Guggenheim’s personal life was relevant to her choices and self-understanding, but her significance cannot be reduced to the artists she married, desired, or supported.", zh: "这种平衡很重要，因为关于有权力女性的传记，经常过快地从职业行动转向私人轶事。古根海姆的私人生活确实影响她的选择与自我理解，但她的意义不能被简化为她嫁给、爱上或支持过哪些艺术家。" },
+          { en: "Prose’s central portrait is therefore not of a perfect cultural heroine. It is of a historically influential woman whose achievements were produced through privilege, education, advice, risk, insecurity, and sustained institutional work.", zh: "因此，普罗斯所塑造的并不是一个完美的文化英雄，而是一位具有历史影响力的女性。她的成就由特权、学习、建议、风险、不安全感与长期制度劳动共同构成。" }
+        ]
+      },
+      {
+        title: "Calendar Focus",
+        titleZh: "日历核心句",
+        paragraphs: [
+          { en: "Peggy Guggenheim entered art history by turning private resources into systems of public visibility. Her legacy is not only a collection of modern art, but a record of how money, judgment, relationships, and institutions shape what later becomes the canon.", zh: "佩姬·古根海姆通过把私人资源转化为公共可见性的制度，进入了艺术史。她留下的不只是一批现代艺术收藏，也是一份关于金钱、判断、人际关系与文化机构如何共同塑造经典的记录。" },
+          { zh: "以上为日历编辑性概括，并非原书直接引文。" }
+        ]
+      }
+    ],
+    quotesTitle: "Selected Passage",
+    quotesTitleZh: "引文",
+    quote: "What one should say about Peggy is, simply, that she did it. That no matter what her motivations were, she did it.",
+    quoteSource: "Lee Krasner, quoted by Francine Prose in Peggy Guggenheim: The Shock of the Modern｜李·克拉斯纳，弗朗辛·普罗斯《佩姬·古根海姆：现代性的震撼》引述",
+    quoteReadingEn: "This statement is useful because it does not claim that Guggenheim’s motives were pure or that her actions were free from contradiction. It directs attention toward the institutions, exhibitions, commissions, and collection she actually established.",
+    quoteReadingZh: "这段评价的重要性在于，它没有宣称古根海姆的动机纯粹，也没有否认她行动中的矛盾，而是把注意力重新放回她实际建立的机构、展览、委托与收藏。",
+    relatedWorks: ["Peggy Guggenheim: The Shock of the Modern — Francine Prose", "Out of This Century: Confessions of an Art Addict — Peggy Guggenheim", "Mistress of Modernism — Mary V. Dearborn", "Mural — Jackson Pollock", "Exhibition by 31 Women — Art of This Century", "Peggy Guggenheim Collection, Venice"],
+    tags: ["Peggy Guggenheim", "art collecting", "patronage", "modernism", "Jewish identity", "cultural institutions", "visibility", "privilege", "women and power", "canon"],
+    tagsZh: ["佩姬·古根海姆", "艺术收藏", "艺术赞助", "现代主义", "犹太身份", "文化机构", "可见性", "特权", "女性与权力", "经典"],
+    sourceText: "Peggy Guggenheim: The Shock of the Modern",
+    sourceNote: "以上为日历编辑性概括，并非原书引文。",
+    status: "published"
+  },
+  {
+    id: "2026-08-01-sarah-waters-fingersmith",
+    date: "2026-08-01",
+    type: "novel",
+    title: "Fingersmith",
+    titleZh: "《指匠情挑》",
+    author: "Sarah Waters｜萨拉·沃特斯",
+    role: "Novel / Neo-Victorian Fiction｜小说 / 新维多利亚主义文学",
+    detailTitle: "Sarah Waters",
+    detailTitleZh: "萨拉·沃特斯",
+    detailYears: "b. 1966",
+    detailRole: "Novelist｜小说家",
+    focusTitle: "Who Has the Right to Write Desire?",
+    focusTitleZh: "谁拥有书写欲望的权利？",
+    summaryEn: "In Fingersmith, pornography is not treated simply as explicit sexual material. It is presented as a system of production, ownership, and interpretation in which men write women’s bodies, collect those representations, and control who is permitted to read them. Maud Lilly grows up inside her uncle’s library, where she is trained to catalogue pornographic books and read them aloud to male collectors. Her body, voice, literacy, and labour are all used to maintain a masculine archive from which she has no real authority to speak. The novel’s conclusion does not simply reject sexual writing. Instead, Maud becomes an author and writes erotic texts in her own name and for her own livelihood. Fingersmith therefore distinguishes between representations that reduce women to objects and writing through which women can claim desire, authorship, and economic agency. This distinction is central to feminist scholarship on the novel.",
+    summaryZh: "在《指匠情挑》中，色情文本并不只是露骨的性描写。它首先是一套生产、占有与解释的制度：男性书写女性的身体，收藏这些表述，并控制谁有资格阅读它们。莫德·莉莉在舅舅的藏书室中长大。她被训练去整理色情书籍，并在男性收藏家面前朗读。她的身体、声音、识字能力与劳动，都被用来维持一个男性主导的档案体系，但她本人并没有真正的发言权。小说的结尾并没有简单否定性书写。相反，莫德成为作者，以写作获得收入，并开始用自己的语言处理女性欲望。因此，《指匠情挑》区分了两种不同的文本实践：一种把女性缩减为男性观看的对象，另一种让女性取得欲望、作者身份与经济行动力。相关女性主义研究也把这一转变视为小说的核心。",
+    highlightEn: "The question is not whether women may write about sex. The question is who controls the language, the audience, and the meaning.",
+    highlightZh: "问题并不是女性能否书写性。问题是：谁控制语言、读者与意义。",
+    sections: [
+      {
+        title: "A Novel About Reading as Power",
+        titleZh: "一部把阅读写成权力关系的小说",
+        paragraphs: [
+          { en: "Fingersmith was published in 2002 and is set in Victorian England. It combines the sensation novel, crime fiction, the asylum narrative, and lesbian historical fiction. Waters has explained that the novel drew on Victorian ‘sensation’ fiction, especially stories involving domestic violence, unstable identity, inheritance, and women placed in danger. She also researched Victorian pornography and nineteenth-century underworld culture while developing the book.", zh: "《指匠情挑》出版于2002年，故事设定在维多利亚时代的英国。它结合了感伤惊险小说、犯罪小说、疯人院叙事与女同性恋历史小说。沃特斯曾说明，小说受到维多利亚时期“感伤惊险小说”的影响，尤其关注家庭暴力、身份错置、遗产与身处危险中的女性。她在写作过程中也研究了维多利亚色情文学与十九世纪底层社会文化。" },
+          { en: "The plot initially appears to concern a scheme against an heiress. Sue Trinder is sent to Briar as Maud Lilly’s maid and is expected to help Richard Rivers seduce Maud, marry her, and have her confined in an asylum. The novel later reverses this structure by retelling events from Maud’s perspective.", zh: "小说最初看起来讲述的是一场针对女继承人的骗局。苏·特林德被送到布莱尔庄园，成为莫德·莉莉的女仆，并协助理查德·里弗斯诱骗莫德结婚，再把她送进疯人院。随后，小说通过莫德的叙述重新讲述同一段经历，改变了读者对人物、骗局与权力关系的理解。" },
+          { en: "This change of narrator is not only a plot device. It demonstrates that the authority to narrate determines how a woman is understood. Sue initially reads Maud as innocent and passive. Maud’s own account reveals knowledge, coercion, calculation, fear, and desire that Sue could not see.", zh: "叙述者的转换不只是情节技巧。它表明，谁拥有叙述权，会直接决定一个女人如何被理解。苏最初把莫德看作天真而被动的人；莫德自己的叙述则揭示了苏无法看见的知识、强迫、谋划、恐惧与欲望。" }
+        ]
+      },
+      {
+        title: "The Pornographic Library",
+        titleZh: "色情藏书室",
+        paragraphs: [
+          { en: "Maud’s uncle, Christopher Lilly, maintains a private collection of pornographic books and is compiling an extensive bibliographical index. Waters notes in the novel’s acknowledgements that this index was based on three annotated bibliographies published by the Victorian collector Henry Spencer Ashbee under the name Pisanus Fraxi. She also states that the pornographic titles Maud reads in the novel were real publications, although Christopher Lilly himself is fictional.", zh: "莫德的舅舅克里斯托弗·莉莉拥有一批私人色情藏书，并试图编写一套详尽的书目索引。沃特斯在小说致谢中说明，这套索引参考了维多利亚时代收藏家亨利·斯宾塞·阿什比以 Pisanus Fraxi 为笔名出版的三部注释书目。小说中由莫德朗读的色情作品也确有其书，但克里斯托弗·莉莉本人是虚构人物。" },
+          { en: "The library presents itself as a place of scholarship. Lilly describes the books as rare objects requiring expert classification, preservation, and restricted access. Yet this scholarly appearance conceals an exploitative arrangement. He trains Maud from childhood to copy titles, describe editions, handle books, and perform readings for male guests.", zh: "这间藏书室以学术空间的面貌出现。莉莉把这些书描述为需要专业分类、保存与限制阅读的稀有物品。然而，这种学术表象掩盖着剥削关系。他从莫德年幼时便训练她抄写书名、描述版本、整理书籍，并在男性客人面前进行朗读。" },
+          { en: "The books represent women as available bodies, while the library treats Maud’s own body and voice as instruments. Scholarship on the novel has argued that Lilly objectifies Maud in the same way that the texts objectify women: he values her as a useful extension of his collection rather than as a person with an interior life.", zh: "书中的女性被表现为可供使用的身体，而藏书室同时把莫德本人的身体与声音当作工具。相关研究指出，莉莉对莫德的物化，与色情文本对女性的物化具有相同结构：他把莫德视为藏书系统的延伸，而不是拥有内在生活的人。" }
+        ]
+      },
+      {
+        title: "Why This Is an Anti-Pornographic Reading",
+        titleZh: "为什么这是一种反色情阅读",
+        paragraphs: [
+          { en: "An anti-pornographic reading of Fingersmith should not be reduced to the claim that all explicit writing is inherently harmful.", zh: "对《指匠情挑》的反色情阅读，不应被简化为“所有露骨性书写都必然有害”。" },
+          { en: "The novel’s strongest criticism is directed at a particular relation between representation and power. In Lilly’s library, men produce, own, catalogue, circulate, and interpret sexual texts. Women appear within those texts, but they do not control the conditions under which their bodies are represented.", zh: "小说最明确的批判对象，是再现与权力之间的一种特殊关系。在莉莉的藏书室里，男性生产、拥有、整理、流通并解释性文本。女性虽然不断出现在文本中，却不能控制自己的身体在何种条件下被表现。" },
+          { en: "Maud is forced to read scenes of sexual coercion and female submission before male audiences. Her uncle presents this work as education, but it does not give her sexual autonomy. It teaches her to reproduce language written for other people’s pleasure.", zh: "莫德被迫在男性观众面前朗读包含性强迫与女性屈从的内容。她的舅舅把这项工作称为教育，但这种教育并没有给予她性自主。它只是训练她复制为他人快感而写成的语言。" },
+          { en: "The problem is therefore not explicitness alone. It is the separation of women’s bodies from women’s subjectivity. The women represented in the books have little interiority, while the living woman who reads them is also denied the right to interpret her own experience.", zh: "因此，问题并不只在于内容是否露骨，而在于女性身体与女性主体性被彻底分离。书中的女性缺乏内在经验，而负责朗读这些文字的真实女性，同样没有解释自身经历的权利。" },
+          { en: "This is why the novel can criticise pornography while retaining erotic writing at its conclusion. It opposes a pornographic structure based on coercion, objectification, and male control; it does not oppose women’s right to represent sexual desire. Scholars have described the ending as a reorientation of pornography’s production and readership rather than a simple rejection of the genre.", zh: "正因如此，小说可以一方面批判色情制度，另一方面在结尾保留情色写作。它反对的是建立在强迫、物化与男性控制之上的色情结构，而不是女性表现性欲望的权利。研究者也把结尾理解为对色情文本生产与阅读关系的重新安排，而非对这一文类的简单否定。" }
+        ]
+      },
+      {
+        title: "Literacy Does Not Automatically Mean Freedom",
+        titleZh: "识字并不自动意味着自由",
+        paragraphs: [
+          { en: "Sue cannot read when she first arrives at Briar. Maud, by contrast, is highly literate. Yet the novel refuses to treat literacy as a simple division between ignorance and liberation.", zh: "苏第一次来到布莱尔庄园时并不识字。相比之下，莫德拥有很强的阅读与书写能力。但小说并没有把识字简单等同于解放，把不识字简单等同于无知。" },
+          { en: "Sue’s illiteracy makes her vulnerable. She cannot verify letters, legal documents, names, or institutional records. Her identity can therefore be rewritten by others.", zh: "苏的不识字使她容易受到伤害。她无法核对信件、法律文件、姓名与机构记录，因此，她的身份可以被他人重新书写。" },
+          { en: "Maud’s literacy also makes her vulnerable because it has been organised by her uncle. She can read difficult texts and produce precise catalogue entries, but her skills are directed toward his project. Her education gives her technical competence without granting her intellectual independence.", zh: "莫德的识字能力同样使她受到控制，因为这种能力由舅舅组织。她能够阅读复杂文本，也能够制作精确的书目记录，但这些技能全部服务于他的计划。她获得了技术能力，却没有获得知识上的独立。" },
+          { en: "The contrast between Sue and Maud shows that access to language is politically ambiguous. A woman may be excluded from writing, or she may be trained to write only for someone else. In both cases, the central question is whether she can use language to define her own life.", zh: "苏与莫德之间的对照说明，接触语言本身具有政治上的双重性。女性可能被排除在写作之外，也可能被训练成只为别人写作。在两种情况下，核心问题都是：她能否用语言定义自己的人生。" }
+        ]
+      },
+      {
+        title: "The Right to Write",
+        titleZh: "女性书写的权利",
+        paragraphs: [
+          { en: "For much of the novel, Maud is allowed to copy but not to author.", zh: "在小说的大部分篇幅中，莫德被允许抄写，却不被允许成为作者。" },
+          { en: "Her uncle permits her to reproduce titles, descriptions, and passages because copying supports his authority. Original writing would create a different relation to knowledge: Maud would no longer be merely the hand through which a man’s archive continues.", zh: "她的舅舅允许她复制书名、版本描述与段落，因为抄写能够维持他的权威。原创写作则会建立完全不同的知识关系：莫德不再只是一个帮助男性档案延续下去的手。" },
+          { en: "The distinction between copying and authorship is therefore central. Copying preserves an inherited system. Authorship gives Maud the possibility of selecting a subject, shaping language, addressing a reader, and earning money from her work.", zh: "因此，抄写与作者身份之间的区别非常重要。抄写保存既有制度；成为作者则让莫德有可能选择主题、组织语言、面对读者，并通过自己的劳动获得收入。" },
+          { en: "When she later asks one of her uncle’s associates whether she can write, he directs her toward charitable provision for distressed gentlewomen. His response expresses a social belief: women may be the objects of pornographic writing, but respectable women cannot be recognised as its authors.", zh: "后来，莫德询问舅舅的一位同行自己能否写作，对方却把她介绍到救济贫困淑女的机构。这个回答暴露出一种社会观念：女性可以成为色情文本的对象，但“体面女性”不能被承认为这种文本的作者。" },
+          { en: "At the novel’s end, Maud rejects that division. When Sue discovers that she is writing sexual material, Maud answers, ‘Why shouldn’t I?’ The question is practical rather than symbolic. She writes because she has the skill, because the work provides income, and because she claims the authority to use the knowledge imposed upon her.", zh: "在小说结尾，当苏发现莫德正在写性文本时，莫德回答：“我为什么不可以？”这个问题不是纯粹象征性的。她写作，因为她拥有能力，因为写作可以提供收入，也因为她开始主张自己有权使用曾被强加给她的知识。" }
+        ]
+      },
+      {
+        title: "From Forced Reading to Chosen Writing",
+        titleZh: "从被迫朗读到主动写作",
+        paragraphs: [
+          { en: "The novel carefully reverses the direction of literary authority.", zh: "小说谨慎地颠倒了文学权威的方向。" },
+          { en: "As a child, Maud reads men’s words aloud under supervision. Her audience consists of male collectors who treat her performance as part of their private pleasure.", zh: "莫德小时候在监督下朗读男性写成的文字。她面对的是一群男性收藏家，他们把她的表演当作私人享受的一部分。" },
+          { en: "As an adult, she writes her own material in the same room. Her uncle is dead, much of the library has been damaged or sold, and she now occupies the desk as a writer rather than a secretary.", zh: "成年后的莫德在同一个房间中写下自己的文本。她的舅舅已经去世，大量藏书已经损坏或出售，而她如今坐在书桌前，以作者而不是秘书的身份工作。" },
+          { en: "This reversal does not erase her earlier exploitation. Maud explicitly recognises that her uncle’s education continues to shape her. Her authorship begins from compromised knowledge rather than from a completely new or innocent position.", zh: "这种颠倒并没有抹去她早年的剥削经历。莫德明确承认，舅舅的教育仍然塑造着她。她的作者身份来自一套受到污染的知识，而不是一个全新、纯洁的起点。" },
+          { en: "The ending is therefore more complex than a narrative of simple liberation. Maud transforms the use of the knowledge she inherited, but she cannot make its history disappear. Her agency lies in redirecting it.", zh: "因此，结尾并不是一个简单的解放故事。莫德改变了继承知识的用途，却无法让这套知识的历史消失。她的能动性体现在重新规定它的方向。" }
+        ]
+      },
+      {
+        title: "Writing, Money, and Independence",
+        titleZh: "写作、金钱与独立",
+        paragraphs: [
+          { en: "The right to write in Fingersmith is also an economic question.", zh: "《指匠情挑》中的写作权，同时也是一个经济问题。" },
+          { en: "Maud does not write only to express herself. She writes for payment. When Sue asks whether there is money in the work, Maud says that there is enough if she writes quickly.", zh: "莫德写作并不只是为了表达自我，她也以此获得报酬。当苏询问这项工作是否能赚钱时，莫德回答，如果写得够快，收入足以维持生活。" },
+          { en: "This detail prevents authorship from becoming an abstract symbol of freedom. Writing is labour. It requires time, skill, access to publishing networks, and readers willing to pay.", zh: "这个细节避免了把作者身份变成抽象的自由象征。写作是一种劳动，需要时间、技能、出版渠道，以及愿意付费的读者。" },
+          { en: "The novel also shows that economic agency does not have to come from respectability. Maud’s writing is socially disreputable, but it gives her greater control than the respectable role of obedient niece and unpaid assistant.", zh: "小说也表明，经济能动性并不一定来自社会认可。莫德的写作在当时并不体面，却比“顺从的外甥女”和“无报酬助手”这些体面角色给予她更多控制权。" },
+          { en: "Her situation remains precarious. The work depends on speed and an underground market, and she still operates within a genre shaped by male demand. Nevertheless, she now negotiates with that market as a producer rather than appearing only as its object.", zh: "她的处境仍然不稳定。收入取决于写作速度与地下市场，而且她仍然身处一个由男性需求塑造的文类之中。尽管如此，她现在以生产者而不是单纯对象的身份与这个市场发生关系。" }
+        ]
+      },
+      {
+        title: "Female Authorship Does Not Guarantee Innocence",
+        titleZh: "女性作者身份并不保证文本无害",
+        paragraphs: [
+          { en: "The novel does not claim that a text becomes ethically pure simply because a woman writes it.", zh: "小说并没有声称，一篇文本只要由女性写作，就会自动变得无害或正当。" },
+          { en: "Maud writes within a commercial form whose conventions she learned from violent and objectifying material. Her work therefore raises unresolved questions about repetition, market demand, and the possibility of transforming a genre from within.", zh: "莫德在一种商业文类内部写作，而她对这一文类的认识来自充满暴力与物化的材料。因此，她的写作仍然提出未解决的问题：旧模式会否被重复，市场需求如何限制作者，以及一种文类是否能够从内部被改造。" },
+          { en: "What changes most clearly is the position from which writing takes place. Maud can decide what to write, can earn from it, and can share it with Sue. The text is no longer controlled by her uncle or performed for his male audience.", zh: "最明确的变化，是写作位置本身发生了改变。莫德可以决定写什么，可以从中获得收入，也可以把文字交给苏阅读。文本不再由舅舅控制，也不再为他的男性观众表演。" },
+          { en: "The ending therefore does not resolve every feminist debate about pornography. It demonstrates why questions of consent, authorship, labour, readership, and control must be part of any evaluation of sexual representation.", zh: "因此，结尾并没有解决女性主义内部关于色情的所有争论。它所说明的是：在评价性再现时，必须同时考虑同意、作者身份、劳动、读者与控制权。" }
+        ]
+      },
+      {
+        title: "Sue Becomes a Reader",
+        titleZh: "苏成为读者",
+        paragraphs: [
+          { en: "The final scene is also about Sue’s relationship to written language.", zh: "小说最后一幕也涉及苏与文字之间的关系。" },
+          { en: "Earlier, Sue experiences books as inaccessible objects. She can hold them and look at the print, but she cannot enter their verbal world.", zh: "此前，书籍对苏而言是无法进入的物品。她可以拿着书，也可以看见页面上的印刷文字，却无法进入其中的语言世界。" },
+          { en: "At the end, Maud places her manuscript before Sue and begins to show her the words one by one. The scene is intimate, but it is also pedagogical. Reading is no longer imposed as discipline or performed as spectacle. It becomes a shared practice between women.", zh: "在结尾，莫德把手稿放到苏面前，逐字向她解释。这个场景具有亲密性，也具有教育意义。阅读不再作为纪律强加于人，也不再作为奇观进行表演，而成为女性之间共同进行的实践。" },
+          { en: "This is one reason the novel cannot be described simply as anti-book or anti-pornography. Its final movement is toward a different literary relationship: one woman writes, another learns to read, and meaning develops between them rather than being dictated by a male collector.", zh: "这也是为什么小说不能被简单描述为反书籍或反色情。它最终走向的是另一种文学关系：一个女人写作，另一个女人学习阅读，意义在她们之间形成，而不再由男性收藏家规定。" },
+          { en: "Scholars have argued that Maud and Sue’s final control over writing and reading allows them to reconstruct both erotic representation and their own identities.", zh: "研究者指出，莫德与苏最终对写作和阅读的掌握，使她们能够重新组织情色再现，也重新组织自己的身份。" }
+        ]
+      },
+      {
+        title: "Sarah Waters and the Right to Rewrite the Past",
+        titleZh: "萨拉·沃特斯与重写过去的权利",
+        paragraphs: [
+          { en: "The novel’s concern with female authorship also applies to Waters’s own literary project.", zh: "小说对女性作者身份的关注，同样适用于沃特斯自己的写作计划。" },
+          { en: "Waters returns to forms associated with canonical Victorian fiction, including the sensation novel and the asylum plot, but places lesbian women at the centre of the narrative. She has described sensation fiction as a genre that contains both victimised women and women who act as schemers and transgressors.", zh: "沃特斯重新使用维多利亚经典小说中的感伤惊险小说与疯人院情节，却把女同性恋女性置于叙事中心。她曾指出，感伤惊险小说既充满受害女性，也包含主动谋划、违反社会规范的女性。" },
+          { en: "By rewriting these forms, she does not claim to recover an untouched or fully knowable lesbian past. Instead, she uses historical fiction to examine whose experiences the archive preserved and whose desires had to be reconstructed through later writing.", zh: "通过改写这些形式，她并不是声称自己恢复了一个完整、未经改变的女同性恋历史，而是借助历史小说追问：档案保存了谁的经验，又有哪些欲望只能通过后来的写作重新构造。" },
+          { en: "The right to write therefore operates at two levels. Within the story, Maud claims authorship over sexual language. At the level of the novel itself, Waters claims the right to rewrite Victorian literary traditions from a lesbian and feminist perspective.", zh: "因此，写作权在两个层面上发挥作用。在故事内部，莫德取得对性语言的作者权；在小说整体层面，沃特斯则取得了从女同性恋与女性主义视角改写维多利亚文学传统的权利。" }
+        ]
+      }
+    ],
+    quotesTitle: "Selected Passage",
+    quotesTitleZh: "引文",
+    quotesAtEnd: true,
+    quoteSelections: [
+      {
+        en: `I gazed across the shelves; and wanted to smash them. I went to her, and reached to draw her close. But she held me off. She moved her head, in a way that at any other time I should have called proud.
+
+“Don’t pity me,’ she said, ‘because of him. He’s dead. But I am still what he made me. I shall always be that. Half of the books are spoiled, or sold. But I am here. And look. You must know everything. Look how I get my living.’She picked up a paper from the desk—the paper that I had seen her write on. The ink was still damp. ‘I asked a friend of my uncle’s, once,’ she said, ‘if I might write for him. He sent me to a home for distressed gentlewomen.’ She smiled, unhappily. ‘They say that ladies don’t write such things. But, I am not a lady . . .’I looked at her, not understanding. I looked at the paper in her hand. Then my heart missed its beat.‘You are writing books, like his!’ I said. She nodded, not speaking. Her face was grave. I don’t know how my face seemed. I think it was burning. ‘Books, like that!’ I said. ‘I can’t believe it. Of all the ways I thought I’d find you—And then, to find you here, all on your own in this great house—’‘I am not alone,’ she said. ‘I have[…]”
+
+“I did not answer for a moment. I looked again at the paper in her hand. Then I said quietly,‘Is there money in it?’She blushed. ‘A little,’ she said. ‘Enough, if I write swiftly.’‘And you—You like it?’She blushed still harder. ‘I find I am good at it . . .’ She bit her lip. She was still watching my face. ‘Do you hate me for it?’ she said.‘Hate you!’ I said. ‘When I have fifty proper reasons for hating you, already; and only—’Only love you, I wanted to say. I didn’t say it, though. What can I tell you? If she could still be proud, then so, for now, could I . . . I didn’t need to say it, anyway: she could read the words in my face. Her colour changed, her gaze grew clearer. She put a hand across her eyes. Her fingers left more smudges of black there. I still couldn’t bear it. I quickly reached and stopped her wrist; then wet my thumb and began to rub at the flesh of her brow. I did it, thinking only of the ink, and her white skin; but she felt my hand and grew very still[…]”
+
+“were soft. The smudge stayed black upon her brow; and after all, I thought, was only ink.When I kissed her, she shook. I remembered what it was, then, to make her shake by kissing her; and began to shake, too. I had been ill. I thought I might faint! We moved apart. She put her hand against her heart. She had still held the paper. Now it fluttered to the floor. I stooped and caught it up and smoothed the creases from it.‘What does it say?’ I said, when I had.She said, ‘It is filled with all the words for how I want you . . . Look.’She took up the lamp. The room had got darker, the rain still beat against the glass. But she led me to the fire and made me sit, and sat beside me. Her silk skirts rose in a rush, then sank. She put the lamp upon the floor, spread the paper flat; and began to show me the words she had written, one by one.”`,
+        zh: `我望着那些书架，真想把它们砸了。我走到她身边想拉她，但她挡开了我。她扬了扬头，要是在平时，我会觉得那姿势透着一股骄傲。
+
+不要可怜我，”她说，“不要因为他可怜我。他已经死了，但我还在，木已成舟，我已无法改变。一半的藏书都已经毁了，或者卖了。但我还在这儿。来，你必须知道全部真相，你看看我是怎样谋生的。”
+
+她从桌上拿起一张纸——刚才我看见她写字的那张。墨水还没干。她说，“我曾经问过我舅舅的朋友，我能不能帮他写书。他却把我送去了贫困女子收容所。”她苦笑，“他们说淑女小姐们不写这种东西。但是，我不是什么淑女……”
+
+我不解地看着她。我看着她手里的纸。然后我的心停了一下。
+
+“你在写那种书！”我说。她点点头，没说话。她脸色严肃，我不知道我的脸色是怎样的，我觉得两颊烧起来了，“那种书！”我说，“我不敢相信。我想过千千万万种找到你的情景——然后，在这儿找到了你，你一个人，守着这座大宅子——”
+
+“我不是一个人，”她说，“我不是告诉你了嘛，我有英克先生和他太太照顾。”
+
+“在这儿找到你，你一个人，写着那种书！”
+
+她再一次露出几乎是骄傲的神色。“不可以吗？”她说。
+
+我不知道。“就是觉得有点不对劲，”我说，“一个姑娘家，像你——”
+
+“像我？没有哪个姑娘像我。”
+
+我没再回答。过了一会儿，看着她手里的纸，我轻轻地问：
+
+“能赚到钱吗？”
+
+她的脸红了。“能赚一点，可以糊口吧，如果我写得够快。”
+
+“那你……喜欢写吗？”
+
+她的脸更红了，“我发现，我还比较擅长……”她咬了咬嘴唇。她还在看着我的脸，“你会因为这个恨我吗？”她问。
+
+“恨你！”我说，“我早就有一百个理由恨你了，但我只想——”
+
+只想爱你，我想说。但我没说出来。怎么说呢？要是她还保持着骄傲，那么，我也可以保持一下……不过，话不需要说出口了，她已经从我脸上看了出来。她的脸色变了，她的眼神变得清澈，她举起一只手擦了擦眼，手指又在额头留下墨迹。我看不下去了，伸手握住了她的手腕，我沾湿了自己的拇指，开始帮她擦拭额头。我当初只是想着那墨迹，还有她白皙的额头。但我的手一触碰到她，她就呆住了。我擦得越来越慢，拇指移到了她的脸颊。然后我发现自己的手已经捧着她的脸。她闭上了眼睛。她的脸很光滑——不再像珍珠，珍珠没有她温暖。她转过头去，嘴唇碰到我掌心。她的嘴唇很柔软。她额上墨迹还在，算了，我想，不就是一点墨吗。
+
+当我吻她时，她颤抖起来。我记得这感觉，用吻让她颤抖的感觉。我也颤抖起来。我毕竟刚刚大病了一场，我怕自己会晕倒！我们分开了。她用手按住胸口。刚才她手里还拿着纸，现在纸跌到地上去了。我蹲下去捡起来，把纸抚平。
+
+“这上面写的什么？”抚平以后，我问她。
+
+她说，“这里满满写着的都是，我如何地想要你……你看。”
+
+她把灯拿起来。房间更暗了，雨水还在敲打着窗玻璃。但她把我拉到壁炉边坐下，然后在我身边坐下，裙子随她的动作蓬起又落下。她把灯放在地板上，把纸铺平，然后把她写下的字句，一字一句念给我听。`,
+        source: "Sarah Waters, Fingersmith"
+      }
+    ],
+    relatedWorks: ["Tipping the Velvet — Sarah Waters", "Affinity — Sarah Waters", "The Woman in White — Wilkie Collins", "Lady Audley’s Secret — Mary Elizabeth Braddon", "Governing Pleasures — Lisa Z. Sigel", "Kathleen A. Miller, ‘Leaving Women’s Fingerprints on Victorian Pornography’"],
+    tags: ["female authorship", "pornography", "erotic writing", "reading", "literacy", "lesbian history", "book culture", "consent", "economic agency", "neo-Victorian fiction"],
+    tagsZh: ["女性作者身份", "色情文本", "情色写作", "阅读", "识字", "女同性恋历史", "书籍文化", "同意", "经济能动性", "新维多利亚主义小说"],
+    sourceText: "Fingersmith",
     sourceNote: "以上为日历编辑性概括，并非原书引文。",
     status: "published"
   }
