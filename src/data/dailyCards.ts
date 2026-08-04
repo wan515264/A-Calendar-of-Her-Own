@@ -4707,5 +4707,495 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
     sourceText: "Fingersmith",
     sourceNote: "以上为日历编辑性概括，并非原书引文。",
     status: "published"
+  },
+  {
+    id: "2026-08-02-elise-hu-flawless",
+    date: "2026-08-02",
+    type: "book",
+    title: "Flawless: Lessons in Looks and Culture from the K-Beauty Capital",
+    titleZh: "《无瑕：来自 K-Beauty 之都的外貌与文化课》",
+    author: "Elise Hu｜胡伊莉丝",
+    role: "Beauty Culture / Lookism / Gendered Labour｜美容文化 / 外貌主义 / 性别化劳动",
+    detailTitle: "Elise Hu",
+    detailTitleZh: "胡伊莉丝",
+    detailRole: "Journalist / Author｜记者 / 作家",
+    focusTitle: "When Does Self-Care Become Social Obligation?",
+    focusTitleZh: "“自我护理”从什么时候开始变成社会义务？",
+    summaryEn: "In Flawless, journalist Elise Hu examines South Korea’s beauty culture not as an isolated national curiosity, but as an intensified version of a global system. K-beauty offers pleasure, technical innovation, bodily care, and forms of self-expression. At the same time, the promise of improvement is tied to a demanding social environment in which appearance affects employment, relationships, status, and perceived moral worth. Hu’s central question is not whether skincare or makeup is inherently oppressive. She asks what happens when practices described as personal choice become difficult to refuse without economic and social consequences.",
+    summaryZh: "在《无瑕》中，记者 Elise Hu 并没有把韩国美容文化写成一种孤立的国家奇观，而是把它视为全球外貌制度的强化版本。K-beauty 的确可以带来愉悦、技术创新、身体护理与自我表达。然而，“改善自己”的承诺也与一种严格的社会环境联系在一起：外貌会影响就业、亲密关系、社会地位，甚至一个人是否被看作自律、勤奋和体面。Hu 的核心问题并不是护肤或化妆本身是否具有压迫性。她追问的是：当一种被称为“个人选择”的实践，已经无法在不付出经济与社会代价的情况下被拒绝时，它还在多大程度上属于自由选择？",
+    highlightEn: "Beauty work is presented as a choice, but the penalties for refusing it are not distributed equally.",
+    highlightZh: "美容劳动被描述为一种选择，但拒绝它所付出的代价，并不是平等分配的。",
+    sections: [
+      {
+        title: "Seoul as a View of the Future",
+        titleZh: "首尔作为未来的预览",
+        paragraphs: [
+          { en: "Elise Hu moved to Seoul in 2015 as NPR’s first Korea and Japan bureau chief. In the introduction to Flawless, she describes the city as a highly visual environment filled with cosmetic shops, digital advertising, filtered faces, dermatology clinics, and routine cosmetic procedures.", zh: "2015年，Elise Hu 以 NPR 首任韩国与日本分社社长的身份迁居首尔。在《无瑕》的导论中，她把这座城市描述为一个高度视觉化的环境：化妆品商店、数字广告、经过修饰的面孔、皮肤科诊所与日常化的医美程序遍布其中。" },
+          { en: "She argues that Seoul offers an early view of a future already spreading elsewhere. Digital filters, skincare, injectables, cosmetic surgery, and social media increasingly operate together. The digitally improved face becomes a model for the physical body, while bodily modification makes the filtered image appear more attainable.", zh: "她认为，首尔让人提前看见了一种正在全球扩散的未来。数字滤镜、护肤产品、注射项目、整形手术与社交媒体相互配合：经过数字优化的面孔成为现实身体的模板，而身体改造又让滤镜中的形象显得更加可以实现。" },
+          { en: "Hu does not present herself as an outside observer unaffected by this system. She writes openly about buying skincare products, enjoying spa treatments, covering her freckles, and becoming more conscious of perceived defects after moving to Seoul. Her position is deliberately ambivalent: she is attracted to beauty culture and critical of the pressures it produces.", zh: "Hu 并没有把自己写成一个不受这套制度影响的外部观察者。她坦率地讲述自己购买护肤产品、享受美容项目、遮盖雀斑，以及来到首尔后如何越来越注意那些被视为缺陷的部分。她的位置始终具有矛盾性：她既被美容文化吸引，也批判它制造的压力。" }
+        ]
+      },
+      {
+        title: "Beauty Is Not Only About Attractiveness",
+        titleZh: "美貌不只与“好看”有关",
+        paragraphs: [
+          { en: "One of the book’s most important arguments is that appearance becomes meaningful because it is connected to material rewards.", zh: "这本书最重要的观点之一，是外貌之所以具有如此强的力量，是因为它与实际利益相连。" },
+          { en: "In South Korea, résumés have commonly included photographs, and some employers have also requested information such as height and weight. Hu cites research showing that many job applicants report appearance-based discrimination. She also describes job advertisements that use terms such as ‘neat’ or ‘beautiful’ to define an ideal candidate.", zh: "在韩国，求职简历长期普遍附带照片，一些雇主还会要求填写身高与体重。Hu 引用的研究显示，许多求职者曾遭遇基于外貌的歧视。她也讨论了一些用“整洁”“漂亮”等词语描述理想候选人的招聘广告。" },
+          { en: "This system is often described through the term lookism, or oemo jisang juui, meaning that appearance is treated as supreme. It does not affect women alone, but institutional gender inequality makes its consequences more severe for women. Men continue to dominate senior positions and hiring decisions, while women must compete in a labour market in which appearance is treated as evidence of professional discipline.", zh: "这套制度常用 lookism 一词来描述，韩语中称为 oemo jisang juui，即“外貌至上”。它并不只影响女性，但制度性的性别不平等使女性承担更严重的后果。男性仍然占据多数权力职位，并掌握许多招聘决定；女性则必须在一个把外貌视作职业纪律证明的劳动市场中竞争。" },
+          { en: "Beauty is therefore not presented merely as private taste. It becomes a form of social qualification.", zh: "因此，美貌不再只是私人审美，而成为一种社会资格。" }
+        ]
+      },
+      {
+        title: "Display Labour",
+        titleZh: "展示劳动",
+        paragraphs: [
+          { en: "Hu introduces the Korean expression kkumim nodong, which can be translated as ‘display labour’ or ‘appearance labour.’", zh: "Hu 在书中介绍了韩语词汇 kkumim nodong，可以译为“展示劳动”或“外貌劳动”。" },
+          { en: "The term identifies the time, money, planning, physical discomfort, and emotional attention required to produce an acceptable public appearance. This work may include skincare, makeup, hair removal, dieting, styling, cosmetic procedures, and the constant monitoring of one’s body.", zh: "这个词指向生产一种“可以被接受的公共外表”所需要的时间、金钱、计划、身体不适与情绪注意力。它可能包括护肤、化妆、脱毛、节食、造型、医美程序，以及对自身身体持续不断的监控。" },
+          { en: "Calling it labour changes the discussion. Beauty practices are often described as pleasure, consumption, confidence, or personal preference. Those descriptions may all be true, but they can obscure the regularity and obligation involved.", zh: "把它称为“劳动”，会改变讨论的方向。美容实践经常被描述为愉悦、消费、自信或个人偏好。这些描述可能都是真实的，但它们也可能遮蔽其中的重复性与强制性。" },
+          { en: "For many women, appearance work happens before paid work can begin. It is labour performed in preparation for being considered employable, respectable, appropriately feminine, or socially cooperative.", zh: "对许多女性而言，外貌劳动发生在有薪劳动开始之前。女性必须先完成这种劳动，才可能被视作适合就业、值得尊重、具有恰当女性气质，或者愿意遵守社会规则的人。" }
+        ]
+      },
+      {
+        title: "The Body as Human Capital",
+        titleZh: "身体作为人力资本",
+        paragraphs: [
+          { en: "Hu connects contemporary beauty culture to South Korea’s highly competitive economic environment. After rapid industrialisation and the 1997 Asian financial crisis, individuals were increasingly encouraged to treat education, skills, personality, and appearance as forms of ‘human capital.’", zh: "Hu 把当代美容文化与韩国高度竞争的经济环境联系起来。在快速工业化以及1997年亚洲金融危机之后，个人越来越被鼓励把教育、技能、性格与外貌都当作“人力资本”。" },
+          { en: "Under this logic, the body becomes an investment project. Cosmetic procedures and beauty products can be understood as rational expenditures when appearance influences access to employment, marriage, social networks, and status.", zh: "在这种逻辑中，身体成为一个投资项目。当外貌影响就业、婚姻、社交网络与社会地位时，整形手术、医美程序与美容产品就可能被理解为理性的投资。" },
+          { en: "This is why Hu avoids describing women as simply deceived by beauty ideology. Women often understand the pressures clearly. They may participate because the rewards are real and the costs of refusing are also real.", zh: "这也是为什么 Hu 避免把女性简单写成被美貌意识形态欺骗的人。女性往往非常清楚这些压力。她们之所以参与，是因为符合标准所带来的回报真实存在，而拒绝标准的代价同样真实存在。" },
+          { en: "The problem is structural. Individual choices take place inside institutions that reward certain bodies and penalise others.", zh: "因此，问题是结构性的。个人选择发生在一套奖励某些身体、惩罚另一些身体的制度中。" }
+        ]
+      },
+      {
+        title: "Self-Care and Market Discipline",
+        titleZh: "自我护理与市场纪律",
+        paragraphs: [
+          { en: "Flawless pays close attention to the language of self-care.", zh: "《无瑕》特别关注“自我护理”这一语言。" },
+          { en: "Skincare can be comforting and materially beneficial. Sunscreen protects the body. Massage can be restorative. A routine can provide pleasure and a sense of control. Hu does not deny these experiences.", zh: "护肤可以令人舒适，也可能带来实际的身体益处。防晒可以保护皮肤，按摩能够让人恢复，一套日常护理也可能提供愉悦与控制感。Hu 并不否认这些经验。" },
+          { en: "Her concern is that consumer culture often defines care through correction. It first identifies a flaw and then offers a product or procedure to manage it. Care becomes difficult to separate from the belief that the current body is insufficient.", zh: "她所担忧的是，消费文化常常通过“纠正”来定义护理。市场首先识别一个缺陷，再提供产品或程序加以处理。于是，自我护理越来越难以与“当前身体还不够好”这种信念分开。" },
+          { en: "The industry presents consumption as transformation. Better products promise a better face, and a better face is associated with a better social and professional future.", zh: "美容产业把消费描述为转变。更好的产品承诺一张更好的脸，而一张更好的脸又被联系到更理想的职业与社会未来。" },
+          { en: "The contradiction is that care may provide genuine pleasure while also reinforcing dissatisfaction. The same practice can comfort a person and intensify the demand that she continue improving.", zh: "其中的矛盾在于，护理可以提供真实的愉悦，同时也可能强化不满。同一种实践既可能安慰一个人，也可能加剧她必须持续改进自己的要求。" }
+        ]
+      },
+      {
+        title: "There Is No Final Step",
+        titleZh: "美容劳动没有终点",
+        paragraphs: [
+          { en: "Hu examines the globally circulated idea of the Korean ‘ten-step skincare routine.’ She notes that the number and sequence of steps are not fixed; many of the products are variations on cleansing, moisturising, protecting, and treating the skin.", zh: "Hu 讨论了在全球广泛传播的“韩式十步护肤法”。她指出，这些步骤的数量与顺序并不固定，许多产品实际上是清洁、保湿、防护与治疗皮肤的不同变体。" },
+          { en: "The importance of the routine is therefore not the precise number ten. It demonstrates how appearance maintenance can expand indefinitely.", zh: "因此，真正重要的并不是“十”这个准确数字，而是外貌维护如何无限扩张。" },
+          { en: "A new serum does not necessarily replace an earlier product; it may become an additional step. A new technological diagnosis can produce a new category of defect. Maintenance has no final state because the body continues to age and beauty standards continue to change.", zh: "一种新精华并不一定替代原有产品，它可能成为额外的步骤。新的技术检测也可能制造新的缺陷类别。维护永远没有终点，因为身体持续衰老，而审美标准也不断变化。" },
+          { en: "Hu eventually describes beauty work not as ten steps but as hundreds or thousands of steps. The labour is never fully completed.", zh: "Hu 最终指出，美容劳动并不只是十个步骤，而可能是数百甚至数千个步骤。这种劳动永远无法真正完成。" }
+        ]
+      },
+      {
+        title: "From the Male Gaze to the Technological Gaze",
+        titleZh: "从男性凝视到技术凝视",
+        paragraphs: [
+          { en: "The book extends feminist theories of the male gaze by analysing what Hu calls the technological gaze.", zh: "这本书把女性主义关于男性凝视的理论进一步扩展到 Hu 所称的“技术凝视”。" },
+          { en: "Beauty standards are still produced within patriarchal industries. Men continue to hold significant power in entertainment, media, business, and technology. Yet social platforms and algorithms now help determine which faces receive visibility and which features are repeatedly presented as desirable.", zh: "美貌标准仍然产生于父权制产业之中。男性在娱乐、媒体、商业与科技领域依然掌握大量权力。然而，如今社交平台与算法也开始决定哪些面孔能够获得可见性，哪些特征会被反复呈现为值得欲望的标准。" },
+          { en: "Platforms learn from user attention and return more of the images that generate engagement. The resulting standards may appear neutral because they are delivered by software rather than an identifiable individual.", zh: "平台从用户的注意力中学习，再持续推送能够产生互动的图像。由于这些标准通过软件而不是某个可辨认的个人传递，它们看起来可能具有中立性。" },
+          { en: "They are not neutral. They are shaped by commercial systems designed to retain attention, increase comparison, and sell products or services.", zh: "但它们并不中立。它们由商业系统塑造，而这些系统的目标是延长注意力、增加比较，并销售产品与服务。" },
+          { en: "The technological gaze is particularly effective because it encourages self-surveillance. The individual no longer needs to be directly criticised by another person. She learns to inspect herself through the imagined judgment of the camera, the filter, the audience, and the algorithm.", zh: "技术凝视尤其有效，因为它促使个人进行自我监控。女性不再需要被另一个人直接批评；她会通过想象中的镜头、滤镜、观众与算法判断自己。" }
+        ]
+      },
+      {
+        title: "‘Be Yourself, but Prettier’",
+        titleZh: "“做你自己，但要更漂亮”",
+        paragraphs: [
+          { en: "One of the dominant messages Hu identifies in contemporary beauty culture is that modification does not threaten authenticity.", zh: "Hu 指出，当代美容文化的一条核心信息，是身体改造并不会威胁所谓真实自我。" },
+          { en: "Products and procedures promise that consumers can remain themselves while becoming smoother, thinner, brighter, younger, or more symmetrical. The ideal result should appear natural even when extensive labour has produced it.", zh: "产品与医美程序承诺，消费者可以继续“做自己”，同时变得更加光滑、纤细、明亮、年轻或对称。即使背后存在大量劳动，最终效果也应该显得自然。" },
+          { en: "This produces a difficult standard. Women are expected to work on their appearance while concealing the visible evidence of that work.", zh: "这制造了一个困难的标准：女性被要求改造自己的外貌，同时还要隐藏改造劳动本身的痕迹。" },
+          { en: "The successful body must look improved but not artificial, disciplined but effortless.", zh: "成功的身体必须看起来经过改善，却不能显得人工；必须表现出纪律，却又不能显得费力。" }
+        ]
+      },
+      {
+        title: "Beauty Can Also Be Resistance",
+        titleZh: "美容也可能成为抵抗",
+        paragraphs: [
+          { en: "Hu does not present beauty culture as a simple history of submission.", zh: "Hu 并没有把美容文化写成一段单纯的服从史。" },
+          { en: "She discusses Korean ‘Modern Girls’ in the early twentieth century and factory workers in the 1970s who used makeup and clothing to challenge restrictions on class, gender, and acceptable femininity.", zh: "她讨论了20世纪早期的韩国“摩登女郎”，以及1970年代的女性工厂劳动者。她们曾经借助妆容与服饰，挑战阶级、性别与合格女性气质的限制。" },
+          { en: "For these women, appearance could provide mobility, modernity, and partial control over public identity. Their use of makeup was criticised by male intellectuals and political authorities precisely because it made women less easily classified.", zh: "对这些女性而言，外貌实践可以带来流动性、现代身份与对公共形象的部分控制。男性知识分子与政治权威之所以批评她们的妆容，正是因为这些实践使女性变得不再容易被分类。" },
+          { en: "The difficulty is that acts of resistance can later be absorbed by the market. A style that once challenged authority may become a new commercial requirement.", zh: "困难在于，抵抗行为后来也可能被市场吸收。曾经挑战权威的风格，可能转变成新的商业要求。" },
+          { en: "The book therefore treats beauty as politically unstable. The same practice can support conformity in one context and create autonomy in another.", zh: "因此，这本书把美容理解为一种政治意义并不固定的实践。同一种行为在一个情境中可能维持顺从，在另一个情境中却可能创造自主性。" }
+        ]
+      },
+      {
+        title: "Escape the Corset",
+        titleZh: "“逃离束身衣”",
+        paragraphs: [
+          { en: "The most direct refusal examined in the book is South Korea’s Escape the Corset movement.", zh: "书中讨论的最直接拒绝，是韩国的“逃离束身衣”运动。" },
+          { en: "Beginning in the late 2010s, young women cut their hair, stopped wearing makeup, rejected restrictive clothing, and publicly destroyed cosmetics. These actions were not merely changes in style. They challenged the expectation that women must make themselves visually available and conventionally feminine.", zh: "从2010年代后期开始，一些年轻女性剪短头发、停止化妆、拒绝紧身服装，并公开毁掉化妆品。这些行动并不只是风格变化，而是在挑战女性必须保持视觉可用性、必须符合传统女性气质的期待。" },
+          { en: "Hu stresses that the social consequences could be serious. Women who rejected appearance norms faced hostility at school, at work, online, and within their families.", zh: "Hu 强调，这种拒绝可能带来严重的社会后果。拒绝外貌规范的女性可能在学校、职场、网络与家庭内部遭到敌意。" },
+          { en: "This matters because it reveals the limits of the language of choice. When refusing makeup can produce punishment, makeup cannot be understood only as an individual preference.", zh: "这一点揭示了“选择”语言的限度。当拒绝化妆可能遭到惩罚时，化妆就不能只被理解为个人偏好。" },
+          { en: "At the same time, Hu does not suggest that every woman must reject beauty work. Escape the Corset is significant because it makes the demand visible. It shows how much social discipline had previously appeared normal.", zh: "与此同时，Hu 并没有认为所有女性都必须拒绝美容劳动。“逃离束身衣”的重要性，在于它让这种要求变得可见，也让过去被视作正常的社会纪律显露出来。" }
+        ]
+      },
+      {
+        title: "A Global System, Not a Korean Exception",
+        titleZh: "全球制度，而不是韩国例外",
+        paragraphs: [
+          { en: "Hu repeatedly warns against treating South Korea as uniquely vain or culturally abnormal.", zh: "Hu 反复提醒读者，不要把韩国理解为一个异常虚荣或文化上特殊的国家。" },
+          { en: "The intensity of Korean beauty culture is connected to specific histories: Confucian gender norms, colonialism, authoritarian industrialisation, rapid economic development, Hallyu, technological infrastructure, and a highly competitive labour market.", zh: "韩国美容文化的高度强度，与特定历史有关，包括儒家性别规范、殖民主义、威权工业化、快速经济发展、韩流、科技基础设施以及高度竞争的劳动市场。" },
+          { en: "However, the underlying mechanism is global. Across many societies, women are encouraged to treat their bodies as unfinished projects and to purchase improvement as a form of personal responsibility.", zh: "但其基础机制是全球性的。在许多社会中，女性都被鼓励把身体视作未完成的项目，并把购买改善理解为个人责任。" },
+          { en: "South Korea is important not because it represents a completely different world. It demonstrates more clearly where image-based social media, medical technology, competitive individualism, and consumer beauty may lead.", zh: "韩国之所以重要，并不是因为它代表一个完全不同的世界，而是因为它更清楚地展示了图像化社交媒体、医疗技术、竞争性个人主义与美容消费可能把社会带向何处。" }
+        ]
+      }
+    ],
+    quotesTitle: "Quotation",
+    quotesTitleZh: "引文",
+    quote: "At some point, it stopped feeling like a choice I wasn’t making but instead a mandate I was refusing.",
+    quoteSource: "Elise Hu, Flawless",
+    quoteReadingEn: "This sentence captures the book’s distinction between formal choice and socially conditioned choice. A practice may be voluntary in law while becoming compulsory through rewards, penalties, and repeated judgment.",
+    quoteReadingZh: "这句话集中呈现了全书对形式选择与社会条件化选择的区分。一项实践在法律上可能出于自愿，却会通过奖励、惩罚与持续判断变成事实上的义务。",
+    tags: ["beauty culture", "K-beauty", "lookism", "appearance labour", "self-care", "consumerism", "technological gaze", "gender inequality", "Escape the Corset", "body politics"],
+    tagsZh: ["美容文化", "K-beauty", "外貌主义", "外貌劳动", "自我护理", "消费主义", "技术凝视", "性别不平等", "逃离束身衣", "身体政治"],
+    sourceText: "Flawless: Lessons in Looks and Culture from the K-Beauty Capital",
+    sourceNote: "以上为日历编辑性概括，并非原书引文。",
+    status: "published"
+  },
+  {
+    id: "2026-08-03-naomi-wolf-the-beauty-myth",
+    date: "2026-08-03",
+    type: "book",
+    title: "The Beauty Myth: How Images of Beauty Are Used Against Women",
+    titleZh: "《美貌神话：美的形象如何被用来反对女性》",
+    author: "Naomi Wolf｜娜奥米·沃尔夫",
+    role: "Beauty Politics / Media / Labour｜美貌政治 / 媒体 / 劳动",
+    detailTitle: "Naomi Wolf",
+    detailTitleZh: "娜奥米·沃尔夫",
+    detailRole: "Author / Journalist｜作家 / 记者",
+    focusTitle: "Beauty Is Not a Standard. It Is a System of Power.",
+    focusTitleZh: "美貌不是一种标准，而是一套权力制度",
+    summaryEn: "Naomi Wolf’s The Beauty Myth was first published in 1991. Its central argument is that beauty standards became more restrictive at the same historical moment when women gained greater access to education, employment, reproductive rights, and public authority. Wolf does not argue that beauty, cosmetics, fashion, or sexual attractiveness are inherently oppressive. In the 2002 introduction, she explicitly states that the issue is women’s right to decide how they want to look, rather than being required to obey standards created by advertising, commercial media, and the market. The beauty myth becomes political when appearance is treated as evidence of a woman’s discipline, professional competence, morality, sexuality, and social value. Under these conditions, women may formally possess more rights while still being required to devote extensive time, money, and attention to making themselves acceptable.",
+    summaryZh: "娜奥米·沃尔夫的《美貌神话》初版于1991年。她的核心论点是：当女性逐渐取得教育、就业、生育权与公共权力时，社会对女性外貌的要求也变得更加严格。沃尔夫并不认为美、化妆、时尚或性吸引力本身必然具有压迫性。她在2002年版导言中明确指出，真正重要的是女性能否决定自己想要怎样的外表，而不是服从广告、商业媒体与市场规定的形象。当外貌被用来判断一个女人是否自律、是否具有职业能力、是否体面、是否具有性价值时，美貌神话便成为政治问题。在这种制度下，女性可能在形式上拥有更多权利，却仍要投入大量时间、金钱与注意力，使自己变得“可以被接受”。",
+    highlightEn: "The beauty myth does not simply tell women how to look. It influences what women believe they are entitled to do.",
+    highlightZh: "美貌神话不只规定女性应该怎样看起来，也影响女性认为自己有权做什么。",
+    sections: [
+      {
+        title: "What Is the Beauty Myth?",
+        titleZh: "什么是“美貌神话”？",
+        paragraphs: [
+          { en: "Wolf defines the beauty myth as the belief that beauty is an objective, universal, and biologically determined quality. According to this belief, women naturally wish to embody beauty, while men naturally wish to possess beautiful women.", zh: "沃尔夫所说的“美貌神话”，是指一种把美理解为客观、普遍且由生物学决定的信念。按照这套信念，女性天然希望成为美人，而男性天然希望占有美丽的女性。" },
+          { en: "She rejects this explanation. Beauty ideals differ across societies and historical periods, and they change far more quickly than biological evolution could explain. For Wolf, beauty functions more like a system of value. It ranks women according to a culturally produced physical standard and distributes approval, opportunity, attention, and punishment through that hierarchy.", zh: "她拒绝这种解释。不同社会与历史时期对美的定义并不相同，而且变化速度远远超过生物进化所能说明的范围。对沃尔夫而言，美更像一种价值体系：它依据文化制造的身体标准排列女性，并通过这套等级分配认可、机会、关注与惩罚。" },
+          { en: "Her well-known formulation is:", zh: "她最著名的表述是：" },
+          { en: "‘Beauty’ is a currency system like the gold standard.", zh: "“美”是一套类似金本位的货币制度。" },
+          { en: "In this framework, beauty is not mainly about aesthetics. It becomes a way of assigning social value to women.", zh: "在这个框架中，美首先不是审美问题，而是一种为女性分配社会价值的方式。" }
+        ]
+      },
+      {
+        title: "A Backlash Against Women’s Advancement",
+        titleZh: "对女性进步的反制",
+        paragraphs: [
+          { en: "The book begins from a historical contradiction. As women gained legal and material freedoms during and after the second wave of feminism, anxieties about weight, aging, bodily imperfection, and sexual attractiveness intensified.", zh: "这本书从一个历史矛盾出发。随着第二波女性主义推动女性取得更多法律与物质自由，社会对体重、衰老、身体缺陷与性吸引力的焦虑也随之加剧。" },
+          { en: "Wolf argues that this was not accidental. Earlier ideologies had confined women through domesticity, chastity, motherhood, and passivity. Once those ideals lost some of their authority, appearance became a more effective means of control.", zh: "沃尔夫认为，这并不是偶然现象。过去的性别意识形态通过家庭生活、贞洁、母职与顺从限制女性。当这些观念逐渐失去部分权威后，外貌便成为一种更有效的控制方式。" },
+          { en: "The beauty myth works differently from direct legal prohibition. It does not usually tell women that they are forbidden to enter public life. Instead, it increases the personal cost of participation by producing insecurity, exhaustion, competition, and self-surveillance.", zh: "美貌神话不同于直接的法律禁止。它通常不会公开告诉女性不得进入公共生活，而是通过制造不安全感、疲惫、竞争与自我监控，提高女性参与公共生活的个人成本。" },
+          { en: "Wolf therefore treats beauty pressure as a backlash: a reaction that attempts to weaken women psychologically after feminist movements have strengthened them materially.", zh: "因此，沃尔夫把美貌压力理解为一种反制机制：当女性主义运动在物质层面增强女性力量之后，这套机制试图在心理层面削弱她们。" }
+        ]
+      },
+      {
+        title: "Beauty Prescribes Behaviour",
+        titleZh: "美貌规定的其实是行为",
+        paragraphs: [
+          { en: "One of the book’s most important claims is that beauty standards are not limited to appearance. They prescribe socially desirable female behaviour.", zh: "这本书最重要的论点之一，是美貌标准并不只涉及外表，它实际上规定了社会所需要的女性行为。" },
+          { en: "Youth is valued because it is associated with inexperience and limited authority. Aging is treated as unattractive because older women may possess greater knowledge, professional standing, and independence. Thinness may represent self-control, while visible appetite can be treated as failure.", zh: "青春受到推崇，是因为它常与经验不足和权威有限联系在一起。衰老被视为不美，则因为年长女性可能拥有更多知识、职业地位与独立性。纤瘦可以被解释为自我控制，而明显的食欲则可能被视作失败。" },
+          { en: "Wolf writes that the qualities called beautiful in a particular period are symbols of the female conduct that period wishes to reward.", zh: "沃尔夫指出，一个时代所称赞的女性美，实际上象征着这个时代希望女性表现出的行为。" },
+          { en: "This is why the beauty myth is adaptable. The exact ideal may change, but the underlying function remains: women are encouraged to seek external approval and to remain uncertain about their own value.", zh: "这也是为什么美貌神话具有很强的适应性。具体标准可以不断变化，但基本功能仍然存在：女性被鼓励依赖外部认可，并持续怀疑自身价值。" }
+        ]
+      },
+      {
+        title: "Beauty Work Replaces Housework",
+        titleZh: "美容劳动取代家务劳动",
+        paragraphs: [
+          { en: "Wolf compares the modern beauty myth with Betty Friedan’s concept of the feminine mystique.", zh: "沃尔夫把现代美貌神话与贝蒂·弗里丹提出的“女性的奥秘”联系起来。" },
+          { en: "In the postwar period, middle-class women were encouraged to seek fulfilment through domestic perfection. Housework was presented as skilled, meaningful, and morally valuable, even though it was repetitive, unpaid, and never complete.", zh: "在战后时期，中产阶级女性被鼓励通过完美的家庭生活获得满足。家务劳动被描述为专业、有意义且具有道德价值，尽管它重复、无薪，而且永远无法真正完成。" },
+          { en: "As more women entered paid employment, the economic importance of the housewife as a full-time consumer declined. Wolf argues that advertisers and women’s media increasingly redirected attention from the home to the body.", zh: "随着更多女性进入有薪劳动市场，全职家庭主妇作为消费者的重要性有所下降。沃尔夫认为，广告商与女性媒体随后把注意力从家庭转向了身体。" },
+          { en: "The new message was no longer that a good woman must maintain a perfect home. It was that a successful woman must maintain a perfect body.", zh: "新的信息不再只是“好女人必须维持完美家庭”，而变成“成功女性必须维持完美身体”。" },
+          { en: "Wolf summarises this transformation by arguing that inexhaustible beauty work replaced inexhaustible housework.", zh: "沃尔夫把这种变化概括为：永无止境的美容劳动，取代了永无止境的家务劳动。" }
+        ]
+      },
+      {
+        title: "The Professional Beauty Qualification",
+        titleZh: "“职业美貌资格”",
+        paragraphs: [
+          { en: "In the chapter ‘Work,’ Wolf introduces the idea of the Professional Beauty Qualification, or PBQ.", zh: "在“工作”一章中，沃尔夫提出了“职业美貌资格”，即 PBQ。" },
+          { en: "The term describes the process through which beauty becomes an unofficial job requirement for women, even in occupations where appearance is unrelated to the work itself.", zh: "这个概念描述的是：即使某项职业与外貌没有直接关系，美貌仍会成为女性获得工作、晋升或保住职位的非正式条件。" },
+          { en: "Men are usually expected to appear neat and professionally appropriate. Women are more often judged through unstable and contradictory standards. They may be criticised for appearing too feminine, insufficiently feminine, too attractive, unattractive, too old, too sexual, or not appealing enough.", zh: "男性通常只需保持整洁并符合职业环境。女性面对的标准则更加不稳定且相互矛盾：她可能因为过于女性化、不够女性化、太有吸引力、不够漂亮、太老、太性感或不够迷人而受到批评。" },
+          { en: "Wolf uses legal disputes involving flight attendants, television journalists, office workers, waitresses, and professional women to show how appearance rules can legitimize discrimination while remaining difficult to challenge.", zh: "沃尔夫通过空乘人员、电视新闻工作者、办公室职员、服务员与专业女性涉及的法律案件，说明外貌规定如何使歧视合法化，同时又让女性难以提出有效挑战。" },
+          { en: "The standard remains undefined. This is precisely what makes it useful. A woman can be judged for failing to look ‘right,’ while the meaning of ‘right’ changes according to the needs of the employer or institution.", zh: "标准始终没有固定定义，而这正是它具有制度效用的原因。女性可以因为看起来“不对”而受到评价，但什么才算“对”，会随着雇主或机构的需要不断变化。" }
+        ]
+      },
+      {
+        title: "The Third Shift",
+        titleZh: "第三重劳动",
+        paragraphs: [
+          { en: "Wolf describes beauty work as an additional burden placed on women who already perform paid labour and unpaid domestic labour.", zh: "沃尔夫把美容劳动理解为一种额外负担，因为女性往往已经承担有薪劳动和无薪家务劳动。" },
+          { en: "The first shift is paid employment. The second shift is domestic and care work. The beauty myth adds a third shift: the continuous work of maintaining a professionally and socially acceptable appearance.", zh: "第一重是有薪工作，第二重是家务与照护劳动，而美貌神话增加了第三重劳动：持续维持一种在职业和社会层面可以被接受的外貌。" },
+          { en: "This work requires money, planning, physical effort, emotional attention, and time. It may include clothing, makeup, dieting, exercise, hair care, skincare, and cosmetic procedures.", zh: "这种劳动需要金钱、计划、身体投入、情绪注意力与时间，可能包括服装、化妆、节食、运动、头发护理、护肤与医美程序。" },
+          { en: "Wolf argues that exhaustion has political consequences. A woman who is required to perform three forms of labour may still succeed individually, but she has less time and energy to question workplace structures, organise collectively, or pursue activities not connected to productivity and appearance.", zh: "沃尔夫认为，疲惫具有政治后果。一个同时承担三重劳动的女性仍然可能取得个人成功，但她会更少有时间和精力质疑职场制度、进行集体组织，或从事与生产力和外貌无关的活动。" },
+          { en: "The beauty myth therefore does not necessarily remove women from the workplace. It helps shape the conditions under which they are allowed to remain.", zh: "因此，美貌神话不一定把女性赶出职场，而是规定她们可以在什么条件下继续留下。" }
+        ]
+      },
+      {
+        title: "Women’s Magazines and Commercial Dependence",
+        titleZh: "女性杂志与商业依赖",
+        paragraphs: [
+          { en: "Wolf’s discussion of women’s magazines is more complex than a simple accusation that they are anti-feminist.", zh: "沃尔夫对女性杂志的分析，并不是简单指责它们反女性主义。" },
+          { en: "She recognises that women’s magazines have provided one of the few forms of mass culture written largely by women, for women, and about women’s concerns. They have circulated discussions of employment, sexuality, health, violence, reproductive rights, and economic independence.", zh: "她承认，女性杂志是少数主要由女性创作、面向女性，并认真讨论女性经验的大众文化形式之一。它们传播过关于就业、性、健康、暴力、生育权与经济独立的讨论。" },
+          { en: "At the same time, these magazines depend heavily on advertising from the cosmetics, fashion, dieting, and beauty industries. Their editorial content may support women’s independence, while their advertising teaches readers that their faces and bodies remain inadequate.", zh: "但与此同时，这些杂志高度依赖化妆品、时尚、节食与美容产业的广告收入。它们的编辑内容可能支持女性独立，而广告部分却持续告诉读者，她们的脸与身体仍不够好。" },
+          { en: "Wolf calls this contradiction a textual version of the professional beauty qualification. The magazine must compensate for its serious, pro-woman content by maintaining a commercially useful level of beauty anxiety.", zh: "沃尔夫把这种矛盾称为一种文本层面的“职业美貌资格”：杂志必须通过维持具有商业价值的外貌焦虑，来抵消其中严肃且支持女性的内容。" },
+          { en: "The problem is therefore not simply individual editors or readers. It is the economic structure of media production.", zh: "因此，问题并不只在于某个编辑或读者，而在于媒体生产的经济结构。" }
+        ]
+      },
+      {
+        title: "Beauty as Consumer Discipline",
+        titleZh: "美貌作为消费纪律",
+        paragraphs: [
+          { en: "The beauty myth depends on the idea that the body is always capable of improvement.", zh: "美貌神话依赖一种信念：身体永远可以继续改善。" },
+          { en: "Women are encouraged to understand beauty as something earned through effort, discipline, correct purchasing, and personal responsibility. Failure to reach the standard can therefore be interpreted as laziness or lack of self-control.", zh: "女性被鼓励把美理解为一种通过努力、纪律、正确消费与个人责任获得的结果。无法达到标准，则可能被解释为懒惰或缺乏自控。" },
+          { en: "This framework transforms structural pressure into personal failure. The standard itself is rarely questioned; the individual woman is instructed to work harder.", zh: "这套框架把结构性压力转化为个人失败。标准本身很少受到质疑，而个体女性则被要求更加努力。" },
+          { en: "The promise is meritocratic: any woman can become beautiful if she invests enough time, money, and discipline.", zh: "这套承诺采用了能力主义语言：任何女性只要投入足够的时间、金钱与纪律，就可以变美。" },
+          { en: "But the ideal must remain difficult to reach. If consumers became satisfied, the market would lose its demand.", zh: "然而，这个标准必须始终难以达到。因为一旦消费者真正感到满足，市场便会失去持续需求。" }
+        ]
+      },
+      {
+        title: "Competition Between Women",
+        titleZh: "女性之间的竞争",
+        paragraphs: [
+          { en: "Wolf argues that the beauty myth divides women by encouraging them to see one another as competitors.", zh: "沃尔夫认为，美貌神话通过鼓励女性彼此竞争，使女性之间产生分裂。" },
+          { en: "Younger women may be taught to fear aging, while older women are encouraged to fear younger women. Women may compare weight, skin, clothing, sexual desirability, and professional presentation instead of recognising common institutional problems.", zh: "年轻女性被教导害怕衰老，而年长女性则被鼓励警惕年轻女性。女性可能比较体重、皮肤、服装、性吸引力与职业形象，而不是识别她们共同面对的制度问题。" },
+          { en: "Competition weakens solidarity. If success appears to depend on being more attractive than another woman, then inequality is treated as a private contest rather than a collective political issue.", zh: "竞争会削弱团结。如果成功被解释为必须比另一个女人更漂亮，那么不平等就会被处理成私人竞赛，而不是集体政治问题。" },
+          { en: "Yet Wolf also observes that beauty practices can create forms of female connection. Women may share knowledge, assist one another with clothing and appearance, and experience adornment as pleasure.", zh: "不过，沃尔夫也注意到美容实践能够创造女性之间的联系。女性会分享知识，帮助彼此处理服装与外貌，并从装饰中获得愉悦。" },
+          { en: "The problem is not that all collective beauty practices are false. It is that the market repeatedly redirects female connection toward comparison and consumption.", zh: "问题并不是所有集体美容实践都虚假，而是市场不断把女性之间的联系重新导向比较与消费。" }
+        ]
+      },
+      {
+        title: "The Right to Choose",
+        titleZh: "选择外貌的权利",
+        paragraphs: [
+          { en: "The 2002 introduction is important because Wolf responds directly to a common misunderstanding of the book.", zh: "2002年版导言很重要，因为沃尔夫在其中直接回应了对这本书的一种常见误解。" },
+          { en: "She does not argue that women are wrong to wear lipstick, shave their legs, care about fashion, or pursue beauty.", zh: "她并不是说女性涂口红、脱毛、关心时尚或追求美就是错误的。" },
+          { en: "Her stated position is that women should have the right to decide what they want to look like and what they want to be, rather than obeying the demands of market forces and advertising industries.", zh: "她明确主张，女性应该有权决定自己想要怎样的外表、想成为什么样的人，而不是服从市场力量与广告产业的要求。" },
+          { en: "This distinction matters. A feminist critique of beauty cannot simply replace one command with another. Telling women they must reject cosmetics can reproduce the same structure of external authority.", zh: "这种区分非常重要。女性主义对美貌制度的批判，不能只是用另一条命令替代原来的命令。要求女性必须拒绝化妆，同样可能复制外部权威规定女性身体的结构。" },
+          { en: "The relevant question is not whether a woman participates in beauty culture. It is whether her social value, safety, income, credibility, and opportunities depend on that participation.", zh: "真正需要追问的，不是一个女人是否参与美容文化，而是她的社会价值、安全、收入、可信度与机会，是否依赖这种参与。" }
+        ]
+      },
+      {
+        title: "Limits of the Book",
+        titleZh: "这本书的局限",
+        paragraphs: [
+          { en: "The Beauty Myth remains influential because it gave readers a political language for experiences that had often been treated as private insecurity.", zh: "《美貌神话》至今仍有影响力，是因为它为许多曾被解释为私人不安全感的经验提供了政治语言。" },
+          { en: "At the same time, the book is closely shaped by the context in which it was written. Much of its evidence comes from the United States and Britain in the 1970s and 1980s. Some statistics and medical claims in the original edition are now historically dated and should not be used as current evidence without independent verification.", zh: "与此同时，这本书也明显受到写作年代的限制。它的大量材料来自20世纪70至80年代的美国与英国。原版中的部分统计数据和医学论断已经具有历史性，如要用于说明当代状况，需要另外核实。" },
+          { en: "Its framework also concentrates heavily on heterosexual, middle-class Western women. Questions of race, disability, colonialism, transgender experience, and global differences require further analysis beyond Wolf’s original account.", zh: "它的分析框架也主要集中于西方异性恋中产阶级女性。关于种族、残障、殖民主义、跨性别经验与全球差异的问题，需要在沃尔夫原有论述之外继续展开。" },
+          { en: "These limitations do not eliminate the book’s usefulness. They help define how it should be read: as a major feminist intervention and a historically situated argument, rather than a complete theory of all beauty cultures.", zh: "这些局限并不会取消本书的价值，而是帮助我们更准确地理解它：它是一项重要的女性主义介入，也是一套具有特定历史位置的论证，而不是对所有美容文化的完整解释。" }
+        ]
+      }
+    ],
+    quotesTitle: "Selected Passage",
+    quotesTitleZh: "引文",
+    quote: "The beauty myth is not about women at all. It is about men’s institutions and institutional power.",
+    quoteSource: "Naomi Wolf, The Beauty Myth",
+    quoteReadingEn: "This sentence redirects attention away from whether individual women are vain, confident, insecure, or free. The central issue is how institutions use appearance to organise value and opportunity.\n\nThe freedom to pursue beauty is meaningful only when a woman can also refuse beauty work without losing income, authority, safety, or respect.",
+    quoteReadingZh: "这句话把注意力从个体女性是否虚荣、自信、不安或自由，转向制度如何通过外貌组织价值与机会。\n\n只有当女性能够拒绝美容劳动，而不因此失去收入、权威、安全与尊重时，追求美的自由才真正成立。",
+    tags: ["beauty myth", "appearance labour", "media", "advertising", "workplace discrimination", "consumerism", "body politics", "female solidarity", "choice", "institutional power"],
+    tagsZh: ["美貌神话", "外貌劳动", "媒体", "广告", "职场歧视", "消费主义", "身体政治", "女性团结", "选择", "制度权力"],
+    sourceText: "The Beauty Myth: How Images of Beauty Are Used Against Women",
+    status: "published"
+  },
+  {
+    id: "2026-08-04-nikki-khanna-whiter",
+    date: "2026-08-04",
+    type: "book",
+    title: "Whiter: Asian American Women on Skin Color and Colorism",
+    titleZh: "《更白：亚裔美国女性的肤色与肤色主义》",
+    author: "Nikki Khanna｜妮基·卡纳",
+    role: "Colorism / Asian American Studies / Gender｜肤色主义 / 亚裔美国研究 / 性别",
+    detailTitle: "Nikki Khanna",
+    detailTitleZh: "妮基·卡纳",
+    detailRole: "Sociologist / Editor｜社会学家 / 编者",
+    focusTitle: "When Skin Color Becomes Social Value",
+    focusTitleZh: "当肤色被换算成社会价值",
+    summaryEn: "In Whiter, sociologist Nikki Khanna brings together the personal narratives of Asian American women from different ethnic, racial, and generational backgrounds. The book examines colorism: discrimination that privileges lighter skin over darker skin, both within racial communities and across racial and ethnic groups. For the women in the book, skin color is rarely treated as a neutral physical characteristic. It is connected to beauty, femininity, class, intelligence, marriageability, professional opportunity, national belonging, and assumptions about who is truly American. Khanna shows that colorism is not simply a private preference for a particular complexion. It is a hierarchy shaped by racism, colonial history, class relations, anti-Blackness, media representation, and gendered expectations.",
+    summaryZh: "在《更白》中，社会学家 Nikki Khanna 收录了来自不同族裔、种族与世代背景的亚裔美国女性的个人叙述。这本书讨论的是肤色主义：一种在同一种族群体内部，以及不同种族和族裔之间，赋予浅色皮肤更多价值、歧视深色皮肤的制度。对书中的女性而言，肤色很少只是一项中性的身体特征。它与美貌、女性气质、阶级、智力、婚姻价值、职业机会和国家归属联系在一起，并影响谁会被承认为“真正的美国人”。Khanna 所揭示的肤色主义，并不只是个人对某种肤色的偏好。它是一套由种族主义、殖民历史、阶级关系、反黑人观念、媒体再现与性别规范共同塑造的等级制度。",
+    highlightEn: "Skin color does not merely affect how a woman is seen. It can influence whether she is considered beautiful, respectable, successful, or entitled to belong.",
+    highlightZh: "肤色不仅影响一个女人如何被观看，也可能影响她是否被认为美丽、体面、成功，以及是否有资格归属于某个群体。",
+    sections: [
+      {
+        title: "What Is Colorism?",
+        titleZh: "什么是肤色主义？",
+        paragraphs: [
+          { en: "The term colorism, first coined by Alice Walker in 1983, refers to discrimination in which light skin is privileged over dark skin. Khanna stresses that it can operate within a racial or ethnic community, between communities of color, and through the judgments of white-dominated institutions.", zh: "肤色主义一词由 Alice Walker 于1983年提出，指的是一种赋予浅色皮肤更多优势、贬低深色皮肤的歧视。Khanna 强调，肤色主义既可能发生在同一族裔或种族群体内部，也可能发生在不同少数族裔之间，还会通过白人主导的社会机构发挥作用。" },
+          { en: "Colorism and racism are not identical, but the book treats them as inseparable. The cultural value attached to light skin rests upon a broader system that associates whiteness with beauty, intelligence, wealth, civility, and social authority.", zh: "肤色主义与种族主义并不完全相同，但这本书认为两者无法分离。浅色皮肤之所以具有文化价值，是因为更广泛的种族秩序把白性与美貌、智力、财富、文明和社会权威联系在一起。" },
+          { en: "Darkness, by contrast, is repeatedly associated with poverty, outdoor labour, foreignness, moral deficiency, criminality, or lack of education. These associations are socially produced, but they can come to seem natural through their repetition in families, advertising, schools, entertainment, and intimate relationships.", zh: "与之相对，深色皮肤则不断被关联到贫穷、户外劳动、外国人身份、道德缺陷、犯罪或缺乏教育。这些关联是社会制造的，却会在家庭、广告、学校、娱乐文化与亲密关系中不断重复，最终显得理所当然。" }
+        ]
+      },
+      {
+        title: "Gendered Colorism",
+        titleZh: "性别化的肤色主义",
+        paragraphs: [
+          { en: "Although colorism can affect people of every gender, Whiter focuses on women because skin tone is especially closely connected to judgments of female beauty and femininity.", zh: "尽管肤色主义会影响不同性别的人，《更白》仍把重点放在女性身上，因为肤色与女性美貌和女性气质的评价有着格外紧密的联系。" },
+          { en: "A darker-skinned man may experience racial stereotyping, but his skin tone is not always treated as a direct failure of masculinity. For women, however, being considered too dark may be interpreted as being insufficiently feminine, attractive, marriageable, refined, or respectable.", zh: "肤色较深的男性可能受到种族刻板印象影响，但他的肤色并不总会被直接视作男性气质的失败。对女性而言，“太黑”却可能意味着不够女性化、不够漂亮、不适合婚姻、不够精致或不够体面。" },
+          { en: "Khanna describes light skin as a kind of social capital or currency. It may increase a woman’s perceived value in marriage markets, improve her access to public visibility, and shape assumptions about her class background and professional potential.", zh: "Khanna 把浅色皮肤描述为一种社会资本或货币。它可能提高女性在婚姻市场中的价值，增加她获得公共可见性的机会，并影响别人对她阶级背景与职业潜力的判断。" },
+          { en: "The book’s contributors repeatedly show that the pressure is unequal even within the same family. Boys may be allowed to become darker through outdoor activity, while girls are warned to avoid the sun, apply sunscreen, use lightening treatments, and preserve the skin tone they were born with.", zh: "书中的叙述反复说明，即便在同一个家庭内部，这种压力也并不平等。男孩可以在户外活动中晒黑，女孩却会被要求远离阳光、涂抹防晒产品、使用美白护理，并“保护”自己天生的浅色肤色。" }
+        ]
+      },
+      {
+        title: "‘Whiteness Will Make You Win’",
+        titleZh: "“白会让你赢”",
+        paragraphs: [
+          { en: "Khanna opens the introduction with a Thai advertisement for a skin-whitening supplement. In the commercial, light skin appears alongside happiness and confidence, while darkened skin is paired with sadness and failure.", zh: "Khanna 在导言开头分析了一则泰国美白补充剂广告。广告把浅色皮肤与幸福和自信放在一起，却把变黑的皮肤与悲伤和失败联系起来。" },
+          { en: "Its message is stated directly:", zh: "广告直接宣称：" },
+          { en: "‘Whiteness will make you win.’", zh: "“白会让你赢。”" },
+          { en: "The phrase condenses the logic of the whitening industry. The product does not merely promise a different appearance. It promises employment, romance, admiration, upward mobility, and social recognition.", zh: "这句话浓缩了美白产业的逻辑。产品所承诺的并不只是一种不同的外貌，而是工作、爱情、仰慕、阶级上升与社会认可。" },
+          { en: "Across the advertisements discussed in the book, a darker-skinned woman is frequently presented as unsuccessful, lonely, or unemployable. After using a whitening product, she obtains a job, a promotion, confidence, or a desirable husband.", zh: "在书中分析的多则广告里，肤色较深的女性常被表现为失败、孤独或无法就业。使用美白产品后，她才获得工作、晋升、自信，或者理想的丈夫。" },
+          { en: "The product therefore appears to change skin, but what it actually sells is access to a racial and gender hierarchy.", zh: "因此，产品表面上改变的是肤色，真正售卖的却是进入种族与性别等级的机会。" }
+        ]
+      },
+      {
+        title: "Skin Whitening Is Not Just About Beauty",
+        titleZh: "美白不只关乎美貌",
+        paragraphs: [
+          { en: "The global skin-whitening industry offers creams, soaps, serums, pills, injections, laser treatments, deodorants, foundations, and intimate-care products. Their language repeatedly connects whiteness with purity, radiance, clarity, flawlessness, and truth.", zh: "全球美白产业销售面霜、肥皂、精华、药片、注射项目、激光治疗、止汗产品、粉底与私密护理用品。广告语言反复把白与纯洁、光彩、清透、无瑕和真实联系起来。" },
+          { en: "Some products promise to reveal the consumer’s ‘true’ fairness, as though darker skin were an accidental covering hiding a more authentic and valuable self.", zh: "一些产品声称能够释放消费者“真正的白皙”，仿佛深色皮肤只是覆盖在更真实、更有价值的自我之上的错误表层。" },
+          { en: "Other advertisements attach a literal economic metaphor to the face. The advertisement reproduced on page 16 of the PDF tells consumers to remove darkness, introduce whiteness, and thereby ‘increase your face value.’ The accompanying image presents the whitening product beside a smiling, light-skinned model, visually converting complexion into measurable worth.", zh: "PDF 第16页收录的一则广告甚至直接使用经济语言：消费者应当去除黑暗、获得白皙，从而“提高你的脸面价值”。广告把美白产品与一位微笑的浅肤色模特放在一起，在视觉上把肤色转换为可计算的价值。" },
+          { en: "The market succeeds because it draws upon existing inequalities. When lighter skin already brings social advantages, purchasing whitening products can appear to be a rational personal investment.", zh: "这种市场之所以有效，是因为它利用了早已存在的不平等。当浅色皮肤确实能够带来社会优势时，购买美白产品便可能被理解为一种理性的个人投资。" }
+        ]
+      },
+      {
+        title: "Class Before and After Colonialism",
+        titleZh: "殖民主义之前与之后的阶级意义",
+        paragraphs: [
+          { en: "The preference for light skin in Asia cannot be explained by a single cause.", zh: "亚洲社会对浅色皮肤的偏好不能用一种原因解释。" },
+          { en: "In several societies, light skin historically indicated that a person did not work outdoors. It became associated with wealth, leisure, aristocratic status, and distance from agricultural labour. Darker skin, by contrast, marked proximity to the fields and to the working class.", zh: "在一些社会中，浅色皮肤在历史上意味着一个人不需要从事户外劳动，因此与财富、闲暇、贵族地位以及远离农业劳动联系起来。深色皮肤则被视为接近田地与劳动阶级的标记。" },
+          { en: "This history complicates the assumption that every Asian preference for lighter skin began as an imitation of Europeans. In Japan and China, for example, ideals of pale skin existed before intensive European colonisation.", zh: "这段历史使“亚洲所有浅肤色偏好都起源于对欧洲人的模仿”这一解释变得过于简单。例如，日本和中国对苍白肤色的推崇，在欧洲殖民势力深入之前已经存在。" },
+          { en: "However, the book also refuses to separate contemporary colorism from colonialism. European powers institutionalised racial hierarchies, associated white rulers with authority and civilisation, and often granted lighter-skinned colonised subjects greater access to education, government, and professional status.", zh: "但这本书同样拒绝把当代肤色主义与殖民主义分开。欧洲殖民权力把白人统治者与权威、文明联系起来，并经常给予浅肤色的被殖民者更多教育、政府职位与职业地位。" },
+          { en: "In places including India and the Philippines, older class distinctions were therefore intensified by European conquest and later reinforced by media, advertising, and global consumer culture.", zh: "因此，在印度和菲律宾等地区，原有的阶级差异被欧洲殖民统治进一步强化，又在后来通过媒体、广告与全球消费文化延续下来。" }
+        ]
+      },
+      {
+        title: "‘Rich Asians,’ Not Necessarily White People",
+        titleZh: "目标未必是成为白人，而是成为“富有的亚洲人”",
+        paragraphs: [
+          { en: "An important tension in the book concerns what people seek when they attempt to lighten their skin.", zh: "书中一个重要的张力，是人们试图美白时究竟在追求什么。" },
+          { en: "Some women explicitly reject the claim that they want to become Caucasian. They understand light skin through local ideals of Asian beauty, class refinement, sophistication, or femininity. As researchers cited by Khanna suggest, some consumers may want to resemble ‘rich Asians,’ not white Europeans.", zh: "一些女性明确否认自己希望成为白人。她们通过本土关于亚洲美貌、阶级精致、现代性或女性气质的标准理解浅色皮肤。正如 Khanna 引用的研究者所说，一些消费者追求的可能是“富有的亚洲人”的样子，而不是白种欧洲人。" },
+          { en: "The book does not dismiss these explanations. Instead, it asks why the locally desirable face so often resembles features associated with whiteness and why lightness continues to provide social advantages in white-dominated global systems.", zh: "这本书并不简单否定这些解释，而是继续追问：为什么本土文化中受到推崇的面孔，经常与白性相关特征相似？为什么在白人主导的全球制度中，浅色皮肤仍不断带来优势？" },
+          { en: "A beauty practice can have indigenous histories and still be reshaped by colonialism. It can carry local meanings and still operate within a global hierarchy of whiteness.", zh: "一种美容实践可以拥有本土历史，同时也被殖民主义重新塑造；它可以承载地方意义，同时仍在全球白性等级中发挥作用。" }
+        ]
+      },
+      {
+        title: "The Family as a Site of Colorism",
+        titleZh: "家庭也是肤色主义发生的场所",
+        paragraphs: [
+          { en: "One of the strongest contributions of Whiter is its attention to the ordinary transmission of colorism within families.", zh: "《更白》最重要的贡献之一，是它关注肤色主义如何在日常家庭生活中代际传递。" },
+          { en: "The message may arrive through a whitening cream purchased by a mother, a grandmother’s warning against the sun, a relative’s praise for a light-skinned baby, or a comparison between sisters.", zh: "这种信息可能来自母亲购买的一瓶美白霜、祖母关于不要晒太阳的警告、亲戚对浅肤色婴儿的赞美，或者姐妹之间的比较。" },
+          { en: "These interactions are often presented as care. Mothers and grandmothers may believe they are preparing girls for a world in which light skin affects marriage, work, social status, and safety.", zh: "这些行为经常以照顾的形式出现。母亲与祖母可能相信，她们是在帮助女孩适应一个肤色会影响婚姻、职业、地位与安全的世界。" },
+          { en: "Khanna therefore does not reduce these women to individual villains. They did not invent colorism. They learned its rules and attempted to protect younger women by teaching them how to survive within it.", zh: "因此，Khanna 并没有把这些女性简单描述为个人层面的加害者。她们并未创造肤色主义，而是学会了这套规则，并试图通过传授生存方式来保护年轻女性。" },
+          { en: "Yet protective intent does not remove the harm. A girl repeatedly taught to preserve her lightness also learns that affection, safety, and opportunity may be withdrawn if her skin becomes darker.", zh: "但保护的意图并不能消除伤害。一个不断被要求维持浅肤色的女孩，也会学到：一旦肤色变深，爱、保护与机会都可能被收回。" }
+        ]
+      },
+      {
+        title: "‘Wheatish’: A Skin Tone and a Social Position",
+        titleZh: "“小麦色”：一种肤色，也是一种社会位置",
+        paragraphs: [
+          { en: "In the essay ‘Wheatish,’ Rhea Goveas describes knowing from childhood that her complexion was neither too light nor too dark and that this intermediate category was considered desirable.", zh: "在《小麦色》一文中，Rhea Goveas 描述自己从小就知道，她的肤色既不算太白，也不算太黑，而这种中间类别被认为是理想的。" },
+          { en: "She also learns that because she is a girl, preserving that desirable tone is her responsibility. When she returns from travelling with tanned skin, her mother insists that she purchase foundation lighter than her current complexion and recommends treatments that would return her skin to what it ‘should be.’", zh: "她还逐渐明白，因为自己是女孩，保护这种理想肤色便成为她的责任。旅行晒黑后，母亲坚持让她购买比当前肤色更浅的粉底，并建议使用护理方法，让肤色恢复到它“应该有的样子”。" },
+          { en: "Goveas enjoys skincare and face masks. Her objection is not to beauty practices themselves, but to the idea that her skin needs correction because it has become darker.", zh: "Goveas 喜欢护肤和面膜。她所反对的并不是美容实践本身，而是肤色一旦变深，就需要被“修复”的观念。" },
+          { en: "This distinction is crucial. A practice can be pleasurable in one context and disciplinary in another. Its meaning depends on the problem it is supposed to solve.", zh: "这种区分十分重要。同一种实践在一个情境中可以带来愉悦，在另一个情境中却可能成为纪律。它的意义取决于它被要求解决的究竟是什么“问题”。" }
+        ]
+      },
+      {
+        title: "The Limits of America’s Tanning Culture",
+        titleZh: "美国晒黑文化的限度",
+        paragraphs: [
+          { en: "Several contributors encounter an apparent contradiction between Asian and American beauty standards. In many Asian communities, tanning is criticised. In mainstream American culture, however, a temporary tan may be praised as attractive, healthy, or evidence of leisure.", zh: "书中多位作者都遇到亚洲与美国审美标准之间看似矛盾的关系。在许多亚洲社群中，晒黑受到批评；但在美国主流文化中，短暂的棕褐肤色却可能被赞美为漂亮、健康，或者拥有闲暇生活的证明。" },
+          { en: "Khanna warns against treating tanning and skin whitening as equivalent practices. A light-skinned white woman may darken her skin temporarily without losing racial privilege. She can enjoy the appearance of brownness while remaining socially recognised as white.", zh: "Khanna 提醒读者，不应把晒黑与美白视为对等行为。浅肤色白人女性可以暂时让皮肤变深，却不会失去种族特权。她可以享受棕褐色外观，同时继续被社会认定为白人。" },
+          { en: "A dark-skinned woman of color cannot remove the stereotypes attached to her complexion when the holiday or summer ends. Her skin may influence how others judge her intelligence, class, foreignness, employability, and safety.", zh: "深肤色的有色女性却无法在假期或夏天结束后，摆脱附着在肤色上的刻板印象。她的肤色可能持续影响他人对她智力、阶级、外国人身份、就业能力与安全性的判断。" },
+          { en: "Tanning can therefore function as a social luxury for white women, while naturally dark skin remains a racialised condition for women of color.", zh: "因此，晒黑可以成为白人女性的一种社会奢侈，而天然的深色皮肤对有色女性而言，仍是一种被种族化的处境。" }
+        ]
+      },
+      {
+        title: "‘American’ Is Imagined as White",
+        titleZh: "“美国人”常被想象为白人",
+        paragraphs: [
+          { en: "For Asian American women, colorism operates within both Asian communities and white-dominated American society.", zh: "对亚裔美国女性而言，肤色主义同时发生在亚洲族裔社群内部，也发生在白人主导的美国社会之中。" },
+          { en: "In Asian communities, darker skin may be associated with lower class, unattractiveness, or insufficient femininity. In the United States, dark skin and non-European features may mark a woman as foreign, even when she was born in America or her family has lived there for generations.", zh: "在亚洲社群内部，深色皮肤可能与低阶级、不美丽或缺乏女性气质联系起来；在美国，深色皮肤与非欧洲特征又可能把一个女人标记为外国人，即使她出生于美国，或其家族已经在当地生活了数代。" },
+          { en: "Ethel Nicdao, a Filipina American contributor, recounts being denied an English-teaching opportunity in Taiwan because she did not ‘look American,’ while her blonde white American friend was immediately accepted.", zh: "菲律宾裔美国作者 Ethel Nicdao 讲述了自己在台湾失去英语教学机会的经历：她被告知自己“看起来不像美国人”，而她的金发白人美国朋友则立刻获得了工作。" },
+          { en: "Her experience demonstrates that nationality is often imagined through race. ‘American’ is treated not merely as citizenship or cultural belonging, but as a white physical appearance.", zh: "她的经历表明，国籍经常通过种族被想象。“美国人”不仅被理解为公民身份或文化归属，也被理解为一套白人的身体外观。" },
+          { en: "Asian American women may therefore experience a double demand: they are judged according to color hierarchies within their ethnic communities and according to racial standards of Americanness outside them.", zh: "因此，亚裔美国女性可能面对双重要求：她们既在族裔社群内部受到肤色等级评价，也在外部社会中受到美国白性标准的判断。" }
+        ]
+      },
+      {
+        title: "Beauty and the ‘Forever Foreigner’",
+        titleZh: "美貌与“永远的外国人”",
+        paragraphs: [
+          { en: "The book connects colorism to the stereotype of Asian Americans as forever foreigners.", zh: "这本书把肤色主义与亚裔美国人被视作“永远的外国人”的刻板印象联系起来。" },
+          { en: "Skin color, eye shape, nose shape, names, language, and accents may be interpreted as signs that an Asian American woman does not fully belong. Altering appearance can therefore become more than a search for beauty; it may become an attempt to reduce racial targeting.", zh: "肤色、眼形、鼻形、姓名、语言与口音，都可能被理解为亚裔美国女性并不真正属于这里的证据。因此，改变外貌不只是在追求美，也可能是在试图减少自己成为种族攻击目标的风险。" },
+          { en: "The book discusses women who modify their eyelids, noses, hair, or skin partly to avoid being stereotyped as foreign, passive, untrustworthy, or unsuitable for public-facing work.", zh: "书中讨论了一些女性如何改变眼睑、鼻形、头发或肤色，部分原因是避免被刻板化为外国人、顺从者、不可信的人，或者不适合从事公共职业的人。" },
+          { en: "This makes individual choice difficult to evaluate in isolation. A woman may willingly choose surgery or whitening products, while the desire itself has been shaped by employment discrimination and racial exclusion.", zh: "这使个人选择难以被孤立评价。一个女人可能自愿选择手术或美白产品，但她的欲望本身可能已经被就业歧视与种族排斥塑造。" }
+        ]
+      },
+      {
+        title: "Digital Whiteness",
+        titleZh: "数字白性",
+        paragraphs: [
+          { en: "The pressure to lighten the body has expanded into digital space.", zh: "让身体变白的压力已经扩展到数字空间。" },
+          { en: "Photo-editing applications can make users appear thinner, smoother, brighter, and whiter. Some users select lighter-skinned emojis to represent themselves. Profile images can be edited to approach an ideal that may feel unavailable in physical life.", zh: "修图应用可以让使用者显得更瘦、更光滑、更明亮、更白。一些使用者会选择浅肤色表情符号代表自己，也会通过修改头像接近现实身体中难以获得的理想形象。" },
+          { en: "The book calls attention to the political significance of these seemingly minor decisions. A digital face is not only an image; it is a way of deciding which version of the self appears employable, attractive, modern, successful, and socially legible.", zh: "这本书提醒读者注意这些看似微小选择的政治意义。数字面孔并不只是一张图像，它也在决定哪个版本的自我会被看作适合就业、具有吸引力、现代、成功并容易被社会理解。" },
+          { en: "Digital technology does not eliminate older color hierarchies. It makes their reproduction faster, more accessible, and increasingly self-administered.", zh: "数字技术并没有消除旧有的肤色等级，而是让这些等级的复制变得更迅速、更便利，并越来越多地由个人主动完成。" }
+        ]
+      },
+      {
+        title: "Colorism and Anti-Blackness",
+        titleZh: "肤色主义与反黑人观念",
+        paragraphs: [
+          { en: "Whiter does not treat Asian colorism as separate from anti-Blackness.", zh: "《更白》并没有把亚洲社群中的肤色主义与反黑人观念分开处理。" },
+          { en: "The preference for lightness often depends on the construction of darkness as its negative opposite. Blackness may be associated with ugliness, danger, low status, criminality, or moral failure in Asian societies and Asian American communities.", zh: "对浅色的推崇经常依赖于把深色与黑性建构成负面反面。无论在亚洲社会还是亚裔美国社群中，黑性都可能被关联到丑陋、危险、低地位、犯罪或道德失败。" },
+          { en: "This affects dark-skinned Asian Americans, but it also affects multiracial Black Asian people and relations between Asian and Black communities.", zh: "这不仅影响深肤色亚裔美国人，也影响黑人与亚裔混血者，以及亚裔与黑人社群之间的关系。" },
+          { en: "Khanna argues that colorism cannot be challenged simply by celebrating a wider range of Asian skin tones while leaving anti-Black stereotypes intact. The hierarchy that privileges lighter Asians is connected to the same racial order that devalues Blackness.", zh: "Khanna 的论述表明，仅仅赞美更多样的亚洲肤色，却保留反黑人刻板印象，并不能真正挑战肤色主义。赋予浅肤色亚洲人优势的等级制度，与贬低黑性的种族秩序相互连接。" }
+        ]
+      },
+      {
+        title: "Privilege Is Situational",
+        titleZh: "特权会随情境变化",
+        paragraphs: [
+          { en: "The book’s essays complicate any simple division between privileged light-skinned women and oppressed dark-skinned women.", zh: "书中的叙述使“浅肤色女性拥有特权、深肤色女性受到压迫”这种简单区分变得更加复杂。" },
+          { en: "A light-skinned multiracial woman may be praised in one community but treated as inauthentic in another. A dark tan may be admired among white Americans but condemned by relatives in an Asian community. A woman may benefit from appearing racially ambiguous while also feeling excluded from her own ethnic group.", zh: "浅肤色混血女性可能在一个社群中受到赞美，却在另一个社群中被认为“不够真实”；棕褐肤色可能受到白人美国人的欣赏，却被亚洲亲属批评；一个女人可能因种族外观模糊而获得优势，同时也感到自己被族裔社群排除。" },
+          { en: "Skin tone acquires meaning through context: who is looking, where the encounter takes place, which racial category is being applied, and what social reward is at stake.", zh: "肤色的意义取决于具体情境：谁在观看、相遇发生在哪里、什么种族分类正在被使用，以及什么社会利益正在被分配。" },
+          { en: "This does not mean colorism is arbitrary. Across changing situations, lighter skin and proximity to whiteness still tend to provide broader structural advantages.", zh: "这并不意味着肤色主义毫无规律。即使情境不断变化，浅色皮肤与接近白性总体上仍会带来更广泛的结构优势。" }
+        ]
+      },
+      {
+        title: "Belonging and the Narrow Image of ‘Asian’",
+        titleZh: "归属感与单一的“亚洲面孔”",
+        paragraphs: [
+          { en: "Colorism also shapes who is recognised as Asian.", zh: "肤色主义也会影响谁能够被认定为亚洲人。" },
+          { en: "The category ‘Asian American’ contains people from East Asia, Southeast Asia, and South Asia, with wide variations in skin color, facial features, religion, language, class, and colonial history.", zh: "“亚裔美国人”这一类别包含东亚、东南亚与南亚背景的人群，在肤色、面部特征、宗教、语言、阶级与殖民历史方面存在巨大差异。" },
+          { en: "Yet American popular culture often represents ‘Asian’ through a narrow East Asian stereotype: relatively light skin, straight dark hair, and a restricted set of facial features.", zh: "但美国流行文化常通过一种狭窄的东亚刻板形象来表现“亚洲人”：相对浅色的皮肤、黑色直发，以及一组有限的面部特征。" },
+          { en: "Darker-skinned South and Southeast Asians may therefore be treated as insufficiently Asian, while multiracial or very light-skinned women may also be told that they do not look Asian enough.", zh: "因此，肤色较深的南亚与东南亚女性可能被认为“不够亚洲”，而混血或肤色非常浅的女性也可能被告知她们“看起来不够亚洲”。" },
+          { en: "The contributors challenge this visual policing by insisting that there is more than one way to look Asian.", zh: "书中的女性通过自己的叙述，挑战这种对外貌的审查，并坚持认为：亚洲人并不存在唯一正确的样子。" }
+        ]
+      },
+      {
+        title: "Redefining Skin",
+        titleZh: "重新定义肤色",
+        paragraphs: [
+          { en: "The final section of the book moves from identifying colorism to examining resistance, healing, and self-acceptance.", zh: "全书最后一部分从辨认肤色主义，转向讨论抵抗、疗愈与自我接纳。" },
+          { en: "The contributors do not describe liberation as a single decision. They write about ‘reprogramming’: the continuing work of recognising messages learned in childhood, questioning inherited judgments, and refusing to transmit them to another generation.", zh: "书中的作者并没有把解放写成一次性的决定，而是把它描述为一种“重新编程”：不断识别童年时期学会的信息，质疑继承而来的判断，并拒绝把它们继续传给下一代。" },
+          { en: "This process does not require women to become indifferent to appearance. It asks them to separate pleasure in beauty practices from the belief that their natural bodies require racial correction.", zh: "这个过程并不要求女性对外貌完全不在意，而是要求她们区分两件事：从美容实践中获得愉悦，以及相信自己的天然身体需要接受种族化的纠正。" },
+          { en: "Resistance may involve rejecting whitening products, allowing the skin to darken in the sun, recognising one’s privilege as a light-skinned woman, challenging relatives’ comments, or teaching children a broader language of beauty.", zh: "抵抗可能表现为拒绝美白产品、允许皮肤在阳光下变深、承认自己作为浅肤色女性所拥有的特权、反驳亲属的评论，或者向孩子传递更宽广的美貌语言。" },
+          { en: "The concluding movement is not simply from self-hatred to confidence. It is from treating skin color as an individual defect to understanding it as a political relation.", zh: "这种转变并不只是从自我厌恶走向自信，而是从把肤色视为个人缺陷，转向把它理解为一种政治关系。" }
+        ]
+      }
+    ],
+    quotesTitle: "Selected Passages",
+    quotesTitleZh: "引文",
+    quoteSelections: [
+      { en: "I love my skin.", zh: "我爱我的皮肤。", source: "Miho Iwata, ‘Too Dark’" },
+      { en: "There is more than one way to look Asian.", zh: "亚洲人不只有一种样子。", source: "Editorial theme in Whiter" }
+    ],
+    quoteReadingEn: "Colorism turns skin into evidence: of beauty, class, femininity, intelligence, and belonging. Challenging it requires more than expanding the beauty standard. It requires questioning why complexion is allowed to determine social value at all.",
+    quoteReadingZh: "肤色主义把皮肤变成一种证据：证明一个女人是否美丽、属于什么阶级、是否具有女性气质、是否聪明，以及是否有资格归属。挑战它不能只靠扩大美貌标准，还必须追问：为什么肤色可以决定一个人的社会价值？",
+    tags: ["colorism", "Asian American women", "skin whitening", "whiteness", "colonialism", "gendered colorism", "anti-Blackness", "social class", "belonging", "self-acceptance"],
+    tagsZh: ["肤色主义", "亚裔美国女性", "美白", "白性", "殖民主义", "性别化肤色主义", "反黑人观念", "社会阶级", "归属", "自我接纳"],
+    sourceText: "Whiter: Asian American Women on Skin Color and Colorism",
+    status: "published"
   }
 ];
