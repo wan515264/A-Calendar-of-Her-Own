@@ -53,7 +53,7 @@ export default function Archive() {
     });
 
     return months;
-  }, []);
+  }, []).sort((a, b) => b.key.localeCompare(a.key));
 
   return (
     <div className="archive-page">
