@@ -1,5 +1,5 @@
-import { useMemo, useState } from 'react';
-import { Archive, BookOpen, Tags } from 'lucide-react';
+import { useState } from 'react';
+import { Archive, BookOpen } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import EmptyState from '../components/EmptyState';
 import PageHeader from '../components/PageHeader';
@@ -29,16 +29,8 @@ function matchesFilter(cardType: string | undefined, filter: LibraryFilter) {
 export default function Library() {
   const publishedCards = getPublishedScheduledCards();
   const [activeFilter, setActiveFilter] = useState<LibraryFilter>('all');
-  const [selectedTag, setSelectedTag] = useState<string | undefined>();
 
   const filteredCards = publishedCards.filter((card) => matchesFilter(card.cardType, activeFilter));
-  const tags = useMemo(
-    () => Array.from(new Set(publishedCards.flatMap((card) => card.tags))).sort((a, b) => a.localeCompare(b)),
-    [publishedCards]
-  );
-  const taggedCards = selectedTag
-    ? publishedCards.filter((card) => card.tags.some((tag) => tag.toLowerCase() === selectedTag.toLowerCase()))
-    : [];
 
   return (
     <>
@@ -89,39 +81,6 @@ export default function Library() {
             </div>
           </section>
 
-          {tags.length > 0 && (
-            <section className="library-section library-section--keywords">
-              <Tags size={20} />
-              <div>
-                <p className="eyebrow">Unlocked Keywords｜已出现关键词</p>
-                <div className="library-keyword-cloud">
-                  {tags.map((tag) => (
-                    <button
-                      key={tag}
-                      className={selectedTag === tag ? 'tag is-active' : 'tag'}
-                      type="button"
-                      onClick={() => setSelectedTag(selectedTag === tag ? undefined : tag)}
-                    >
-                      {tag}
-                    </button>
-                  ))}
-                </div>
-
-                {selectedTag && (
-                  <div className="library-keyword-results">
-                    <p>Cards with: {selectedTag}</p>
-                    <div className="library-result-list">
-                      {taggedCards.map((card) => (
-                        <Link key={card.id} to={`/cards/${card.id}`}>
-                          {card.title} <span>· {card.date}</span>
-                        </Link>
-                      ))}
-                    </div>
-                  </div>
-                )}
-              </div>
-            </section>
-          )}
         </div>
       )}
     </>

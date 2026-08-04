@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import { TheoryCard } from '../data/theoryCards';
 import BilingualParagraphs from './BilingualParagraphs';
 import FavoriteButton from './FavoriteButton';
-import Tag from './Tag';
 import TheoryFrameworkMap from './TheoryFrameworkMap';
 
 const cardTypeLabels: Record<NonNullable<TheoryCard['cardType']>, { en: string; zh: string }> = {
@@ -254,18 +253,6 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
               <li key={getWorkKey(work)}>{renderWork(work)}</li>
             ))}
           </ul>
-        </section>
-      )}
-
-      {card.tags.length > 0 && (
-        <section className="article-section">
-          <h3>Tags</h3>
-          <span>标签</span>
-          <div className="tag-row">
-            {card.tags.map((tag) => (
-              <Tag key={tag} label={tag} />
-            ))}
-          </div>
         </section>
       )}
 

@@ -28,11 +28,11 @@ export default function ThemeToggle() {
       className="theme-toggle"
       type="button"
       onClick={() => setTheme(isLight ? 'dark' : 'light')}
-      aria-label={isLight ? 'Switch to night library theme' : 'Switch to paper calendar theme'}
-      title={isLight ? 'Night Library｜夜间书库' : 'Paper Calendar｜纸上日历'}
+      aria-label={isLight ? 'Switch to night library theme' : 'Switch to morning theme'}
+      title={isLight ? 'Night Library｜夜间书库' : 'Morning｜日间'}
     >
       {isLight ? <Moon size={17} /> : <Sun size={17} />}
-      <span>{isLight ? 'Night｜夜间' : 'Paper｜纸上'}</span>
+      <span>{isLight ? 'Night｜夜间' : 'Morning｜日间'}</span>
     </button>
   );
 }
