@@ -1203,6 +1203,16 @@ blockquote cite {
   backdrop-filter: blur(8px);
 }
 
+.archive-months {
+  display: grid;
+  gap: 24px;
+}
+
+.archive-calendar,
+.archive-day {
+  scroll-margin-top: 24px;
+}
+
 .archive-calendar__header {
   display: flex;
   align-items: end;
@@ -1475,6 +1485,25 @@ blockquote cite {
   border: 1px solid rgba(232, 199, 122, 0.14);
   border-radius: 16px;
   background: rgba(255, 244, 216, 0.055);
+}
+
+.library-card-link__content {
+  display: block;
+}
+
+.library-card-link__archive {
+  display: inline-flex;
+  align-items: center;
+  justify-self: start;
+  gap: 5px;
+  color: var(--gold);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.library-card-link__archive:hover {
+  color: var(--text);
 }
 
 .library-card-link strong {

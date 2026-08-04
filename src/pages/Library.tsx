@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import { BookOpen, Tags } from 'lucide-react';
+import { Archive, BookOpen, Tags } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import EmptyState from '../components/EmptyState';
 import PageHeader from '../components/PageHeader';
@@ -65,15 +65,18 @@ export default function Library() {
               <p className="eyebrow">Unlocked Collection｜已解锁馆藏</p>
               <div className="library-card-list">
                 {filteredCards.map((card) => (
-                  <Link key={card.id} className="library-card-link" to={`/cards/${card.id}`}>
-                    <div>
+                  <article key={card.id} className="library-card-link">
+                    <Link className="library-card-link__content" to={`/cards/${card.id}`}>
                       <strong>{card.title}</strong>
                       {card.cardTitleZh && card.cardTitleZh !== card.title && <span>{card.cardTitleZh}</span>}
                       <em>{[card.cardType, card.date].filter(Boolean).join(' · ')}</em>
                       {(card.focusTitle || card.focusTitleZh) && <p>{card.focusTitle ?? card.focusTitleZh}</p>}
-                    </div>
+                    </Link>
                     <small>{card.tags.slice(0, 3).join(' · ')}</small>
-                  </Link>
+                    <Link className="library-card-link__archive" to={`/archive#archive-${card.id}`}>
+                      <Archive size={13} /> View in Archive｜在归档中查看
+                    </Link>
+                  </article>
                 ))}
               </div>
             </div>
