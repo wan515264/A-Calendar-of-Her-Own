@@ -184,7 +184,7 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
   };
 }
 
-export function getPublishedDailyCards(currentDate: string = '9999-12-31') {
+export function getPublishedDailyCards(currentDate: string = toDateKey(new Date())) {
   return sortedCards()
     .filter((card) => isPublished(card) && card.date <= currentDate)
     .map(dailyCardToTheoryCard);
@@ -197,13 +197,12 @@ export function getDailyCardByDate(date: string = toDateKey(new Date())) {
 }
 
 export function getTodayDailyCard() {
-  const published = getPublishedDailyCards();
-  return published[published.length - 1];
+  return getDailyCardByDate(toDateKey(new Date()));
 }
 
-export function getDailyCardById(id: string, _currentDate: string = toDateKey(new Date())) {
+export function getDailyCardById(id: string, currentDate: string = toDateKey(new Date())) {
   const card = dailyCards.find((dailyCard) => dailyCard.id === id);
-  if (!card || !isPublished(card)) return undefined;
+  if (!card || !isPublished(card) || card.date > currentDate) return undefined;
   return dailyCardToTheoryCard(card);
 }
 

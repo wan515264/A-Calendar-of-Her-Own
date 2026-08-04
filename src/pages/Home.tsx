@@ -4,7 +4,15 @@ import SisterProjectCard from '../components/SisterProjectCard';
 import TheoryCard from '../components/TheoryCard';
 import { getTodayScheduledCard } from '../utils/getScheduledCard';
 
+function toDateKey(date: Date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
 export default function Home() {
+  const todayDate = toDateKey(new Date());
   const todayCard = getTodayScheduledCard();
 
   return (
@@ -16,7 +24,7 @@ export default function Home() {
 
       {todayCard ? (
         <>
-          <DateHeader date={todayCard.date} />
+          <DateHeader date={todayDate} />
           <div className="calendar-card-divider" aria-hidden="true">
             <span />
             <b>✦</b>
