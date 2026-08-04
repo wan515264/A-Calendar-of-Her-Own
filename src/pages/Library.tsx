@@ -5,24 +5,20 @@ import EmptyState from '../components/EmptyState';
 import PageHeader from '../components/PageHeader';
 import { getPublishedScheduledCards } from '../utils/getScheduledCard';
 
-type LibraryFilter = 'all' | 'thinker' | 'writer' | 'art' | 'novel' | 'book' | 'theory' | 'text' | 'criticism';
+type LibraryFilter = 'all' | 'art' | 'text-novel' | 'theory-criticism';
 
 const filters: Array<{ key: LibraryFilter; label: string }> = [
   { key: 'all', label: 'All｜全部' },
-  { key: 'thinker', label: 'Thinkers｜思想家' },
-  { key: 'writer', label: 'Writers｜作家' },
   { key: 'art', label: 'Art｜艺术' },
-  { key: 'novel', label: 'Novels｜小说' },
-  { key: 'book', label: 'Books｜著作' },
-  { key: 'theory', label: 'Theory｜理论' },
-  { key: 'text', label: 'Texts｜文本' },
-  { key: 'criticism', label: 'Criticism & Essays｜评论与论文' }
+  { key: 'text-novel', label: 'Texts & Novels｜文本与小说' },
+  { key: 'theory-criticism', label: 'Theory & Criticism｜理论与批评' }
 ];
 
 function matchesFilter(cardType: string | undefined, filter: LibraryFilter) {
   if (filter === 'all') return true;
   if (filter === 'art') return ['artist', 'photographer', 'installation', 'performance', 'sculpture'].includes(cardType ?? '');
-  if (filter === 'criticism') return cardType === 'criticism' || cardType === 'essay';
+  if (filter === 'text-novel') return ['text', 'novel'].includes(cardType ?? '');
+  if (filter === 'theory-criticism') return ['theory', 'criticism', 'essay'].includes(cardType ?? '');
   return cardType === filter;
 }
 
