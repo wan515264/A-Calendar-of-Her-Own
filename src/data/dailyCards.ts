@@ -1,7 +1,7 @@
 export type DailyCard = {
   id: string;
   date: string;
-  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory" | "performance" | "installation" | "sculpture" | "novel" | "book" | "essay";
+  type: "thinker" | "writer" | "artist" | "photographer" | "concept" | "text" | "quote" | "debate" | "criticism" | "theory" | "performance" | "installation" | "sculpture" | "novel" | "book" | "essay" | "film";
   personId?: string;
   title: string;
   titleZh?: string;

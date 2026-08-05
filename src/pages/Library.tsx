@@ -16,7 +16,7 @@ const filters: Array<{ key: LibraryFilter; label: string }> = [
 
 function matchesFilter(cardType: string | undefined, filter: LibraryFilter) {
   if (filter === 'all') return true;
-  if (filter === 'art') return ['artist', 'photographer', 'installation', 'performance', 'sculpture'].includes(cardType ?? '');
+  if (filter === 'art') return ['artist', 'photographer', 'installation', 'performance', 'sculpture', 'film'].includes(cardType ?? '');
   if (filter === 'text-novel') return ['text', 'novel'].includes(cardType ?? '');
   if (filter === 'theory-criticism') return ['theory', 'criticism', 'essay'].includes(cardType ?? '');
   return cardType === filter;

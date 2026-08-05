@@ -50,6 +50,8 @@ function getCategoryZh(category?: string) {
       return '著作';
     case 'essay':
       return '论文';
+    case 'film':
+      return '电影';
     default:
       return '理论卡片';
   }
