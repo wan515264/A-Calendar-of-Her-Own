@@ -5197,5 +5197,625 @@ Zany（疯癫）对应生产。它是一种关于表演、忙碌、多工、情�
     tagsZh: ["肤色主义", "亚裔美国女性", "美白", "白性", "殖民主义", "性别化肤色主义", "反黑人观念", "社会阶级", "归属", "自我接纳"],
     sourceText: "Whiter: Asian American Women on Skin Color and Colorism",
     status: "published"
+  },
+  {
+    id: "2026-08-05-alice-guy-blache-be-natural",
+    date: "2026-08-05",
+    type: "film",
+    title: "Alice Guy-Blaché",
+    titleZh: "爱丽丝·居伊-布拉谢",
+    titleSeparator: " ",
+    years: "1873–1968",
+    role: "Early Cinema / Directing / Film History｜早期电影 / 导演 / 电影史",
+    creator: "Alice Guy-Blaché",
+    creatorZh: "爱丽丝·居伊-布拉谢",
+    focusTitle: "Who Was Written Out of the Beginning of Cinema?",
+    focusTitleZh: "谁被排除在电影的起源叙事之外？",
+    summaryEn: "Alice Guy-Blaché was the first woman known to build a sustained professional career as a film director. She proposed that film could do more than record movement: it could stage fictional situations, direct performers, and tell stories.",
+    summaryZh: "爱丽丝·居伊-布拉谢是目前所知第一位以电影导演为持续职业的女性。她提出，电影不必只记录运动，也可以设计虚构情境、指导演员并讲述故事。",
+    introEn: `Alice Guy-Blaché was the first woman known to build a sustained professional career as a film director. She entered the industry in the 1890s as Léon Gaumont’s secretary, when motion pictures were still commonly used to demonstrate new recording and projection equipment. Guy proposed that film could do more than record movement: it could stage fictional situations, direct performers, and tell stories. With Gaumont’s approval, she made La Fée aux choux—The Cabbage Fairy—in 1896. The exact place of this film in the chronology of narrative cinema remains debated, so it is more accurate to describe it as one of the earliest fiction films rather than definitively “the first narrative film.”
+
+She later supervised film production at Gaumont, experimented with synchronised sound and visual effects, founded the Solax Company in the United States, and worked as a director, writer, producer, and studio executive. Yet her name was repeatedly omitted from film histories, while some of her work was lost, misattributed, or credited to male colleagues.
+
+The question is not only who made the first films. It is also who was later allowed to represent the beginning of cinema.`,
+    introZh: `爱丽丝·居伊-布拉谢是目前所知第一位以电影导演为持续职业的女性。她在19世纪90年代以莱昂·高蒙秘书的身份进入电影行业。当时，活动影像仍常被用来展示新型摄影与放映设备。居伊提出，电影不必只记录运动，也可以设计虚构情境、指导演员并讲述故事。1896年，她在高蒙允许下拍摄《甘蓝仙子》。这部作品在叙事电影史上的确切位置仍有争议，因此，将它称为“最早的一批虚构电影之一”，比断言它是“第一部叙事电影”更准确。
+
+此后，她在高蒙负责电影生产，尝试同步录音与视觉特效，又在美国创立索拉克斯公司，同时担任导演、编剧、制片人与制片厂管理者。然而，她的名字长期被电影史忽略，她的一些作品已经失传，另一些则曾被错误归入男性同事名下。
+
+问题不只是最早的电影由谁拍摄，也包括后来谁被允许代表电影的起源。`,
+    articleSections: [
+      {
+        title: "Cinema Before Its Rules Were Fixed",
+        titleZh: "在电影规则尚未确立之前",
+        en: `Alice Ida Antoinette Guy was born in 1873 in Saint-Mandé, near Paris. After receiving secretarial training, she began working for Léon Gaumont in 1894. Gaumont’s business initially centred on photographic and motion-picture equipment rather than on the production of narrative entertainment.
+
+The distinction matters because Guy entered cinema before directing had become a stable profession. There was no settled studio hierarchy, no established grammar of editing, and no clear division between technical demonstration, theatrical performance, documentary recording, and fictional storytelling.
+
+Her opportunity did not arise because the film industry had already decided to welcome women. It arose because the industry was so new that many of its professional boundaries had not yet been established. This openness would later narrow as filmmaking became more profitable, more institutionalised, and increasingly dominated by large companies. Research on silent cinema shows that women held a wide range of creative and managerial positions in the early industry, but many of these opportunities declined as production became more consolidated.`,
+        zh: `爱丽丝·伊达·安托瓦内特·居伊于1873年出生在巴黎附近的圣芒代。接受秘书训练后，她于1894年开始为莱昂·高蒙工作。高蒙最初经营的核心是摄影与活动影像设备，而不是叙事娱乐内容的制作。
+
+这一点十分重要，因为居伊进入电影行业时，“导演”尚未成为一种稳定职业。制片厂层级、剪辑语法，以及技术展示、戏剧表演、现实记录与虚构叙事之间的界线都还没有固定下来。
+
+她获得机会，并不是因为电影行业已经决定接纳女性，而是因为这个行业过于新兴，许多职业边界尚未形成。随着电影变得更具商业价值、制度化程度提高，并逐渐被大型公司控制，这种开放性反而开始收缩。关于默片时代的研究表明，早期电影业中女性曾担任多种创作与管理职位，但随着产业集中，许多机会也随之减少。`
+      },
+      {
+        title: "The Cabbage Fairy and the Problem of “Firsts”",
+        titleZh: "《甘蓝仙子》与“第一”的问题",
+        en: `Guy later recalled that after seeing the Lumière brothers’ motion-picture apparatus, she suggested to Gaumont that she could write and stage short fictional scenes. She received permission on the condition that the work would not interfere with her secretarial duties. In 1896, she made La Fée aux choux, a brief scene based on the folkloric idea that babies are found among cabbages.
+
+The film is often called the first narrative film. That claim should be treated carefully. Early film chronology is difficult to establish because prints were lost, titles were reused, surviving versions may date from later remakes, and scholars disagree about how to define “narrative” or “fiction.” BFI material notes that the 1896 print appears to be lost, making the order of early works especially difficult to verify.
+
+What can be stated with greater confidence is that Guy was making fiction films at the very beginning of cinema and that she became the first woman known to sustain a professional career in film direction.`,
+        zh: `居伊后来回忆，在观看卢米埃尔兄弟的活动影像设备后，她向高蒙提出，可以编写并拍摄简短的虚构场景。高蒙同意了，但前提是不能影响她的秘书工作。1896年，她拍摄了《甘蓝仙子》，根据“婴儿从甘蓝中出生”的民间想象设计了一个短场景。
+
+这部电影经常被称为“第一部叙事电影”，但这一说法需要谨慎处理。早期电影的年代顺序很难精确确认，因为大量拷贝已经失传，片名可能被重复使用，现存版本可能来自后来的重拍，而学者对于如何界定“叙事”与“虚构”也并无完全一致的标准。英国电影协会的资料指出，1896年的原始版本似乎已经失传，这使早期作品的先后顺序更难核实。
+
+更可靠的说法是：居伊在电影诞生初期便开始拍摄虚构作品，并成为目前所知第一位持续从事电影导演职业的女性。`
+      },
+      {
+        title: "From Secretary to Head of Production",
+        titleZh: "从秘书到制作负责人",
+        en: `Guy’s position at Gaumont expanded rapidly. Sources differ slightly in the terminology and exact dates used to describe her authority, but she is widely recognised as having supervised or directed the company’s fiction production from the late 1890s into the first years of the twentieth century.
+
+Her work covered comedy, melodrama, fantasy, social commentary, literary adaptation, and religious spectacle. Because credits were not consistently recorded in early cinema, the total number of films she directed, wrote, supervised, or produced cannot be established with complete certainty. Estimates vary considerably, and broad claims that she personally directed “more than one thousand films” should therefore be treated cautiously. Institutional sources more safely describe her as responsible for hundreds of films, while noting that she directed, wrote, produced, or supervised many more.
+
+This uncertainty is not incidental. It shows how an industry without stable crediting practices made creative labour easy to detach from the people who performed it.`,
+        zh: `居伊在高蒙公司的职权迅速扩大。不同资料对她职位的确切名称和起始时间略有差异，但普遍认可她从19世纪90年代末至20世纪初期负责或监督公司的虚构电影生产。
+
+她的作品涵盖喜剧、情节剧、幻想片、社会评论、文学改编与宗教场面。由于早期电影并没有持续而可靠地记录演职员信息，她究竟导演、编写、监督或制作了多少部作品，至今无法完全确认。各种估算差距很大，因此，“她亲自导演了一千多部电影”之类的说法需要谨慎。机构资料更稳妥地将她描述为参与制作了数百部影片，同时说明她在更多作品中承担了导演、编剧、制片或监督职责。
+
+这种不确定性并非无关紧要。它说明，在缺乏稳定署名制度的行业中，创作劳动很容易与真正完成它的人分离。`
+      },
+      {
+        title: "Experimenting with Film Form",
+        titleZh: "对电影形式的实验",
+        en: `Guy worked during a period when cinematic technique was being invented through practice. She used staged sets, location filming, close framing, reverse motion, hand colouring, double exposure, and other early special effects. At Gaumont, she was also involved with films made for the Chronophone, a system designed to synchronise recorded sound with projected images.
+
+Calling these works primitive because they are short or technically unfamiliar can obscure their historical importance. The filmmakers were testing how movement, performance, rhythm, space, sound, and illusion could be organised on screen before these techniques had become conventional.
+
+Guy’s studio instruction, “Be Natural,” has become closely associated with her. It signalled her preference for screen performance that was less exaggerated than some theatrical acting traditions. The phrase should not be understood as evidence that all her films were naturalistic; many were deliberately stylised, comic, fantastic, or theatrical. It is better understood as a practical direction to actors working in a new medium.`,
+        zh: `居伊工作的时期，电影技术正通过实践不断被发明。她使用搭景、外景拍摄、近距离构图、倒放、手工上色、双重曝光及其他早期特效。在高蒙时期，她还参与为 Chronophone 系统制作影片；这一设备试图让录制的声音与放映画面同步。
+
+仅仅因为这些作品篇幅短、技术形式陌生，就把它们称为“原始电影”，会遮蔽其历史意义。当时的电影人正在测试如何在银幕上组织运动、表演、节奏、空间、声音与幻觉，而这些方法尚未成为惯例。
+
+居伊制片厂中的指示语 “自然表演” 后来与她紧密联系在一起。它表达了她希望银幕表演不要完全照搬某些过度夸张的舞台传统。但这并不意味着她的所有电影都属于自然主义风格；许多作品本来就具有高度风格化、喜剧性、幻想性或戏剧性。更准确地说，这是一条面向新媒介演员的实用指导。`
+      },
+      {
+        title: "Gender as Comic Structure",
+        titleZh: "性别作为喜剧结构",
+        en: `Guy’s surviving films show that she was interested in the organisation of gendered behaviour, although her work should not be reduced to a single consistent feminist position.
+
+In Les Résultats du féminisme—usually translated as The Consequences of Feminism—from 1906, conventional gender roles are reversed. Men sew, care for children, and are subjected to unwanted attention, while women occupy cafés, smoke, and behave aggressively in public. The comedy makes familiar behaviour appear strange by assigning it to a different gender.
+
+The film does not provide a simple political programme. Its ending and comic exaggeration can support different interpretations. Some viewers read it as mocking feminism; others see its reversal as exposing how arbitrary gender expectations are. The most responsible approach is to preserve this ambiguity rather than presenting the film as straightforward feminist propaganda.
+
+Its importance lies partly in demonstrating that questions about domestic labour, public freedom, sexual pursuit, and masculine authority were already available to cinema as subjects during the medium’s first decade.`,
+        zh: `居伊的现存影片显示，她经常关注性别行为如何被组织，但不能因此把她的全部创作简化为一种始终一致的女性主义立场。
+
+在1906年的《女性主义的后果》中，传统性别角色被颠倒：男性缝纫、照看孩子并遭受不受欢迎的注视，女性则占据咖啡馆、吸烟，并在公共场合表现得具有攻击性。影片通过改变行为所属的性别，使原本被视为自然的社会规范显得陌生。
+
+这部影片并没有提出简单明确的政治纲领。它的结尾与喜剧性夸张可以支持不同解释：有些观众认为它嘲讽女性主义，另一些观众则认为，性别倒置揭示了社会规范的任意性。比起把它直接称作女性主义宣传，更负责任的做法是保留这种歧义。
+
+它的重要性之一，在于证明电影诞生的第一个十年里，家务劳动、公共自由、性追求与男性权威已经可以成为银幕讨论的对象。`
+      },
+      {
+        title: "From France to the United States",
+        titleZh: "从法国到美国",
+        en: `Guy married Herbert Blaché in 1907. The couple moved to the United States, where he worked on Gaumont’s efforts to market synchronised-sound technology. In 1910, Alice Guy-Blaché founded the Solax Company with Herbert Blaché and George A. Magie. Solax first operated in Flushing, New York, and later moved into a larger purpose-built studio in Fort Lee, New Jersey.
+
+It is common to call Solax the first film studio owned by a woman. A more precise statement is that Guy-Blaché was one of the earliest women to found, lead, and exercise substantial creative control over a motion-picture production company. The company’s ownership and management involved partners, but contemporary reports clearly identified her as its president and central creative authority.
+
+Fort Lee was then a major centre of American filmmaking, before production shifted decisively toward Hollywood. Solax released films at a rapid pace, and Guy-Blaché directed, supervised production, reviewed scripts, managed performers, and participated in the company’s commercial decisions.`,
+        zh: `1907年，居伊与赫伯特·布拉谢结婚。两人迁往美国，赫伯特参与高蒙同步录音技术的市场推广。1910年，爱丽丝·居伊-布拉谢与赫伯特·布拉谢、乔治·A·马吉共同创立索拉克斯公司。公司最初在纽约法拉盛运营，后来迁入新泽西州李堡一座规模更大的专用制片厂。
+
+索拉克斯常被称为“第一家由女性拥有的电影制片厂”。更准确的说法是，居伊-布拉谢是最早创立、领导并对电影制作公司拥有实质性创作控制权的女性之一。公司所有权与管理涉及多位合伙人，但当时的报道明确把她称为公司总裁和核心创作负责人。
+
+在电影制作重心明确转向好莱坞之前，李堡是美国电影业的重要中心。索拉克斯以很快的速度发行影片，而居伊-布拉谢承担导演、制作监督、剧本审核、演员管理与商业决策等多项工作。`
+      },
+      {
+        title: "A Woman Running a Film Business",
+        titleZh: "经营电影企业的女性",
+        en: `In a 1912 newspaper interview, Guy-Blaché argued that business was no longer exclusively a male sphere. Contemporary reporting presented her as an unusual case: a woman directing performers, managing production, and running a motion-picture company.
+
+Her historical importance is not adequately described by saying that she “proved women could direct.” She had already directed for years. The more significant fact is that she exercised authority across multiple levels of production at a moment when the structure of the film industry was still being built.
+
+She selected stories, worked with actors, oversaw technical processes, organised labour, managed schedules, and made commercial decisions. Directing was therefore not separated from the material conditions of production.`,
+        zh: `在1912年的一篇报纸采访中，居伊-布拉谢指出，商业不再是男性专属的领域。当时的报道把她视为一个罕见案例：一位女性负责指导演员、管理制作并经营电影公司。
+
+仅仅说她“证明了女性能够导演”，并不足以概括她的历史意义，因为她当时已经执导多年。更重要的是，在电影工业结构仍在形成时，她在制作的多个层级上实际行使了权力。
+
+她选择故事、与演员合作、监督技术流程、组织劳动、管理进度并作出商业决策。她的导演工作并没有与生产的物质条件分开。`
+      },
+      {
+        title: "A Fool and His Money",
+        titleZh: "《傻瓜和他的钱》",
+        en: `In 1912, Solax produced A Fool and His Money, generally recognised as one of the earliest surviving American narrative films with an all-Black cast. Library of Congress sources describe Guy-Blaché as its producer and probably its director; because early credits are incomplete, the attribution should not be stated more confidently than the surviving evidence allows.
+
+The film’s existence is historically significant because mainstream American cinema usually marginalised Black performers or relied on white actors in blackface. Nevertheless, the use of an all-Black cast does not by itself make the film free from racial stereotypes. Historical importance and political limitation must be considered together.
+
+This distinction is essential when evaluating early pioneers. Innovation in representation may coexist with the assumptions of the period in which a film was made.`,
+        zh: `1912年，索拉克斯制作了《傻瓜和他的钱》，通常被认为是现存最早采用全黑人演员阵容的美国叙事电影之一。美国国会图书馆的资料把居伊-布拉谢称为该片制片人，并认为她很可能同时担任导演；由于早期署名记录不完整，不宜超出证据确定程度作出更肯定的归属判断。
+
+这部影片的存在具有历史意义，因为当时美国主流电影通常边缘化黑人表演者，或者由白人演员使用黑脸妆扮演黑人。但采用全黑人演员阵容，并不自动意味着影片摆脱了种族刻板印象。历史开创性与政治局限需要同时考察。
+
+评价早期电影先驱时，这种区分十分重要。再现方式上的创新，完全可能与作品所属时代的偏见同时存在。`
+      },
+      {
+        title: "Domestic Violence and Citizenship",
+        titleZh: "家庭暴力与公民身份",
+        en: `The Making of an American Citizen from 1912 follows an immigrant couple and addresses marital violence. The film associates the husband’s transformation into an American citizen with his gradual abandonment of violence against his wife. Library of Congress accounts identify the film as evidence of Guy-Blaché’s willingness to address immigration and spousal abuse.
+
+The film should not be interpreted as a complete feminist analysis of domestic violence. Its account of assimilation relies on the idea that American social institutions can reform an immigrant man, which risks placing violence outside American culture rather than recognising it as a broader structural problem.
+
+Even so, the film made a husband’s violence toward his wife a visible social issue rather than treating it only as a private family matter.`,
+        zh: `1912年的《一个美国公民的形成》以一对移民夫妻为中心，涉及婚姻暴力。影片把丈夫成为“美国公民”的过程，与他逐渐停止伤害妻子的变化联系起来。美国国会图书馆的资料将这部作品视为居伊-布拉谢处理移民与配偶虐待议题的例证。
+
+但这部影片不能被视为对家庭暴力的完整女性主义分析。它把同化过程描述为美国社会制度能够改造一个移民男性，这可能把暴力问题推给“外来文化”，而不是把它理解为更广泛的结构问题。
+
+尽管如此，影片仍把丈夫对妻子的暴力呈现为一个可被公开观看的社会问题，而不只是家庭内部的私人事件。`
+      },
+      {
+        title: "Falling Leaves",
+        titleZh: "《落叶》",
+        en: `Falling Leaves from 1912 is one of Guy-Blaché’s best-known surviving films. It tells the story of a young girl who hears that her sister, suffering from tuberculosis, will die when the last leaf falls. The child ties leaves back onto the branches in an attempt to prevent death. BFI describes the film as a delicate drama built around this central visual idea.
+
+The film is useful for understanding her direction because its emotional force does not depend on complex dialogue or spectacle. It is organised through the child’s literal interpretation of adult speech, the arrangement of space, and the viewer’s knowledge that her action cannot control the illness.
+
+It also challenges the tendency to describe Guy-Blaché only through technological novelty or institutional “firsts.” Her work included close observation of emotion, domestic relationships, and visual storytelling.`,
+        zh: `1912年的《落叶》是居伊-布拉谢最著名的现存作品之一。故事中的小女孩听说患肺结核的姐姐会在最后一片叶子落下时死去，于是把落叶重新绑回树枝，试图阻止死亡。英国电影协会把它描述为一部围绕这一核心视觉意象展开的细腻情节剧。
+
+这部影片有助于理解她的导演方法，因为其情感力量并不依赖复杂对白或宏大奇观，而是通过儿童对成人语言的字面理解、空间安排，以及观众对她无法真正控制疾病这一事实的认识建立起来。
+
+它也挑战了那种只通过技术创新或制度性“第一”来描述居伊-布拉谢的倾向。她的作品同样包含对情感、家庭关系与视觉叙事的细致处理。`
+      },
+      {
+        title: "Matrimony’s Speed Limit",
+        titleZh: "《婚姻的速度限制》",
+        en: `Matrimony’s Speed Limit from 1913 was selected for the United States National Film Registry in 2003. The Library of Congress describes it as an ironic comedy in which a man must marry by a deadline to secure money, while the woman he loves helps arrange the outcome.
+
+The film rearranges the familiar courtship plot by giving the woman greater knowledge and strategic control than the man. Its comedy depends on misunderstandings, timing, movement, and the circulation of information.
+
+The National Film Registry designation is important not because it proves the film is representative of all her work, but because it recognises one surviving example as culturally, historically, or aesthetically significant.`,
+        zh: `1913年的《婚姻的速度限制》于2003年入选美国国家电影登记册。美国国会图书馆将其描述为一部讽刺喜剧：男主人公必须在规定时间前结婚才能获得金钱，而爱他的女性则参与安排结果。
+
+影片重新组织了传统求爱故事，让女性比男性掌握更多信息与策略控制权。其喜剧效果建立在误解、时间限制、人物行动与信息流通之上。
+
+国家电影登记册的认定并不意味着这部作品可以代表她的全部创作，而是确认这一现存案例具有文化、历史或审美意义。`
+      },
+      {
+        title: "A Career Without a Secure Ending",
+        titleZh: "没有稳定结局的职业生涯",
+        en: `By the later 1910s, Guy-Blaché’s professional situation became increasingly difficult. Solax faced financial problems, production in the United States was shifting toward California, and her marriage deteriorated. The Fort Lee studio was rented to other companies and eventually sold. Her last directing credit is generally identified as Tarnished Reputations from 1920. She returned to France with her children in 1922.
+
+She attempted to find work in the French film industry but did not re-establish her directing career. The industry to which she returned was no longer the open and experimental field she had entered in the 1890s.
+
+Her departure should not be explained only through personal misfortune. It also reflects the transformation of cinema from a relatively flexible new medium into a capital-intensive industry organised through larger studios, specialised departments, and increasingly restrictive professional networks.`,
+        zh: `到1910年代后期，居伊-布拉谢的职业处境越来越困难。索拉克斯面临财务问题，美国电影生产重心逐步转向加利福尼亚，她的婚姻也开始破裂。李堡制片厂被出租给其他公司，后来被出售。她最后一部通常被确认的导演作品是1920年的《受损的名誉》。1922年，她带着孩子返回法国。
+
+她尝试重新进入法国电影业，却未能恢复导演事业。她所面对的行业，已经不再是19世纪90年代那个边界开放、充满实验性的领域。
+
+她的退出不能只用个人不幸来解释，也反映了电影如何从一种相对灵活的新媒介，转变为由大型制片厂、专业分工与更封闭职业网络组织的资本密集型产业。`
+      },
+      {
+        title: "How a Filmography Disappears",
+        titleZh: "一份电影作品表如何消失",
+        en: `A large proportion of silent cinema is lost. Film stock was fragile and flammable, archives were incomplete, and companies often discarded films once their commercial value appeared to end. The Library of Congress estimates that most American silent feature films no longer survive in complete form.
+
+Guy-Blaché’s legacy was particularly vulnerable because authorship records were inconsistent. Some catalogue entries credited companies rather than directors. Other works were assigned to Léon Gaumont, Herbert Blaché, or male directors working under her supervision. Published histories sometimes described her incorrectly, including identifying her as an actress rather than as Gaumont’s secretary and production leader.
+
+This is why historical disappearance is not the same as simply being forgotten by accident. Archives, catalogues, institutional authority, and later scholarship determine whose labour remains attached to a name.`,
+        zh: `大量默片已经失传。早期胶片脆弱且易燃，档案保存不完整，而制片公司常在作品失去商业价值后将其丢弃。美国国会图书馆估计，大多数美国默片长片已经无法以完整形式保存至今。
+
+居伊-布拉谢的遗产尤其容易消失，因为作品署名记录并不稳定。有些目录只记录公司，而不记录导演；另一些作品则被归入莱昂·高蒙、赫伯特·布拉谢或在她监督下工作的男性导演名下。部分电影史甚至错误描述她的身份，例如把她写成演员，而不是高蒙公司的秘书与制作负责人。
+
+因此，历史消失并不只是偶然被遗忘。档案、目录、机构权威与后来的学术研究，共同决定了谁的劳动能够继续与其姓名联系在一起。`
+      },
+      {
+        title: "The Myth of a Male Beginning",
+        titleZh: "男性起源神话",
+        en: `Conventional accounts of early cinema have often been organised around a limited group of male inventors and directors: the Lumière brothers, Georges Méliès, Edwin S. Porter, D. W. Griffith, and others.
+
+Their importance is real, but the structure of the story can imply that cinema developed through male invention while women entered only later as actresses or exceptional outsiders.
+
+Research projects such as Columbia University’s Women Film Pioneers Project have documented that women in silent cinema worked as directors, screenwriters, producers, editors, camera operators, exhibitors, distributors, and company founders. Alice Guy-Blaché is therefore not an isolated anomaly. She is one of the clearest examples of a much broader history that was subsequently narrowed.
+
+Recovering her does not mean replacing a history of “great men” with a history of one “great woman.” It means examining why authorship, business authority, technological experimentation, and institutional memory were distributed and recorded differently according to gender.`,
+        zh: `传统早期电影史经常围绕少数男性发明者与导演组织，例如卢米埃尔兄弟、乔治·梅里爱、埃德温·S·波特与D. W. 格里菲斯。
+
+这些人物的重要性是真实的，但这种叙事结构容易制造一种印象：电影通过男性发明而发展，女性则只是后来以演员或少数例外的身份进入。
+
+哥伦比亚大学的“女性电影先驱计划”等研究已经证明，默片时代的女性担任过导演、编剧、制片人、剪辑师、摄影师、放映商、发行人和公司创办者。因此，爱丽丝·居伊-布拉谢并不是一个孤立的异常案例，而是后来被压缩和删减的更广泛历史中最清晰的例子之一。
+
+重新发现她，并不意味着用一个“伟大女性”取代“伟大男性”的历史，而是要分析：作者身份、商业权力、技术实验与制度记忆为什么会根据性别得到不同的分配与记录。`
+      },
+      {
+        title: "Recognition Arrived Late",
+        titleZh: "迟到的认可",
+        en: `Guy-Blaché spent years attempting to correct the historical record and locate copies of her films. Much of the broad public recognition of her work came after her death in 1968, through archival research, retrospectives, preservation projects, biographies, and documentaries.
+
+The Women’s Film Preservation Fund and institutions including the Library of Congress, the Whitney Museum, BFI, Gaumont, and Columbia University have contributed to preserving, screening, researching, or reattributing surviving work.
+
+This recovery remains incomplete. Many films are still missing, some attributions remain uncertain, and numerical claims about her output continue to vary across sources.`,
+        zh: `居伊-布拉谢曾多年尝试修正历史记录并寻找自己的电影拷贝。她于1968年去世后，随着档案研究、回顾展、修复项目、传记与纪录片的发展，她的工作才逐渐得到更广泛的公共承认。
+
+女性电影保护基金，以及美国国会图书馆、惠特尼美术馆、英国电影协会、高蒙与哥伦比亚大学等机构，均参与了现存作品的保存、放映、研究或重新归属。
+
+这种恢复工作仍未完成。许多影片依然失传，一些作者归属仍不确定，不同资料对她作品数量的估算也继续存在差异。`
+      },
+      {
+        title: "What This History Opens",
+        titleZh: "这段历史打开了什么",
+        en: `Alice Guy-Blaché’s career opens a wider view of early cinema as a field shaped by invention, labour, authorship, business, and institutional memory. She worked across nearly every major dimension of the medium: fiction production at Gaumont, sound and visual effects, company founding and management, actor direction, genre filmmaking, and the industrial structure of cinema in France and the United States.
+
+Her career also asks us to see representation behind the camera together with ownership and institutional authority. She did not merely receive permission to make one exceptional film. For a substantial period, she controlled resources, production schedules, studio space, and access to the screen.
+
+Finally, her historical disappearance demonstrates that making work and being remembered for making it are two different processes.`,
+        zh: `爱丽丝·居伊-布拉谢的职业生涯打开了一种更宽阔的早期电影视野：电影并不只是技术发明，也由劳动、作者身份、商业结构与制度记忆共同塑造。她参与了这一媒介几乎所有重要层面：推动高蒙的虚构电影制作，实验声音与视觉特效，创立并管理制作公司，指导演员，拍摄多种类型的影片，并参与建设法国与美国电影业的产业结构。
+
+她的事业也让我们把镜头之后的女性代表性与所有权、制度权力放在一起理解。她并不只是获得一次拍摄例外作品的许可，而是在相当长的一段时间里控制资源、制作进度、制片空间与银幕准入。
+
+最后，她在历史中的消失说明，完成创作与被历史承认为创作者，是两个不同的过程。`
+      }
+    ],
+    quotesTitle: "Quotation",
+    quotesTitleZh: "引文",
+    quote: "There is nothing connected with the staging of a motion picture that a woman cannot do as easily as a man.",
+    quoteSource: "Alice Guy-Blaché, 1914",
+    quoteReadingEn: "Guy-Blaché’s sentence is not only a claim about individual talent. It challenges the gendered organisation of a new industry: who is allowed to direct, manage, invent, stage, and be remembered as an author of cinema.",
+    quoteReadingZh: "居伊-布拉谢的这句话并不只是关于个人才能的宣言。它挑战的是一个新兴行业的性别化组织：谁被允许导演、管理、发明、调度，并被记为电影的作者。",
+    relatedWorks: [
+      "La Fée aux choux｜《甘蓝仙子》，1896",
+      "Les Résultats du féminisme｜《女性主义的后果》，1906",
+      "Falling Leaves｜《落叶》，1912",
+      "A Fool and His Money｜《傻瓜和他的钱》，1912",
+      "The Making of an American Citizen｜《一个美国公民的形成》，1912",
+      "Matrimony’s Speed Limit｜《婚姻的速度限制》，1913",
+      "The Ocean Waif｜《海洋弃儿》，1916"
+    ],
+    tags: [
+      "Alice Guy-Blaché",
+      "early cinema",
+      "women directors",
+      "film authorship",
+      "Solax",
+      "Gaumont",
+      "silent film",
+      "film preservation",
+      "archival erasure",
+      "women and institutions"
+    ],
+    tagsZh: [
+      "爱丽丝·居伊-布拉谢",
+      "早期电影",
+      "女性导演",
+      "电影作者身份",
+      "索拉克斯",
+      "高蒙",
+      "默片",
+      "电影保存",
+      "档案抹除",
+      "女性与制度"
+    ],
+    sourceText: "Be Natural: The Untold Story of Alice Guy-Blaché",
+    status: "published"
+  },
+  {
+    id: "2026-08-06-jeanette-winterson-oranges",
+    date: "2026-08-06",
+    type: "novel",
+    title: "Oranges Are Not the Only Fruit",
+    titleZh: "《橘子不是唯一的水果》",
+    years: "b. 1959",
+    role: "Novel / Queer Literature / Biblical Rewriting｜小说 / 酷儿文学 /《圣经》重写",
+    creator: "Jeanette Winterson",
+    creatorZh: "珍妮特·温特森",
+    focusTitle: "Who Decides What Counts as the Only Truth?",
+    focusTitleZh: "是谁决定，世界只有一种真理？",
+    summaryEn: `Jeanette is adopted by a devout Pentecostal mother who believes her daughter has been chosen for missionary work. The child learns to interpret life through sermons, biblical stories, hymns, spiritual warfare, and the absolute division between the saved and the unsaved.
+
+This system gives Jeanette a language, a community, and a public voice. The conflict begins when she falls in love with another young woman. Her church declares that love incompatible with faith and interprets it as evidence of demonic influence.
+
+The novel does not simply oppose religion with freedom. Jeanette begins to distinguish faith from the people who claim exclusive authority to interpret it. The question is not whether stories shape our lives, but whether one institution has the right to control every story's meaning.`,
+    summaryZh: `珍妮特被一位虔诚的五旬节派母亲收养。母亲相信这个女儿是上帝赐予她的礼物，并计划把她培养成传教士。这个女孩通过布道、《圣经》故事、赞美诗与属灵争战理解世界，也接受了一套泾渭分明的分类：得救与未得救、朋友与敌人、神圣与邪恶。
+
+这套信仰体系给予珍妮特语言、共同体与公开发言的机会。冲突发生在她爱上另一个年轻女人之后。教会认定这种爱情与信仰不能共存，并把它解释成邪灵作祟的证据。
+
+小说并没有简单地把宗教与自由写成对立面。珍妮特逐渐区分信仰本身与那些声称垄断解释权的人。小说真正追问的不是故事是否塑造人生，而是某个机构是否有权决定所有故事只能具有一种意义。`,
+    highlightEn: "Oranges are not the only fruit.",
+    highlightZh: "橘子不是唯一的水果。",
+    introEn: `Oranges Are Not the Only Fruit was first published by Pandora Press in 1985 and received the Whitbread First Novel Award. It later became one of the best-known works in modern British queer literature. Winterson adapted it for a BBC television serial broadcast in 1990, which received a BAFTA award for best drama.
+
+The novel draws substantially on Winterson's childhood as an adopted daughter in an evangelical household in Accrington. Yet it should not be read as a transparent transcript of her life. Winterson mixes remembered experience with myth, comedy, fairy tale, biblical structure, fantasy, and deliberate invention. Academic criticism has therefore treated the book not only as autobiographical fiction but also as a literary account of how identity is produced through storytelling.
+
+The narrator shares the author's first name, but “Jeanette” is also a literary construction. This distinction matters because the novel repeatedly argues that facts do not explain themselves. Whoever arranges the facts also shapes their meaning.`,
+    introZh: `《橘子不是唯一的水果》由 Pandora Press 于1985年首次出版，并获得惠特布莱德首部小说奖。它后来成为英国当代酷儿文学中最具代表性的作品之一。温特森亲自把小说改编成1990年播出的BBC电视剧，该剧获得英国电影和电视艺术学院的最佳剧情类奖。
+
+小说大量取材于温特森作为养女在英格兰阿克灵顿一个福音派家庭中的成长经历，但它并不是对作者人生的透明记录。温特森把记忆与神话、喜剧、童话、《圣经》结构、幻想和有意虚构结合起来。因此，学术研究不仅把它视为自传性小说，也把它理解为一部讨论身份如何通过叙事形成的作品。
+
+叙述者与作者同名，但小说中的“珍妮特”同样是一个文学建构。这个区别很重要，因为小说反复表明，事实不会自动解释自身。谁组织事实，谁就会影响事实的意义。`,
+    articleSections: [
+      {
+        title: "Genesis: A Child Chosen for a Story",
+        titleZh: "《创世记》：一个被选入故事的孩子",
+        en: `The novel begins with Jeanette's mother, whose world is organised through sharp oppositions. People are either friends or enemies. Activities belong either to God or to the Devil. Her map of reality leaves little room for ambiguity.
+
+She adopts Jeanette because she wants to raise a child for missionary work. Adoption is therefore presented not simply as the beginning of a family relationship, but as the beginning of a predetermined narrative. Before Jeanette can describe herself, her mother has already assigned her a role.
+
+The child initially embraces that role. She listens to sermons, accompanies her mother in religious work, and learns to understand ordinary events as evidence of a cosmic conflict. Her early faith is not portrayed as false or superficial. It gives her purpose and an unusually powerful relationship with language.
+
+The problem begins when the story assigned to her can no longer contain her actual experience.`,
+        zh: `小说从珍妮特的母亲写起。母亲通过明确的二元对立组织世界：人不是朋友就是敌人，事情不是属于上帝就是属于魔鬼。她的现实地图几乎没有为模糊地带留下位置。
+
+她收养珍妮特，是因为希望培养一个传教士。因此，收养不仅意味着家庭关系的开始，也意味着一套预定叙事的开始。在珍妮特能够描述自己之前，母亲已经为她分配了角色。
+
+珍妮特最初接受了这个角色。她聆听布道，陪伴母亲从事教会活动，并学会把日常事件理解为宇宙性斗争的证据。小说并未把她早期的信仰写成虚假或肤浅的东西。信仰给予她目标，也让她与语言建立了异常强烈的关系。
+
+问题出现在母亲替她安排的故事无法继续容纳她的真实经验之时。`
+      },
+      {
+        title: "The Bible as Structure",
+        titleZh: "以《圣经》组织小说",
+        en: `The novel's eight principal sections are named after the first eight books of the Old Testament: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, and Ruth. The titles establish biblical history as the formal framework for Jeanette's development.
+
+Winterson does not simply quote or reject the Bible. She enters its structure and rewrites it. “Genesis” becomes the story of Jeanette's adoption and religious formation. “Exodus” concerns movement away from the enclosed world of childhood. “Leviticus” brings rules, prohibition, and judgment into view. “Ruth,” a biblical book associated with female loyalty and chosen kinship, becomes an especially significant title for the novel's concluding movement.
+
+This structure demonstrates one of the novel's central claims: inherited language does not belong exclusively to the institution that first taught it. Jeanette can continue using biblical stories without accepting the church's monopoly over their interpretation.`,
+        zh: `小说的八个主要章节分别以《旧约》最初八卷书命名：《创世记》《出埃及记》《利未记》《民数记》《申命记》《约书亚记》《士师记》与《路得记》。这些标题使《圣经》历史成为组织珍妮特成长过程的形式框架。
+
+温特森并不是简单引用或拒绝《圣经》。她进入《圣经》的结构，并从内部改写它。“创世记”成为珍妮特被收养及接受宗教教育的故事；“出埃及记”涉及她逐渐离开童年封闭世界的过程；“利未记”凸显规则、禁令与审判；而与女性忠诚和选择性亲属关系密切相关的“路得记”，则成为小说结尾尤其重要的标题。
+
+这种结构体现了小说的核心主张之一：继承而来的语言并不专属于最早教授它的机构。珍妮特仍然可以使用《圣经》故事，而不必接受教会对其解释权的垄断。`
+      },
+      {
+        title: "Faith Is Not the Same as Obedience",
+        titleZh: "信仰并不等于服从",
+        en: `Jeanette's conflict is often described as a conflict between homosexuality and religion. That description is accurate but incomplete.
+
+She does not immediately abandon belief when the church rejects her. She continues to understand experience through religious language and remains capable of spiritual commitment. The institution insists that she must choose between loving God and loving a woman, but Jeanette refuses the premise that the two are necessarily incompatible.
+
+The church treats contradiction as proof of error. Jeanette gradually learns that contradiction may instead reveal the inadequacy of the available categories.`,
+        zh: `珍妮特的冲突经常被概括为同性恋与宗教之间的冲突。这个描述并非错误，却不够完整。
+
+当教会拒绝她时，她并没有立即放弃信仰。她仍然通过宗教语言理解经验，也依然具有真实的灵性投入。教会坚持认为她必须在爱上帝与爱一个女人之间作出选择，而珍妮特拒绝接受这两者必然冲突的前提。
+
+教会把矛盾视为错误的证明，珍妮特却逐渐认识到，矛盾也可能表明现有分类本身并不足够。`
+      },
+      {
+        title: "Women as Religious Authorities",
+        titleZh: "作为宗教权威的女性",
+        en: `The church community gives women forms of public responsibility rarely available to them elsewhere. Women preach, organise missions, visit the sick, interpret spiritual experience, and sustain communal life.
+
+Jeanette's mother is not represented merely as a passive victim of patriarchal religion. She exercises substantial authority inside the home and the church. She is forceful, articulate, industrious, and capable of organising other people's lives.
+
+Yet this authority remains conditional. Women may speak for God, but they must not challenge the institution's sexual and gender hierarchy. Jeanette's preaching is welcomed until her sexuality becomes public. At that point, church leaders explain her confidence and influence as symptoms of inappropriate male qualities or demonic possession.
+
+The novel therefore exposes a contradiction within the community: it depends heavily on women's religious labour while refusing women full authority over their bodies and interpretations.`,
+        zh: `教会共同体给予女性一些在其他社会空间中不易获得的公共责任。女性可以讲道、组织传教活动、探望病人、解释属灵经验，并维持共同体生活。
+
+珍妮特的母亲并不只是父权宗教的被动受害者。她在家庭和教会中都拥有相当大的权威。她强势、善于表达、勤奋，也能够组织他人的生活。
+
+然而，这种权威附带条件。女性可以代表上帝发言，却不能挑战宗教机构的性与性别等级。珍妮特的讲道曾受到欢迎，直到她的性倾向公开。此后，教会领袖开始把她的自信与影响力解释成“不恰当的男性特质”或邪灵附体。
+
+小说由此揭示共同体内部的一项矛盾：教会高度依赖女性的宗教劳动，却拒绝给予女性对自身身体和解释的完整权威。`
+      },
+      {
+        title: "Lesbian Desire and the Language of Sin",
+        titleZh: "女同性恋欲望与罪的语言",
+        en: `Jeanette first experiences her love for Melanie as an extension of intimacy, affection, and shared religious life. The church gives that relationship a different name. It classifies the women's desire as unnatural, sinful, and spiritually dangerous.
+
+Once the relationship is named as sin, the institution can claim authority over Jeanette's body. Church members subject her to public examination, prayer, fasting, confinement, and an attempted exorcism. The purpose is not simply to prohibit an act. It is to replace Jeanette's interpretation of her own feelings with the church's interpretation.
+
+The conflict is therefore linguistic as well as bodily. Jeanette knows her experience as love. The church insists that its correct name is corruption.`,
+        zh: `珍妮特最初把自己对梅兰妮的爱理解为亲密、情感与共同信仰生活的延伸。教会却为这段关系赋予了另一个名字，把两位女性的欲望归类为反自然、罪恶且具有属灵危险的事物。
+
+当这段关系被命名为罪，宗教机构便开始宣称对珍妮特身体拥有权力。教会成员对她进行公开审问、祈祷、禁食、隔离与驱魔。其目的不只是禁止某种行为，而是以教会的解释取代珍妮特对自身感受的理解。
+
+因此，这既是一场身体冲突，也是一场语言冲突。珍妮特把自己的经验理解为爱，而教会坚持它的正确名称是堕落。`
+      },
+      {
+        title: "The Demon as a Private Voice",
+        titleZh: "作为私人声音的恶魔",
+        en: `During the exorcism, Jeanette encounters a small orange demon. Unlike the church's terrifying account of demonic possession, this figure is conversational, practical, and oddly companionable.
+
+The demon can be read as a part of Jeanette that the church requires her to expel: her doubt, sexuality, imagination, or capacity to interpret experience independently. It does not tell her what to do. Its presence suggests that the elements condemned by official doctrine may carry knowledge rather than evil.
+
+Winterson does not replace one doctrinal certainty with another. The demon remains ambiguous. That ambiguity itself is important because it gives Jeanette an experience that cannot be fully controlled by the church's categories.`,
+        zh: `在驱魔过程中，珍妮特遇见了一个小小的橙色恶魔。它不同于教会关于邪灵附体的恐怖描述，反而能够与她交谈，态度实际，甚至带有某种陪伴意味。
+
+这个恶魔可以被理解为教会要求珍妮特排除的自我部分：她的怀疑、性欲、想象力，或者独立解释经验的能力。它没有替她作出决定。它的存在暗示，被官方教义谴责的部分可能携带知识，而不只是邪恶。
+
+温特森没有用另一套教条式确定性取代旧确定性。恶魔始终具有歧义，而这种歧义本身十分重要，因为它给予珍妮特一种无法被教会分类完全控制的经验。`
+      },
+      {
+        title: "Oranges and the Logic of the Only Choice",
+        titleZh: "橘子与“唯一选择”的逻辑",
+        en: `Jeanette's mother repeatedly offers oranges in situations that call for care, food, consolation, or decision. The orange becomes associated with a restricted economy of response: whatever the problem, the answer remains the same.
+
+The title challenges this logic. Saying that oranges are not the only fruit does not mean oranges are bad. It means that one familiar and approved option should not be mistaken for the full range of what exists.
+
+The metaphor applies to sexuality, family, religion, storytelling, and adulthood. Heterosexuality is not the only form of desire. The biological or adoptive nuclear family is not the only form of belonging. Institutional doctrine is not the only form of faith. Realism is not the only way to tell the truth.`,
+        zh: `珍妮特的母亲不断在需要照顾、食物、安慰或决定的时刻提供橘子。橘子由此与一种受限的回应机制联系起来：无论问题是什么，答案始终相同。
+
+书名挑战的正是这种逻辑。“橘子不是唯一的水果”并不意味着橘子本身有问题，而是指出：一个熟悉且得到认可的选项，不应被误认成世界上全部可能性的总和。
+
+这个隐喻同时适用于性、家庭、宗教、叙事和成年生活。异性恋不是欲望的唯一形式；由血缘或收养关系构成的核心家庭不是归属的唯一形式；制度教义不是信仰的唯一形式；现实主义也不是讲述真实的唯一方式。`
+      },
+      {
+        title: "Fairy Tales as Counter-Narratives",
+        titleZh: "童话作为反叙事",
+        en: `The novel frequently interrupts Jeanette's apparent autobiography with fairy tales, legends, Arthurian material, dream episodes, and invented histories. These sections are not decorative departures from the “real” story. They provide alternative structures for understanding it.
+
+The church claims that truth is singular, stable, and already recorded. The fairy tales show that a story can change according to who tells it, where it begins, and which ending is selected.
+
+Jeanette's mother also tells stories, but she edits them to support her worldview. Most notably, she alters Jane Eyre when recounting it to her daughter, replacing Jane's return to Rochester with marriage to the missionary St John Rivers. Jeanette later discovers that the published novel has a different ending.
+
+This discovery teaches her that authority may disguise revision as truth. It also shows why access to books matters: reading another version makes it possible to recognise that the supposedly inevitable ending was chosen by someone.`,
+        zh: `小说频繁以童话、传说、亚瑟王材料、梦境与虚构历史打断珍妮特看似自传性的叙述。这些部分并不是偏离“真实故事”的装饰，而是为理解现实提供替代结构。
+
+教会宣称真理是单一的、稳定的，并且早已被记录。童话却显示，一个故事会随着讲述者、起点和所选结局而发生变化。
+
+母亲同样会讲故事，却会修改故事以支持自己的世界观。最明显的例子是，她向女儿讲述《简·爱》时改变了结局，让简·爱与传教士圣约翰·里弗斯结婚，而不是回到罗切斯特身边。珍妮特后来才发现，正式出版的小说拥有完全不同的结尾。
+
+这一发现使她认识到，权威可能把修改伪装成真理。它也显示了接触书籍为何重要：只有读到另一个版本，一个人才可能意识到，那些看似必然的结局，其实是由某个人选择的。`
+      },
+      {
+        title: "Deuteronomy and the Problem of History",
+        titleZh: "《申命记》与历史的问题",
+        en: `The “Deuteronomy” section temporarily suspends the main plot and reflects directly on history, memory, and storytelling. It questions the belief that historical narratives provide neutral access to past events.
+
+Every history requires selection. Events must be ordered, connected, and given emphasis. The resulting narrative may be supported by facts, but it is never identical with the complete past.
+
+This section provides a method for reading the whole novel. Oranges contains autobiographical material, but it openly rejects the idea that autobiography is a simple recovery of facts. To write a life is to arrange it, and arrangement is already interpretation.`,
+        zh: `“申命记”一章暂时中断主要情节，直接讨论历史、记忆与叙事。它质疑历史叙述能够中立呈现过去事件的信念。
+
+任何历史都需要选择。事件必须被排序、建立联系并被赋予重点。由此产生的叙述可以得到事实支持，却永远不等同于完整的过去。
+
+这一章也提供了阅读整部小说的方法。《橘子不是唯一的水果》包含自传材料，却公开拒绝“自传只是恢复事实”的观念。书写人生意味着组织人生，而组织本身已经构成解释。`
+      },
+      {
+        title: "Leaving the Church Without Leaving Language",
+        titleZh: "离开教会，却没有离开语言",
+        en: `After the church's rejection, Jeanette begins to support herself through paid work and eventually leaves her home community. Material independence is essential because the authority of family and religion is reinforced by economic dependence.
+
+Her departure does not produce an immediate, complete liberation. She loses community, familiarity, recognition, and the certainty of a shared worldview. Freedom involves material difficulty and emotional grief as well as possibility.
+
+She does not abandon biblical language, storytelling, or spiritual intensity. These become part of her writing. What changes is her relationship to authority: she no longer accepts that the people who first gave her language possess permanent control over its meaning.`,
+        zh: `遭到教会排斥后，珍妮特开始通过有薪劳动养活自己，并最终离开家乡共同体。物质独立至关重要，因为家庭与宗教权威都受到经济依赖的强化。
+
+她的离开并没有带来立即而彻底的解放。她失去了共同体、熟悉感、认可，以及共享世界观所提供的确定性。自由既意味着可能性，也伴随物质困难与情感哀伤。
+
+她没有抛弃《圣经》语言、叙事或强烈的灵性经验。这些反而成为她写作的一部分。真正改变的是她与权威的关系：她不再认为，最初给予她语言的人因此永久拥有决定语言意义的权力。`
+      },
+      {
+        title: "Returning Home",
+        titleZh: "返回故乡",
+        en: `Near the end of the novel, Jeanette returns to her mother's house. The return complicates any simple narrative of escape.
+
+Her mother has not undergone a complete transformation, and Jeanette does not regain her former place. Yet the relationship has not disappeared. Love, anger, familiarity, difference, and unresolved history continue to coexist.
+
+The novel refuses both total reconciliation and total severance. Jeanette can return without submitting to the old account of who she must be.`,
+        zh: `小说接近结尾时，珍妮特回到母亲家中。这个回归使“离开即获得解放”的简单叙事变得复杂。
+
+母亲并未发生彻底转变，珍妮特也没有重新获得从前的位置。但母女关系并没有消失。爱、愤怒、熟悉感、差异与未解决的历史继续共存。
+
+小说既拒绝彻底和解，也拒绝彻底切断。珍妮特可以返回，却不必重新服从那套规定她必须成为什么人的旧叙事。`
+      },
+      {
+        title: "Ruth and Chosen Loyalty",
+        titleZh: "《路得记》与主动选择的忠诚",
+        en: `The final chapter's title, “Ruth,” recalls a biblical story centred on women, migration, loyalty, and the creation of kinship beyond biological necessity.
+
+This does not mean that Jeanette's ending reproduces the biblical story directly. The allusion offers a framework through which loyalty can be understood as chosen rather than imposed.
+
+The chapter also draws attention to relationships between women. Jeanette's development is shaped by her mother, women in the church, Melanie, Katy, and the stories of female figures she reads and rewrites. The novel is therefore not only about leaving a restrictive mother. It is also about finding ways to inherit women's language without reproducing every restriction attached to it.`,
+        zh: `最后一章以“路得记”为题，使人想到一则围绕女性、迁移、忠诚与超越血缘必然性的亲属关系展开的《圣经》故事。
+
+这并不意味着珍妮特的结局直接复制《路得记》。这一互文提供了一种理解忠诚的新框架：忠诚可以来自主动选择，而不只是服从性的义务。
+
+这一章也使女性之间的关系变得突出。珍妮特的成长受到母亲、教会中的女性、梅兰妮、凯蒂，以及她所阅读和重写的女性故事影响。因此，小说不只讲述如何离开一位限制自己的母亲，也讨论如何继承女性的语言，同时不复制附着于这些语言之上的全部限制。`
+      },
+      {
+        title: "Why It Is More Than a “Coming-Out Novel”",
+        titleZh: "为什么它不只是一部“出柜小说”",
+        en: `The novel is rightly recognised as an important work of lesbian and queer literature. Its treatment of same-sex love and religious rejection was especially significant when it appeared in 1985.
+
+However, describing it only as a coming-out narrative can narrow its scope. Winterson herself has objected to treating fiction with gay characters as relevant only to gay readers, while heterosexual fiction is assumed to possess universal importance.
+
+Jeanette's sexuality is central, but the novel's broader subject is interpretive authority. It examines how a child becomes a speaking subject when family, church, history, and literary convention have already written roles for her.
+
+The question extends beyond sexuality. Who defines a faithful woman? Who decides what a family is? Who determines whether a story is history, fantasy, heresy, or truth? What happens when the available categories cannot describe a person's life?`,
+        zh: `这部小说被视为女同性恋与酷儿文学的重要作品，是完全合理的。它对同性爱情与宗教排斥的书写，在1985年出版时尤其具有意义。
+
+不过，只把它称作出柜小说会缩小其讨论范围。温特森本人曾反对一种不对称分类：包含同性恋人物的小说被认为只与同性恋读者有关，而异性恋小说却被自动赋予普遍意义。
+
+珍妮特的性倾向处于小说中心，但作品更广泛的主题是解释权。它讨论的是：当家庭、教会、历史与文学传统都已经替一个女孩写好角色时，她如何成为能够自行发言的主体。
+
+这些问题超越性身份本身：谁定义怎样的女人才算忠诚？谁决定什么是家庭？谁判断一个故事是历史、幻想、异端还是真理？当现有类别无法描述一个人的生命时，会发生什么？`
+      },
+      {
+        title: "Female Authorship and the Right to Retell",
+        titleZh: "女性作者身份与重新讲述的权利",
+        en: `Jeanette begins life inside other people's stories. Her mother interprets her adoption, future, faith, body, and sexuality before Jeanette possesses the authority to do so herself.
+
+The church also depends on narrative authority. It interprets Jeanette's love as sin and her resistance as spiritual corruption. Its power rests not only on rules, but on the capacity to make one account of events appear final.
+
+Winterson answers this authority through literary form. She gives Jeanette multiple narrative modes rather than one stable autobiographical voice. Personal memory stands beside fairy tale, biblical parody, philosophical reflection, fantasy, and comedy.
+
+Female authorship here does not mean replacing a false story with one final correct story. It means acquiring the right to revise, reinterpret, and produce additional versions.`,
+        zh: `珍妮特的人生开始于他人的故事之中。早在她具备自行解释的权力之前，母亲已经对她的收养、未来、信仰、身体与性倾向作出定义。
+
+教会同样依赖叙事权威。它把珍妮特的爱解释为罪，把她的抵抗解释为属灵堕落。它的权力不仅来自规则，也来自让某一种事件解释显得最终且不可更改的能力。
+
+温特森通过文学形式回应这种权威。她没有只给予珍妮特一种稳定的自传声音，而是让个人记忆与童话、《圣经》戏仿、哲学思考、幻想和喜剧并置。
+
+这里的女性作者身份，并不意味着用一个最终正确的故事取代虚假故事，而是取得修改、重新解释和创造更多版本的权利。`
+      },
+      {
+        title: "Storytelling as Survival",
+        titleZh: "讲故事作为生存方式",
+        en: `Jeanette survives not only by physically leaving an oppressive environment, but by developing a form capable of containing contradiction.
+
+She can love her mother and reject her mother's judgment. She can value religious experience and oppose religious authority. She can acknowledge autobiographical facts without allowing them to define the only possible meaning of her life.
+
+The novel's formal mixture is therefore politically important. A rigid narrative reproduces the logic of one permitted truth. A plural form allows the self to remain larger than any one explanation.`,
+        zh: `珍妮特的生存不只依赖身体上离开压迫性环境，也依赖发展出一种能够容纳矛盾的叙事形式。
+
+她可以爱母亲，同时拒绝母亲的判断；可以重视宗教经验，同时反对宗教权威；可以承认自传性事实，却不让这些事实垄断她人生的全部意义。
+
+因此，小说混合多种形式的做法具有政治意义。僵硬的叙事会复制“只允许一种真理”的逻辑，而复数化形式则让自我始终大于任何单一解释。`
+      }
+    ],
+    quotesTitle: "Quotation",
+    quotesTitleZh: "引文",
+    quotesAtEnd: true,
+    quoteSelections: [
+      {
+        en: "Oranges are not the only fruit.",
+        zh: "橘子不是唯一的水果。",
+        source: "Jeanette Winterson, Oranges Are Not the Only Fruit"
+      },
+      {
+        en: `“I love her.”
+“Then you do not love the Lord.”
+“Yes, I love both of them.”`,
+        zh: `“我爱她。”
+“那你就不爱主。”
+“不，我两个都爱。”`,
+        source: "Jeanette Winterson, Oranges Are Not the Only Fruit"
+      }
+    ],
+    quoteReadingEn: `The title's recurring sentence is not a simple rejection of one way of life. It refuses the naturalisation of a single option as the only option.
+
+The exchange about love shows that Jeanette's resistance begins at the level of logic. She rejects the church's exclusive choice and refuses to make her experience submit to a classification that cannot contain it.`,
+    quoteReadingZh: `这句标题性的表达不是对某一种生活方式的简单否定。它拒绝的是把单一选择自然化为唯一选择的做法。
+
+这段关于爱的对话表明，珍妮特的反抗首先发生在逻辑层面。她拒绝教会设定的排他性选择，也拒绝让自己的经验服从一个无法容纳它的分类体系。`,
+    relatedWorks: [
+      "Why Be Happy When You Could Be Normal?｜Jeanette Winterson",
+      "Written on the Body｜Jeanette Winterson",
+      "The Passion｜Jeanette Winterson"
+    ],
+    tags: [
+      "queer literature",
+      "biblical rewriting",
+      "interpretive authority",
+      "lesbian desire",
+      "faith",
+      "storytelling",
+      "chosen kinship",
+      "female authorship"
+    ],
+    tagsZh: [
+      "酷儿文学",
+      "圣经重写",
+      "解释权",
+      "女同性恋欲望",
+      "信仰",
+      "叙事",
+      "选择性亲属关系",
+      "女性作者身份"
+    ],
+    sourceText: "Oranges Are Not the Only Fruit",
+    status: "published"
   }
 ];
