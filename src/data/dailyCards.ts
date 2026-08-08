@@ -1283,6 +1283,8 @@ That evening is the limit of the world, and I’ve just happened upon it, by acc
     role: "Installation｜装置艺术",
     creator: "Chiharu Shiota",
     creatorZh: "盐田千春",
+    image: "/images/chiharu-shiota-absence-embodied-agsa.png",
+    imageCredit: "AGSA",
     focusTitle: "Can Absence Take Up Space?",
     focusTitleZh: "缺席也能占据空间吗？",
     summaryEn: "In Absence Embodied, Chiharu Shiota fills the gallery with a dense web of red wool, transforming empty space into something almost physical. Thread becomes blood, memory, distance, and human connection, while the casts of hands and feet suggest bodies that are no longer fully present.",
@@ -6469,44 +6471,19 @@ Across all four novels, Rooney's question becomes less “Can people from differ
 所以，把四部小说放在一起以后，Rooney 真正提出的问题与其说是“不同阶级的人能不能相爱”，不如说是：“当两个人拥有不同资源，而且彼此都知道这一点时，亲密关系会发生什么？”`
       },
       {
-        title: "Pierre Bourdieu and Rooney: A Clarification",
-        titleZh: "Pierre Bourdieu 与 Rooney：分析边界说明",
-        en: `The Bourdieu framework used here is an editorial interpretation rather than a claim that all Rooney scholarship uses Bourdieu directly.
-
-Bourdieu's “The Forms of Capital” provides the concepts of economic, cultural, and social capital and describes cultural capital in embodied, objectified, and institutionalised forms. Those concepts clarify patterns supported by the novels and verified Rooney scholarship.
-
-There is not sufficient evidence to claim that a scholarly consensus already interprets all four Rooney novels through Bourdieu. That stronger claim would be unsupported.`,
-        zh: `这里使用 Bourdieu，是本期日历采用的分析框架，并不意味着现有 Rooney 研究都直接使用了 Bourdieu。
-
-Bourdieu 的“The Forms of Capital”提供了经济资本、文化资本与社会资本等概念，也区分了文化资本的身体化、客体化和制度化形态。本文借助这些概念整理小说文本和已经核实的 Rooney 研究所支持的现象。
-
-目前没有足够证据，可以声称学界已经形成“以 Bourdieu 统一解释 Rooney 四部长篇”的共识。如果这样写，就会超出目前能够核实的文献范围。`
-      },
-      {
         title: "Scholarship",
         titleZh: "学术文献",
-        en: `Pierre Bourdieu, “The Forms of Capital,” 1986. Published in J. G. Richardson's Handbook of Theory and Research for the Sociology of Education, pp. 241–258. This is the principal theoretical foundation used here for economic, cultural, and social capital.
+        en: `Pierre Bourdieu, “The Forms of Capital,” 1986. Published in J. G. Richardson's Handbook of Theory and Research for the Sociology of Education, pp. 241–258.
 
-José Carregal-Romero, “Unspeakable Injuries and Neoliberal Subjectivities in Sally Rooney's Conversations with Friends and Normal People,” 2023. Published by Palgrave Macmillan in Narratives of the Unspoken in Contemporary Irish Fiction. The chapter examines silence, concealment, neoliberal individualism, and emotional vulnerability.
+José Carregal-Romero, “Unspeakable Injuries and Neoliberal Subjectivities in Sally Rooney's Conversations with Friends and Normal People,” 2023. Published by Palgrave Macmillan in Narratives of the Unspoken in Contemporary Irish Fiction.
 
-María Amor Barros-del Río, “Sally Rooney's Normal People: the millennial novel of formation in recessionary Ireland,” 2022. Irish Studies Review, 30(2), pp. 176–192. The article discusses social-class inequality, gender polarisation, material success, and neoliberal individuation.
+María Amor Barros-del Río, “Sally Rooney's Normal People: the millennial novel of formation in recessionary Ireland,” 2022. Irish Studies Review, 30(2), pp. 176–192.
 
 Paige Reynolds, “Introduction: Looking,” in Modernism in Irish Women's Contemporary Writing: The Stubborn Mode, 2023. Oxford University Press.
 
 Genevieve Couvret, “‘The Origin of Everything’: Sex Against Social Convention in Sally Rooney's Normal People and Intermezzo,” 2026. Critique: Studies in Contemporary Fiction.
 
-Andrea Long Chu, “A Lover's Theory of Marxism,” 2024. This is a major critical essay rather than a peer-reviewed academic article and is used here as literary criticism, not scholarly consensus.`,
-        zh: `Pierre Bourdieu, “The Forms of Capital,” 1986. 收录于 J. G. Richardson 编 Handbook of Theory and Research for the Sociology of Education，页241–258。本期关于经济资本、文化资本与社会资本的主要理论依据来自这篇文章。
-
-José Carregal-Romero, “Unspeakable Injuries and Neoliberal Subjectivities in Sally Rooney's Conversations with Friends and Normal People,” 2023. 由 Palgrave Macmillan 收录于 Narratives of the Unspoken in Contemporary Irish Fiction。文章讨论 Rooney 前两部小说中的沉默、隐藏、新自由主义个人主义与情感脆弱。
-
-María Amor Barros-del Río, “Sally Rooney's Normal People: the millennial novel of formation in recessionary Ireland,” 2022. 发表于 Irish Studies Review 30(2)，页176–192。论文讨论社会阶级不平等、性别分化、物质成功与新自由主义个人化。
-
-Paige Reynolds, “Introduction: Looking,” 收录于 Modernism in Irish Women's Contemporary Writing: The Stubborn Mode, 2023. Oxford University Press。
-
-Genevieve Couvret, “‘The Origin of Everything’: Sex Against Social Convention in Sally Rooney's Normal People and Intermezzo,” 2026. 发表于 Critique: Studies in Contemporary Fiction。
-
-Andrea Long Chu, “A Lover's Theory of Marxism,” 2024. 这是一篇重要文学批评文章，而不是同行评议论文，因此这里把它作为批评材料使用，而不是学术共识。`
+Andrea Long Chu, “A Lover's Theory of Marxism,” 2024.`
       }
     ],
     quotesTitle: "Selected Passage",

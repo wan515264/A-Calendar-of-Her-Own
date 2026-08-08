@@ -248,7 +248,28 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
 
       {!card.quotesAtEnd && (card.quote || card.quoteSelections?.length || card.quoteReadingEn || card.quoteReadingZh) && (
         <section className="article-section">
-          <h3>{card.quotesTitle ?? 'Quote Reading'}</h3>
+          <h3>Quotation</h3>
+          <span>{card.quotesTitleZh ?? '引文精读'}</span>
+          {card.quote && (
+            <blockquote>
+              <p>{card.quote}</p>
+              {card.quoteSource && <cite>{card.quoteSource}</cite>}
+            </blockquote>
+          )}
+          {card.quoteSelections?.map((selection, index) => (
+            <blockquote key={`${selection.en}-${index}`}>
+              <p>{selection.en}</p>
+              {selection.zh && <p>{selection.zh}</p>}
+              {(selection.source || card.quoteSource) && <cite>{selection.source ?? card.quoteSource}</cite>}
+            </blockquote>
+          ))}
+          <BilingualParagraphs en={card.quoteReadingEn} zh={card.quoteReadingZh} />
+        </section>
+      )}
+
+      {card.quotesAtEnd && (card.quote || card.quoteSelections?.length || card.quoteReadingEn || card.quoteReadingZh) && (
+        <section className="article-section">
+          <h3>Quotation</h3>
           <span>{card.quotesTitleZh ?? '引文精读'}</span>
           {card.quote && (
             <blockquote>
@@ -276,27 +297,6 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
               <li key={getWorkKey(work)}>{renderWork(work)}</li>
             ))}
           </ul>
-        </section>
-      )}
-
-      {card.quotesAtEnd && (card.quote || card.quoteSelections?.length || card.quoteReadingEn || card.quoteReadingZh) && (
-        <section className="article-section">
-          <h3>{card.quotesTitle ?? 'Quote Reading'}</h3>
-          <span>{card.quotesTitleZh ?? '引文精读'}</span>
-          {card.quote && (
-            <blockquote>
-              <p>{card.quote}</p>
-              {card.quoteSource && <cite>{card.quoteSource}</cite>}
-            </blockquote>
-          )}
-          {card.quoteSelections?.map((selection, index) => (
-            <blockquote key={`${selection.en}-${index}`}>
-              <p>{selection.en}</p>
-              {selection.zh && <p>{selection.zh}</p>}
-              {(selection.source || card.quoteSource) && <cite>{selection.source ?? card.quoteSource}</cite>}
-            </blockquote>
-          ))}
-          <BilingualParagraphs en={card.quoteReadingEn} zh={card.quoteReadingZh} />
         </section>
       )}
 
