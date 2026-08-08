@@ -65,6 +65,13 @@ export type DailyCard = {
     relationZh?: string;
   }>;
   sourceText?: string;
+  image?: string;
+  imageCredit?: string;
+  gallery?: Array<{
+    src: string;
+    alt?: string;
+    credit?: string;
+  }>;
   quote?: string;
   quoteSource?: string;
   quoteReadingEn?: string;
@@ -5816,6 +5823,733 @@ The exchange about love shows that Jeanette's resistance begins at the level of 
       "女性作者身份"
     ],
     sourceText: "Oranges Are Not the Only Fruit",
+    status: "published"
+  },
+  {
+    id: "2026-08-07-angela-nikolau-skywalkers",
+    date: "2026-08-07",
+    type: "artist",
+    title: "Skywalkers: A Love Story",
+    titleZh: "《天行者：爱情故事》",
+    detailTitle: "Angela Nikolau",
+    detailTitleZh: "安吉拉·尼古拉乌",
+    detailRole: "Artist｜艺术家",
+    role: "Visual Art / Photography / Performance｜视觉艺术 / 摄影 / 行为表演",
+    creator: "Angela Nikolau",
+    creatorZh: "安吉拉·尼古拉乌",
+    image: "/A-Calendar-of-Her-Own/images/angela-nikolau-empire-state-close.png",
+    imageCredit: "User-provided image｜用户上传图片",
+    gallery: [
+      {
+        src: "/A-Calendar-of-Her-Own/images/angela-nikolau-empire-state-close.png",
+        alt: "Angela Nikolau and Ivan Beerkus with a love and peace banner above New York",
+        credit: "User-provided image｜用户上传图片"
+      },
+      {
+        src: "/A-Calendar-of-Her-Own/images/angela-nikolau-empire-state-wide.png",
+        alt: "Wide view of the Empire State Building antenna with the love and peace banner",
+        credit: "User-provided image｜用户上传图片"
+      }
+    ],
+    focusTitle: "Calling for Love at the Top of the World",
+    focusTitleZh: "在世界的顶端呼唤爱",
+    summaryEn: `Angela Nikolau is a visual artist whose practice combines photography, bodily performance, urban exploration, architecture, and digital circulation. She is known for images made on rooftops, cranes, towers, and other restricted high-rise structures. In her current public profile, she describes her work as an exploration of identity, fear, and freedom.
+
+The 2024 documentary Skywalkers: A Love Story follows Nikolau and Ivan Beerkus over several years as their artistic partnership develops into a romantic relationship. Its central sequence records their unauthorised ascent of Merdeka 118 in Kuala Lumpur, where they prepare and perform an acrobatic pose near the building's spire.
+
+In July 2026, their relationship and artistic practice entered a new public phase when they climbed the Empire State Building's antenna without authorisation. At the top, they displayed a banner about love and peace. They then descended to a lower ledge, where Beerkus proposed to Nikolau.`,
+    summaryZh: `Angela Nikolau 是一位视觉艺术家。她的实践结合摄影、身体表演、城市探索、建筑空间与数字传播。她因在屋顶、塔吊、高塔及其他受限制的高层建筑上创作图像而受到关注。她目前在公开简介中把自己的创作概括为对身份、恐惧与自由的探索。
+
+2024年的纪录片《天行者：爱情故事》跨越数年，记录 Nikolau 与 Ivan Beerkus 的艺术合作如何发展为亲密关系。影片的核心段落是两人未经许可攀登吉隆坡默迪卡118，并在接近大楼尖顶的位置准备和完成一个杂技式动作。
+
+2026年7月，两人的关系与艺术实践以一种新的方式进入公共视野。他们未经许可攀上帝国大厦天线，在顶部展开一条关于爱与和平的横幅，随后下降到较低的平台，由 Beerkus 向 Nikolau 求婚。`,
+    highlightEn: "At extreme height, trust becomes part of the work's physical structure.",
+    highlightZh: "在极端高度上，信任成为作品物理结构的一部分。",
+    introEn: `Nikolau is frequently described in media coverage as a “rooftopper,” a term used for people who climb tall urban structures, often without official permission, in order to photograph, film, or experience otherwise inaccessible spaces.
+
+That description identifies her method, but it does not fully describe her work. Her images are not simply records proving that she reached a difficult location. They depend on decisions about costume, gesture, architectural line, bodily position, viewpoint, and image circulation.
+
+Nikolau may sit on an edge, extend her body across a narrow structure, balance against a vertical line, or arrange herself within a carefully controlled composition. The image often presents calmness, while the location remains visibly unstable.
+
+This relationship between composition and risk supports describing her as an artist rather than defining her only through the act of climbing. The climb creates access to the site; the artistic work begins in how that access is converted into a visual form.`,
+    introZh: `媒体报道经常把 Nikolau 称为“高楼攀爬者”。这个词通常指进入高层城市建筑，并经常在没有正式许可的情况下攀爬屋顶、塔吊、天线或未完工建筑，以便拍摄、记录或体验一般公众无法抵达的空间。
+
+这个称呼说明了她使用的方法，却不足以概括她的创作。她的图像并不只是证明自己曾抵达某个困难地点的记录。它们还依赖对服装、动作、建筑线条、身体位置、拍摄角度与传播方式的设计。
+
+Nikolau 可能坐在建筑边缘，把身体伸展在狭窄结构上，沿着垂直线保持平衡，或把自己置于经过控制的构图中。图像中的身体常显得平静，而地点本身仍明显具有不稳定性。
+
+这种构图与风险之间的关系，说明更适合把她定义为艺术家，而不只是攀爬者。攀爬让她进入创作地点，而艺术工作则发生在她如何把这种进入转化为视觉形式的过程中。`,
+    articleSections: [
+      {
+        title: "The Female Body and Monumental Architecture",
+        titleZh: "女性身体与纪念性建筑",
+        en: `Skyscrapers and communications towers are closely connected to capital, engineering, corporate authority, state regulation, and urban prestige. They are designed to be visible from a distance, but access to their uppermost areas is highly controlled.
+
+Nikolau temporarily inserts a female body into these restricted spaces. Her images reorganise the relationship between the individual and the city: streets, offices, apartment buildings, and transport systems become distant background, while her body occupies the centre of the frame.
+
+This visual occupation should not be confused with actual ownership. The buildings remain privately or institutionally controlled. Her presence is temporary, often unauthorised, and physically precarious.
+
+The political significance of the image lies in this contradiction. She appears visually dominant while remaining materially vulnerable.`,
+        zh: `摩天大楼与通信塔通常同资本、工程、企业权力、国家监管和城市声望联系在一起。它们被设计成远距离可见的地标，但最高区域的进入受到严格控制。
+
+Nikolau 把女性身体暂时放进这些受限制的空间。她的图像重新组织了个体与城市的关系：街道、办公室、公寓与交通系统退到遥远的背景，而她的身体则位于画面中心。
+
+这种视觉上的占据不等于实际所有权。建筑仍受到私人或机构控制，她的出现是暂时的，时常未经许可，也伴随着身体层面的不稳定。
+
+图像的政治意义正在这种矛盾之中：她在视觉上显得占据主导位置，实际处境却仍然脆弱。`
+      },
+      {
+        title: "Fear as Part of the Method",
+        titleZh: "恐惧作为创作方法的一部分",
+        en: `Nikolau's work is often described through the language of fearlessness. Skywalkers: A Love Story, however, presents fear as an ongoing condition rather than something that has disappeared.
+
+The documentary shows hesitation, failed attempts, conflict over risk, and moments when one person's confidence exceeds the other's. Sundance described the film as a complicated love story about two people learning trust while confronting extreme danger.
+
+Fear has a practical function. It contributes to attention, route assessment, bodily control, and recognition of limits. The apparent composure in Nikolau's finished photographs is therefore not evidence that the environment is safe. It is a visual result produced through training and concentration.
+
+Her work does not represent freedom as the absence of fear. It treats freedom as an action attempted while fear remains present.`,
+        zh: `Nikolau 的作品经常被放进“无所畏惧”的叙事中。但《天行者：爱情故事》呈现的并不是恐惧消失，而是恐惧始终存在。
+
+纪录片呈现了迟疑、失败的尝试、围绕风险产生的冲突，以及一方的信心超过另一方承受能力的时刻。圣丹斯把影片描述为一段复杂的爱情故事，重点在于两个人如何在极端危险中学习信任。
+
+恐惧具有实际功能。它参与注意力、路线判断、身体控制与对边界的认识。因此，Nikolau 成片中的平静并不证明环境安全，而是训练与专注所产生的视觉结果。
+
+她的创作没有把自由表现为完全没有恐惧，而是把自由处理成一种在恐惧仍然存在时采取的行动。`
+      },
+      {
+        title: "Skywalkers: A Love Story",
+        titleZh: "《天行者：爱情故事》",
+        en: `The documentary was directed by Jeff Zimbalist and Maria Bukhonina and premiered at the 2024 Sundance Film Festival before being distributed by Netflix. It follows Nikolau and Beerkus as their work, income, relationship, and ambitions become increasingly interdependent.
+
+Their partnership is not represented only through emotional dialogue. It appears through practical coordination. They investigate buildings, plan routes, carry equipment, monitor security, assess weather, operate cameras, and decide when to continue or retreat.
+
+The film's use of their own GoPro and handheld footage is especially important. It places viewers inside the climb and shows that the finished photograph is preceded by preparation, waiting, disagreement, physical strain, and repeated negotiation.
+
+The romantic narrative is therefore also a labour narrative. Their relationship is tied to the production of images and to the economic conditions under which those images circulate.`,
+        zh: `这部纪录片由 Jeff Zimbalist 与 Maria Bukhonina 执导，于2024年圣丹斯电影节首映，之后由 Netflix 发行。影片记录 Nikolau 与 Beerkus 的创作、收入、亲密关系与个人目标如何逐渐相互依赖。
+
+两人的合作并不只通过情感对话体现，也通过具体协调表现出来。他们调查建筑、规划路线、携带设备、观察安保、判断天气、操作摄影机，并决定何时继续或撤退。
+
+影片对两人自行拍摄的运动相机和手持影像的使用尤其重要。它把观众带入攀爬过程，也说明一张最终照片之前存在大量准备、等待、争执、身体负荷与反复协商。
+
+因此，这段爱情叙事同时也是劳动叙事。他们的关系与图像生产相连，也与这些图像得以传播的经济条件相连。`
+      },
+      {
+        title: "Merdeka 118",
+        titleZh: "默迪卡118",
+        en: `The documentary's central ascent involves Merdeka 118 in Kuala Lumpur, one of the world's tallest buildings. Netflix describes the pair as illegally scaling the building in order to perform an acrobatic stunt near its spire.
+
+The climb is organised almost like a heist narrative. It involves surveillance, restricted entrances, concealment, long periods of waiting, and movement through areas not open to the public.
+
+At the summit, Nikolau and Beerkus perform a partnered pose that requires both physical strength and precise coordination. The image combines a romantic gesture with a practical dependence: neither person can complete the pose in the same way without the other.
+
+The resulting photograph is not simply evidence of love or courage. It is a jointly produced image whose meaning depends on risk, performance, architecture, and the couple's public identity.`,
+        zh: `纪录片的核心攀爬对象是吉隆坡默迪卡118，它是世界最高建筑之一。Netflix 将影片中的行动描述为两人未经许可攀登大楼，并在接近尖顶的位置完成杂技式动作。
+
+这次攀爬采用了近似劫案片的叙事结构，涉及现场观察、受限制入口、隐蔽行动、长时间等待，以及穿越不向公众开放的区域。
+
+在顶端，Nikolau 与 Beerkus 完成一个双人动作，需要身体力量与精确配合。图像把浪漫姿态与实际依赖结合起来：缺少其中任何一人，这个动作都无法以相同方式完成。
+
+最终的照片并不只是爱情或勇气的证明，而是一张共同生产的图像，其意义依赖风险、表演、建筑以及两人的公共身份。`
+      },
+      {
+        title: "Love as Coordination",
+        titleZh: "爱情作为协作",
+        en: `In ordinary romantic language, trust can remain abstract. In Nikolau and Beerkus's practice, trust has physical consequences.
+
+One person may need to follow the other through an unfamiliar route, accept guidance while visibility is limited, or depend on the other person to maintain balance during a pose. Communication failures cannot always be corrected easily at height.
+
+This does not mean that danger makes the relationship more authentic. The documentary also shows how shared ambition can intensify pressure, and how the pursuit of a major image can create disagreement over acceptable risk.
+
+Their intimacy is therefore best understood as a process of coordination rather than as a simple story of mutual rescue.`,
+        zh: `在普通的爱情语言中，信任可以保持抽象；在 Nikolau 与 Beerkus 的实践中，信任却会产生直接的身体后果。
+
+一方可能需要跟随另一方穿过陌生路线，在视野受限时接受指引，或在完成动作时依靠对方维持平衡。处于高空时，沟通错误并不总能轻易修正。
+
+这并不意味着危险会让爱情自动变得更加真实。纪录片同样显示，共同野心会增加关系压力，而追求一张重要图像也可能使双方在可接受风险问题上产生分歧。
+
+因此，更适合把他们的亲密关系理解为一个持续协调的过程，而不是彼此拯救的简单故事。`
+      },
+      {
+        title: "Love Does Not Eliminate Power",
+        titleZh: "爱情不会消除权力关系",
+        en: `The film presents Nikolau as an artist with her own ambitions. She is not simply a companion following a more experienced male climber. Festival descriptions note that her desire to pursue difficult climbs continues even when Beerkus becomes increasingly concerned about risk.
+
+At the same time, independence does not remove the power negotiations inside a partnership. The couple must repeatedly decide who leads, whose assessment is accepted, and whether one person's ambition is placing pressure on the other.
+
+A feminist reading should therefore avoid two simplifications. Nikolau should not be treated as a passive woman endangered by a man, but neither should every dangerous decision be celebrated as evidence of female liberation.
+
+Her agency is visible in the fact that she makes decisions and accepts risks. That agency remains open to ethical and political evaluation.`,
+        zh: `影片把 Nikolau 呈现为一位拥有自身目标的艺术家，而不是追随更有经验男性攀爬者的伴侣。电影节资料指出，即使 Beerkus 对风险越来越担忧，她仍然希望继续完成更困难的攀登。
+
+与此同时，独立并不会消除合作关系内部的权力协商。两人必须不断决定谁负责带领、谁的判断获得优先，以及一方的目标是否正在给另一方施加压力。
+
+因此，女性主义阅读需要避免两种简单化解释。Nikolau 不应被写成被男性带入危险的被动女性，但也不能把每一次危险决定都赞颂为女性解放的证明。
+
+她的能动性体现在她能够作出决定并承担风险，但这种能动性仍然可以接受伦理与政治层面的评价。`
+      },
+      {
+        title: "Photography, Proof, and Performance",
+        titleZh: "摄影、证明与表演",
+        en: `Rooftopping images circulate in a media environment where spectacular photographs are frequently suspected of manipulation. Viewers may question whether a location is genuine, whether safety equipment has been removed digitally, or whether the final image was reconstructed.
+
+Skywalkers responds by showing extended preparation and footage recorded from several perspectives. This material functions as evidence that the climb and pose occurred, although the documentary itself remains an edited representation.
+
+The practice therefore contains two related forms of labour. There is the bodily labour of gaining access and completing the action, and there is the representational labour of producing evidence, selecting images, editing footage, and making the event legible to an audience.
+
+The camera does not merely record the performance. Its presence helps determine the pose, the route, the timing, and the meaning of the climb.`,
+        zh: `高楼图像在一个充满真实性怀疑的媒体环境中传播。观众可能质疑拍摄地点是否真实、安全设备是否被数字删除，或者最终画面是否经过重构。
+
+《天行者》通过呈现长时间准备以及多个角度的现场影像来回应这种怀疑。这些素材证明攀登与动作确实发生，但纪录片本身仍然是一种经过选择和剪辑的再现。
+
+因此，这种创作包含两种相关劳动。一种是进入现场并完成动作的身体劳动，另一种是生产证据、选择照片、剪辑素材，并使事件能够被观众理解的再现劳动。
+
+摄影机并不只是记录表演，它的存在也参与决定动作、路线、时间安排与攀登意义。`
+      },
+      {
+        title: "Social Media and the Economy of Visibility",
+        titleZh: "社交媒体与可见性经济",
+        en: `Nikolau's work reaches a global audience primarily through digital platforms rather than through traditional museums. This gives her direct access to viewers and allows her to control much of her public image.
+
+Platform circulation also shapes what becomes visible. Images must communicate height, danger, bodily control, and architectural scale quickly on a small screen. This encourages the use of downward viewpoints, visible edges, dramatic perspective, recognisable landmarks, and poses that can be understood immediately.
+
+The relationship between risk and online attention must be considered carefully. More extreme images may attract greater engagement, but available sources do not establish that platform metrics alone determine Nikolau's decisions.
+
+What can be stated more confidently is that her practice operates where visual art, personal branding, sponsorship, documentary production, and audience attention overlap.`,
+        zh: `Nikolau 的作品主要通过数字平台而不是传统美术馆抵达全球观众。这让她能够直接接触观看者，也使她对自己的公共形象拥有较大控制权。
+
+平台传播也会影响什么样的图像能够获得可见性。作品需要在很小的屏幕上迅速传达高度、危险、身体控制与建筑规模。这促使创作者使用向下俯拍、清晰可见的建筑边缘、夸张透视、辨识度较高的地标，以及能够被迅速理解的动作。
+
+风险与网络注意力之间的关系需要谨慎处理。更极端的图像可能获得更多互动，但现有资料不足以证明平台数据单独决定了 Nikolau 的行动。
+
+更可靠的说法是，她的实践发生在视觉艺术、个人品牌、商业赞助、纪录片生产与观众注意力彼此交叠的环境中。`
+      },
+      {
+        title: "The Ethics of Watching",
+        titleZh: "观看的伦理",
+        en: `The audience experiences Nikolau's work from safety. Viewers can feel suspense, admiration, discomfort, or vertigo without sharing the bodily and legal risk.
+
+This distance makes the work accessible, but it also turns real danger into visual material. Repeated attention may reward increasingly spectacular actions.
+
+A responsible interpretation can recognise the formal and cultural interest of the images without treating unauthorised climbing as safe or suitable for imitation.
+
+The legal and safety consequences are not external to the work. They are part of the conditions under which the work is produced.`,
+        zh: `观众在安全环境中接触 Nikolau 的作品，可以感到紧张、钦佩、不适或眩晕，却不承担相同的身体与法律风险。
+
+这种距离使作品能够传播，但也把真实危险转化为视觉材料。持续的关注可能奖励越来越具有奇观性的行动。
+
+负责任的解释可以承认这些图像在形式与文化上的价值，而不需要把未经许可的攀爬视作安全或值得模仿的行为。
+
+法律与安全后果并不位于作品之外，而是构成作品生产条件的一部分。`
+      },
+      {
+        title: "The Empire State Building, July 2026",
+        titleZh: "2026年7月：帝国大厦",
+        en: `On July 1, 2026, Nikolau and Beerkus climbed beyond public areas of the Empire State Building and reached its broadcast antenna. Prosecutors said they ascended to approximately 1,454 feet above Midtown Manhattan.
+
+At the top, they displayed a banner reading: “When the power of love beats the love of power the world knows peace.” They then descended to a lower ledge, where Beerkus apparently proposed to Nikolau. Nikolau later posted images that showed an engagement-style ring above the Manhattan skyline.
+
+Authorities stated that the ascent was unauthorised. Police found a broken lock on a restricted-access door and waited for the antenna to be powered down before officers climbed to intercept the pair. Nikolau and Beerkus were arrested and charged with burglary, felony reckless endangerment, and other offences. They were released without bail while the case continued. These remain charges rather than convictions.
+
+The event joined romantic declaration, visual performance, architectural trespass, and legal intervention in a single action. It gave the title “Calling for Love at the Top of the World” a literal meaning, while also making the consequences of the couple's methods especially visible.`,
+        zh: `2026年7月1日，Nikolau 与 Beerkus 越过帝国大厦的公众区域，攀上大楼的广播天线。检方称，他们抵达了距曼哈顿中城地面约1454英尺的位置。
+
+在顶部，他们展示了一条横幅，上面写着：“当爱的力量战胜对权力的迷恋，世界才会获得和平。”随后，他们下降到一个较低的平台，Beerkus 在那里向 Nikolau 求婚。Nikolau 之后发布的照片显示，一枚订婚戒指被举在曼哈顿天际线之上。
+
+有关部门表示，这次攀爬未经许可。警方在限制区域入口发现一把损坏的门锁，并等待天线断电后，才由警员攀爬并拦截两人。Nikolau 与 Beerkus 被捕，并面临入室盗窃、重罪鲁莽危害安全及其他指控。案件继续处理期间，两人获得无保释金释放。这里所述仍是指控，并非定罪结果。
+
+这一事件把爱情宣言、视觉表演、对建筑边界的越过与法律介入集中在一次行动中。它让“在世界的顶端呼唤爱”获得了字面意义，也使两人创作方式所带来的后果格外清晰。`
+      },
+      {
+        title: "Love, Peace, and Public Space",
+        titleZh: "爱、和平与公共空间",
+        en: `The Empire State Building action was designed for public visibility. The banner converted a private engagement into a statement addressed to a much larger audience.
+
+The building was not simply a picturesque background. As one of New York's most recognisable monuments, it contributed authority, scale, and global recognisability to the image.
+
+At the same time, the couple's use of the structure directly conflicted with the institution controlling it. Their claim to create an image and declare a message met the building's rules of access, safety systems, and law-enforcement response.
+
+The work can therefore be read as a conflict between artistic self-authorisation and institutional authority. That interpretation does not settle whether the action was justified. It identifies the competing claims made visible by the event.`,
+        zh: `帝国大厦行动从一开始就面向公共可见性。横幅把私人订婚转化为面向更大范围观众的宣言。
+
+帝国大厦也不只是一个适合拍摄的背景。作为纽约最具辨识度的地标之一，它为图像提供了权威感、巨大尺度与全球传播能力。
+
+与此同时，两人对建筑的使用直接与管理机构发生冲突。他们自行创作图像、公开表达信息的主张，与大楼的准入规则、安全系统及执法行动相遇。
+
+因此，可以把这次行动理解为艺术家的自我授权与制度权威之间的冲突。这样的解释并不等于认定行动正当，而是指出事件中显露出的相互竞争的权利主张。`
+      },
+      {
+        title: "Calling for Love at the Top of the World",
+        titleZh: "在世界的顶端呼唤爱",
+        en: `The proposed title connects three dimensions of Nikolau's work: intimate relationship, extreme architecture, and public image.
+
+At Merdeka 118, love was represented through a coordinated acrobatic pose. At the Empire State Building, it was expressed through a banner, an engagement, and the publication of images to a global audience.
+
+In both cases, the couple climbed toward an isolated physical location in order to produce material intended for wide circulation.
+
+This is the central contradiction of the work. The summit appears private, but the camera makes it public. The gesture appears spontaneous, but it depends on planning. The image suggests freedom, but its production takes place within structures governed by ownership and law.
+
+Nikolau's art is therefore not only about conquering fear or reaching unusual places. It examines how a body becomes an image, how intimacy becomes performance, and how the desire for freedom encounters institutional limits.`,
+        zh: `这个标题连接了 Nikolau 创作中的三个维度：亲密关系、极端建筑与公共图像。
+
+在默迪卡118，爱情通过协调完成的杂技动作被表现出来；在帝国大厦，它则通过横幅、订婚与面向全球观众发布的图像被表达。
+
+在这两个事件中，两人都攀向一个与日常社会高度隔离的位置，却是为了生产面向广泛传播的影像。
+
+这构成了作品的核心矛盾：顶端看似私密，摄影机却把它变成公共事件；动作看似自发，实际上依赖规划；图像表现自由，其生产却发生在受到所有权与法律管理的结构之中。
+
+因此，Nikolau 的艺术不只关于克服恐惧或抵达特殊地点。它讨论身体如何成为图像、亲密关系如何成为表演，以及对自由的追求如何与制度边界相遇。`
+      }
+    ],
+    quotesTitle: "Selected Passage",
+    quotesTitleZh: "引文",
+    quotesAtEnd: true,
+    quote: "Exploring identity, fear & freedom.",
+    quoteSource: "Angela Nikolau, current public profile",
+    quoteReadingEn: "This statement offers a reliable framework for reading her images. Identity is constructed through repeated self-representation. Fear is managed rather than eliminated. Freedom is sought within spaces whose access is restricted by architecture, ownership, and law.",
+    quoteReadingZh: "这句话为理解她的图像提供了相对可靠的框架。身份通过持续的自我再现被建构；恐惧受到管理，而不是被消除；自由则在受到建筑、所有权与法律限制的空间中被追求。",
+    relatedWorks: [
+      "Skywalkers: A Love Story｜Jeff Zimbalist and Maria Bukhonina, 2024"
+    ],
+    tags: [
+      "visual art",
+      "photography",
+      "performance",
+      "urban exploration",
+      "architecture",
+      "fear",
+      "freedom",
+      "trust",
+      "digital circulation"
+    ],
+    tagsZh: [
+      "视觉艺术",
+      "摄影",
+      "行为表演",
+      "城市探索",
+      "建筑",
+      "恐惧",
+      "自由",
+      "信任",
+      "数字传播"
+    ],
+    sourceText: "Skywalkers: A Love Story",
+    status: "published"
+  },
+  {
+    id: "2026-08-08-sally-rooney-class-intimacy",
+    date: "2026-08-08",
+    type: "writer",
+    title: "Sally Rooney",
+    titleZh: "萨莉·鲁尼",
+    years: "b. 1991",
+    role: "Novel / Class / Intimacy｜小说 / 阶级 / 亲密关系",
+    detailRole: "Novelist｜小说家",
+    focusTitle: "How Does Class Enter a Relationship?",
+    focusTitleZh: "阶级如何进入一段关系？",
+    summaryEn: `Sally Rooney's novels are often described as stories about love, sex, friendship, and failed communication. But across her four published novels, class is just as important as desire. Money, housing, education, occupation, family background, and social confidence continually affect what her characters can ask from one another, what they can refuse, and what they are ashamed to admit.
+
+Scholarship on Conversations with Friends and Normal People has placed their characters within post-crash Ireland and examined how neoliberal individualism, class inequality, vulnerability, and dependence shape emotional life.
+
+Pierre Bourdieu gives us a useful language for understanding why Rooney's class writing cannot be reduced to income. Her characters may attend the same university, read the same books, or know the same political vocabulary while possessing very different combinations of economic, cultural, and social capital.`,
+    summaryZh: `萨莉·鲁尼的小说经常被概括为关于爱情、性、友谊与沟通失败的故事。但纵观她目前出版的四部长篇，阶级与欲望同样重要。金钱、住房、教育、职业、家庭背景，以及一个人在特定社会环境中的自在程度，不断影响着人物能够向另一个人提出什么要求、能够拒绝什么，也影响着哪些需要会因为羞耻而无法说出口。
+
+关于《聊天记录》与《正常人》的学术研究已经把人物放回金融危机后的爱尔兰社会中，讨论新自由主义个人主义、阶级不平等、脆弱性与依赖如何进入情感生活。
+
+Pierre Bourdieu 的理论可以帮助我们理解，为什么 Rooney 笔下的阶级不能被简单缩减为收入差距。她的人物完全可能进入同一所大学、阅读相同的书、使用相同的政治语言，却拥有截然不同的经济资本、文化资本与社会资本组合。`,
+    highlightEn: "People may appear to belong to the same cultural world while inhabiting it under very different material conditions. Class enters intimacy through these differences.",
+    highlightZh: "几个人看起来属于同一个文化世界，却并不以相同的物质条件生活在其中。阶级正是通过这些差异进入亲密关系。",
+    introEn: `Rooney rarely places her characters at the simple extremes of “poor” and “rich.” More often, they occupy neighbouring but unequal positions: students, writers, editors, lawyers, warehouse workers, and young adults whose security depends on scholarships, family money, temporary employment, housing, or professional success.
+
+This is why class can be difficult to see in her fiction. Her characters often share education and cultural references. They can participate in the same dinner conversation and understand the same political jokes. What differs is the cost of occupying that world.
+
+Bourdieu's model is particularly useful here because capital is not singular. Economic resources, educational qualifications, cultural competence, and social connections do not necessarily accumulate in equal proportions. A person may possess enough cultural capital to move through an elite institution without possessing the family wealth that makes such movement secure.
+
+Rooney repeatedly writes characters who have learned the language of an educated middle class before acquiring its security.`,
+    introZh: `Rooney 很少把人物简单放在“穷人”和“富人”两端。更常见的是，他们生活在彼此接近却不平等的位置上：学生、作家、编辑、律师、仓库工人，以及依赖奖学金、家庭支持、临时工作、住房条件或职业成功获得安全感的年轻人。
+
+因此，阶级在她的小说中有时并不显眼。人物往往共享类似教育与文化知识，可以参加同一场晚餐谈话，也能理解同样的政治玩笑。真正不同的是，他们生活在这个世界里的成本。
+
+Bourdieu 的理论之所以特别适用于这里，是因为资本并不是单一形式。经济资源、教育资格、文化能力与社会关系，并不会以相同比例同时存在。一个人可能拥有足够的文化资本进入精英机构，却并不拥有让这种生活稳定持续的家庭财富。
+
+Rooney 反复书写这样的人：他们已经学会了受教育中产阶级的语言，却还没有获得与之对应的安全。`,
+    articleSections: [
+      {
+        title: "Conversations with Friends: Entering Another Person's World",
+        titleZh: "《聊天记录》：进入另一个人的世界",
+        en: `In Rooney's first novel, Frances and Bobbi are Trinity students and former girlfriends who become involved with Melissa and Nick, an older married couple working in the arts. José Carregal-Romero's study identifies Frances as the working-class figure within the central group and examines her relationship to economic vulnerability and dependence.
+
+What matters is that Frances does not lack cultural competence. She writes, reads political theory, and can argue with Melissa and Nick on equal intellectual terms. The class difference is therefore not expressed as ignorance versus sophistication.
+
+The difference appears in resources. Frances can enter their home, but she does not possess the same housing security. She can criticise capitalism with them, but her own material situation can be destabilised when family money disappears. The ability to participate in an elite cultural conversation does not make material inequality disappear.
+
+In Bourdieu's terms, Frances possesses substantial cultural capital without equivalent economic capital. The novel asks what happens when cultural proximity is mistaken for material equality.`,
+        zh: `在 Rooney 的第一部长篇中，Frances 与 Bobbi 是 Trinity 的学生，也是前女友。她们后来进入 Melissa 与 Nick 的生活——一对年纪更大、已经在文化行业建立位置的夫妻。José Carregal-Romero 的研究把 Frances 视为核心人物中具有工人阶级背景的人，并特别讨论她面对的经济脆弱与依赖问题。
+
+重要的是，Frances 并不缺乏文化能力。她写作、阅读政治理论，也完全能够与 Melissa 和 Nick 在思想上平等争论。因此，小说中的阶级差异并不是“无知”与“有文化”的对立。
+
+差异体现在资源上。Frances 可以进入他们的住宅，却没有相同的住房安全；可以与他们共同批判资本主义，但一旦家庭支持中断，她的现实生活就可能迅速变得困难。参与精英文化谈话的能力，并不会让物质不平等消失。
+
+用 Bourdieu 的语言说，Frances 拥有相当高的文化资本，却没有与之对应的经济资本。小说追问的正是：当文化上的接近被误认为物质上的平等时，会发生什么？`
+      },
+      {
+        title: "Knowing the Language of the Middle Class Is Not the Same as Belonging Securely to It",
+        titleZh: "会说中产阶级的语言，不等于安全地属于中产阶级",
+        en: `One of Rooney's most precise observations is that class mobility can be incomplete. A person can learn how to speak, dress, read, and behave within an educated social environment without gaining the wealth or networks that make participation effortless.
+
+Bourdieu's concept of cultural capital is useful precisely because education is not only information. Embodied cultural capital consists of durable dispositions—ways of speaking, perceiving, judging, and carrying oneself—that accumulate over time. Rooney frequently dramatises the moment when characters discover that knowing the rules does not mean having inherited them as second nature.
+
+The distinction is subtle but consequential. One person walks into a room and assumes they belong there. Another person enters the same room and begins monitoring their accent, clothing, spending, and behaviour.
+
+Class has already entered the body before anyone begins talking about class.`,
+        zh: `Rooney 最准确的观察之一，是阶级流动往往并不完整。一个人可以学会如何在受教育的社会环境中说话、穿衣、阅读和行动，却仍然没有获得让这种参与变得毫不费力的财富与社会网络。
+
+Bourdieu 的文化资本概念之所以有用，是因为教育不只是信息。身体化文化资本包含长期形成的倾向，包括说话方式、感知方式、判断方式以及一个人如何呈现自己。Rooney 经常书写人物突然意识到：知道规则，与从小把规则当成自然习惯，并不是同一件事。
+
+这种区别很细微，却会产生实际后果。一个人走进房间时默认自己属于这里，另一个人进入同一个房间后，却开始注意自己的口音、衣服、消费能力与行为是否合适。
+
+因此，在任何人开始谈论阶级之前，阶级已经进入身体。`
+      },
+      {
+        title: "Normal People: Class Changes with the Social Space",
+        titleZh: "《正常人》：阶级位置会随着社会空间变化",
+        en: `Normal People makes the relationship between class and social space especially clear. Connell's mother Lorraine works as a cleaner for Marianne's family. The economic hierarchy between the two households therefore exists before the romantic relationship begins.
+
+At school, however, Connell possesses social confidence and popularity, while Marianne is isolated. Their positions do not line up neatly with family wealth.
+
+When they enter Trinity College Dublin, this arrangement changes. María Amor Barros-del Río's peer-reviewed study reads the novel through post-Celtic Tiger Ireland and argues that class inequality, gender, material success, and neoliberal individualisation all shape the protagonists' formation.
+
+Marianne becomes much more comfortable within the university environment. Connell has the academic ability to be there but becomes more conscious of social difference. This can be read through Bourdieu's concept of a field: social spaces assign different values to different resources and dispositions.`,
+        zh: `《正常人》尤其清楚地表现了阶级与社会空间之间的关系。Connell 的母亲 Lorraine 在 Marianne 家中做清洁工作。因此，在两人的爱情开始之前，两个家庭之间的经济等级已经存在。
+
+但在学校里，Connell 拥有更强的社交自信与受欢迎程度，而 Marianne 则被同龄人孤立。因此，他们在不同层面的权力位置，并不会简单按照家庭财富排列。
+
+进入 Trinity College Dublin 后，这种关系再次变化。María Amor Barros-del Río 的同行评议研究把小说放在后“凯尔特之虎”时代的爱尔兰中，指出阶级不平等、性别、物质成功以及新自由主义个人化共同塑造了人物的成长。
+
+Marianne 在大学环境里明显更加自在。Connell 在学术上完全有资格进入这里，却越来越意识到社会差异。这可以借助 Bourdieu 的“场域”概念理解：不同社会空间会给予不同资源和行为倾向不同的价值。`
+      },
+      {
+        title: "Connell's Problem Is Not Ability but the Feeling of Belonging",
+        titleZh: "Connell 缺少的不是能力，而是“理所当然属于这里”的感觉",
+        en: `Connell's academic success does not remove his awareness of class. Institutions often present admission as proof that everyone inside now occupies the same position, but formal access can be equal while informal ease remains unequal.
+
+A student who has never had to think about the cost of accommodation, travel, socialising, or professional networking experiences university differently from one who must continually calculate those things.
+
+The institution may admit both students according to academic merit, but their embodied relationship to the institution has been formed long before admission.`,
+        zh: `Connell 的学术成功并不会消除他的阶级意识。制度往往会把“你已经被录取”理解成所有进入其中的人现在已经站在同一起点，但形式上的准入可以平等，非正式的自在程度依然不平等。
+
+一个从来不需要考虑住宿、旅行、社交或职业网络成本的学生，与一个必须不断计算这些费用的学生，所经历的大学生活并不是同一种生活。
+
+制度可以按照学业表现录取两名学生，但他们与这个机构之间的身体化关系，早在录取之前就已经形成。`
+      },
+      {
+        title: "The Scholarship Means Different Things to Different People",
+        titleZh: "同一份奖学金，对不同的人意味着不同的事情",
+        en: `One of the clearest examples in Normal People is the scholarship received by Marianne and Connell. Institutionally, they have received the same award. Materially, the consequences are different.
+
+For someone already supported by family wealth, a scholarship may primarily recognise academic achievement. For someone whose choices are constrained by money, it can transform what kinds of travel, accommodation, study, and social participation are possible.
+
+This is an important challenge to a simple meritocratic account of education. Equal rewards do not necessarily have equal value when recipients begin from unequal positions. Different forms of capital can reinforce and convert into one another, but people do not begin with equal stocks or equal opportunities for conversion.`,
+        zh: `《正常人》中最清楚的例子之一，是 Marianne 与 Connell 都获得奖学金。从制度角度看，他们得到的是同一种奖励；从物质生活来看，它产生的后果却不同。
+
+对于本来就拥有家庭经济支持的人，奖学金首先可能意味着学术成绩得到认可；对于选择持续受到金钱限制的人，它却可能直接改变旅行、住宿、学习与参与社交生活的可能性。
+
+这构成了对简单能力主义叙事的重要挑战。当领取奖励的人处在不同起点时，“相同奖励”并不一定拥有相同价值。不同形式的资本能够相互强化，也能在一定条件下发生转换，但人们并不是从相同的资本存量出发，也没有相同的转换机会。`
+      },
+      {
+        title: "A Communication Problem That Begins as a Housing Problem",
+        titleZh: "一次“沟通失败”，其实首先是住房问题",
+        en: `One of the most consequential misunderstandings in Normal People begins when Connell faces difficulty paying for accommodation.
+
+He might ask Marianne whether he can stay with her. But asking a wealthier partner for housing is not emotionally neutral. The request would explicitly acknowledge economic dependence.
+
+The resulting silence is therefore not merely a personality flaw. Rooney's protagonists frequently conceal vulnerability because dependence appears shameful within a competitive culture of individual responsibility.
+
+The emotional crisis begins in material conditions. A problem of rent becomes a problem of language, and a problem of class becomes a problem of intimacy.`,
+        zh: `《正常人》中最关键的一次误会，起点其实是 Connell 无法继续负担住宿费用。
+
+他本可以询问 Marianne，自己是否能够住在她那里。但向经济条件明显更好的恋人请求住房，并不是一个情感上中性的行为。这个请求会明确承认两人之间存在经济依赖。
+
+因此，后来产生的沉默并不只是人物性格缺陷。Rooney 的人物经常隐藏脆弱，因为在强调个人责任与竞争的文化里，依赖很容易被体验成羞耻。
+
+情感危机首先发生在物质条件中：房租问题变成语言问题，阶级问题又变成亲密关系问题。`
+      },
+      {
+        title: "Beautiful World, Where Are You: What Happens When the Woman Owns the House?",
+        titleZh: "《美丽的世界，你在哪里》：如果拥有大房子的是女人呢？",
+        en: `Rooney's third novel changes the gender direction of the class relationship. Alice is a highly successful novelist, while Felix works in a warehouse. Paige Reynolds confirms these basic positions in her academic discussion of the novel: Alice is a novelist, Felix a warehouse worker, Eileen an editorial assistant, and Simon a political activist.
+
+This reversal matters because the conventional heterosexual class romance has often placed the poorer woman inside the wealthy man's property. Rooney gives the house, wealth, and literary prestige to Alice. Felix is the person entering someone else's larger material world.
+
+This changes what the familiar scene allows us to notice.`,
+        zh: `Rooney 的第三部长篇改变了阶级关系通常具有的性别方向。Alice 是取得巨大成功的小说家，而 Felix 在仓库工作。Paige Reynolds 在对小说的学术讨论中也确认了这一基本人物结构：Alice 是小说家，Felix 是仓库工人，Eileen 是文学杂志编辑助理，而 Simon 从事政治活动。
+
+这种倒置很重要，因为传统异性恋阶级爱情故事经常让经济条件较差的女性进入富裕男性的住宅。Rooney 却把房子、财富与文学声望放在 Alice 一边，Felix 才是进入别人更庞大物质世界的人。
+
+这种变化让一个原本熟悉的爱情场景显露出新的东西。`
+      },
+      {
+        title: "The House Makes Class Visible",
+        titleZh: "房子让阶级变得可见",
+        en: `A house is particularly effective in Rooney because it converts abstract economic difference into space. Income can remain invisible. Property cannot.
+
+The size of a home, its location, the ability to occupy it alone, and the freedom to invite other people into it reveal forms of security that a salary figure does not fully capture.
+
+Property is economic capital, but domestic space also reflects accumulated class history, taste, privacy, and the ability to control access. Felix's entrance into Alice's world is therefore more than a romantic scene. It is an encounter with another distribution of resources.`,
+        zh: `房子在 Rooney 小说中特别有效，因为它把抽象的经济差异转化成空间。收入可以被隐藏，房产却很难如此。
+
+住宅的面积、位置、是否能够独自占有，以及是否有能力让别人长期进入其中，都显示了工资数字无法完全表达的安全。
+
+房产首先是经济资本，但家庭空间也反映长期积累的阶级历史、品味、隐私以及控制准入的能力。因此，Felix 进入 Alice 的生活，并不只是一个爱情场景，也是一次与另一种资源分配方式的相遇。`
+      },
+      {
+        title: "Alice and Felix: Cultural Authority Is Also Power",
+        titleZh: "Alice 与 Felix：文化权威也是权力",
+        en: `Felix should not be reduced to a symbolic “working-class character” whose only function is to expose Alice's privilege. He has his own judgments about the literary world and does not automatically treat cultural prestige as proof of superior intelligence or morality.
+
+Alice occupies an unusual position in Rooney's work because literary success has allowed cultural capital to convert into large amounts of economic and symbolic capital. She can be critical of capitalism while continuing to possess the wealth produced by literary success.
+
+That is not necessarily hypocrisy. It is a structural contradiction. Political conviction does not erase capital already possessed.`,
+        zh: `Felix 不能被简化成一个象征性的“工人阶级人物”，仿佛他的唯一作用是揭露 Alice 的特权。他对文学世界有自己的判断，也不会自动把文化声望理解成更高智慧或更高道德的证明。
+
+Alice 在 Rooney 小说中拥有一个很特别的位置：文学成功使她的文化资本转化成大量经济资本与象征资本。她可以批判资本主义，同时继续拥有文学成功带给她的财富。
+
+这不一定只是虚伪，而首先是结构性矛盾。政治信念无法让已经拥有的资本停止发挥作用。`
+      },
+      {
+        title: "Eileen and Alice: The Educated Middle Class Is Not One Class Position",
+        titleZh: "Eileen 与 Alice：所谓“受教育中产阶级”并不是一个统一位置",
+        en: `Alice and Eileen are particularly useful to read together because both inhabit literary culture but not the same economic reality. Reynolds describes Eileen as an editorial assistant and Alice as a novelist whose life has become internationally visible.
+
+Both possess cultural capital. Only one has converted it into extraordinary economic and symbolic capital.
+
+This distinction is important because “middle class” can conceal enormous internal differences. A publishing employee and an internationally successful author may understand the same books while possessing radically different control over housing, time, travel, and future security.
+
+Rooney's fiction repeatedly places culturally similar people beside one another in order to expose material divergence.`,
+        zh: `Alice 与 Eileen 尤其适合放在一起阅读，因为两个人都生活在文学文化内部，却并不拥有同样的经济现实。Reynolds 把 Eileen 描述为文学杂志编辑助理，而 Alice 则是生活已经进入国际公众视野的小说家。
+
+两个人都拥有文化资本，但只有其中一人的文化资本已经转化成巨大的经济与象征资本。
+
+这个区别很重要，因为“中产阶级”这个标签会掩盖其中巨大的内部差异。一个出版从业者与国际畅销作家可以理解同样的文学作品，却拥有完全不同的住房、时间、旅行条件与未来安全。
+
+Rooney 反复把文化上相似的人放在一起，让物质差异因此变得更加明显。`
+      },
+      {
+        title: "Intermezzo: When Material Dependency Becomes Explicit",
+        titleZh: "《间奏曲》：当物质依赖不再能够隐藏",
+        en: `Intermezzo, published in 2024 as Rooney's fourth novel, extends these questions into a different set of relationships. Genevieve Couvret's 2026 peer-reviewed article compares Normal People and Intermezzo, analysing sex and intimacy in relation to class, gender, age, and social convention.
+
+Peter is a lawyer; Naomi is a younger student whose material circumstances are less secure. Andrea Long Chu's 2024 critical essay highlights the ambiguity of their relationship: material support can be understood simultaneously as care and as a source of unequal power.
+
+This does not mean that dependence proves affection to be false. It means that sincerity does not erase material asymmetry. Rooney repeatedly allows both facts to remain true.`,
+        zh: `2024年出版的《间奏曲》作为 Rooney 的第四部长篇，把这些问题带入另一组人物关系。Genevieve Couvret 2026年的同行评议论文把《正常人》与《间奏曲》并置，分析性与亲密关系如何与阶级、性别、年龄和社会规范发生关系。
+
+Peter 是律师，Naomi 则是一位更年轻、物质处境较不稳定的学生。Andrea Long Chu 2024年的长篇评论特别关注这段关系中的模糊性：经济支持既可以被理解为照顾，也可以成为不平等权力的来源。
+
+这并不意味着只要存在依赖，感情就一定是假的。它意味着真诚不会取消物质上的不对称。Rooney 一直让这两个事实同时成立。`
+      },
+      {
+        title: "Care Is Also a Distribution of Resources",
+        titleZh: "照顾同时也是资源的分配",
+        en: `One of the important developments across Rooney's four novels is that “care” becomes increasingly difficult to separate from material resources.
+
+Offering somebody accommodation is care, but it also means having accommodation to offer. Paying for something may express affection, but it also reveals who has sufficient economic capital to pay. Introducing someone to a professional network can be generous while also demonstrating possession of social capital.
+
+Bourdieu's language prevents us from reducing these acts either to pure generosity or pure domination. Capital is a resource that expands the range of actions available to its holder. A relationship can therefore contain genuine care and unequal resources at the same time.`,
+        zh: `纵观 Rooney 的四部小说，一个越来越明显的问题是，“照顾”很难与物质资源彻底分开。
+
+给别人提供住所是一种照顾，但它同时说明你拥有可以提供的住所。替别人承担费用可以表达感情，却也显示谁拥有足够的经济资本。把一个人介绍进职业网络可以是慷慨行为，同时也说明一个人掌握社会资本。
+
+Bourdieu 的语言避免我们把这些行为简单解释成纯粹的慷慨或纯粹的控制。资本首先是一种资源，会扩大持有者能够采取的行动范围。因此，一段关系完全可以同时包含真实的照顾与不平等的资源。`
+      },
+      {
+        title: "Housing May Be Rooney's Most Consistent Class Device",
+        titleZh: "住房可能是 Rooney 最稳定的阶级装置",
+        en: `Across all four novels, housing repeatedly becomes a place where social position becomes visible.
+
+In Conversations with Friends, entering Melissa and Nick's domestic world makes material difference tangible. In Normal People, the relationship begins against the background of Lorraine's paid work in Marianne's family home, and later Connell's accommodation problem directly affects his relationship with Marianne. In Beautiful World, Where Are You, Alice's property makes her economic position immediately visible in relation to Felix. In Intermezzo, housing insecurity and material support again enter intimate relationships.
+
+A house is therefore rarely just scenery in Rooney. It answers practical questions: Who owns? Who rents? Who can host? Who needs somewhere to stay? Who can leave without immediately facing material instability?`,
+        zh: `纵观四部长篇，住房反复成为社会位置变得可见的地方。
+
+在《聊天记录》中，进入 Melissa 与 Nick 的家庭空间，让物质差异变得可以感知。在《正常人》中，两人的关系一开始就以 Lorraine 在 Marianne 家做有薪清洁工作为背景；后来，Connell 的住宿困难又直接影响了他与 Marianne 的关系。在《美丽的世界，你在哪里》中，Alice 的住宅让她与 Felix 之间的经济位置立即变得清楚。到了《间奏曲》，住房不稳定与物质支持再次进入亲密关系。
+
+所以，对 Rooney 来说，房子很少只是布景。它回答的是非常实际的问题：谁拥有？谁租住？谁有能力让别人住进来？谁需要一个地方住？谁可以离开一段关系而不立刻遭遇物质上的不稳定？`
+      },
+      {
+        title: "Why the Jane Austen Comparison Is Useful",
+        titleZh: "为什么 Rooney 与 Jane Austen 的比较仍然有用",
+        en: `Rooney has often been placed in relation to Jane Austen, but the comparison is most useful when it concerns social structure rather than simply romance. Couvret notes Rooney's own discussion of Austen and of the English-language novel's historical concern with gender, status, sexual morality, love, and marriage.
+
+Austen repeatedly makes income, property, inheritance, and social rank part of the romantic plot. Rooney replaces estates and marriage settlements with rent, scholarships, literary income, university access, salaries, professional networks, and precarious housing.
+
+The historical institutions have changed, but the relationship between intimacy and material conditions remains. This is why the scene you enter through a front door can matter as much as a declaration of love.`,
+        zh: `Rooney 经常被拿来与 Jane Austen 比较，但这个比较真正有意义的地方并不是两人都写爱情，而是她们都关注社会结构。Couvret 特别提到 Rooney 自己关于 Austen 以及英语小说传统的论述：性别、地位、性道德、爱情与婚姻长期以来就是这一文学形式的核心问题。
+
+Austen 不断把收入、房产、遗产与社会等级写进爱情情节。Rooney 则把庄园与婚姻财产协议换成房租、奖学金、文学收入、大学准入、工资、职业网络与住房不稳定。
+
+历史制度已经改变，但亲密关系与物质条件之间的联系仍然存在。这也是为什么，在 Rooney 的小说里，一个人第一次走进另一人的家，有时与一次爱情告白同样重要。`
+      },
+      {
+        title: "Rooney's Characters Constantly Exchange Positions",
+        titleZh: "Rooney 的人物总在交换位置",
+        en: `Another reason Rooney avoids simple class morality is that no character possesses every kind of power.
+
+Connell has social confidence at school but class insecurity at Trinity. Marianne has family wealth but experiences serious vulnerability within her family and intimate life. Frances lacks economic security but possesses substantial cultural competence. Alice possesses economic and cultural power but is psychologically unsettled by celebrity and by the system that has produced her wealth. Peter can offer Naomi material help while remaining emotionally unstable in other parts of his life.
+
+Bourdieu's framework makes this easier to describe because individuals possess different configurations of capital rather than one total quantity called “power.” Psychological power, economic power, cultural authority, and social confidence need not point in the same direction.`,
+        zh: `Rooney 避免简单阶级道德判断的另一个原因，是没有任何人物在所有层面都掌握权力。
+
+Connell 在中学拥有社交自信，进入 Trinity 后却出现强烈的阶级不安全感。Marianne 拥有家庭财富，却在家庭与亲密生活中承受严重脆弱。Frances 缺乏经济安全，却拥有很高的文化能力。Alice 同时拥有经济与文化权力，却对名人身份以及制造其财富的制度感到不安。Peter 可以为 Naomi 提供物质帮助，同时在自己生活的其他部分保持明显的情绪不稳定。
+
+Bourdieu 的框架使这种情况更容易描述，因为一个人拥有的是不同形式资本的组合，而不是一个叫作“权力”的单一总量。心理权力、经济权力、文化权威与社会自信，并不一定朝同一个方向排列。`
+      },
+      {
+        title: "Class Is Often Clearest in Embarrassment",
+        titleZh: "阶级最清楚的时候，往往是人物感到尴尬的时候",
+        en: `Rooney rarely pauses the narrative to explain class theory. Instead, class emerges when someone does not know whether they should let another person pay; when a character needs somewhere to live but cannot ask; when someone enters a very large house and suddenly becomes aware of the other person's life before they met; or when accepting help feels like changing the meaning of a relationship.
+
+These scenes show class as something embodied rather than merely ideological. A character's political beliefs may be egalitarian while their body still registers difference through embarrassment, caution, resentment, gratitude, or shame.
+
+That tension is central to Rooney.`,
+        zh: `Rooney 很少停下小说给读者解释阶级理论。相反，阶级会在一个人不知道是否应该让别人结账时出现；会在一个人需要住处却开不了口时出现；会在一个人进入一栋非常大的房子，突然意识到恋人在认识自己以前究竟生活在怎样的世界时出现；也会在“接受帮助是否会改变这段关系的性质”这一犹豫中出现。
+
+这些场景把阶级表现为身体经验，而不仅是一种意识形态。人物的政治信念可以非常平等主义，但身体依然会通过尴尬、谨慎、怨恨、感激或羞耻感知差异。
+
+这种张力正是 Rooney 小说的核心之一。`
+      },
+      {
+        title: "Love Does Not Abolish Class, but Class Does Not Prove Love Is False",
+        titleZh: "爱情不会取消阶级，但阶级也不能证明爱情是假的",
+        en: `It would be too simple to describe Rooney's novels as saying that capitalism prevents genuine intimacy. Carregal-Romero reaches a more nuanced conclusion about the first two novels: although the characters cannot transform the neoliberal society around them, they gradually move away from concealment and toward more honest recognition of vulnerability, dependence, and care.
+
+Rooney does not allow love to function as a magical solution to inequality. Connell and Marianne do not acquire the same family history because they love each other. Alice's wealth does not disappear because Felix enters her life. Peter's support for Naomi does not cease to have material consequences simply because his motives may include affection.
+
+But Rooney also resists the opposite reduction: that unequal resources necessarily make affection fraudulent. The more difficult question is whether people can acknowledge the unequal conditions under which their relationship exists.`,
+        zh: `如果把 Rooney 的小说理解成“资本主义让真正的亲密关系不可能发生”，会过于简单。Carregal-Romero 对前两部小说提出了更细致的判断：人物虽然无法改变周围的新自由主义社会，却逐渐从隐藏自身需要，转向更诚实地承认脆弱、依赖与照顾。
+
+Rooney 并没有让爱情成为解决不平等的魔法。Connell 与 Marianne 不会因为相爱而突然拥有相同的家庭历史；Felix 进入 Alice 的生活，也不会使她的财富消失；Peter 对 Naomi 的帮助也不会因为其中包含感情，就停止产生物质后果。
+
+但 Rooney 同样拒绝另一种简单化：只要双方资源不平等，感情就一定是虚假的。更困难的问题是，两个人能否承认这段关系发生于不平等条件之中。`
+      },
+      {
+        title: "Is Rooney Writing Marxist Novels?",
+        titleZh: "Rooney 是在写“马克思主义小说”吗？",
+        en: `Rooney's Marxist political commitments are widely documented, but it does not follow that each novel should be treated as a fictional illustration of Marxist doctrine. Andrea Long Chu's essay is useful precisely because it treats the contradiction seriously rather than turning Rooney's fiction into a political programme.
+
+Chu argues that Rooney's lovers repeatedly seek escape from social convention through intimacy, only to encounter inequalities of wealth, status, and power inside love itself.
+
+Her novels do not imagine love outside social structures. They examine love as something made inside them. Rooney does not ask whether intimacy can become economically pure. She asks what people do when affection and inequality occupy the same relationship.`,
+        zh: `Rooney 的马克思主义政治立场有公开记录，但这并不意味着她的每部小说都应该被当作马克思主义理论的文学插图。Andrea Long Chu 的评论之所以有用，正因为她认真处理这种矛盾，而没有把 Rooney 的小说转换成政治纲领。
+
+Chu 认为，Rooney 的恋人反复试图通过亲密关系逃离社会规范，却又在爱情内部重新遇见财富、地位与权力的不平等。
+
+Rooney 的小说并不想象一种存在于社会结构之外的爱情，而是研究爱情如何在这些结构内部形成。她没有追问亲密关系能否变成经济上纯洁的东西，而是观察当感情与不平等同时存在于一段关系中时，人究竟会怎样行动。`
+      },
+      {
+        title: "Reading the Four Novels Together",
+        titleZh: "把四部长篇放在一起阅读",
+        en: `Conversations with Friends examines a young woman with substantial cultural capital but limited economic security entering the world of older, wealthier cultural professionals.
+
+Normal People develops the issue through changing social fields. Connell's social advantage at school does not protect him from class insecurity at Trinity, while Marianne's family resources and cultural familiarity become more valuable there.
+
+Beautiful World, Where Are You makes cultural and economic inequality visible through Alice, Felix, and Eileen. The contrast allows us to see that cultural participation and economic security do not automatically coincide.
+
+Intermezzo brings dependence, money, age, sex, and social convention into even more explicit relation.
+
+Across all four novels, Rooney's question becomes less “Can people from different classes fall in love?” than “What happens to intimacy when people possess different resources and know it?”`,
+        zh: `《聊天记录》讨论一个文化资本很高、经济安全却有限的年轻女性如何进入更年长、更富裕的文化从业者世界。
+
+《正常人》进一步通过不断变化的社会场域处理这个问题。Connell 在学校的社交优势无法保护他免受 Trinity 中的阶级不安全感影响，而 Marianne 的家庭资源与文化熟悉度则在大学环境中获得更高价值。
+
+《美丽的世界，你在哪里》通过 Alice、Felix 与 Eileen 让文化与经济不平等进一步变得可见。这种对照让我们看到，文化参与与经济安全并不会自动重合。
+
+《间奏曲》则把依赖、金钱、年龄、性与社会规范更加直接地放在同一个关系结构中。
+
+所以，把四部小说放在一起以后，Rooney 真正提出的问题与其说是“不同阶级的人能不能相爱”，不如说是：“当两个人拥有不同资源，而且彼此都知道这一点时，亲密关系会发生什么？”`
+      },
+      {
+        title: "Pierre Bourdieu and Rooney: A Clarification",
+        titleZh: "Pierre Bourdieu 与 Rooney：分析边界说明",
+        en: `The Bourdieu framework used here is an editorial interpretation rather than a claim that all Rooney scholarship uses Bourdieu directly.
+
+Bourdieu's “The Forms of Capital” provides the concepts of economic, cultural, and social capital and describes cultural capital in embodied, objectified, and institutionalised forms. Those concepts clarify patterns supported by the novels and verified Rooney scholarship.
+
+There is not sufficient evidence to claim that a scholarly consensus already interprets all four Rooney novels through Bourdieu. That stronger claim would be unsupported.`,
+        zh: `这里使用 Bourdieu，是本期日历采用的分析框架，并不意味着现有 Rooney 研究都直接使用了 Bourdieu。
+
+Bourdieu 的“The Forms of Capital”提供了经济资本、文化资本与社会资本等概念，也区分了文化资本的身体化、客体化和制度化形态。本文借助这些概念整理小说文本和已经核实的 Rooney 研究所支持的现象。
+
+目前没有足够证据，可以声称学界已经形成“以 Bourdieu 统一解释 Rooney 四部长篇”的共识。如果这样写，就会超出目前能够核实的文献范围。`
+      },
+      {
+        title: "Scholarship",
+        titleZh: "学术文献",
+        en: `Pierre Bourdieu, “The Forms of Capital,” 1986. Published in J. G. Richardson's Handbook of Theory and Research for the Sociology of Education, pp. 241–258. This is the principal theoretical foundation used here for economic, cultural, and social capital.
+
+José Carregal-Romero, “Unspeakable Injuries and Neoliberal Subjectivities in Sally Rooney's Conversations with Friends and Normal People,” 2023. Published by Palgrave Macmillan in Narratives of the Unspoken in Contemporary Irish Fiction. The chapter examines silence, concealment, neoliberal individualism, and emotional vulnerability.
+
+María Amor Barros-del Río, “Sally Rooney's Normal People: the millennial novel of formation in recessionary Ireland,” 2022. Irish Studies Review, 30(2), pp. 176–192. The article discusses social-class inequality, gender polarisation, material success, and neoliberal individuation.
+
+Paige Reynolds, “Introduction: Looking,” in Modernism in Irish Women's Contemporary Writing: The Stubborn Mode, 2023. Oxford University Press.
+
+Genevieve Couvret, “‘The Origin of Everything’: Sex Against Social Convention in Sally Rooney's Normal People and Intermezzo,” 2026. Critique: Studies in Contemporary Fiction.
+
+Andrea Long Chu, “A Lover's Theory of Marxism,” 2024. This is a major critical essay rather than a peer-reviewed academic article and is used here as literary criticism, not scholarly consensus.`,
+        zh: `Pierre Bourdieu, “The Forms of Capital,” 1986. 收录于 J. G. Richardson 编 Handbook of Theory and Research for the Sociology of Education，页241–258。本期关于经济资本、文化资本与社会资本的主要理论依据来自这篇文章。
+
+José Carregal-Romero, “Unspeakable Injuries and Neoliberal Subjectivities in Sally Rooney's Conversations with Friends and Normal People,” 2023. 由 Palgrave Macmillan 收录于 Narratives of the Unspoken in Contemporary Irish Fiction。文章讨论 Rooney 前两部小说中的沉默、隐藏、新自由主义个人主义与情感脆弱。
+
+María Amor Barros-del Río, “Sally Rooney's Normal People: the millennial novel of formation in recessionary Ireland,” 2022. 发表于 Irish Studies Review 30(2)，页176–192。论文讨论社会阶级不平等、性别分化、物质成功与新自由主义个人化。
+
+Paige Reynolds, “Introduction: Looking,” 收录于 Modernism in Irish Women's Contemporary Writing: The Stubborn Mode, 2023. Oxford University Press。
+
+Genevieve Couvret, “‘The Origin of Everything’: Sex Against Social Convention in Sally Rooney's Normal People and Intermezzo,” 2026. 发表于 Critique: Studies in Contemporary Fiction。
+
+Andrea Long Chu, “A Lover's Theory of Marxism,” 2024. 这是一篇重要文学批评文章，而不是同行评议论文，因此这里把它作为批评材料使用，而不是学术共识。`
+      }
+    ],
+    quotesTitle: "Selected Passage",
+    quotesTitleZh: "引文",
+    quotesAtEnd: true,
+    quote: "Love is the discursive practice and unpaid labour is the result.",
+    quoteSource: "Sally Rooney, Conversations with Friends",
+    quoteReadingEn: `The line should not be treated as Rooney's own manifesto. It belongs to Frances, whose habit is to translate emotional experience into political language. But it identifies a problem that all four novels continue to examine: love is often described as private and non-economic even though intimate life involves housing, time, care, money, work, and access to resources.
+
+The novels do not conclude that love is therefore “nothing but” economic exchange. They ask why we are so invested in pretending that material relations stop operating when love begins.`,
+    quoteReadingZh: `这句话不应被当作 Rooney 本人的政治宣言。它属于 Frances，而 Frances 的一个重要特点，就是习惯把情感经验翻译成政治语言。但它确实指出了四部小说不断处理的问题：爱情经常被描述成私人且非经济的领域，但亲密生活实际上一直涉及住房、时间、照顾、金钱、劳动与资源准入。
+
+小说并没有因此得出“爱情不过就是经济交换”的结论。它们真正追问的是：为什么我们如此希望相信，当爱情开始以后，物质关系就应该停止运作？`,
+    relatedWorks: [
+      "Conversations with Friends｜《聊天记录》，2017",
+      "Normal People｜《正常人》，2018",
+      "Beautiful World, Where Are You｜《美丽的世界，你在哪里》，2021",
+      "Intermezzo｜《间奏曲》，2024",
+      "Pierre Bourdieu, The Forms of Capital"
+    ],
+    tags: [
+      "class",
+      "intimacy",
+      "economic capital",
+      "cultural capital",
+      "housing",
+      "vulnerability",
+      "care",
+      "neoliberalism",
+      "Irish fiction"
+    ],
+    tagsZh: [
+      "阶级",
+      "亲密关系",
+      "经济资本",
+      "文化资本",
+      "住房",
+      "脆弱性",
+      "照顾",
+      "新自由主义",
+      "爱尔兰小说"
+    ],
+    sourceText: "Sally Rooney's four published novels",
     status: "published"
   }
 ];

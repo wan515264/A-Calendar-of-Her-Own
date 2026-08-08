@@ -117,8 +117,8 @@ function getArticleSections(card: DailyCard) {
 function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
   const person = getPerson(card.personId);
   const personLabel = getCategoryZh(person?.category ?? card.type);
-  const image = getImage(person);
-  const imageCredit = getImageCredit(person);
+  const image = card.image ?? getImage(person);
+  const imageCredit = card.imageCredit ?? getImageCredit(person);
   const relatedWorks = Array.from(new Set([...(card.relatedWorks ?? []), ...(person?.keyWorks ?? [])]));
   const tags = mergeTags(card, person);
   const author = splitAuthor(card.author);
@@ -170,6 +170,7 @@ function dailyCardToTheoryCard(card: DailyCard): ResolvedDailyCard {
     sourceText: card.sourceText,
     image,
     imageCredit,
+    gallery: card.gallery,
     introZh,
     introEn,
     articleSections: getArticleSections(card),

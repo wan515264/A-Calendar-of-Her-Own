@@ -38,8 +38,10 @@ type TheoryCardProps = {
 };
 
 function getImageInfo(card: TheoryCardType) {
-  const image = card.person?.detailImage ?? card.person?.image;
-  const credit = card.person?.detailImage ? card.person?.detailImageCredit : card.person?.imageCredit;
+  const personImage = card.person?.detailImage ?? card.person?.image;
+  const personCredit = card.person?.detailImage ? card.person?.detailImageCredit : card.person?.imageCredit;
+  const image = card.image ?? personImage;
+  const credit = card.imageCredit ?? personCredit;
   return { image, credit };
 }
 
@@ -49,7 +51,8 @@ function getUsableImageSrc(image?: string) {
 }
 
 function isVisualPerson(card: TheoryCardType) {
-  return card.person?.category === 'artist' || card.person?.category === 'photographer';
+  const visualType = ['artist', 'photographer', 'performance', 'installation', 'sculpture'].includes(card.cardType ?? '');
+  return visualType && Boolean(getImageInfo(card).image || card.gallery?.length);
 }
 
 function getThematicTitle(card: TheoryCardType) {
@@ -82,7 +85,7 @@ function renderImagePreview(card: TheoryCardType) {
 
   return (
     <figure className="image-preview">
-      {imageSrc ? <img src={imageSrc} alt={card.person?.name ?? card.cardTitle ?? 'Daily card preview'} /> : <div className="image-preview__placeholder">✦</div>}
+      {imageSrc ? <img src={imageSrc} alt={card.person?.name ?? card.creator ?? card.cardTitle ?? 'Daily card preview'} /> : <div className="image-preview__placeholder">✦</div>}
       {credit && <figcaption>{credit}</figcaption>}
     </figure>
   );

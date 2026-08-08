@@ -70,6 +70,11 @@ export type TheoryCard = {
   sourceText?: string;
   image?: string;
   imageCredit?: string;
+  gallery?: Array<{
+    src: string;
+    alt?: string;
+    credit?: string;
+  }>;
   introZh?: string;
   introEn?: string;
   articleSections?: Array<{

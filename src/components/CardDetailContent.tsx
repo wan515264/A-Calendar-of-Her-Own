@@ -42,8 +42,10 @@ function getTypeBadge(card: TheoryCard) {
 }
 
 function getImageInfo(card: TheoryCard) {
-  const image = card.person?.detailImage ?? card.person?.image;
-  const credit = card.person?.detailImage ? card.person?.detailImageCredit : card.person?.imageCredit;
+  const personImage = card.person?.detailImage ?? card.person?.image;
+  const personCredit = card.person?.detailImage ? card.person?.detailImageCredit : card.person?.imageCredit;
+  const image = card.image ?? personImage;
+  const credit = card.imageCredit ?? personCredit;
   return { image, credit };
 }
 
@@ -53,7 +55,8 @@ function getUsableImageSrc(image?: string) {
 }
 
 function isVisualPerson(card: TheoryCard) {
-  return card.person?.category === 'artist' || card.person?.category === 'photographer';
+  const visualType = ['artist', 'photographer', 'performance', 'installation', 'sculpture'].includes(card.cardType ?? '');
+  return visualType && Boolean(getImageInfo(card).image || card.gallery?.length);
 }
 
 function getThematicTitle(card: TheoryCard) {
@@ -117,14 +120,33 @@ function renderWork(work: TheoryCard['relatedWorks'][number]) {
 }
 
 function renderDetailImage(card: TheoryCard) {
-  const { image, credit } = { image: card.image ?? getImageInfo(card).image, credit: card.imageCredit ?? getImageInfo(card).credit };
+  if (!isVisualPerson(card)) return null;
+
+  const gallery = card.gallery
+    ?.map((item) => ({ ...item, src: getUsableImageSrc(item.src) }))
+    .filter((item): item is typeof item & { src: string } => Boolean(item.src));
+
+  if (gallery?.length) {
+    return (
+      <div className="image-gallery" aria-label="Artwork image gallery">
+        {gallery.map((item, index) => (
+          <figure className="image-preview image-preview--detail" key={`${item.src}-${index}`}>
+            <img src={item.src} alt={item.alt ?? `${card.creator ?? card.cardTitle ?? 'Artwork'} image ${index + 1}`} />
+            {item.credit && <figcaption>{item.credit}</figcaption>}
+          </figure>
+        ))}
+      </div>
+    );
+  }
+
+  const { image, credit } = getImageInfo(card);
   const imageSrc = getUsableImageSrc(image);
 
-  if (!isVisualPerson(card) || !imageSrc) return null;
+  if (!imageSrc) return null;
 
   return (
     <figure className="image-preview image-preview--detail">
-      <img src={imageSrc} alt={card.person?.name ?? card.cardTitle ?? 'Daily card detail'} />
+      <img src={imageSrc} alt={card.person?.name ?? card.creator ?? card.cardTitle ?? 'Daily card detail'} />
       {credit && <figcaption>{credit}</figcaption>}
     </figure>
   );
