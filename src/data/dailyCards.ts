@@ -6528,5 +6528,493 @@ The novels do not conclude that love is therefore “nothing but” economic exc
     ],
     sourceText: "Sally Rooney's four published novels",
     status: "published"
+  },
+  {
+    id: "2026-08-09-george-eliot-middlemarch",
+    date: "2026-08-09",
+    type: "novel",
+    title: "Middlemarch: A Study of Provincial Life",
+    titleZh: "《米德尔马契》",
+    titleSeparator: " ",
+    years: "1819–1880",
+    role: "Novel｜小说 / Realism｜现实主义 / Women and Vocation｜女性与志业",
+    creator: "George Eliot",
+    creatorZh: "乔治·艾略特",
+    focusTitle: "What Does a Woman Do with Her Ability?",
+    focusTitleZh: "一个有能力的女人，如何安放自己的才能？",
+    summaryEn: "George Eliot's Middlemarch begins with a woman who wants more from life than marriage. Dorothea Brooke is intelligent, morally serious, and eager to devote herself to work that matters. Yet the society around her offers few recognised forms through which a woman like her can turn ability into vocation.",
+    summaryZh: "乔治·艾略特的《米德尔马契》从一个不满足于婚姻的女性开始。多萝西娅·布鲁克聪慧、认真，也强烈希望把自己的生命投入有意义的事业。但她所处的社会几乎没有为这样的女性提供把能力转化为志业的正式路径。",
+    introEn: `Middlemarch was published in instalments in 1871–72. Its subtitle, A Study of Provincial Life, is important: Eliot does not follow only one heroine or one marriage. She constructs a network of households, professions, financial interests, political ambitions, friendships, and failed projects in a provincial English town.
+
+Within that network, Dorothea Brooke's problem is distinctive. She wants a vocation but cannot easily name one. The novel's opening comparison with Saint Teresa establishes this immediately: Dorothea has a strong desire for a consequential life, but she has been born into social circumstances that provide no obvious institutional form for such ambition.
+
+This question of vocation has a substantial scholarly history. One influential study describes “lack of vocation” as central to the novel's treatment of female identity, while later research continues to examine Dorothea's efforts to find meaningful work outside the conventional female roles available to her.`,
+    introZh: `《米德尔马契》于1871至1872年间分册出版。它的副标题是“外省生活研究”，这一点很重要：艾略特并没有只追随一个女主人公或一段婚姻，而是建立了一整套由家庭、职业、金钱关系、政治抱负、友谊与失败计划组成的地方社会网络。
+
+在这一网络中，多萝西娅·布鲁克面临的问题尤其特殊。她想要一种志业，却无法清楚说出它是什么。小说开头把她与圣女特蕾莎相提并论，已经点明了这一点：多萝西娅强烈渴望过一种有实际意义的人生，但她出生在一个几乎没有为这种抱负提供制度出口的社会中。
+
+“志业”并不是一种后来强加给小说的阅读方式。早期重要研究已经把“缺乏志业”视为《米德尔马契》处理女性身份的核心问题之一，而后来的研究仍在继续讨论，多萝西娅如何试图在传统女性角色之外寻找有意义的工作。`,
+    articleSections: [
+      {
+        title: "Dorothea Wants to Do Something",
+        titleZh: "多萝西娅想真正做一点事情",
+        en: `When we first meet Dorothea, she is working on architectural plans for cottages. Research in The Cambridge Quarterly argues that this activity should be taken seriously rather than dismissed as an eccentric hobby. Her interest in drawing plans reveals a practical and constructive dimension of her ambition: she wants to alter the material conditions in which other people live.
+
+Her interest in housing reform is also historically significant. Research on women's lives around Middlemarch notes that Dorothea's plans echo real nineteenth-century female reformers whose public work developed through philanthropy, housing, nursing, education, and religious service because formal professions were often closed to them.
+
+The problem is therefore not that Dorothea has no ambition. It is that ambition appears before she has a viable social role through which to realise it.`,
+        zh: `小说第一次让我们见到多萝西娅时，她正在绘制住宅改造的建筑图纸。近期发表于 The Cambridge Quarterly 的研究指出，这个细节不应被当成女主人公的古怪爱好。多萝西娅对建筑图的兴趣揭示了她抱负中非常实际的一面：她希望改善他人的居住条件，也希望自己的思想能够产生物质后果。
+
+她对住宅改革的兴趣也具有历史意义。围绕《米德尔马契》与十九世纪女性生活的研究指出，多萝西娅的计划与当时真实存在的女性改革者形成呼应。由于正式职业领域往往不向女性开放，许多女性只能通过慈善、住房改革、护理、教育或宗教服务进入公共事业。
+
+因此，问题并不在于多萝西娅没有抱负，而在于抱负已经出现，社会却还没有提供一种现实身份让她实现这些抱负。`
+      },
+      {
+        title: "Marriage as an Intellectual Career",
+        titleZh: "把婚姻误认为思想事业",
+        en: `Dorothea's attraction to Casaubon is inseparable from his identity as a scholar. She imagines marriage to him as an education. She hopes to read with him, assist his research, and participate in the completion of his enormous project, The Key to All Mythologies.
+
+Her mistake is therefore more complex than choosing an unsuitable husband. She has confused access to a learned man with access to intellectual life itself.
+
+Her desire for self-education becomes entangled with her ideal of serving a male scholar. The arrangement initially appears compatible with nineteenth-century femininity because she can pursue knowledge while describing her work as assistance to her husband. A woman might have intellectual ability without being recognised as an intellectual subject in her own right.`,
+        zh: `多萝西娅被卡索朋吸引，与他的学者身份密不可分。她把与他的婚姻想象成一种教育，希望与他一起阅读、帮助研究，并参与完成他那部庞大的《神话学大全之钥》。
+
+所以，她的错误并不仅仅是“嫁错了人”。她把接近一个有学问的男人，误认为进入思想生活本身。
+
+她追求自我教育的愿望，与“服务一位男性学者”的理想纠缠在一起。这个安排最初之所以看起来可以被社会接受，是因为她可以一边接近知识，一边把自己的知识劳动描述成对丈夫的帮助。一个女人完全可能拥有思想能力，却不被承认为独立的知识主体。`
+      },
+      {
+        title: "Casaubon Does Not Want a Collaborator",
+        titleZh: "卡索朋并不需要一个合作者",
+        en: `Dorothea initially believes that Casaubon's project is larger than himself and that she can join him in serving knowledge. What she discovers is a scholar whose relationship to knowledge is dominated by insecurity. Casaubon does not welcome Dorothea's questions as evidence of intellectual seriousness. He increasingly experiences her intelligence as judgment.
+
+Their marriage therefore reproduces a hierarchy that Dorothea had mistaken for collaboration. Middlemarch refuses the idea that marriage automatically offers women intellectual companionship. The legal and social bond may place two people in the same household without placing them in an equal relationship to knowledge.`,
+        zh: `多萝西娅最初相信，卡索朋的研究事业比他个人更加重要，因此她也可以加入这一事业，共同服务于知识。但她后来发现，卡索朋与知识之间的关系受到强烈不安全感支配。他并不把多萝西娅的问题看作思想认真性的表现，反而越来越把她的聪明感受为一种评判。
+
+这段婚姻由此复制了一种多萝西娅最初误以为是合作的等级关系。《米德尔马契》拒绝把婚姻天然等同于思想伙伴关系。法律和社会关系可以让两个人生活在同一个家庭中，却并不会自动让他们在知识面前拥有平等位置。`
+      },
+      {
+        title: "The Woman Question Is Larger Than Dorothea",
+        titleZh: "“女性问题”并不只存在于多萝西娅身上",
+        en: `Dorothea is not Eliot's only model of womanhood. Rosamond Vincy offers a very different form of female education and ambition. She has been trained in accomplishments, appearance, social manners, and the management of desirability. Her skills reflect the forms of competence that middle-class women were encouraged to develop in preparation for marriage.
+
+The novel examines women's vulnerability inside marriage through both Dorothea and Rosamond. They make very different choices, but both enter a social institution structured by gendered expectations and economic dependence. It therefore resists an easy contrast between an intellectually serious “good woman” and a superficial “bad woman.”`,
+        zh: `多萝西娅并不是艾略特提供的唯一女性模式。罗莎蒙德·文西代表了完全不同的女性教育与抱负。她接受的教育集中在才艺、外貌、社交礼仪以及如何经营吸引力，这些能力反映了中产阶级女性为婚姻生活所接受的训练。
+
+小说通过多萝西娅与罗莎蒙德两条不同的人生路径，讨论女性在婚姻中的脆弱位置。她们作出了完全不同的选择，却都进入了一套受到性别期待与经济关系塑造的制度。因此，小说没有建立认真求知的“好女人”与肤浅虚荣的“坏女人”之间的简单对立。`
+      },
+      {
+        title: "Men Have Vocations Too",
+        titleZh: "男性同样面对志业问题",
+        en: `The novel's concern with vocation extends beyond women. Tertius Lydgate enters Middlemarch with a clear professional ambition: he wants to advance medical science and conduct serious research. Unlike Dorothea, he has access to a recognised profession.
+
+Lydgate can fail within a profession. Dorothea struggles even to obtain one.
+
+Eliot nevertheless refuses to romanticise male professional freedom. Lydgate's vocation is compromised by debt, social pressure, marriage, ambition, and poor judgment. Both imagine that life can be organised around serious purpose, but their social positions give them very different opportunities to test that belief.`,
+        zh: `小说对“志业”的讨论并不限于女性。特提乌斯·利德盖特进入米德尔马契时拥有非常明确的职业抱负：他希望推动医学发展，也想进行真正的科学研究。与多萝西娅不同，他拥有进入正式职业的资格。
+
+利德盖特可以在一个职业内部失败，而多萝西娅面临的问题，是她甚至难以获得一个被承认的职业位置。
+
+艾略特也没有浪漫化男性的职业自由。利德盖特的志业受到债务、社会压力、婚姻、野心与判断失误的侵蚀。两个人都相信人生可以围绕严肃目标展开，但他们的社会位置决定了两人能够以完全不同的方式去实践这种信念。`
+      },
+      {
+        title: "Women, Knowledge, and Institutions",
+        titleZh: "女性、知识与制度",
+        en: `Dorothea has access to books. She has money. She is able to read, think, travel, and engage in political-economic questions. What she lacks is not literacy but an organised intellectual community in which her knowledge can become sustained practice.
+
+This is why vocation cannot be reduced to “following your passion.” A vocation requires conditions: training, colleagues, recognised authority, resources, and the possibility of continuing work over time.
+
+Dorothea has desire before she has structure.`,
+        zh: `多萝西娅拥有书籍，也拥有财产。她能够阅读、思考、旅行，还尝试理解政治经济学。她缺少的不是识字能力，而是一个能够把知识转化为持续实践的制度共同体。
+
+这也是为什么“志业”不能被简化成“追随热爱”。志业需要条件：训练、同行、被承认的权威、资源，以及能够长期持续工作的机会。
+
+多萝西娅拥有愿望，却没有结构。`
+      },
+      {
+        title: "The Saint Teresa Prologue",
+        titleZh: "圣女特蕾莎序章",
+        en: `The novel famously begins by invoking Saint Teresa of Ávila. Eliot recalls the story of the young Teresa setting out with her little brother in search of martyrdom, then shifts to women born into later circumstances whose “ardour” finds no similarly recognised expression. Dorothea is one of those women.
+
+The comparison establishes a problem of historical form: the same intensity of purpose can appear heroic in one social structure and excessive, eccentric, or impractical in another. The question is not whether Dorothea is “great enough,” but what a society does with people whose capacities do not fit the forms it has prepared for them.`,
+        zh: `小说著名的序章从阿维拉的圣女特蕾莎写起。艾略特提到年幼的特蕾莎曾与弟弟一起出发寻找殉道机会，随后把视线转向那些出生于后世、拥有类似热情，却没有得到相应表达渠道的女性。多萝西娅正是其中之一。
+
+这个比较建立了一个关于历史形式的问题：同样强烈的使命感，在一种社会结构中可能被视为英雄主义，在另一种结构中却可能被看作过度、古怪或不切实际。问题不是多萝西娅“是否足够伟大”，而是社会会如何处理那些能力无法适应既有身份形式的人。`
+      },
+      {
+        title: "Marriage Does Not End the Vocation Question",
+        titleZh: "婚姻并没有结束志业问题",
+        en: `After Casaubon's death, Dorothea becomes materially freer, but her possibilities remain shaped by inheritance law, social expectations, and Casaubon's attempt to control her future through his will. Her later relationship with Will Ladislaw is not simply a romantic reward that resolves the earlier failed marriage.
+
+Scholars continue to debate whether Dorothea's second marriage represents fulfilment, compromise, or another form of limitation. The novel does not end by revealing a hidden professional career that suddenly fulfils her ambitions. Instead, Eliot asks the reader to reconsider what counts as an important life.`,
+        zh: `卡索朋去世后，多萝西娅在物质上获得了更多自由，但她的可能性仍受到遗产制度、社会期待，以及卡索朋试图通过遗嘱控制她未来的影响。她后来与威尔·拉迪斯拉夫的关系不能简单理解为对第一段失败婚姻的浪漫补偿。
+
+研究者长期争论，多萝西娅的第二段婚姻究竟意味着实现、妥协，还是另一种限制。小说结尾没有突然赋予她一个职业，让此前的抱负得到完整实现。相反，艾略特要求读者重新思考：什么样的人生才算重要？`
+      },
+      {
+        title: "Unhistoric Acts",
+        titleZh: "没有进入历史的行动",
+        en: `The Finale contains the novel's most famous judgment on Dorothea's life: “For the growing good of the world is partly dependent on unhistoric acts.” Eliot continues by suggesting that many people live faithfully “a hidden life” and rest in “unvisited tombs.”
+
+The ending is sometimes read as consolation for female exclusion: Dorothea does not achieve the public greatness imagined in the Prologue, but quiet goodness still matters. Yet feminist criticism also asks whether praising invisible influence risks accepting the historical structures that prevented women from exercising public authority.
+
+Both tensions belong to the novel. Eliot asks us to value ordinary ethical life, but she also makes us see how much potential may remain historically unrecorded.`,
+        zh: `结尾部分写出了小说对多萝西娅人生最著名的判断：“世界不断增长的善，在某种程度上依赖那些没有进入历史的行动。”艾略特接着指出，许多人忠实地生活，却过着“不为人知的生活”，最终安眠于“无人拜访的坟墓”。
+
+这个结尾有时被理解为对女性被排除于公共事业之外的一种安慰。但女性主义批评也持续追问：如果过度赞美这种不可见的影响，是否反而会接受那些本来就阻止女性获得公共权力的历史结构？
+
+这两种张力都存在于《米德尔马契》中。艾略特一方面要求我们重视普通生活中的伦理行动，另一方面也迫使我们看见，有多少能力可能因为历史制度的限制而永远没有留下记录。`
+      },
+      {
+        title: "Is Dorothea's Life a Failure?",
+        titleZh: "多萝西娅的人生失败了吗？",
+        en: `The question is difficult precisely because Eliot refuses to provide a simple measure of success. If success means becoming a recognised intellectual, reformer, architect, or political actor, Dorothea does not achieve what her early ambition seemed to promise.
+
+But if success means learning how to direct moral attention toward other people without surrendering judgment, her development is substantial. Eliot's concept of sympathy is not passive kindness. It requires correcting one's own partial vision and recognising that other people possess interior lives that exceed our assumptions.
+
+The novel therefore separates significance from fame without pretending that lack of fame is always freely chosen.`,
+        zh: `这个问题之所以困难，正因为艾略特拒绝提供简单的成功标准。如果成功意味着成为被社会承认的知识分子、改革者、建筑实践者或政治人物，那么多萝西娅并没有实现年轻时的抱负。
+
+但如果成功意味着学会把道德注意力真正投向他人，同时又不放弃自己的判断，那么她确实经历了深刻成长。艾略特所说的 sympathy 并不是被动的善良，而是要求一个人修正自己有限的观看方式，并承认别人拥有超出我们预设的复杂内在生活。
+
+因此，小说把“有意义”与“有名”区分开来，但并没有假装没有名声总是个人自由选择的结果。`
+      },
+      {
+        title: "The Right to Have a Vocation",
+        titleZh: "拥有志业的权利",
+        en: `Middlemarch shifts attention from abstract claims about female ability to the social organisation of ability. Dorothea does not need someone to prove that women are intelligent. Her intelligence is visible. The difficulty is converting intelligence into recognised work.
+
+A society can praise women's moral seriousness while offering no profession through which that seriousness can operate. It can celebrate women's intelligence while expecting it to be exercised through a husband, household, or informal service.
+
+This is why vocation is a political question. Talent is individual. The opportunity to develop it is institutional.`,
+        zh: `《米德尔马契》把问题从抽象讨论“女性有没有能力”，转向“一个社会如何组织和承认能力”。多萝西娅不需要别人证明女性具有智慧，她的智慧已经十分明显。困难在于如何把这种智慧转化为被承认的工作。
+
+一个社会完全可以口头赞美女性的道德认真，却不给她们提供可以实践这种认真性的职业；也可以赞美女性的聪明，却仍然要求这种聪明只能通过丈夫、家庭或非正式服务发挥作用。
+
+这也是为什么“志业”本身就是一个政治问题。才能属于个人，但培养和实现才能的机会，则由制度决定。`
+      },
+      {
+        title: "George Eliot and the Problem of Female Authority",
+        titleZh: "乔治·艾略特与女性权威",
+        en: `George Eliot herself possessed forms of intellectual authority largely unavailable to her heroine. Before becoming a novelist, Marian Evans had worked as a translator, critic, and effective editor of the Westminster Review. She translated major works by David Friedrich Strauss and Ludwig Feuerbach and participated directly in Victorian intellectual culture.
+
+She knew from experience that women could perform serious intellectual labour. The difficulty lay in recognition, legitimacy, and authority. Writing as “George Eliot” gave Evans a professional identity that enabled her fiction to circulate without being immediately reduced to expectations attached to women writers.`,
+        zh: `乔治·艾略特本人拥有许多她笔下女主人公无法获得的知识权威。在成为小说家之前，玛丽安·埃文斯已经担任翻译、评论者，并实际负责过 Westminster Review 的编辑工作。她翻译过大卫·施特劳斯与路德维希·费尔巴哈的重要著作，也直接参与维多利亚时代的思想文化。
+
+她从自身经验中非常清楚，女性完全能够从事严肃的知识劳动。真正困难的是承认、合法性与权威。以“George Eliot”之名写作，为埃文斯创造了一个职业身份，使她的小说不至于一开始就完全被“女性作家应该写什么”的期待所限制。`
+      },
+      {
+        title: "Why Middlemarch Still Matters",
+        titleZh: "为什么今天仍然阅读《米德尔马契》",
+        en: `The legal and professional conditions facing women have changed dramatically since Dorothea's world. But the distinction between ability and opportunity remains useful. A person may have education without mentorship, talent without institutional support, ambition without a recognised career path, or socially useful work without prestige.
+
+Middlemarch asks us not to explain these outcomes entirely through personal character. It pays attention to institutions, money, marriage, professional networks, inheritance, reputation, and chance.
+
+It does not tell us simply to discover our calling. It asks what social conditions allow a calling to become a life.`,
+        zh: `自多萝西娅生活的时代以来，女性面对的法律与职业条件已经发生巨大变化。但“拥有能力”与“拥有实现能力的机会”之间的区别，仍然值得讨论。一个人可能拥有教育却缺少指导，拥有才能却缺少制度支持，拥有抱负却没有明确职业路径，也可能从事真正有社会价值的工作却无法获得声望。
+
+《米德尔马契》要求我们不要只用个人性格解释这些结果。它同时关注制度、金钱、婚姻、职业网络、遗产、声誉与偶然性。
+
+小说并不只是鼓励人“找到自己的使命”，而是进一步追问：究竟什么样的社会条件，才能让一种使命真正成为可以持续的人生？`
+      },
+      {
+        title: "Scholarship",
+        titleZh: "文献依据",
+        en: `Alan Mintz, “The Question of Vocation: From Romola to Middlemarch.”
+
+Ellen Rosenman, “Middlemarch and the Woman Question.”
+
+Alison Booth, “Particular Webs: Middlemarch, Typologies, and Digital Studies of Women's Lives.” Victorian Literature and Culture.
+
+Delphine Gatehouse, “The Draughtswoman of Middlemarch.” The Cambridge Quarterly, 53.4.
+
+Kyriaki Hadjiafxendi, “Gender and the Woman Question,” in George Eliot in Context. Cambridge University Press.
+
+Supritha Rajan, “Regret Without Limit: The Ends of Agency and Genre in George Eliot's Middlemarch.” Victorian Literature and Culture.
+
+“Knowledge in George Eliot's Middlemarch and Daniel Deronda.” French Studies, 77.3.
+
+Margaret Harris, ed., George Eliot in Context; George Levine, ed., The Cambridge Companion to George Eliot.`,
+        zh: `Alan Mintz，《志业问题：从〈罗慕拉〉到〈米德尔马契〉》；该文直接讨论艾略特小说中的 vocation，并把多萝西娅对重大事业的渴望放进这一问题中。
+
+Ellen Rosenman，《〈米德尔马契〉与女性问题》；文章把女性缺乏志业与身份的不稳定联系起来。
+
+Alison Booth，《特殊的网络：〈米德尔马契〉、类型学与女性生活的数字研究》，载 Victorian Literature and Culture；文章把多萝西娅的住房改革愿望与真实十九世纪女性的公共事业联系起来。
+
+Delphine Gatehouse，《〈米德尔马契〉中的女绘图员》，载 The Cambridge Quarterly 53.4；文章从多萝西娅绘制建筑图纸出发，重新重视她的设计能力与建筑兴趣。
+
+Kyriaki Hadjiafxendi，《性别与女性问题》，收录于 George Eliot in Context，Cambridge University Press；该章讨论艾略特对婚姻中女性脆弱处境的处理。
+
+Supritha Rajan，《无尽的遗憾：乔治·艾略特〈米德尔马契〉中能动性与文类的终点》，载 Victorian Literature and Culture；文章讨论婚姻、遗憾、能动性与小说结局之间的关系。
+
+《乔治·艾略特〈米德尔马契〉与〈丹尼尔·德隆达〉中的知识》，载 French Studies 77.3；文章讨论多萝西娅的扩散式影响及“没有进入历史的行动”的伦理含义。
+
+Margaret Harris 编 George Eliot in Context；George Levine 编 The Cambridge Companion to George Eliot；两部研究文集为女性知识生活、性别与婚姻制度提供更广泛的研究背景。`
+      }
+    ],
+    quotesAtEnd: true,
+    quotesTitleZh: "引文",
+    quoteSelections: [
+      {
+        en: "People may really have in them some vocation which is not quite plain to themselves.",
+        zh: "一个人或许真的拥有某种志业，只是连她自己也还没有完全看清。",
+        source: "George Eliot, Middlemarch"
+      },
+      {
+        en: "For the growing good of the world is partly dependent on unhistoric acts.",
+        zh: "世界不断增长的善，在某种程度上依赖那些没有进入历史的行动。",
+        source: "George Eliot, Middlemarch, Finale"
+      }
+    ],
+    quoteReadingZh: `第一句话没有把志业理解为一个从一开始就清楚明确的答案，而是把它写成一个需要在经验中逐渐辨认的过程。
+
+小说最后改变了“重要人生”的衡量方式，同时也留下一个无法完全解决的女性主义问题：那些没有进入历史的女性行动，是因为其价值本来就在日常生活中，还是因为社会没有给予她们进入历史的机会？`,
+    quoteReadingEn: `The first sentence does not treat vocation as an answer that is perfectly clear from the beginning. It presents vocation as something a person must gradually recognise through experience.
+
+The second sentence changes the measure of what counts as an important life. At the same time, it leaves an unresolved feminist question: do women's actions remain outside history because their value belongs to ordinary life, or because society has denied women the opportunity to enter history?`,
+    relatedWorks: [
+      {
+        title: "The Mill on the Floss",
+        titleZh: "《弗洛斯河上的磨坊》",
+        relationEn: "Read alongside Maggie Tulliver's intellectual desire. The novel likewise explores how an intelligent girl's abilities come into conflict with family, education, and gendered expectations.",
+        relationZh: "可与 Maggie Tulliver 的智识欲望对读，同样处理一个聪明女孩的能力如何与家庭、教育和性别期待发生冲突。"
+      },
+      {
+        title: "Daniel Deronda",
+        titleZh: "《丹尼尔·德隆达》",
+        relationEn: "It continues the question of vocation, placing the discovery of a calling within a more explicit political, national, and ethical community.",
+        relationZh: "延续 vocation 的问题，但把“找到使命”放进更明确的政治、民族与伦理共同体之中。"
+      }
+    ],
+    tags: [
+      "vocation",
+      "women and work",
+      "intellectual life",
+      "marriage",
+      "institutions",
+      "realism",
+      "female authority",
+      "George Eliot"
+    ],
+    sourceText: "Middlemarch: A Study of Provincial Life",
+    status: "published"
+  },
+  {
+    id: "2026-08-10-anne-anlin-cheng-ornamentalism",
+    date: "2026-08-10",
+    type: "theory",
+    title: "Anna May Wong, Chinatown, and the “Yellow Woman”: Who Made the Asian Woman?",
+    titleZh: "黄柳霜、唐人街与“黄种女人”：谁制造了亚裔女性？",
+    titleSeparator: " ",
+    role: "Feminist Theory｜女性主义理论 / Asian American Studies｜亚裔美国研究",
+    creator: "Anne Anlin Cheng",
+    focusTitle: "Ornamentalism",
+    focusTitleZh: "《装饰主义》（暂译）",
+    summaryEn: "Anne Anlin Cheng's Ornamentalism asks how Asiatic femininity has been made through beauty, surface, ornament, and synthetic objects. The book shows that aesthetic admiration and racial violence do not always oppose one another: a person may be prized as an image while being denied full personhood.",
+    summaryZh: "Anne Anlin Cheng 的《装饰主义》追问：亚裔女性气质如何通过美、表面、装饰与人造物被生产出来。书中指出，审美欣赏与种族暴力并不总是彼此对立：一个人可能作为图像受到珍爱，却同时被拒绝完整的人格。",
+    introEn: `Published by Oxford University Press in 2019, Ornamentalism develops a feminist theory of Asiatic femininity at the meeting point of race, gender, aesthetics, law, material culture, and technology. The book grew from Cheng's 2018 essay “Ornamentalism: A Feminist Theory for the Yellow Woman” in Critical Inquiry, but expands that argument through a much larger visual and historical archive.
+
+Cheng begins from a gap in critical language. Contemporary discourse can name Black women, brown women, and white women, but the historical phrase “yellow woman” now sounds both offensive and strangely unspeakable. Cheng deliberately returns to this damaged term, not to endorse it or to rename real Asian women, but to study a fabricated racial-gender figure that continues to shape Western law, cinema, fashion, art, desire, and popular culture.
+
+Her central argument is that objectification does not fully explain this figure. The Asiatic woman has not only been reduced to a thing; she has also been imagined through things—silk, porcelain, embroidery, celluloid, lacquer, dolls, machines, clothing, and decorative surfaces. Cheng calls this process ornamentalism.
+
+The result is a difficult form of personhood. The ornamental figure can be exquisitely visible and socially absent at the same time. She may be valued for beauty, elegance, polish, obedience, or technological perfection precisely through the qualities that make her seem less fully human.`,
+    introZh: `《装饰主义》由牛津大学出版社于2019年出版。它在种族、性别、美学、法律、物质文化与技术的交叉处，建立了一套关于亚裔女性气质的女性主义理论。这本专著源自 Anne Anlin Cheng 2018年发表于 Critical Inquiry 的论文《装饰主义：关于“黄种女人”的女性主义理论》，但通过更广阔的视觉与历史档案扩展了原有论证。
+
+Anne Anlin Cheng 从批评语言中的一道空缺开始。今天的公共话语可以说黑人女性、棕色女性与白人女性，但历史上的“黄种女人”这一说法既冒犯，又仿佛难以被直接说出口。她有意回到这个受损的词语，并不是为了认可它，也不是要用它重新命名现实中的亚裔女性，而是为了分析一个被制造出来的种族—性别形象：它至今仍影响西方的法律、电影、时尚、艺术、欲望与流行文化。
+
+她的核心论点是，“物化”并不足以完整解释这个形象。亚裔女性不只被降低成物，也长期通过各种物被想象：丝绸、瓷器、刺绣、胶片、漆器、玩偶、机器、服装与装饰表面。Anne Anlin Cheng 把这一过程称为 ornamentalism，也就是“装饰主义”。
+
+由此形成的是一种困难的人格状态。装饰性人物可以在视觉上极度醒目，却在社会上同时缺席。她可能因为美丽、优雅、光洁、顺从或技术般的完美而受到珍视，而正是这些受到珍视的品质，又使她显得不再是完整的人。`,
+    articleSections: [
+      {
+        title: "A Feminist Theory of the Yellow Woman",
+        titleZh: "关于“黄种女人”的女性主义理论",
+        en: `Cheng uses “yellow woman” as the name of a historical fabrication rather than a biological or authentic identity. The phrase gathers a long archive of contradictory stereotypes: lotus blossom and dragon lady, geisha and prostitute, delicate doll and dangerous seductress, obedient servant and futuristic machine.
+
+These images do not describe Asian women. They describe a representational system that repeatedly substitutes style for interiority. The figure can be recognised before any actual woman appears because clothing, posture, surface, gesture, and objects have already been arranged to signify her.
+
+This is also why Cheng does not simply search for the “real Asian woman” hidden behind the stereotype. Appeals to authenticity can impose another demand on Asian women: they must prove that they are real, representative, or culturally correct. The book instead studies the material force of the fabricated image itself.`,
+        zh: `Anne Anlin Cheng 使用“黄种女人”这个词，是为了命名一种历史制造物，而不是一种生物学或真实身份。这个说法汇集了长期存在、彼此矛盾的刻板形象：莲花女与龙女、艺伎与妓女、精致玩偶与危险诱惑者、顺从仆人与未来机器。
+
+这些形象并不描述亚裔女性，而是在描述一套不断以风格替代内在性的再现系统。甚至在任何真实女性出现之前，人们已经能够认出这个形象，因为服装、姿态、表面、动作与物品早已被组织起来，用来指认她。
+
+这也是为什么 Anne Anlin Cheng 并不只是寻找藏在刻板印象背后的“真实亚裔女性”。对真实性的要求可能给亚裔女性施加另一种压力：她们必须证明自己真实、具有代表性，或者在文化上足够正确。此书转而研究被制造的形象本身如何产生真实的物质力量。`
+      },
+      {
+        title: "From Objectification to Ornamentalism",
+        titleZh: "从物化到装饰主义",
+        en: `Objectification usually describes a person being treated as a thing. Cheng asks us to follow the movement in the other direction as well: how do things become person-like, and how do decorative objects participate in making a racialized person?
+
+Ornament is not merely an accessory added to an already complete body. In Cheng's account, ornament can help compose the body that viewers believe they see. Silk, porcelain, shine, embroidery, costume, and cinematic light do not simply surround Asiatic femininity; they become part of its racial ontology.
+
+This shifts the question from representation alone to construction. The problem is not only that Asian women are falsely pictured. It is that modern ideas of the person have been built through distinctions between organic and synthetic, subject and object, flesh and surface—distinctions that the ornamental figure repeatedly unsettles.`,
+        zh: `“物化”通常描述一个人如何被当作物。Anne Anlin Cheng 要求我们也追踪相反方向的运动：物如何变得近似于人？装饰性物件又如何参与制造一个被种族化的人？
+
+装饰并不只是添加在完整身体之外的附件。在 Anne Anlin Cheng 的论述中，装饰会参与组成观看者以为自己看到的身体。丝绸、瓷器、光泽、刺绣、服装与电影灯光不只是围绕亚裔女性气质，它们成为其种族本体的一部分。
+
+这使问题从“再现”进一步转向“制造”。问题不只是亚裔女性被错误地描绘，而是现代关于“人”的观念本身，就通过有机与人造、主体与物体、肉身与表面之间的区分建立起来；装饰性人物不断扰乱这些区分。`
+      },
+      {
+        title: "Aesthetic Injury",
+        titleZh: "审美化的伤害",
+        en: `One of the book's most important interventions is its account of injury. Racial violence is often imagined as uglification, disgust, exclusion, or visible damage. Ornamentalism shows that violence can also arrive through appreciation.
+
+The ornamental Asiatic woman may be praised as refined, graceful, exotic, precious, or perfectly designed. Yet admiration can freeze her into a surface available for possession and consumption. Beauty does not cancel injury; it may become the form through which injury is delivered and made difficult to name.
+
+This helps explain the paradox Cheng identifies: someone can be too aestheticized to be recognised as injured, while being exposed to injury precisely because she has been aestheticized. Hypervisibility does not guarantee social recognition.`,
+        zh: `这本书最重要的介入之一，是它对“伤害”的重新理解。种族暴力常被想象成丑化、厌恶、排斥或清晰可见的损伤。《装饰主义》指出，暴力也可能通过欣赏到来。
+
+装饰性的亚裔女性可能被赞美为精致、优雅、异国、珍贵或设计完美。但欣赏也可能把她冻结成一个可被占有与消费的表面。美并不会取消伤害；它反而可能成为伤害发生的形式，并使伤害更难被命名。
+
+这解释了 Anne Anlin Cheng 提出的悖论：一个人可能因为被过度审美化，而无法被承认为受伤者；她也可能正因为被审美化，而更容易遭受伤害。高度可见并不等于获得社会承认。`
+      },
+      {
+        title: "Synthetic Personhood",
+        titleZh: "人造人格",
+        en: `Cheng describes ornamental personhood as a fusion of organic life and synthetic extension. This does not mean that Asian women are literally artificial. It means that Western culture has repeatedly imagined Asiatic femininity through crafted surfaces and technologies of display.
+
+The book therefore connects nineteenth-century luxury goods to photography, cinema, fashion exhibitions, dolls, cyborgs, and artificial bodies. Porcelain and silk belong to the same long history as celluloid glow and the futuristic female machine: each stages a person whose vitality appears inseparable from the material that constructs her.
+
+Rather than restoring a pure human subject untouched by objects, Cheng asks whether personhood has ever been free of objects, surfaces, clothing, technology, and commodity. The ornamental figure exposes an entanglement that modern humanism often tries to deny.`,
+        zh: `Anne Anlin Cheng 把装饰性人格描述为有机生命与人造延伸的融合。这并不是说亚裔女性在字面意义上是人造物，而是说西方文化长期通过精心制作的表面与展示技术来想象亚裔女性气质。
+
+因此，这本书把十九世纪奢侈品与摄影、电影、时尚展览、玩偶、赛博格和人工身体连接起来。瓷器与丝绸和胶片上的光泽、未来主义女性机器属于同一段漫长历史：它们都展示一种人物，其生命感仿佛无法与制造她的材料分离。
+
+Anne Anlin Cheng 并不试图恢复一个从未被物品触碰的纯粹人类主体。她追问的是：人格是否曾经真正脱离物品、表面、服装、技术与商品？装饰性人物暴露了现代人文主义经常试图否认的纠缠。`
+      },
+      {
+        title: "Law, Borders, and Embroidery",
+        titleZh: "法律、边界与刺绣",
+        en: `The first chapter examines how Chinese femininity entered the formation of American legal personhood. Cheng returns to the 1874 arrival of the SS Japan in San Francisco, when immigration officials detained twenty-two young Chinese women as presumed prostitutes.
+
+Their clothing and appearance were treated as evidence. Embroidery, elaborate dress, posture, and photographic visibility became entangled with legal judgments about sexuality, morality, immigration, and the right to enter the nation.
+
+Cheng reads this archive beside Arnold Genthe's photographs of San Francisco Chinatown. The photographs make Chinese women visually striking but often anonymous, caught between festive display and surveillance. Ornament does not sit outside the law; it becomes one of the ways the law imagines and evaluates the body.`,
+        zh: `第一章讨论中国女性气质如何进入美国法律人格的形成。Anne Anlin Cheng 回到1874年“日本号”轮船抵达旧金山的事件：移民官员把二十二名年轻中国女性推定为妓女，并禁止她们下船。
+
+她们的服装与外貌被当作证据。刺绣、华丽服饰、身体姿态与摄影中的可见性，与关于性、道德、移民资格及进入国家权利的法律判断纠缠在一起。
+
+Anne Anlin Cheng 把这份档案与 Arnold Genthe 拍摄的旧金山唐人街照片并置。照片让中国女性在视觉上格外醒目，却往往没有姓名，被困在节庆展示与监视之间。装饰并不位于法律之外，它成为法律想象并评估身体的方式之一。`
+      },
+      {
+        title: "Anna May Wong and the Technology of Shine",
+        titleZh: "黄柳霜与光泽的技术",
+        en: `In “Gleaming Things,” Cheng turns to Anna May Wong and the making of modern celebrity. Wong's screen presence was produced through acting and bodily intelligence, but also through cinematic lighting, costume, makeup, framing, celluloid, and publicity.
+
+Cheng begins not with flesh but with light. In films such as Piccadilly, Wong's radiance creates visibility while threatening to dissolve the person into gleam. Her image can dazzle, deflect, and survive within a racist film industry, but that brilliance is never simply liberation.
+
+The chapter makes agency harder to define. Wong is neither only a passive stereotype nor a sovereign subject standing outside representation. She works through the surfaces and technologies that constrain her, sometimes using the ornamental image to exceed the roles assigned to her.`,
+        zh: `在“闪耀之物”一章中，Anne Anlin Cheng 转向黄柳霜与现代明星人格的形成。黄柳霜的银幕存在由表演与身体智慧创造，同时也由电影灯光、服装、化妆、构图、胶片与宣传机制共同生产。
+
+Anne Anlin Cheng 不是从肉身，而是从光开始。在《唐人街繁华梦》等电影中，黄柳霜的光芒让她获得可见性，却也可能把具体的人溶解成光泽。她的形象能够在种族主义电影工业中炫目、偏转并存活，但这种明亮从来不等同于简单的解放。
+
+这一章使“能动性”变得更难定义。黄柳霜既不只是被动的刻板印象，也不是站在再现之外的绝对自主主体。她在限制自己的表面与技术之中工作，并有时借助装饰性图像超出分配给她的角色。`
+      },
+      {
+        title: "Fashion, Consumption, and Dolls",
+        titleZh: "时尚、消费与玩偶",
+        en: `Later chapters move through the Metropolitan Museum of Art's 2015 exhibition China: Through the Looking Glass, the aesthetics of sushi, and figures of dolls and cyborgs. These cases may seem unrelated, but Cheng uses them to follow the same traffic among beauty, appetite, objecthood, and racial fantasy.
+
+The fashion exhibition turns “China” into feathers, shards, dresses, mirrors, and cinematic atmosphere while claiming distance from authenticity. The chapter on edible pets examines the unsettling proximity between loving, consuming, preserving, and destroying beautiful things. The chapter on dolls carries ornamental Asiatic femininity into fantasies of artificial life.
+
+Across these examples, aesthetic pleasure is not dismissed as false. Cheng asks readers to stay with pleasure long enough to understand its political structure: who is arranged for display, what histories make the display attractive, and what forms of violence disappear inside enchantment.`,
+        zh: `后面的章节依次讨论大都会艺术博物馆2015年的展览 China: Through the Looking Glass、寿司的审美，以及玩偶与赛博格形象。这些案例看似无关，Anne Anlin Cheng 却通过它们追踪美、欲望、物性与种族幻想之间的同一种流动。
+
+时尚展览把“中国”转化为羽毛、碎片、服装、镜面与电影氛围，同时宣称自己不承担真实性的责任。“可食用的宠物”一章研究喜爱、消费、保存与毁坏美丽事物之间令人不安的接近。“玩偶”一章则把装饰性的亚裔女性气质带入人工生命的幻想。
+
+在这些案例中，审美愉悦并没有被简单宣布为虚假。Anne Anlin Cheng 要求读者在愉悦中多停留一会儿，以理解其政治结构：谁被安排用来展示？什么历史使展示显得迷人？又有哪些暴力消失在魅惑之中？`
+      },
+      {
+        title: "What Ornamentalism Changes",
+        titleZh: "装饰主义改变了什么",
+        en: `Ornamentalism does not replace Orientalism with a friendlier vocabulary. Orientalism exposes how the West constructs an inferior and exotic East. Ornamentalism asks a different question: what kind of being is produced when racialized femininity is made through objects, surfaces, and aesthetic labour?
+
+The theory also complicates familiar political oppositions. Subjecthood is not always freedom, objecthood is not always complete death, visibility is not the same as recognition, and beauty is not innocent of brutality.
+
+For feminist thought, the book insists that Asian femininity is not a minor example to be added after a general theory has already been built. It changes the terms of the theory itself by showing how modern personhood depends upon racialized, gendered, and synthetic figures at its margins.`,
+        zh: `装饰主义并不是用一套更友善的词汇取代东方主义。东方主义揭示西方如何制造一个低等而异国的东方；装饰主义提出的是另一个问题：当被种族化的女性气质通过物品、表面与审美劳动被制造出来时，究竟产生了怎样的存在？
+
+这套理论也使一些熟悉的政治对立复杂化。主体身份不总是自由，物体身份不总是彻底死亡，可见性不等于承认，美也并不天然无辜于暴力。
+
+对于女性主义思想而言，这本书坚持认为，亚裔女性气质并不是在一般理论建成后才被补充进去的小案例。它改变了理论本身的基本条件，因为它揭示现代人格如何依赖那些位于边缘、被种族化、被性别化并被人工制造的形象。`
+      },
+      {
+        title: "Scholarship",
+        titleZh: "学术文献",
+        en: `Anne Anlin Cheng, Ornamentalism. New York: Oxford University Press, 2019. ISBN 9780190604615.
+
+Anne Anlin Cheng, “Ornamentalism: A Feminist Theory for the Yellow Woman.” Critical Inquiry 44, no. 3 (Spring 2018): 415–446. DOI: 10.1086/696921.
+
+Shuxuan Zhou, review of Ornamentalism. The Journal of Asian Studies 79, no. 2 (May 2020): 555–556. DOI: 10.1017/S0021911820000704.
+
+Michelle Lee, review of Ornamentalism. Women & Performance 30, no. 1 (2020): 116–118. DOI: 10.1080/0740770X.2020.1791392.
+
+Michael Dango and Jerrine Tan, eds., “Provocations / Anne Anlin Cheng's Ornamentalism.” ASAP/J, 2021.`,
+        zh: `Anne Anlin Cheng，《装饰主义》，纽约：牛津大学出版社，2019年。ISBN 9780190604615。
+
+Anne Anlin Cheng，《装饰主义：关于“黄种女人”的女性主义理论》，Critical Inquiry，第44卷第3期，2018年春季，第415–446页。DOI: 10.1086/696921。
+
+Shuxuan Zhou，《〈装饰主义〉书评》，The Journal of Asian Studies，第79卷第2期，2020年5月，第555–556页。DOI: 10.1017/S0021911820000704。
+
+Michelle Lee，《〈装饰主义〉书评》，Women & Performance，第30卷第1期，2020年，第116–118页。DOI: 10.1080/0740770X.2020.1791392。
+
+Michael Dango 与 Jerrine Tan 编，《讨论 / Anne Anlin Cheng 的〈装饰主义〉》，ASAP/J，2021年。`
+      }
+    ],
+    quotesAtEnd: true,
+    quotesTitleZh: "引文",
+    quote: "Orientalism is a critique, ornamentalism a theory of being.",
+    quoteSource: "Anne Anlin Cheng, Ornamentalism, Introduction",
+    quoteReadingEn: `This short sentence distinguishes two critical tasks. Orientalism identifies and contests a representational system that constructs “the East.” Ornamentalism asks how that system produces a mode of existence in which person and thing, body and surface, organic life and synthetic extension cannot be cleanly separated.
+
+Calling ornamentalism a “theory of being” does not make racist imagery true. It means that representation has material consequences: it helps determine who is seen as a person, how injury becomes legible, and what kinds of bodies can be admired, possessed, protected, or discarded.`,
+    quoteReadingZh: `这句短句区分了两种批评任务。东方主义识别并批判一套制造“东方”的再现系统；装饰主义则追问，这套系统如何生产一种存在方式，使人与物、身体与表面、有机生命与人造延伸无法被清楚分开。
+
+把装饰主义称为“存在理论”，并不是把种族主义形象当成事实，而是强调再现会产生物质后果：它参与决定谁被看作人，什么样的伤害能够被辨认，以及哪些身体可以被欣赏、占有、保护或丢弃。`,
+    relatedWorks: [
+      {
+        title: "The Melancholy of Race",
+        titleZh: "《种族的忧郁》",
+        relationEn: "Cheng's earlier study of racial grief, assimilation, and the psychic life of racial identity.",
+        relationZh: "Anne Anlin Cheng 关于种族哀伤、同化以及种族身份之心理生活的早期研究。"
+      },
+      {
+        title: "Second Skin: Josephine Baker and the Modern Surface",
+        titleZh: "《第二层皮肤：约瑟芬·贝克与现代性表面》",
+        relationEn: "A study of surface, skin, architecture, and performance that anticipates Ornamentalism's aesthetic questions.",
+        relationZh: "围绕表面、皮肤、建筑与表演展开的研究，预示了《装饰主义》中的美学问题。"
+      },
+      {
+        title: "Orientalism",
+        titleZh: "《东方主义》",
+        relationEn: "Edward Said's foundational critique of how Western knowledge and culture construct the East as an object of power.",
+        relationZh: "Edward Said 关于西方知识与文化如何把东方制造为权力对象的奠基性批评。"
+      }
+    ],
+    tags: [
+      "ornamentalism",
+      "Asian femininity",
+      "race",
+      "aesthetics",
+      "objecthood",
+      "synthetic personhood",
+      "beauty",
+      "visual culture",
+      "feminist theory"
+    ],
+    tagsZh: [
+      "装饰主义",
+      "亚裔女性气质",
+      "种族",
+      "美学",
+      "物性",
+      "人造人格",
+      "美",
+      "视觉文化",
+      "女性主义理论"
+    ],
+    sourceText: "Ornamentalism",
+    status: "published"
   }
 ];
