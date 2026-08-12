@@ -7016,5 +7016,473 @@ Calling ornamentalism a “theory of being” does not make racist imagery true.
     ],
     sourceText: "Ornamentalism",
     status: "published"
+  },
+  {
+    id: "2026-08-11-laura-bates-the-new-age-of-sexism",
+    date: "2026-08-11",
+    type: "book",
+    title: "The New Age of Sexism",
+    titleZh: "《性别歧视的新时代》（暂译）",
+    titleSeparator: " ",
+    years: "2025",
+    role: "Book｜著作 / Feminist Technology Criticism｜女性主义技术批评",
+    creator: "Laura Bates",
+    creatorZh: "劳拉·贝茨",
+    focusTitle: "Who Is the Future Being Built For?",
+    focusTitleZh: "未来究竟为谁而建？",
+    summaryEn: "New technologies do not arrive outside society. Laura Bates shows how deepfakes, virtual worlds, AI companions, and automated systems can reproduce and intensify old misogyny when speed and profit are placed before safety and equality.",
+    summaryZh: "新技术并不是在社会之外降临。Laura Bates 指出，当速度与利润被置于安全和平等之前，深度伪造、虚拟世界、AI 伴侣与自动化系统可能复制并强化旧有的厌女结构。",
+    introEn: `First published by Simon & Schuster UK in 2025, The New Age of Sexism: How the AI Revolution Is Reinventing Misogyny is an investigative work of feminist technology criticism. Laura Bates, founder of the Everyday Sexism Project, combines interviews, reporting, first-person testing, documented cases, and research to examine how emerging technologies are already affecting women and girls.
+
+The book begins with a question that is easy to miss amid excitement about innovation: who is the technological future being built by, and who is it being built for? Bates argues that women and men do not necessarily encounter the same technologies in the same way. Race, class, sexuality, disability, and gender identity also shape who receives convenience, who becomes visible as data, and who bears risk.
+
+Rather than centring distant predictions about artificial intelligence destroying humanity, Bates investigates harms that are already present. Her chapters move through sexual deepfakes, harassment in immersive virtual spaces, sex robots, cyber brothels, image-based sexual abuse, AI girlfriends, and discriminatory automated systems.
+
+This is not an argument that technology itself is the enemy. The book asks how technology is designed, financed, trained, tested, governed, and released. Its central warning is political: if inequality is treated as someone else's problem during development, it can become part of the infrastructure of the future.`,
+    introZh: `《性别歧视的新时代：AI 革命如何重造厌女》（书名暂译）由 Simon & Schuster UK 于2025年首次出版，是一部调查性的女性主义技术批评著作。Everyday Sexism Project 创办人 Laura Bates 结合访谈、新闻调查、亲身测试、真实案例与研究资料，考察新兴技术已经如何影响女性与女孩。
+
+这本书从一个很容易被创新热潮遮蔽的问题开始：技术未来由谁建造，又是为谁建造？Bates 指出，女性与男性未必以相同方式遭遇同一种技术；种族、阶级、性倾向、残障与性别身份也会影响谁获得便利、谁被转化为数据，以及谁承担风险。
+
+Bates 没有把重点放在人工智能未来毁灭人类的遥远预测上，而是调查已经发生的伤害。全书依次讨论色情深度伪造、沉浸式虚拟空间中的骚扰、性机器人、网络妓院、基于影像的性暴力、AI 女友，以及带有歧视性的自动化系统。
+
+这并不是一套把技术本身视为敌人的论证。书中追问的是技术如何被设计、融资、训练、测试、治理与发布。它最核心的警告具有政治性：如果不平等在开发过程中一直被当成“别人的问题”，它就可能被写进未来的基础设施。`,
+    articleSections: [
+      {
+        title: "Old Misogyny in New Infrastructure",
+        titleZh: "写进新基础设施的旧厌女",
+        en: `The book's title does not suggest that sexism has suddenly appeared in the digital age. Its argument is that familiar inequalities can acquire new reach, speed, intimacy, and apparent neutrality when they are carried by technological systems.
+
+A stereotype expressed by one person can be challenged as prejudice. The same stereotype embedded in a dataset, recommendation system, product design, or automated decision may be harder to see. It can appear objective because it has been translated into code, even when the social assumptions behind it remain unchanged.
+
+Bates therefore asks readers to look beyond individual malicious users. Platform rules, business incentives, training data, product defaults, moderation systems, and legal gaps all help determine whether misogyny is interrupted or scaled.`,
+        zh: `书名并不是说性别歧视到了数字时代才突然出现。它的论点是：当熟悉的不平等被技术系统承载时，可能获得新的传播范围、速度、亲密程度，以及看似中立的外观。
+
+一个人说出的刻板印象可以被直接辨认为偏见；但当同一种刻板印象进入数据集、推荐系统、产品设计或自动化决策时，它往往更难被看见。它一旦被翻译成代码，就可能显得客观，即使背后的社会假设没有改变。
+
+因此，Bates 要求读者把视线移到个别恶意使用者之外。平台规则、商业激励、训练数据、产品默认设置、内容审核机制与法律缺口，都在决定厌女是被阻断，还是被扩大。`
+      },
+      {
+        title: "Deepfakes and Image-Based Sexual Abuse",
+        titleZh: "深度伪造与影像性暴力",
+        en: `The opening chapter examines sexually explicit deepfakes and the new scale of image-based abuse. A person's face can be inserted into fabricated sexual material without her consent, producing an image of an event that never happened while creating consequences that are entirely real.
+
+The harm is not cancelled because an image is synthetic. Targets may face humiliation, threats, professional damage, fear, and the exhausting burden of proving that the material is false. The technology also redistributes power: the perpetrator needs only an accessible photograph, while the person targeted must navigate platforms, audiences, employers, schools, and legal systems.
+
+Bates places these images in a longer history of sexual shaming. The technology is new, but the disciplinary message is familiar: a woman can be publicly punished through the sexual use of her image, even when she did not create that image or consent to its circulation.`,
+        zh: `全书第一章讨论色情深度伪造，以及影像性暴力如何获得新的规模。一个人的脸可以在未经同意的情况下被嵌入虚构的色情内容中：图像所表现的事件从未发生，造成的后果却完全真实。
+
+图像是合成的，并不会让伤害消失。受害者可能面对羞辱、威胁、职业损害与恐惧，还要承担反复证明材料虚假的沉重劳动。这种技术也重新分配了权力：施害者可能只需要一张公开照片，被针对的人却必须应对平台、观众、雇主、学校与法律系统。
+
+Bates 把这些图像放进更长久的性羞辱历史中。技术是新的，规训信息却很熟悉：即使一个女人没有制作图像，也从未同意图像传播，她仍可能因为自己的形象被性化使用而受到公共惩罚。`
+      },
+      {
+        title: "The Metaverse Does Not Suspend Harm",
+        titleZh: "元宇宙不会让伤害失效",
+        en: `Immersive virtual environments are often described as spaces of escape, experimentation, and freedom. Bates tests this promise against reports of harassment and assaultive behaviour in social virtual-reality spaces.
+
+An avatar is not identical to a physical body, but embodied presence still matters. Headsets, sound, proximity, gesture, and spatial immersion can make an encounter feel immediate. Saying that an incident happened “only online” ignores the body that experiences fear, shock, and loss of control.
+
+The chapter also exposes a design question. Personal boundaries, reporting tools, moderation, age protections, and default safety settings are not minor additions to a finished world. They determine whose freedom the world protects and whose participation is made costly.`,
+        zh: `沉浸式虚拟环境常被描述为可以逃离现实、尝试身份并获得自由的空间。Bates 把这种承诺与社交虚拟现实空间中的骚扰和侵犯性行为报告放在一起检验。
+
+虚拟化身并不等同于物理身体，但具身经验仍然存在。头戴设备、声音、距离、动作与空间沉浸会让遭遇变得直接。把事件说成“只发生在网上”，会忽略那个实际经历恐惧、惊吓与失去控制感的身体。
+
+这一章也揭示了一个设计问题。个人边界、举报工具、内容治理、未成年人保护与默认安全设置，并不是世界建成后才补上的小功能。它们直接决定这个世界保护谁的自由，又让谁必须付出高昂代价才能参与。`
+      },
+      {
+        title: "Artificial Women Who Cannot Refuse",
+        titleZh: "无法拒绝的“人工女性”",
+        en: `Across the chapters on sex robots, cyber brothels, and AI girlfriends, Bates examines a recurring product fantasy: the artificial woman who is endlessly available, compliant, flattering, and unable to refuse.
+
+The question is not whether a machine possesses the same rights or consciousness as a human woman. It is what users are invited to practise and normalize through its design. A product can rehearse a social relation in which femininity means service, sexual availability, emotional attention, and the absence of boundaries.
+
+These products also reveal whose desires are treated as the default market. When artificial intimacy is designed primarily around a presumed male consumer, the future of companionship may reproduce a very old hierarchy rather than invent a new relationship.`,
+        zh: `在讨论性机器人、网络妓院与 AI 女友的章节中，Bates 反复考察一种产品幻想：一个永远可用、顺从、赞美使用者，而且无法拒绝的“人工女性”。
+
+问题并不是机器是否拥有与人类女性相同的权利或意识，而是这种设计邀请使用者练习并正常化怎样的关系。一个产品可能不断排演这样的社会秩序：女性气质意味着服务、性可得性、情感关注，以及没有边界。
+
+这些产品也揭示了谁的欲望被当成默认市场。当人工亲密主要围绕一个被预设为男性的消费者设计时，未来的陪伴关系可能只是在复制非常古老的等级，而不是创造新的关系。`
+      },
+      {
+        title: "When Bias Becomes Automated",
+        titleZh: "当偏见被自动化",
+        en: `Bates then widens the frame from sexual technologies to automated systems that influence employment, healthcare, finance, policing, and other areas of social life. These tools are often presented as more efficient and less biased than human judgment.
+
+Automation, however, does not remove history from data. A system trained on unequal outcomes may learn to reproduce them. A model built and tested without the people most likely to be harmed may fail in predictable ways while still carrying the authority of technical expertise.
+
+The problem is not solved by finding one openly sexist programmer. Bias can emerge through institutional priorities, incomplete datasets, proxy variables, unequal error rates, and a workforce that does not include enough people able to recognize the risks.`,
+        zh: `随后，Bates 把讨论从性技术扩大到影响就业、医疗、金融、警务及其他社会领域的自动化系统。这些工具往往被宣传为比人的判断更高效，也更少偏见。
+
+然而，自动化不会把历史从数据中清除。一个在不平等结果上训练的系统，可能学会复制这些结果；一个在缺少潜在受害群体参与的情况下被建造和测试的模型，可能以完全可以预见的方式失败，却仍然带着技术专业性的权威。
+
+这个问题不能通过寻找某一个公开厌女的程序员来解决。偏见可能来自制度优先级、不完整的数据集、替代变量、不平等的错误率，以及一个缺少足够多风险识别者的开发团队。`
+      },
+      {
+        title: "Who Gets to Build the Future?",
+        titleZh: "谁有权建造未来？",
+        en: `The book repeatedly returns to power inside the technology industry. A relatively small group of companies and decision-makers can shape products used by millions of people. The celebrated speed of innovation can leave little time for consultation, independent testing, or meaningful accountability.
+
+Representation alone is not a complete solution, but exclusion has consequences. When women and marginalized communities are absent from leadership, engineering, investment, policy, and safety teams, foreseeable harms are more easily dismissed as edge cases.
+
+The question “who builds?” must therefore be joined by “who decides?”, “who profits?”, “who is consulted?”, and “who can stop a dangerous release?” Technical development is also the organization of political authority.`,
+        zh: `这本书不断回到技术产业内部的权力。数量相对有限的公司与决策者，可以塑造被数百万人使用的产品；备受赞美的创新速度，则可能让咨询、独立测试与真正的问责无处发生。
+
+代表性本身并不是完整答案，但排斥会产生后果。当女性与边缘群体缺席于领导、工程、投资、政策与安全团队时，本来可以预见的伤害更容易被贬低成极少发生的边缘案例。
+
+因此，“谁在建造”必须与“谁做决定”“谁获利”“谁被咨询”以及“谁能阻止危险产品发布”放在一起追问。技术开发同时也是政治权力的组织过程。`
+      },
+      {
+        title: "Safety Must Be a Foundation",
+        titleZh: "安全必须成为基础",
+        en: `The final chapter rejects the idea that one technical fix can solve every problem. Bates argues that digital misogyny is connected to wider social inequality, so responses must operate at several levels: law, platform responsibility, product design, education, research, workplace culture, and support for those targeted.
+
+Safety cannot remain an optional feature added after launch. Risk assessment, diverse testing, privacy protection, meaningful reporting systems, transparency, and routes to remedy must shape a product from the beginning.
+
+This principle changes the measure of innovation. A product is not successful merely because it can be built, launched, or scaled. Its social costs, predictable misuse, and distribution of harm belong inside the definition of technical achievement.`,
+        zh: `最后一章拒绝用某一种技术修补解决所有问题的想法。Bates 指出，数字厌女与更广泛的社会不平等相连，因此回应也必须发生在多个层面：法律、平台责任、产品设计、教育、研究、工作文化，以及对受害者的支持。
+
+安全不能继续是产品发布后才添加的可选功能。风险评估、多元测试、隐私保护、真正有效的举报系统、透明度与救济路径，都必须从开发开始就参与塑造产品。
+
+这一原则改变了衡量创新的方式。一个产品并不会仅仅因为能够被制造、发布或扩大规模就自动成功；它的社会成本、可预见的滥用方式与伤害分配，也属于技术成就定义的一部分。`
+      },
+      {
+        title: "Technology Is Not the Enemy",
+        titleZh: "技术本身不是敌人",
+        en: `Bates is careful not to reduce the book to a refusal of technology. Digital tools can expand access, connection, creativity, knowledge, healthcare, and political organization. The point is precisely that these possibilities are important enough to contest.
+
+Feminist criticism asks technology to become more ambitious about the world it creates. It refuses the claim that discrimination is an unfortunate side effect that must be accepted in exchange for progress.
+
+The future is not a neutral destination waiting to arrive. It is made through present choices about investment, labour, data, ownership, law, and care. Asking who the future is for is therefore not resistance to innovation; it is part of designing a future more people can inhabit.`,
+        zh: `Bates 谨慎地避免把全书简化成对技术的拒绝。数字工具能够扩大获取机会、连接、创造、知识、医疗与政治组织能力；正因为这些可能性十分重要，它们才值得被争取。
+
+女性主义批评要求技术对自己创造的世界抱有更高标准。它拒绝这样的说法：歧视只是进步过程中不得不接受的不幸副作用。
+
+未来不是一个正在等待抵达的中立终点。它由当下关于投资、劳动、数据、所有权、法律与照护的选择共同制造。因此，追问未来为谁而建，并不是反对创新，而是在参与设计一个更多人能够生活其中的未来。`
+      },
+      {
+        title: "Research and Sources",
+        titleZh: "研究与资料",
+        en: `Laura Bates, The New Age of Sexism: How the AI Revolution Is Reinventing Misogyny. Simon & Schuster UK, 2025.
+
+Simon & Schuster UK, official book page for The New Age of Sexism.
+
+Laura Bates, official author website and the Everyday Sexism Project.
+
+PBS NewsHour, interview with Laura Bates about The New Age of Sexism, 2025.
+
+The book's notes draw on interviews, documented cases, journalism, academic research, civil-society reports, and policy material. This calendar entry follows the book's argument while treating its broad claims as Bates's analysis rather than presenting them as an undifferentiated scholarly consensus.`,
+        zh: `Laura Bates，《The New Age of Sexism: How the AI Revolution Is Reinventing Misogyny》，Simon & Schuster UK，2025年。
+
+Simon & Schuster UK，《The New Age of Sexism》官方图书页面。
+
+Laura Bates 官方作者网站与 Everyday Sexism Project。
+
+PBS NewsHour，Laura Bates 关于《The New Age of Sexism》的访谈，2025年。
+
+原书注释综合使用访谈、已记录案例、新闻报道、学术研究、公民社会报告与政策资料。本期日历依照书中论证整理，同时把其中的宏观判断明确视为 Bates 的分析，而不是把它们笼统表述为没有分歧的学术共识。`
+      }
+    ],
+    quotesAtEnd: true,
+    quotesTitleZh: "引文",
+    quote: "We are building a whole new world, but the inequalities and oppression of our current society are being baked into its very foundations.",
+    quoteSource: "Laura Bates, The New Age of Sexism, Introduction",
+    quoteReadingEn: `The phrase “baked into its very foundations” changes the scale of the problem. Bias is not presented as an occasional offensive output sitting on top of an otherwise neutral system. It may enter the architecture through data, design assumptions, business models, access rules, and decisions about whose safety is worth delaying a launch.
+
+Once inequality becomes infrastructure, it can travel farther and operate faster while appearing impersonal. People affected by it may be required to prove not only that they were harmed, but that a technical system could have produced harm at all.
+
+The sentence is also a statement about timing. Foundations are most open to change while they are being laid. Feminist participation, regulation, testing, and safety are not corrections to be postponed until after innovation; they are part of deciding what innovation will mean.
+`,
+    quoteReadingZh: `“被写进基础”改变了问题的尺度。偏见不再只是一个偶尔出现的冒犯性输出，仿佛它位于原本中立的系统表面；它可能通过数据、设计假设、商业模式、准入规则，以及“谁的安全值得延迟产品发布”的决定进入架构本身。
+
+一旦不平等成为基础设施，它就能传播得更远、运行得更快，同时显得没有个人意图。受到伤害的人可能不仅要证明自己受到了伤害，还要先证明一个技术系统竟然能够造成伤害。
+
+这句话同时讨论时机。基础在铺设过程中最有可能被改变。女性主义参与、监管、测试与安全设计，不是等创新结束后再来修正的附加工作；它们本来就是决定“创新意味着什么”的一部分。`,
+    relatedWorks: [
+      {
+        title: "Men Who Hate Women",
+        relationEn: "Bates's investigation of online misogynistic communities and the routes through which extremist ideas move into public life.",
+        relationZh: "Laura Bates 对网络厌女社群及极端观念如何进入公共生活的调查。"
+      },
+      {
+        title: "Fix the System, Not the Women",
+        relationEn: "A study of how institutions transfer responsibility for structural sexism onto individual women.",
+        relationZh: "讨论制度如何把结构性性别歧视的责任转移给女性个人。"
+      },
+      {
+        title: "Everyday Sexism",
+        relationEn: "The book that developed from Bates's archive of everyday experiences of gender discrimination.",
+        relationZh: "由 Bates 收集日常性别歧视经验的公共档案发展而来的著作。"
+      },
+      {
+        title: "Code Dependent",
+        relationEn: "Madhumita Murgia's reporting on how artificial intelligence affects people and communities across the world.",
+        relationZh: "Madhumita Murgia 关于人工智能如何影响世界各地个人与共同体的调查写作。"
+      }
+    ],
+    tags: [
+      "artificial intelligence",
+      "misogyny",
+      "deepfakes",
+      "digital violence",
+      "algorithmic bias",
+      "technology",
+      "safety by design",
+      "feminist technology"
+    ],
+    tagsZh: [
+      "人工智能",
+      "厌女",
+      "深度伪造",
+      "数字暴力",
+      "算法偏见",
+      "技术",
+      "安全设计",
+      "女性主义技术批评"
+    ],
+    sourceText: "The New Age of Sexism",
+    status: "published"
+  },
+  {
+    id: "2026-08-12-a-history-of-witchcraft",
+    date: "2026-08-12",
+    type: "book",
+    title: "A History of Witchcraft: Sorcerers, Heretics & Pagans",
+    titleZh: "《巫术史：术士、异端与异教徒》（暂译）",
+    titleSeparator: " ",
+    years: "2024 revised edition",
+    role: "History｜历史 / Witchcraft Studies｜巫术研究",
+    creator: "Jeffrey B. Russell and Brooks Alexander",
+    focusTitle: "Who Was Made into a Witch?",
+    focusTitleZh: "谁被制造成“女巫”？",
+    summaryEn: "The history of witchcraft is not the history of one timeless, secret identity. It is a history of changing definitions, social fear, religious demonology, legal power, and accusation. Women became the majority of the accused not because witchcraft was naturally female, but because misogyny and social vulnerability made certain women easier to suspect and punish.",
+    summaryZh: "巫术史并不是某种永恒秘密身份的历史，而是一部关于定义如何变化、恐惧如何扩散、宗教如何制造恶魔、法律如何行使权力，以及指控如何形成的历史。女性成为被告中的多数，并不是因为巫术天然属于女性，而是因为厌女观念与社会弱势让某些女性更容易被怀疑和惩罚。",
+    introEn: `A History of Witchcraft: Sorcerers, Heretics & Pagans was first published by Thames & Hudson in 1980. The 2024 revised edition contains Jeffrey B. Russell's historical study together with revisions and chapters by Brooks Alexander that extend the account of modern witchcraft. The book moves from worldwide sorcery and European demonology to the witch hunts, their decline, and modern Neopagan witchcraft.
+
+Its first methodological lesson is that the word “witch” does not name one stable person across every place and century. It can refer to a practitioner of sorcery, the imagined Devil-worshipper of early modern European prosecutions, or a present-day member of a recognized Neopagan religion. These meanings overlap in language but do not describe a single continuous tradition.
+
+For a feminist calendar, the book's most urgent material concerns accusation. Across the European witch-hunt period, women were accused more often than men, although the ratio varied greatly by region and time. The authors connect this pattern to misogynistic traditions, women's unequal legal and social position, poverty, widowhood, conflict between neighbours, childbirth, reputation, and the relative safety of accusing someone with little power to retaliate.
+
+This history asks us to shift the question. Instead of looking for an essential quality that made someone a witch, we can ask who had the authority to name a witch, what fears the accusation organized, which institutions converted suspicion into punishment, and why particular bodies became available for blame.`,
+    introZh: `《巫术史：术士、异端与异教徒》（书名暂译）最初由 Thames & Hudson 于1980年出版。2024年修订版保留 Jeffrey B. Russell 的历史研究，并收入 Brooks Alexander 的修订与新增章节，把叙述延伸到当代巫术。全书从世界各地的法术实践与欧洲恶魔论写起，讨论猎巫、猎巫的衰落，以及现代新异教巫术。
+
+这本书提供的第一个方法论提醒是：“女巫”这个词并不在每个地方和时代指向同一种稳定身份。它可能指施行法术的人、欧洲近代早期司法追诉中想象出来的魔鬼崇拜者，也可能指今天获得承认的新异教宗教实践者。这些含义在语言中彼此重叠，却不构成一条从古至今连续不变的传统。
+
+对于女性主义日历而言，书中最紧迫的材料涉及“指控”。在欧洲猎巫时期，女性比男性更常受到指控，不过比例会随地区与时代显著变化。作者把这一模式与厌女传统、女性不平等的法律和社会位置、贫困、寡居、邻里冲突、生育、名誉，以及指控无力反击者相对安全等因素联系起来。
+
+这段历史要求我们改变问题。与其寻找某种让一个人成为女巫的本质，不如追问：谁有权把别人命名为女巫？这种指控组织了哪些恐惧？哪些制度把怀疑转化为惩罚？为什么某些身体更容易成为承载责难的对象？`,
+    articleSections: [
+      {
+        title: "What Does “Witch” Mean?",
+        titleZh: "“女巫”意味着什么？",
+        en: `Russell and Alexander begin by refusing a simple definition. Anthropological discussions may use “witch” or “sorcerer” for people believed to cause harm through magical means. Historians of Europe often use witchcraft for the alleged diabolical conspiracy imagined by theologians, judges, and accusers. Modern witches usually describe a religion oriented toward deities, nature, ritual, and magic rather than Devil worship.
+
+Confusing these meanings produces bad history. A person accused by a seventeenth-century court was not necessarily someone who called herself a witch, practised a coherent religion, or performed the acts described in testimony. The judicial category, the accuser's belief, and the accused person's life must be kept analytically distinct.
+
+The book therefore treats witchcraft as a changing concept as well as a set of practices and identities. Words do not merely report reality; they help organize it. Once a community agrees on what a witch looks like, ordinary gestures, conflicts, illnesses, and misfortunes can be rearranged as evidence.`,
+        zh: `Russell 与 Alexander 首先拒绝一个简单定义。人类学讨论可能用“女巫”或“术士”指被认为借助魔法造成伤害的人；欧洲史研究者常用 witchcraft 指神学家、法官与指控者想象出来的恶魔阴谋；现代女巫通常用这个词描述一种面向神祇、自然、仪式与魔法的宗教，而不是对魔鬼的崇拜。
+
+混淆这些含义会制造糟糕的历史。一个在十七世纪被法庭指控的人，未必自称女巫，未必实践一套完整宗教，也未必做过证词中描述的行为。司法类别、指控者的信念和被告的实际生活必须在分析中保持区分。
+
+因此，这本书既把巫术视为一组实践与身份，也把它视为不断变化的概念。词语并不只是报告现实，它们也参与组织现实。一旦共同体认定女巫应该是什么样子，普通动作、冲突、疾病与不幸就可能被重新排列成证据。`
+      },
+      {
+        title: "The Witch Was Not One Continuous Secret Religion",
+        titleZh: "“女巫”并非一条连续的秘密宗教传统",
+        en: `One of the book's clearest historical boundaries separates ancient and folk practices, the alleged Devil-worship of the witch trials, and modern Neopagan witchcraft. Pagan customs and magical practices certainly survived Christianization, but survival does not prove that a unified underground witch religion continued intact for centuries.
+
+The romantic story of an ancient fertility religion persecuted by the Church became influential through writers including Jules Michelet, Charles Godfrey Leland, and Margaret Murray. It later contributed symbols and narratives to modern witchcraft. Russell and Alexander stress that its historical claims do not withstand the available evidence.
+
+This distinction does not make modern witchcraft false or insignificant. A modern religion does not need an unbroken ancient pedigree to be meaningful. It has its own history, communities, transformations, and claims to religious freedom.`,
+        zh: `这本书最清楚的历史边界之一，是把古代与民间实践、猎巫审判中被指控的魔鬼崇拜，以及现代新异教巫术区分开来。异教习俗与魔法实践确实在基督教化之后继续存在，但“留存”并不能证明一个统一的地下女巫宗教数百年来完整延续。
+
+“一个古老生育宗教遭到教会迫害”的浪漫叙事，经由 Jules Michelet、Charles Godfrey Leland 与 Margaret Murray 等作者产生了广泛影响，后来也为现代巫术提供了符号和故事。Russell 与 Alexander 强调，这套叙事中的历史主张无法得到现有证据支持。
+
+这种区分并不意味着现代巫术是虚假或无足轻重的。一个现代宗教不需要拥有从古代从未中断的谱系才具有意义。它拥有自己的历史、共同体、转变，以及争取宗教自由的诉求。`
+      },
+      {
+        title: "The Witch Hunt Was an Early Modern Crisis",
+        titleZh: "猎巫主要是一场近代早期危机",
+        en: `Popular memory often places the great witch hunts in a vaguely imagined “dark” Middle Ages. The book corrects this chronology. Charges of organized diabolical witchcraft took shape near the end of the medieval period, while the largest prosecutions occurred during the Renaissance, the Reformation, and the seventeenth century.
+
+Between roughly 1450 and 1750, the authors estimate that about 110,000 people were tried or tortured as alleged witches and that between 40,000 and 60,000 were executed. These are estimates across a long period and many jurisdictions, not a single coordinated campaign with one authority or an identical pattern everywhere.
+
+Religious conflict, demonological theory, local politics, judicial procedure, torture, social crisis, and community tension interacted differently from place to place. “The witch hunt” is therefore a useful general name only if it does not erase multiple legal systems, regional histories, and patterns of accusation.`,
+        zh: `大众记忆常把大规模猎巫放进一个模糊想象的“黑暗中世纪”。本书修正了这一时间线。有组织的恶魔巫术指控在中世纪末期才逐渐成形，而最大规模的司法追诉发生在文艺复兴、宗教改革与十七世纪。
+
+作者估计，从大约1450年至1750年，约有十一万人因被指控为女巫而受审或遭受酷刑，其中四万至六万人被处决。这些数字是对漫长时期和许多司法区域的估计，并不是一次由单一权威统一领导、在各地采用相同模式的行动。
+
+宗教冲突、恶魔论、地方政治、司法程序、酷刑、社会危机与共同体矛盾，在不同地区以不同方式发生作用。因此，“猎巫”只有在不抹去多套法律体系、地方历史与指控模式时，才是一个有用的总称。`
+      },
+      {
+        title: "Accusation Gave Misfortune a Human Target",
+        titleZh: "指控为不幸制造了一个人形目标",
+        en: `The social history chapters ask what witch belief did inside a community. Illness, a dead animal, a failed harvest, sexual anxiety, infant death, fire, or other disaster could be frightening precisely because its cause and remedy were uncertain. Naming a witch converted diffuse misfortune into an identifiable enemy.
+
+This conversion created the promise of action. Fate could not be arrested, but a neighbour could. The accusation offered explanation, punishment, and the hope that misfortune would stop once its alleged agent was removed.
+
+It also displaced responsibility. Guilt after refusing charity, resentment within a family, hostility between neighbours, or anger following a death could be projected onto a person who was already difficult, poor, isolated, or reputed to possess dangerous power.`,
+        zh: `书中的社会史章节追问：对巫术的信念在共同体内部发挥了什么作用？疾病、牲畜死亡、歉收、性焦虑、婴儿死亡、火灾或其他灾难之所以可怕，正因为原因与补救方式都不确定。命名一个女巫，能够把弥散的不幸转化成一个可以辨认的敌人。
+
+这种转化也制造了行动的承诺。命运无法被逮捕，邻居却可以。指控提供了解释、惩罚，以及一种希望：只要移除那个被认定的施害者，不幸或许就会停止。
+
+它同时转移了责任。拒绝施舍后的内疚、家庭内部的怨恨、邻里敌意，或死亡发生后的愤怒，都可能被投射到一个原本就难以相处、贫穷、孤立，或被认为拥有危险力量的人身上。`
+      },
+      {
+        title: "Why Were Most of the Accused Women?",
+        titleZh: "为什么被告多数是女性？",
+        en: `The book identifies gender as the strongest broad social correlation in the European witch hunts: over the whole period, about twice as many women as men were accused. This was not uniform. Some regions prosecuted many men, and the gender balance changed over time. The point is predominance, not exclusivity.
+
+Russell connects that predominance to misogyny rather than to a naturally female relationship with magic. Classical, religious, and dualist traditions repeatedly associated women with bodily weakness, temptation, disorder, deceptive speech, and dangerous sexuality. Demonological texts such as the Malleus Maleficarum gathered these assumptions into an explicit theory of female susceptibility to witchcraft.
+
+Ideas alone were not enough. Misogynistic stereotypes became especially dangerous when joined to unequal law, property, labour, marriage, and public authority. The imagined female witch was produced where cultural fantasy met an actual distribution of vulnerability.`,
+        zh: `本书把性别视为欧洲猎巫中最显著的总体社会关联：纵观整个时期，受到指控的女性大约是男性的两倍。但这一比例并不均匀，有些地区指控了许多男性，性别比例也会随时间改变。这里强调的是女性占多数，而不是被告全部是女性。
+
+Russell 把这种多数地位与厌女联系起来，而不是与女性和魔法之间某种天然关系联系起来。古典、宗教与二元论传统反复把女性和身体软弱、诱惑、失序、欺骗性言语及危险性欲联系在一起；《女巫之槌》等恶魔论文本又把这些假设汇集成女性更容易参与巫术的明确理论。
+
+观念本身还不足以造成猎巫。只有当厌女刻板印象与不平等的法律、财产、劳动、婚姻和公共权威结合时，它们才格外危险。被想象出来的女性女巫，产生于文化幻想与现实脆弱性分配相遇的位置。`
+      },
+      {
+        title: "Widows, Midwives, and Women Without Protection",
+        titleZh: "寡妇、助产士与缺少保护的女性",
+        en: `Women living outside the protection of a husband or father often had limited legal redress, income, and political influence. Poorer widows and unmarried women could depend on unstable networks of neighbourly charity. Refusal, complaint, muttering, anger, or a curse spoken during conflict might later be remembered as the cause of a misfortune.
+
+Midwives occupied another exposed position because they worked close to childbirth, illness, infant death, and bodily knowledge. When a mother or child died and no satisfying explanation was available, grief and guilt could be redirected toward the woman who had attended the birth.
+
+These patterns must not be turned into a new stereotype claiming that every accused woman was an elderly widow or midwife. Accused people came from different ages, occupations, reputations, and classes. Social vulnerability increased risk, but it did not mechanically determine who would be accused.`,
+        zh: `生活在丈夫或父亲保护之外的女性，往往缺少法律救济、收入与政治影响力。较贫穷的寡妇和未婚女性可能依赖不稳定的邻里施舍网络；冲突中的拒绝、抱怨、低语、愤怒或一句诅咒，日后都可能被重新记忆成某场不幸的起因。
+
+助产士处于另一种暴露位置，因为她们的工作接近分娩、疾病、婴儿死亡与身体知识。当母亲或孩子死亡，而共同体找不到令人满意的解释时，悲伤与内疚可能被转向那个曾经协助生产的女人。
+
+这些模式不能再被转化成一种新的刻板印象，仿佛所有被告都是年老寡妇或助产士。受到指控的人拥有不同年龄、职业、名誉与阶级位置。社会脆弱性会增加风险，却不会机械地决定谁必然受到指控。`
+      },
+      {
+        title: "How Suspicion Became a Chain",
+        titleZh: "怀疑如何变成指控链",
+        en: `Witch accusations were not random, but neither did they follow one universal formula. They often travelled along existing social lines: neighbours who had quarrelled, families divided by inheritance or loyalty, religious factions, political opponents, and people connected through reputation or fear.
+
+Judicial procedure could turn a local suspicion into a widening chain. Under torture or threat, an accused person might be pressed to name accomplices. Those new names generated further arrests and testimony, allowing a trial to expand through families and communities.
+
+The imagined conspiracy could then become evidence for itself. Every additional accusation appeared to confirm that a hidden network existed. The legal system did not merely discover a group of witches; through repetitive questions, coercion, and accepted demonological scripts, it could help produce the conspiracy it claimed to uncover.`,
+        zh: `巫术指控并非随机发生，但也不遵循一个放之四海而皆准的公式。它们常沿着既有社会关系传播：发生争吵的邻居、因遗产或忠诚分裂的家庭、宗教派别、政治对手，以及通过名誉或恐惧彼此连接的人。
+
+司法程序能够把地方怀疑转化为不断扩大的指控链。在酷刑或威胁之下，被告可能被迫说出“同谋”的名字；这些新名字又产生更多逮捕与证词，使审判穿过家庭并蔓延到整个共同体。
+
+被想象的阴谋随后会成为证明自身存在的证据。每一个新增指控似乎都在确认一个隐藏网络确实存在。法律系统并不只是发现了一群女巫；它也可能通过重复提问、强迫与既定的恶魔论脚本，参与生产自己声称正在揭露的阴谋。`
+      },
+      {
+        title: "How the Trials Lost Authority",
+        titleZh: "审判如何失去权威",
+        en: `The decline of prosecution was not a single victory of reason over superstition. It involved changing intellectual worldviews, growing concern about evidence, stronger legal procedure, centralized review, political anxiety about social disorder, and recognition that torture and expanding accusations could destroy entire communities.
+
+As courts became more cautious, judges faced a practical problem: if accusations spread without limit, how could the guilty be distinguished from the innocent? Some convictions were overturned, prosecutions were restricted, and governing authorities increasingly treated uncontrolled trials as a threat to order.
+
+The end of large-scale prosecution did not erase belief in magic. Popular sorcery beliefs continued after diabolical witchcraft lost elite and legal support. What declined was a particular alliance among demonology, government, courts, and coercive proof.`,
+        zh: `司法追诉的衰落并不是“理性一次性战胜迷信”的简单胜利。它涉及思想世界观的变化、对证据的日益关注、更严格的法律程序、中央司法复核、政府对社会失序的忧虑，以及人们逐渐认识到酷刑与不断扩大的指控会摧毁整个共同体。
+
+随着法庭变得谨慎，法官面对一个实践难题：如果指控能够无限扩散，又该如何区分有罪与无辜？一些判决被推翻，追诉受到限制，统治机构也越来越把失控审判视为秩序威胁。
+
+大规模追诉的结束并没有清除人们对魔法的信念。在恶魔巫术失去精英与法律支持后，民间法术信仰仍然延续。真正衰落的是恶魔论、政府、法庭与强迫性证据之间一种特定的联盟。`
+      },
+      {
+        title: "Modern Witchcraft Is a Living Religion",
+        titleZh: "现代巫术是一种活着的宗教",
+        en: `The second half of the book traces the formation and transformation of modern Neopagan witchcraft. It describes a modern religious movement shaped by ritual creativity, Goddess traditions, nature spirituality, ceremonial magic, twentieth-century revival, and continuing debate.
+
+The 2024 edition pays particular attention to the internet. Online networks helped practitioners find one another, learn outside covens, form communities across distance, and create new branches. They also accelerated commercialization, influencer culture, factional conflict, and arguments over authority.
+
+Gender remains active inside this modern history, but in a different form from the witch trials. Younger practitioners influenced by feminism, queer theory, and trans and non-binary politics have challenged earlier Wiccan models that treated male-female polarity as a universal spiritual law. Modern witchcraft is presented not as a fossil from antiquity, but as a religion still changing through its practitioners.`,
+        zh: `本书后半部分追踪现代新异教巫术的形成与转变。它描述的是一场由仪式创造、女神传统、自然灵性、仪式魔法、二十世纪复兴及持续争论共同塑造的现代宗教运动。
+
+2024年版本尤其关注互联网。网络帮助实践者找到彼此、在女巫团体之外学习、跨越地理距离建立共同体，并发展新的分支；它同时加速了商业化、网红文化、派系冲突与围绕权威的争论。
+
+性别仍然活跃在这段现代历史中，但其形式不同于猎巫审判。受到女性主义、酷儿理论及跨性别与非二元政治影响的年轻实践者，正在挑战早期威卡传统中把男女两极视为普遍灵性法则的模式。现代巫术在书中不是一块来自古代的化石，而是一种仍被实践者持续改变的宗教。`
+      },
+      {
+        title: "A Feminist Reading with Historical Limits",
+        titleZh: "一场保留历史边界的女性主义阅读",
+        en: `A feminist reading can make visible how misogyny, economic dependence, reproductive danger, unpaid care, exclusion from authority, and the policing of female anger shaped vulnerability to accusation. It can also ask why the image of the witch remains such a powerful name for women who exceed acceptable roles.
+
+But feminist memory needs historical precision. Not every accused person was a woman; not every accused woman was poor, old, rebellious, a healer, or a midwife; and the people executed during the witch hunts cannot automatically be identified as members of a hidden feminist or Goddess religion.
+
+Precision does not weaken the political history. It shows something more difficult: persecution did not require its targets to share one identity. Institutions could gather different lives under a single hostile category, then punish the category they had constructed.`,
+        zh: `女性主义阅读能够揭示厌女、经济依附、生育危险、无偿照护、被排除于权威之外，以及对女性愤怒的规训，如何共同塑造一个人被指控的脆弱性。它也可以追问：为什么“女巫”至今仍是一个如此有力的名字，用来指认那些超出可接受角色的女性？
+
+但女性主义记忆需要历史精确性。被告并不全是女性；受到指控的女性也不全都贫穷、年老、反叛、从事疗愈或担任助产士；猎巫中被处决的人更不能自动被认定为某个地下女性主义宗教或女神宗教的成员。
+
+精确并不会削弱这段历史的政治意义，反而揭示了一件更困难的事：迫害并不要求目标共享同一种身份。制度可以把彼此不同的生命收拢进一个敌对类别，再去惩罚那个由自己制造出来的类别。`
+      },
+      {
+        title: "Research and Sources",
+        titleZh: "研究与资料",
+        en: `Jeffrey B. Russell and Brooks Alexander, A History of Witchcraft: Sorcerers, Heretics & Pagans. Revised paperback edition, Thames & Hudson, 2024. ISBN 978-0-500-29728-5.
+
+The 2024 edition revises a work first published in 1980 and incorporates material from the second edition, published as A New History of Witchcraft in 2007. Its historical synthesis engages scholarship by Wolfgang Behringer, Paul Boyer and Stephen Nissenbaum, Robin Briggs, Ronald Hutton, Brian P. Levack, H. C. Erik Midelfort, E. William Monter, Edward Peters, and others listed in its bibliography.
+
+This calendar entry follows the book's distinctions among sorcery, alleged diabolical witchcraft, and modern Neopagan witchcraft. Its feminist emphasis on accusation, misogyny, and social vulnerability is an editorial reading grounded especially in the introduction and Chapter 6, “Witchcraft and Society.”`,
+        zh: `Jeffrey B. Russell 与 Brooks Alexander，《A History of Witchcraft: Sorcerers, Heretics & Pagans》，2024年修订平装版，Thames & Hudson。ISBN 978-0-500-29728-5。
+
+2024年版本修订自1980年首次出版的著作，并吸收2007年以《A New History of Witchcraft》为名出版的第二版内容。书中的历史综合参考了 Wolfgang Behringer、Paul Boyer 与 Stephen Nissenbaum、Robin Briggs、Ronald Hutton、Brian P. Levack、H. C. Erik Midelfort、E. William Monter、Edward Peters 等学者的研究，完整书目可见原书参考文献。
+
+本期日历遵循原书对法术、被指控的恶魔巫术及现代新异教巫术所作的区分。文案对指控、厌女与社会脆弱性的女性主义强调，是一场编辑性阅读，尤其依据原书导言及第六章“巫术与社会”。`
+      }
+    ],
+    quotesAtEnd: true,
+    quotesTitleZh: "引文",
+    quote: "The most marked social correlation is that between witchcraft and women.",
+    quoteSource: "Jeffrey B. Russell and Brooks Alexander, A History of Witchcraft, Chapter 6, “Witchcraft and Society”",
+    quoteReadingEn: `This sentence does not claim that witchcraft belonged naturally to women. It identifies a historical pattern in accusation. Across the European witch-hunt period, women were more frequently placed inside the category that courts and communities called witchcraft.
+
+The word “correlation” matters. Gender worked together with age, marital status, poverty, reputation, occupation, local conflict, religious belief, and legal procedure. No single trait caused an accusation, and regional exceptions prevent a universal formula.
+
+The sentence therefore opens a question about power rather than essence. If women appeared more often in the archive as witches, we must examine who produced the archive, who asked the questions, which answers were accepted as evidence, and which people were easiest to punish.`,
+    quoteReadingZh: `这句话并不是说巫术天然属于女性，而是在识别一种历史指控模式。在欧洲猎巫时期，女性更频繁地被放进法庭与共同体称作“巫术”的类别中。
+
+“关联”这个词十分重要。性别与年龄、婚姻状态、贫困、名誉、职业、地方冲突、宗教信念及司法程序共同发生作用。没有任何单一特征会自动导致指控，各地区的例外也使我们无法建立一套普遍公式。
+
+因此，这句话打开的是一个关于权力，而不是关于本质的问题。如果女性以“女巫”身份更频繁地出现在档案中，我们就必须考察：谁生产了档案？谁提出问题？哪些回答被接受为证据？哪些人最容易受到惩罚？`,
+    relatedWorks: [
+      {
+        title: "Witches and Neighbours",
+        relationEn: "Robin Briggs's social history of witchcraft accusations, community conflict, and local relationships in early modern Europe.",
+        relationZh: "Robin Briggs 关于欧洲近代早期巫术指控、共同体冲突与地方社会关系的社会史研究。"
+      },
+      {
+        title: "Witch Craze: Terror and Fantasy in Baroque Germany",
+        relationEn: "Lyndal Roper's study of fantasy, gender, ageing, motherhood, and persecution in German witch trials.",
+        relationZh: "Lyndal Roper 对德国猎巫审判中幻想、性别、衰老、母职与迫害的研究。"
+      },
+      {
+        title: "The Witch: A History of Fear, from Ancient Times to the Present",
+        relationEn: "Ronald Hutton's wide-ranging history of the feared witch figure and its cultural sources.",
+        relationZh: "Ronald Hutton 关于令人恐惧的女巫形象及其文化来源的广泛历史研究。"
+      },
+      {
+        title: "Caliban and the Witch",
+        relationEn: "Silvia Federici's influential feminist interpretation connecting witch hunts to primitive accumulation, reproductive labour, and control of women's bodies; its historical claims remain debated among specialists.",
+        relationZh: "Silvia Federici 把猎巫与原始积累、再生产劳动及女性身体控制联系起来的女性主义阐释；其部分历史主张在专业研究中仍有争议。"
+      }
+    ],
+    tags: [
+      "witchcraft",
+      "witch hunts",
+      "misogyny",
+      "accusation",
+      "social vulnerability",
+      "religion",
+      "law",
+      "Neopaganism"
+    ],
+    tagsZh: [
+      "巫术",
+      "猎巫",
+      "厌女",
+      "指控",
+      "社会脆弱性",
+      "宗教",
+      "法律",
+      "新异教"
+    ],
+    sourceText: "A History of Witchcraft: Sorcerers, Heretics & Pagans",
+    status: "published"
   }
 ];
