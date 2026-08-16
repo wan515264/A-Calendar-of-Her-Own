@@ -1,0 +1,1 @@
+import{j as s}from"./index-DVoXdUpc.js";function a({title:t,description:e}){return s.jsxs("section",{className:"empty-state",children:[s.jsx("div",{className:"empty-state__mark",children:"✦"}),s.jsx("h2",{children:t}),s.jsx("p",{children:e})]})}export{a as E};

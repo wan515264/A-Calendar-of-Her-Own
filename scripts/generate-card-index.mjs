@@ -40,7 +40,13 @@ const previewKeys = [
   'status'
 ];
 
-const previews = dailyCards.map((card) => Object.fromEntries(
+const today = new Date().toISOString().slice(0, 10);
+const homepageCards = dailyCards
+  .filter((card) => card.status === 'published' && card.date <= today)
+  .sort((a, b) => a.date.localeCompare(b.date))
+  .slice(-3);
+
+const previews = homepageCards.map((card) => Object.fromEntries(
   previewKeys
     .filter((key) => card[key] !== undefined)
     .map((key) => [key, card[key]])
