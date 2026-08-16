@@ -4,8 +4,9 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc --noEmit && vite build",
+    "generate:card-index": "node scripts/generate-card-index.mjs",
+    "dev": "node scripts/generate-card-index.mjs && vite",
+    "build": "node scripts/generate-card-index.mjs && tsc --noEmit && vite build",
     "preview": "vite preview",
     "validate:cards": "node scripts/validate-cards.mjs"
   },

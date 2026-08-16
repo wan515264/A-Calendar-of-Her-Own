@@ -1,0 +1,1 @@
+import{j as e}from"./index-CznQyCGL.js";function n({title:a,eyebrow:r,description:s}){return e.jsxs("header",{className:"page-header",children:[r&&e.jsx("p",{className:"eyebrow",children:r}),e.jsx("h1",{children:a}),s&&e.jsx("p",{children:s})]})}export{n as P};

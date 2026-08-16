@@ -2,10 +2,10 @@ import DateHeader from '../components/DateHeader';
 import EmptyState from '../components/EmptyState';
 import SisterProjectCard from '../components/SisterProjectCard';
 import TheoryCard from '../components/TheoryCard';
-import { getTodayScheduledCard } from '../utils/getScheduledCard';
+import { getHomepageCard } from '../utils/getHomepageCard';
 
 export default function Home() {
-  const todayCard = getTodayScheduledCard();
+  const todayCard = getHomepageCard();
 
   return (
     <div className="home-page">
