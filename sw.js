@@ -1,1 +1,12 @@
-if(!self.define){let e,i={};const s=(s,n)=>(s=new URL(s+".js",n).href,i[s]||new Promise(i=>{if("document"in self){const e=document.createElement("script");e.src=s,e.onload=i,document.head.appendChild(e)}else e=s,importScripts(s),i()}).then(()=>{let e=i[s];if(!e)throw new Error(`Module ${s} didn’t register its module`);return e}));self.define=(n,r)=>{const o=e||("document"in self?document.currentScript.src:"")||location.href;if(i[o])return;let d={};const c=e=>s(e,o),f={module:{uri:o},exports:d,require:c};i[o]=Promise.all(n.map(e=>f[e]||c(e))).then(e=>(r(...e),d))}}define(["./workbox-9c191d2f"],function(e){"use strict";self.skipWaiting(),e.clientsClaim(),e.precacheAndRoute([{url:"pwa-512.svg",revision:"3cd4f262fff71d8087c226894398d9a9"},{url:"pwa-192.svg",revision:"e3308e1873ecc17e5de5590935b62ef0"},{url:"index.html",revision:"414736f32bc34d7a1dcc766abb20adff"},{url:"images/chiharu-shiota-absence-embodied-agsa.png",revision:"4690f9f639793e5d1297f1dd939d9974"},{url:"images/angela-nikolau-empire-state-wide.png",revision:"13d7257753168b8fb4fc6c8e0800c85a"},{url:"images/angela-nikolau-empire-state-close.png",revision:"87415ec419843823e0e3a67fce35cbfc"},{url:"images/2026-07-15-agsa.png",revision:"4690f9f639793e5d1297f1dd939d9974"},{url:"assets/workbox-window.prod.es5-BBnX5xw4.js",revision:null},{url:"assets/index-D4W2NqJL.css",revision:null},{url:"assets/index-Bee0-01X.js",revision:null},{url:"pwa-192.svg",revision:"e3308e1873ecc17e5de5590935b62ef0"},{url:"pwa-512.svg",revision:"3cd4f262fff71d8087c226894398d9a9"},{url:"manifest.webmanifest",revision:"d07dff90689730019ce517fa7ec42bc0"}],{}),e.cleanupOutdatedCaches(),e.registerRoute(new e.NavigationRoute(e.createHandlerBoundToURL("index.html")))});
+self.addEventListener('install', () => {
+  self.skipWaiting();
+});
+
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches
+      .keys()
+      .then((keys) => Promise.all(keys.map((key) => caches.delete(key))))
+      .then(() => self.clients.claim())
+  );
+});

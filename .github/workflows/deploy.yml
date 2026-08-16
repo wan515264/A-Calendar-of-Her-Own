@@ -51,6 +51,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # The repository currently also has GitHub's legacy branch-based Pages
+      # deployment enabled. Let that run finish before publishing the Vite
+      # artifact so it cannot overwrite the built application with repo files.
+      - name: Wait for legacy Pages deployment
+        run: sleep 60
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
