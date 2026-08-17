@@ -8205,5 +8205,317 @@ English subtitle wording varies slightly across releases. The Chinese translatio
     tagsZh: ["阿涅斯·瓦尔达", "五至七时的克莱奥", "法国新浪潮", "女性主体", "凝视", "时间", "巴黎", "疾病"],
     sourceText: "Cléo from 5 to 7",
     status: "published"
+  },
+  {
+    id: "2026-08-16-one-sings-the-other-doesnt",
+    date: "2026-08-16",
+    type: "film",
+    title: "One Sings, the Other Doesn't",
+    titleZh: "《一个唱，一个不唱》",
+    titleSeparator: " ",
+    author: "Agnès Varda｜阿涅斯·瓦尔达",
+    years: "1977",
+    role: "Film / Feminist Musical｜电影 / 女性主义音乐片",
+    focusTitle: "Friendship as a Feminist Form",
+    focusTitleZh: "把友谊写成女性主义形式",
+    summaryEn: "Agnès Varda follows Pomme and Suzanne across more than a decade of friendship, reproductive struggle, work, love, and motherhood. Their lives take different forms, but neither woman is asked to become the single correct model of liberation.",
+    summaryZh: "阿涅斯·瓦尔达跟随波姆与苏珊走过十余年的友谊、生育斗争、劳动、爱情与母职。她们选择了不同的生活形式，而影片没有要求任何一人成为唯一正确的解放典范。",
+    introEn: `One Sings, the Other Doesn't was written and directed by Agnès Varda and released in 1977. It begins in Paris in the early 1960s, when seventeen-year-old Pauline—later known as Pomme—helps Suzanne, a mother of two who cannot support another child, obtain money for an illegal abortion. A sudden loss separates them, but they meet again years later amid the public struggle for abortion rights.
+
+The film follows the two women across more than a decade. Pomme becomes a travelling singer whose performances carry feminist arguments into public space. Suzanne rebuilds her life through paid work, motherhood, and organising around women's health. They do not live side by side, yet letters, postcards, memory, and repeated reunions keep their friendship active.
+
+Varda described the project as an attempt to bear witness to women's individual and collective actions around contraception and abortion between 1965 and 1975. Fiction gave her a way to bring political history into intimate life: law appears through the body, activism through friendship, and social change through the uneven decisions of two women who do not always agree.`,
+    introZh: `《一个唱，一个不唱》由阿涅斯·瓦尔达编剧并执导，于1977年上映。故事从20世纪60年代初的巴黎开始：十七岁的波利娜——后来改名为波姆——帮助已经有两个孩子、无力再抚养一个孩子的苏珊筹集接受非法堕胎所需的费用。一次突如其来的失去使两人分开，多年后，她们在争取堕胎权的公共运动中再次相遇。
+
+影片跟随两位女性走过十余年。波姆成为巡回歌手，把女性主义主张带进公开表演；苏珊则通过有薪劳动、母职与女性健康服务重建生活。她们并不始终生活在一起，但书信、明信片、记忆与一次次重逢，使这段友谊持续发挥作用。
+
+瓦尔达曾把这个项目描述为：见证1965至1975年间女性围绕避孕与堕胎展开的个人和集体行动。虚构让她能够把政治历史放进亲密生活：法律通过身体显现，行动主义通过友谊发生，社会变化则通过两个并不总是意见一致的女人所作出的不均衡选择被看见。`,
+    articleSections: [
+      {
+        title: "1962: Help Before Rights",
+        titleZh: "1962：权利到来之前的互助",
+        en: `The friendship begins with a practical act. Suzanne needs an abortion at a time when abortion is illegal in France and she does not have the money to travel or pay for the procedure. Pomme lies to her parents to obtain the money. Their first bond is therefore not created by shared taste or abstract agreement, but by one woman helping another exercise a choice the law refuses to protect.
+
+The film does not romanticise the circumstances. Suzanne's poverty, her partner's despair, and the danger surrounding illegal abortion show that reproductive decisions are never only private. They are shaped by money, law, housing, childcare, and the availability of trustworthy help.`,
+        zh: `这段友谊从一次具体行动开始。苏珊需要堕胎，而当时法国法律禁止堕胎，她也没有足够的钱旅行或支付手术费用。波姆向父母撒谎，取得了这笔钱。因此，两人的最初联系并非来自共同趣味或抽象认同，而是一个女人帮助另一个女人行使法律拒绝保护的选择。
+
+影片没有浪漫化这一处境。苏珊的贫困、伴侣的绝望，以及非法堕胎所伴随的危险表明，生育决定从来不只是私人问题。它受到金钱、法律、住房、儿童照护与可靠援助是否存在的共同塑造。`
+      },
+      {
+        title: "The Bobigny Trial and Collective Memory",
+        titleZh: "博比尼审判与集体记忆",
+        en: `When Pomme and Suzanne reunite, the film places their fictional friendship inside a reconstruction of the struggle surrounding the Bobigny abortion trial. The real 1972 case, defended by lawyer Gisèle Halimi, became a turning point in the campaign against France's abortion law. Halimi appears in the film, narrowing the distance between historical record and fiction.
+
+Varda had signed the 1971 Manifesto of the 343, in which women publicly stated that they had undergone abortions and therefore exposed themselves to possible prosecution. By restaging protest rather than merely mentioning it, the film remembers legal change as something produced by bodies gathering, speaking, singing, and accepting risk together.`,
+        zh: `当波姆与苏珊重逢时，影片把她们虚构的友谊放进围绕博比尼堕胎案抗争的重现之中。现实中的1972年案件由律师吉泽尔·阿利米辩护，并成为反对法国堕胎禁令的重要转折点。阿利米本人也出现在影片中，使历史记录与虚构之间的距离进一步缩小。
+
+瓦尔达曾签署1971年的“三百四十三人宣言”；签署者公开承认自己曾经堕胎，也因此承担可能遭到起诉的风险。影片没有只用对白提及抗争，而是重新呈现示威现场，由此把法律改变记忆成一种集体行动：身体聚集在一起，发言、歌唱，并共同承担风险。`
+      },
+      {
+        title: "Two Women, No Single Model",
+        titleZh: "两个女人，没有唯一范本",
+        en: `Pomme and Suzanne share feminist commitments, but they do not become interchangeable. Pomme seeks movement, performance, sexual autonomy, and a life organised around music. Suzanne values rooted work, children, local relationships, and the gradual creation of a women's health centre. Their differences are not treated as a contest with one correct winner.
+
+This is one of the film's most generous political choices. Liberation is not reduced to one personality, one family arrangement, or one attitude toward motherhood. The women can question each other without ending their solidarity. Friendship becomes a structure capable of holding disagreement as well as care.`,
+        zh: `波姆与苏珊拥有共同的女性主义立场，却没有因此变成可以互相替换的人。波姆追求流动、表演、性自主，以及以音乐为中心的生活；苏珊则重视扎根于地方的工作、孩子、人际关系，以及逐步建立女性健康中心。两人的差异没有被处理成一场必须决出唯一正确答案的竞赛。
+
+这是影片最宽厚的政治选择之一。解放没有被缩减成一种性格、一种家庭安排，或一种对母职的态度。她们可以彼此质疑，却不因此终止团结。友谊成为一种既能容纳关怀，也能容纳分歧的结构。`
+      },
+      {
+        title: "Singing Politics",
+        titleZh: "把政治唱出来",
+        en: `Varda wrote the lyrics for the film's songs, while the music was composed and performed with the group Orchidée and François Wertheimer. The songs are not pauses inserted between serious scenes. They turn arguments about contraception, abortion, pregnancy, pleasure, and bodily autonomy into language that can travel beyond a meeting room.
+
+Rebecca DeRoo's research shows that the apparent contradiction between musical pleasure and feminist politics was deliberate. Varda used popular form, theatrical staging, humour, and Brechtian interruption to keep political claims visible as constructed claims—ideas that could be heard, questioned, repeated, and revised rather than silently absorbed as natural truth.`,
+        zh: `瓦尔达为影片中的歌曲写词，音乐则由 Orchidée 乐队与 François Wertheimer 等人共同创作和演出。这些歌曲并不是插在严肃场景之间的休息，而是把有关避孕、堕胎、怀孕、愉悦与身体自主的争论，变成能够走出会议室、继续传播的语言。
+
+Rebecca DeRoo 的研究指出，音乐带来的愉悦与女性主义政治之间看似不协调的关系，是一种有意安排。瓦尔达使用流行形式、舞台化表演、幽默与布莱希特式中断，使政治主张继续以“被建构的主张”出现：它们可以被听见、质疑、重复与修改，而不是作为自然真理被无声吸收。`
+      },
+      {
+        title: "Motherhood Without Destiny",
+        titleZh: "母职不是命运",
+        en: `The film defends abortion rights without presenting motherhood itself as submission. Suzanne loves her children and works to support other women; Pomme chooses pregnancy but resists the expectation that her husband should control where she lives or how she raises the child. Reproductive freedom means that neither abortion nor motherhood should be imposed as destiny.
+
+The film also allows ambivalence to remain. Pomme's celebratory pregnancy song is challenged by a woman in the audience who worries that it may serve anti-abortion politics. Varda does not erase the objection. Feminist culture appears as a field of debate in which a joyful image can still carry political danger.`,
+        zh: `影片捍卫堕胎权，却没有把母职本身表现成屈从。苏珊爱自己的孩子，也通过工作支持其他女性；波姆选择怀孕，却拒绝丈夫决定她在哪里生活、如何抚养孩子。生育自由意味着，堕胎与母职都不应被强加为命运。
+
+影片也允许矛盾情感继续存在。波姆歌唱怀孕时，一位女观众提出质疑，担心这种赞美可能被反堕胎政治利用。瓦尔达没有删去这项异议。女性主义文化在这里是一处持续辩论的场域：一个欢乐的形象仍然可能携带政治危险。`
+      },
+      {
+        title: "Letters Across Distance",
+        titleZh: "穿过距离的书信",
+        en: `After their reunion, Pomme and Suzanne often remain apart. The film keeps them connected through postcards, letters, voice-over, and later meetings. Their friendship does not depend on constant physical proximity. It survives because each woman continues to address the other as someone capable of understanding a changing life.
+
+These messages also give the film an alternative chronology. Public history moves through demonstrations and legal reform; intimate history moves through pregnancies, work, separations, grief, travel, and return. The correspondence lets both scales remain present without making one merely illustrate the other.`,
+        zh: `重逢之后，波姆与苏珊仍经常相隔两地。影片通过明信片、书信、画外音与后来的见面，使她们继续保持联系。这段友谊并不依赖持续的身体邻近；它之所以能够延续，是因为每个女人始终把另一个人视为能够理解变化人生的对象。
+
+这些通信也为影片建立了另一种时间结构。公共历史通过示威与法律改革向前推进，亲密历史则通过怀孕、劳动、分离、哀伤、旅行与返回展开。书信让两种尺度同时存在，而不把其中任何一种降格为另一种的简单说明。`
+      },
+      {
+        title: "Fiction as Witness",
+        titleZh: "作为见证的虚构",
+        en: `Varda wanted to record a decade of feminist struggle, but she did not make a conventional documentary. Fiction allowed her to create two composite lives and to place political events beside ordinary duration. The result is neither a complete history of the French women's movement nor a private story sealed away from it.
+
+The film's documentary traces—real campaigners, Gisèle Halimi's appearance, reconstructed demonstrations, and the language of contemporary movements—give weight to its invented characters. At the same time, fiction preserves uncertainty. Social change does not arrive as a clean victory; it is lived unevenly through relationships, institutions, compromises, and unfinished questions.`,
+        zh: `瓦尔达希望记录十年女性主义斗争，却没有拍摄一部传统纪录片。虚构使她能够创造两条综合性的人生轨迹，并把政治事件放在普通生活的时间旁边。最终作品既不是法国妇女运动的完整历史，也不是与历史隔绝的私人故事。
+
+影片中的纪录性痕迹——真实行动者、吉泽尔·阿利米的出现、重新拍摄的示威，以及当时运动所使用的语言——为虚构人物提供了历史重量。与此同时，虚构也保存了不确定性。社会变化并不是作为一次整洁胜利到来，而是在关系、制度、妥协与尚未完成的问题中被不均衡地生活出来。`
+      },
+      {
+        title: "What Friendship Makes Possible",
+        titleZh: "友谊让什么成为可能",
+        en: `The film begins with help that the state will not provide and ends with a widened network of women, children, work, and memory. Pomme does not rescue Suzanne once and for all; Suzanne does not offer Pomme a stable home that resolves every conflict. What they give each other is continuity—the knowledge that a life can change without becoming unintelligible.
+
+Here friendship is not a decorative subplot beside romance and family. It is one of the institutions women build when official institutions fail them. It carries money, information, criticism, affection, and historical memory. One sings and the other does not, but both remain part of the same political conversation.`,
+        zh: `影片从国家拒绝提供的援助开始，以一个由女性、孩子、劳动与记忆构成的扩展网络结束。波姆没有一劳永逸地拯救苏珊，苏珊也没有为波姆提供一个能够解决全部冲突的稳定家庭。她们给予彼此的是连续性：人生可以改变，却不必因此变得无法理解。
+
+在这里，友谊并不是爱情与家庭旁边的装饰性支线。它是官方制度失效时，女性自行建立的制度之一。它传递金钱、信息、批评、情感与历史记忆。一个唱，一个不唱，但两个人始终处在同一场政治对话之中。`
+      }
+    ],
+    researchLens: {
+      title: "Scholarship",
+      titleZh: "学术文献",
+      citation: "Rebecca J. DeRoo (2009); Kelley Conway (2015); Alison Smith (1998); Sandy Flitterman-Lewis (1996).",
+      summaryEn: `Rebecca J. DeRoo's “Confronting Contradictions: Genre Subversion and Feminist Politics in Agnès Varda's L'une chante, l'autre pas” uses archival research and interviews with Varda to argue that the film's mixture of musical form and feminist politics was intentionally subversive rather than accidentally inconsistent.
+
+Kelley Conway's Agnès Varda, Alison Smith's Agnès Varda, and Sandy Flitterman-Lewis's To Desire Differently place the film within Varda's broader practice, French feminist history, and debates about female subjectivity, popular form, motherhood, and reproductive politics. Together, these studies support reading the film as both a record of a movement and an experiment in how political history can be narrated through women's different lives.`,
+      summaryZh: `Rebecca J. DeRoo 的论文《面对矛盾：阿涅斯·瓦尔达〈一个唱，一个不唱〉中的类型颠覆与女性主义政治》结合档案研究及对瓦尔达的访谈，指出影片对音乐片形式与女性主义政治的混合是一种有意的颠覆，而不是偶然的不协调。
+
+Kelley Conway 的《Agnès Varda》、Alison Smith 的《Agnès Varda》，以及 Sandy Flitterman-Lewis 的《To Desire Differently》，把影片放进瓦尔达更广泛的创作、法国女性主义历史，以及有关女性主体、流行形式、母职与生育政治的讨论中。这些研究共同支持一种阅读：影片既是对运动历史的记录，也是一次关于如何通过女性的不同人生讲述政治历史的形式实验。`
+    },
+    quotesTitle: "Quotation",
+    quotesTitleZh: "引文",
+    quotesAtEnd: true,
+    quoteSelections: [
+      {
+        en: "“Neither pop nor pope / My body belongs to me.”",
+        zh: "“不要流行，也不要教皇 / 我的身体属于我。”",
+        source: "Pomme's song, One Sings, the Other Doesn't｜波姆的歌曲，《一个唱，一个不唱》"
+      }
+    ],
+    quoteReadingEn: `The lyric joins a joke to a political demand. “Pop” names the pressure of commercial culture, while “pope” invokes religious authority over sexuality and reproduction. Pomme refuses both as final owners of her body.
+
+The line does not claim that a body exists outside society. The film has already shown how bodies are constrained by money, law, medicine, family, and partnership. “My body belongs to me” is therefore not a description of an achieved condition. It is a demand for the authority to decide amid those pressures.`,
+    quoteReadingZh: `这句歌词把玩笑与政治要求连接起来。“流行”指向商业文化的压力，“教皇”则指向宗教权威对性与生育的干预。波姆拒绝让两者成为她身体的最终所有者。
+
+这句话并不是宣称身体可以存在于社会之外。影片此前已经展示，身体如何受到金钱、法律、医学、家庭与亲密关系的限制。因此，“我的身体属于我”并不是对一种已经实现状态的描述，而是在这些压力之中争取决定权的要求。`,
+    relatedWorks: [
+      { title: "Réponse de femmes: Notre corps, notre sexe", titleZh: "《女性的回应：我们的身体，我们的性》", relationEn: "Agnès Varda, 1975", relationZh: "阿涅斯·瓦尔达，1975" },
+      { title: "Cléo from 5 to 7", titleZh: "《五至七时的克莱奥》", relationEn: "Agnès Varda, 1962", relationZh: "阿涅斯·瓦尔达，1962" },
+      { title: "Le Bonheur", titleZh: "《幸福》", relationEn: "Agnès Varda, 1965", relationZh: "阿涅斯·瓦尔达，1965" },
+      { title: "Vagabond", titleZh: "《天涯沦落女》", relationEn: "Agnès Varda, 1985", relationZh: "阿涅斯·瓦尔达，1985" },
+      { title: "Confronting Contradictions", titleZh: "《面对矛盾》", relationEn: "Rebecca J. DeRoo, 2009", relationZh: "Rebecca J. DeRoo，2009" }
+    ],
+    sources: [
+      { label: "Festival de Cannes: Agnès Varda's feminist letter", url: "https://www.festival-cannes.com/en/2018/one-sings-the-other-doesn-t-agnes-varda-s-feminist-letter/" },
+      { label: "The Criterion Collection: One Sings, the Other Doesn't", url: "https://www.criterion.com/current/posts/6399-one-sings-the-other-doesn-t-bodies-and-selves" },
+      { label: "BFI: The Agnès Varda Collection", url: "https://shop.bfi.org.uk/the-agnes-varda-collection-8-disc-blu-ray-box-set/" },
+      { label: "Rebecca J. DeRoo, Modern & Contemporary France", url: "https://doi.org/10.1080/09639480903037111" }
+    ],
+    tags: ["Agnès Varda", "feminist film", "female friendship", "abortion rights", "bodily autonomy", "musical", "motherhood"],
+    tagsZh: ["阿涅斯·瓦尔达", "女性主义电影", "女性友谊", "堕胎权", "身体自主", "音乐片", "母职"],
+    sourceText: "One Sings, the Other Doesn't",
+    status: "published"
+  },
+  {
+    id: "2026-08-17-the-hour-of-the-star",
+    date: "2026-08-17",
+    type: "novel",
+    title: "The Hour of the Star",
+    titleZh: "《星辰时刻》",
+    titleSeparator: " ",
+    author: "Clarice Lispector｜克拉丽丝·李斯佩克朵",
+    years: "1977",
+    role: "Novel / Brazilian Literature / Metafiction｜小说 / 巴西文学 / 元小说",
+    focusTitle: "Who Has the Right to Tell Macabéa's Story?",
+    focusTitleZh: "谁有权讲述玛卡贝娅的人生？",
+    summaryEn: "Clarice Lispector tells the story of Macabéa, a poor migrant typist in Rio de Janeiro, through a male narrator who cannot describe her without exposing his own privilege. The novel asks whether literature can make an overlooked life visible without taking possession of it.",
+    summaryZh: "克拉丽丝·李斯佩克朵通过一位男性叙述者，讲述里约热内卢贫困移民打字员玛卡贝娅的人生；而他每一次描述她，也都暴露出自己的特权。小说追问：文学能否让被忽视的生命变得可见，却不把她据为己有？",
+    introEn: `The Hour of the Star was published in 1977, shortly before Clarice Lispector's death. It was her final novel published during her lifetime. The book tells the story of Macabéa, a young woman from Alagoas in Brazil's Northeast who lives in Rio de Janeiro, works as a typist, shares a room with other women, and survives on very little food, money, affection, or social recognition.
+
+Yet Macabéa's story does not reach the reader directly. It is written by Rodrigo S. M., a fictional male narrator who repeatedly interrupts the narrative to discuss his difficulty, guilt, authority, and fear of turning poverty into literature. Before Macabéa can fully appear, the reader must pass through the voice of a man explaining how he intends to represent her.
+
+This structure changes the novel's social question. It is not only about why a poor migrant woman remains unseen in the modern city. It is also about what happens when an educated writer decides to make her visible. Rodrigo wants to tell the truth about Macabéa, but the book never allows his wish to become innocent. Every act of attention is also an act of selection, naming, and power.`,
+    introZh: `《星辰时刻》出版于1977年，时间接近克拉丽丝·李斯佩克朵去世之前，也是她生前最后发表的小说。作品讲述玛卡贝娅的故事：她来自巴西东北部的阿拉戈斯州，后来生活在里约热内卢，以打字员为业，与其他女性合住，并在极少的食物、金钱、情感与社会承认中生存。
+
+然而，玛卡贝娅的故事并没有直接抵达读者。它由虚构的男性叙述者 Rodrigo S. M. 写出；他不断打断叙事，讨论自己的困难、愧疚、权威，以及把贫困变成文学的恐惧。在玛卡贝娅真正显现之前，读者必须先穿过一个男人的声音，听他解释自己打算如何表现她。
+
+这种结构改变了小说提出的社会问题。作品不只追问：为什么一个贫困的女性移民在现代城市中始终不可见？它也追问：当一个受过教育的作家决定让她变得可见时，会发生什么？Rodrigo 想讲出玛卡贝娅的真实，但小说从未让这种愿望显得无辜。每一次关注也同时构成选择、命名与权力。`,
+    articleSections: [
+      {
+        title: "Thirteen Titles Before the Story",
+        titleZh: "故事开始之前的十三个标题",
+        en: `Before the narrative begins, the book presents thirteen possible titles, including The Hour of the Star, The Right to Scream, She Doesn't Know How to Scream, and A Sense of Loss. Clarice Lispector's signature appears among them. The page refuses the idea that one title can completely contain the life about to be told.
+
+The titles also establish a conflict over voice. If Macabéa has a right to scream but does not know how, who will speak? Can Rodrigo's writing give her that right, or does his voice occupy the space where hers might have appeared? The novel opens this problem before it offers any answer.`,
+        zh: `在叙事正式开始之前，书中列出十三个可能的标题，其中包括《星辰时刻》《呐喊的权利》《她不知道如何呐喊》与《失落感》。克拉丽丝·李斯佩克朵的签名也出现在这些标题之间。这一页拒绝让某一个标题完整容纳即将被讲述的生命。
+
+这些标题同时建立了一场关于声音的冲突。如果玛卡贝娅拥有呐喊的权利，却不知道如何呐喊，那么谁来发言？Rodrigo 的写作能否把这项权利交给她，还是他的声音占据了她本来可能出现的位置？小说在提供任何答案之前，先打开了这个问题。`
+      },
+      {
+        title: "Macabéa in the Modern City",
+        titleZh: "现代城市中的玛卡贝娅",
+        en: `Macabéa belongs to a history of migration from Brazil's impoverished Northeast toward the large cities of the Southeast. Rio promises work and modern life, but she remains at their edge. Her employment as a typist places her near written language without granting her authority over it. She copies words for others while the novel asks who will write her.
+
+Her life is built from small routines: work, a shared room, cheap food, Radio Clock, Coca-Cola, cinema fantasies, and brief encounters. Lispector does not turn these details into a sentimental inventory of noble poverty. They show how modern consumer culture can reach a person through jingles, products, and celebrity images even when material security does not.`,
+        zh: `玛卡贝娅属于一段从巴西贫困的东北部迁往东南部大城市的历史。里约承诺工作与现代生活，她却始终停留在两者边缘。打字员的工作使她靠近书面语言，却没有给予她支配语言的权威。她为别人抄写文字，而小说则追问：谁来书写她？
+
+她的生活由细小日常组成：工作、合住房间、廉价食物、报时广播、可口可乐、电影幻想与短暂相遇。李斯佩克朵没有把这些细节变成一份歌颂高贵贫困的感伤清单。它们显示，现代消费文化可以通过广告语、商品与明星形象抵达一个人，即使物质安全从未抵达。`
+      },
+      {
+        title: "Rodrigo S. M. Cannot Disappear",
+        titleZh: "Rodrigo S. M. 无法消失",
+        en: `Rodrigo says he wants a plain, cold story, yet he continually places himself between Macabéa and the reader. He describes what he eats, how he prepares to write, why he chooses particular words, and how her poverty affects his conscience. His interruptions can seem self-absorbed, but the novel makes that discomfort productive.
+
+If Rodrigo disappeared behind an apparently transparent realism, his authority might look natural. By making him conspicuous, Lispector turns representation into part of the plot. The reader sees not only Macabéa as an object of narration, but also the narrator constructing that object and struggling to control the meaning of what he sees.`,
+        zh: `Rodrigo 声称自己想写一个朴素而冷静的故事，却不断把自己放在玛卡贝娅与读者之间。他描述自己吃什么、如何为写作做准备、为什么选择某些词语，以及她的贫困如何刺激他的良知。他的插话有时显得过度关注自己，但小说让这种不适产生了作用。
+
+如果 Rodrigo 隐藏在看似透明的现实主义背后，他的权威就可能显得自然。李斯佩克朵让他格外显眼，从而把“再现”本身变成情节的一部分。读者看到的不只是作为叙述对象的玛卡贝娅，也看到叙述者如何建构这个对象，并努力控制自己所见之物的意义。`
+      },
+      {
+        title: "Why a Male Narrator?",
+        titleZh: "为什么使用男性叙述者？",
+        en: `The choice of a male narrator intensifies the novel's questions about gender and authority. Rodrigo assumes that a woman writer might soften the story through emotion. His claim exposes a literary culture in which masculinity is associated with objectivity and social seriousness, while femininity is dismissed as sentiment.
+
+Lispector does not simply endorse that hierarchy. She signs the title page, invents Rodrigo, and repeatedly reveals the instability of his authority. A woman author writes a man who believes he can tell another woman's life more rigorously. The layered arrangement prevents his masculinity from functioning as an unquestioned guarantee of truth.`,
+        zh: `男性叙述者的选择强化了小说有关性别与权威的问题。Rodrigo 假定女性作家可能会用情感软化这个故事。这种说法暴露出一种文学文化：男性气质被等同于客观性与社会严肃性，女性气质则被贬低为感伤。
+
+李斯佩克朵并没有简单接受这套等级。她在标题页签名，创造 Rodrigo，又不断显露他权威的不稳定。一位女性作者写出一个男人，而这个男人相信自己能够更严谨地讲述另一个女人的人生。层层嵌套的安排，使男性身份无法成为不受质疑的真实保证。`
+      },
+      {
+        title: "Poverty Without a Single Meaning",
+        titleZh: "不被固定成单一意义的贫困",
+        en: `Macabéa is poor, underfed, poorly educated, and socially disregarded. But the novel resists making her only a symbol of deprivation. She has obscure pleasures, stubborn habits, bodily sensations, fragments of curiosity, and forms of inward life that Rodrigo cannot fully translate.
+
+This resistance matters ethically. To describe someone only through what she lacks is another way of reducing her. Scholarship on the novel repeatedly notes that Rodrigo fails to capture Macabéa completely. The failure is not an accidental flaw to be corrected; it is evidence that a person exceeds the social categories and literary language used to explain her.`,
+        zh: `玛卡贝娅贫困、营养不足、教育有限，也不受社会重视。但小说拒绝让她只成为匮乏的象征。她拥有难以说明的快乐、固执的习惯、身体感觉、零碎好奇，以及 Rodrigo 无法完整翻译的内在生活。
+
+这种拒绝具有伦理意义。只通过一个人缺少什么来描述她，也是另一种缩减。关于这部小说的研究反复指出，Rodrigo 无法完整捕捉玛卡贝娅。这种失败并不是等待修正的偶然缺陷，而是一个证据：一个人总会超出用来解释她的社会分类与文学语言。`
+      },
+      {
+        title: "Love, Aspiration, and Humiliation",
+        titleZh: "爱情、向往与羞辱",
+        en: `Macabéa's relationship with Olímpico does not rescue her from isolation. He is also a migrant from the Northeast, but he is determined to rise socially and imagines a future built through ambition, performance, and proximity to power. He eventually leaves Macabéa for her coworker Glória, whose body and family background appear more compatible with his aspirations.
+
+The triangle shows how domination travels among people who are themselves unequally positioned. Shared regional origin does not produce automatic solidarity, and gendered humiliation can become a tool for someone seeking distance from poverty. The novel refuses to place all power in a single villain; social hierarchy enters desire and teaches people what kind of person is supposed to count as a better future.`,
+        zh: `玛卡贝娅与 Olímpico 的关系没有把她从孤独中拯救出来。他同样是来自东北部的移民，却决心实现社会上升，并把未来想象成野心、表演与接近权力的结果。他最终离开玛卡贝娅，转向她的同事 Glória；后者的身体与家庭背景看起来更符合他的上升愿望。
+
+这个三角关系显示，支配如何在本身处于不平等位置的人之间继续传递。共同的地域来源不会自动产生团结，而性别化羞辱可能成为一个人试图远离贫困的工具。小说没有把全部权力集中在某个单一恶人身上；社会等级进入欲望，并教人判断哪一种人才应该代表更好的未来。`
+      },
+      {
+        title: "Madame Carlota and the Promised Future",
+        titleZh: "卡洛塔夫人与被许诺的未来",
+        en: `The fortune teller Madame Carlota is the first person to name Macabéa's life as unhappy and then promise her a radically different future. Until this encounter, Macabéa has scarcely possessed a language for understanding deprivation as deprivation. The prediction gives her an image of wealth, love, and transformation.
+
+The promise is unreliable, yet its emotional effect is real. For a brief moment, Macabéa can imagine that the future is addressed to her. The scene complicates any easy opposition between truth and illusion: a false prophecy may reveal that she has been denied even the ordinary social permission to expect something.`,
+        zh: `算命者卡洛塔夫人是第一个明确说出玛卡贝娅生活不幸的人，也是第一个向她许诺彻底不同未来的人。在此之前，玛卡贝娅几乎没有语言把匮乏理解为匮乏。预言给予她一幅有关财富、爱情与转变的图像。
+
+这个许诺并不可靠，但它产生的情感效果是真实的。在短暂时刻里，玛卡贝娅能够想象未来正在对她说话。这一场景使“真实与幻觉”的简单对立变得复杂：一个虚假的预言，可能恰好揭示她甚至被剥夺了期待某种生活的普通社会许可。`
+      },
+      {
+        title: "The Hour of Visibility",
+        titleZh: "变得可见的时刻",
+        en: `The title's “hour of the star” arrives with cruel irony. Macabéa receives concentrated public attention only at the moment when her life becomes spectacle. The city that has barely noticed her finally gathers around her body. Visibility comes, but too late to become recognition, protection, or justice.
+
+The ending therefore challenges the reader as well as Rodrigo. If Macabéa becomes compelling only through catastrophe, what kind of attention have we offered her? The novel makes us feel the force of her disappearance while refusing the comfort of believing that reading alone has repaired the conditions that made her disappear.`,
+        zh: `标题中的“星辰时刻”带着残酷反讽到来。玛卡贝娅只有在生命变成奇观的时刻，才获得高度集中的公共注意。那座几乎从未看见她的城市，终于聚集在她的身体周围。可见性终于到来，却来得太晚，无法成为承认、保护或正义。
+
+因此，结尾不仅挑战 Rodrigo，也挑战读者。如果玛卡贝娅只有通过灾难才显得引人注目，那么我们究竟给予了她什么样的关注？小说让我们感受她消失的力量，却拒绝提供一种安慰：仿佛阅读本身已经修复了使她消失的社会条件。`
+      },
+      {
+        title: "The Ethics of Telling Another Life",
+        titleZh: "讲述他人生命的伦理",
+        en: `The Hour of the Star does not solve the problem of representation by remaining silent. Silence would leave Macabéa outside literature once again. Nor does it pretend that sympathetic attention removes the distance between writer and subject. Instead, the novel keeps that distance visible and makes the narrator answerable for it.
+
+Its achievement lies in this double movement: Lispector insists that an overlooked life must be attended to, while refusing to let the person who tells it appear innocent, complete, or authoritative. Literature cannot simply hand Macabéa a voice. It can expose the structures that silence her, disturb the confidence of those who speak for her, and teach readers to notice the limits of their own understanding.`,
+        zh: `《星辰时刻》没有通过保持沉默来解决再现问题。沉默只会让玛卡贝娅再次留在文学之外。小说也没有假装，富有同情的关注能够消除作家与对象之间的距离。相反，它让这段距离保持可见，也让叙述者必须对它负责。
+
+作品的成就在于这种双重运动：李斯佩克朵坚持要求人们关注一段被忽视的生命，同时拒绝让讲述者显得无辜、完整或权威。文学不能简单地把声音交给玛卡贝娅；它能够揭露使她沉默的结构，扰乱那些替她发言者的自信，并训练读者注意自身理解的边界。`
+      }
+    ],
+    researchLens: {
+      title: "Scholarship",
+      titleZh: "学术文献",
+      citation: "Earl E. Fitz (1982); Marta Peixoto (1994); Lúcia Sá (2004); Regina Dalcastagnè (2012); Kevin Andrés Pérez Méndez (2016); Adam Joseph Shellhorse (2017); Marília Librandi (2018); André Corrêa de Sá (2024).",
+      summaryEn: `Earl E. Fitz's study of point of view established the importance of the novel's shifting perspectives and their capacity to implicate both narrator and reader in Macabéa's marginalisation. Marta Peixoto examines gender, narrative, and violence across Lispector's work, while Lúcia Sá and Regina Dalcastagnè place Rodrigo's difficulty within the unease of educated elites attempting to represent poverty.
+
+Kevin Andrés Pérez Méndez reads the novel as a crisis of narrative authority in which Rodrigo's failure opens space for an alternative enunciation. Adam Joseph Shellhorse and Marília Librandi resist reducing the book to transparent social realism, emphasising its anti-literary and aural experiments. André Corrêa de Sá revisits these debates and argues that the novel addresses exclusion through aesthetic transformation and social hope rather than through representation alone.`,
+      summaryZh: `Earl E. Fitz 对叙事视角的研究，确立了小说中不断变化的观看位置为何重要：它们使叙述者与读者都被卷入玛卡贝娅的边缘化过程。Marta Peixoto 考察李斯佩克朵作品中的性别、叙事与暴力；Lúcia Sá 与 Regina Dalcastagnè 则把 Rodrigo 的困难放进受教育精英试图表现贫困时产生的不安之中。
+
+Kevin Andrés Pérez Méndez 把小说理解为一次叙事权威危机：Rodrigo 的失败为另一种发言方式打开空间。Adam Joseph Shellhorse 与 Marília Librandi 反对把作品缩减为透明的社会现实主义，并强调其反文学与听觉实验。André Corrêa de Sá 重新审视这些争论，提出小说并非只通过再现，而是通过审美转化与社会希望来回应排斥。`
+    },
+    quotesTitle: "Quotation",
+    quotesTitleZh: "引文",
+    quotesAtEnd: true,
+    quoteSelections: [
+      {
+        en: "“Everything in the world began with a yes.”",
+        zh: "“世界上的一切都始于一个‘是’。”",
+        source: "Clarice Lispector, The Hour of the Star｜克拉丽丝·李斯佩克朵，《星辰时刻》"
+      }
+    ],
+    quoteReadingEn: `The novel begins with affirmation before it begins with Macabéa. “Yes” names the smallest possible movement from nothing toward relation: one thing answers another, and a world becomes possible. Yet Macabéa lives in a society that has repeatedly answered her with indifference.
+
+The opening therefore carries both cosmological wonder and political pressure. If life begins through an answering “yes,” what happens to a person who is rarely addressed as someone worthy of an answer? Rodrigo's narration becomes one attempt to say yes to her existence, but the novel requires us to examine who speaks that yes and what power accompanies it.`,
+    quoteReadingZh: `小说先从肯定开始，随后才开始讲述玛卡贝娅。“是”标记了从虚无走向关系的最小运动：一个事物回应另一个事物，世界因此成为可能。然而，玛卡贝娅生活在一个反复以冷漠回应她的社会里。
+
+因此，这句开场同时携带宇宙性的惊奇与政治压力。如果生命通过一个回应性的“是”开始，那么一个很少被当作值得回应之人的人，会发生什么？Rodrigo 的叙述成为对她存在说“是”的一次尝试，但小说要求我们继续审视：这个“是”由谁说出，它又伴随着怎样的权力？`,
+    relatedWorks: [
+      { title: "Near to the Wild Heart", titleZh: "《濒临狂野的心》", relationEn: "Clarice Lispector, 1943", relationZh: "克拉丽丝·李斯佩克朵，1943" },
+      { title: "The Passion According to G.H.", titleZh: "《G.H.受难曲》", relationEn: "Clarice Lispector, 1964", relationZh: "克拉丽丝·李斯佩克朵，1964" },
+      { title: "Água Viva", titleZh: "《活水》", relationEn: "Clarice Lispector, 1973", relationZh: "克拉丽丝·李斯佩克朵，1973" },
+      { title: "A Breath of Life", titleZh: "《生命的呼吸》", relationEn: "Clarice Lispector, published posthumously in 1978", relationZh: "克拉丽丝·李斯佩克朵，1978年身后出版" },
+      { title: "Hour of the Star", titleZh: "《星辰时刻》", relationEn: "Suzana Amaral, film, 1985", relationZh: "Suzana Amaral，电影，1985" }
+    ],
+    sources: [
+      { label: "New Directions: The Hour of the Star", url: "https://www.ndbooks.com/book/the-hour-of-the-star-1/" },
+      { label: "Kevin Andrés Pérez Méndez: La iluminación de Macabea", url: "https://doi.org/10.5195/ct/2016.136" },
+      { label: "André Corrêa de Sá: Social Hope in Clarice Lispector's The Hour of the Star", url: "https://jls.apsa.us/index.php/jls/article/download/451/501/1686" },
+      { label: "Clarice Lispector Archive: The Symbol and the Thing", url: "https://site.claricelispector.ims.com.br/en/2021/10/14/the-symbol-and-the-thing/" }
+    ],
+    tags: ["Clarice Lispector", "The Hour of the Star", "Macabéa", "Brazilian literature", "poverty", "migration", "narrative authority", "metafiction"],
+    tagsZh: ["克拉丽丝·李斯佩克朵", "星辰时刻", "玛卡贝娅", "巴西文学", "贫困", "迁移", "叙事权威", "元小说"],
+    sourceText: "The Hour of the Star",
+    status: "published"
   }
 ];
