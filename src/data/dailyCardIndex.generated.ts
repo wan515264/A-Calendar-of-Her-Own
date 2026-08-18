@@ -10,32 +10,6 @@ export type DailyCardPreview = Pick<DailyCard,
 
 export const dailyCardIndex: DailyCardPreview[] = [
   {
-    "id": "2026-08-15-cleo-from-5-to-7",
-    "date": "2026-08-15",
-    "type": "film",
-    "title": "Cléo from 5 to 7",
-    "titleZh": "《五至七时的克莱奥》",
-    "years": "1962",
-    "role": "Film｜电影 / French New Wave｜法国新浪潮 / Feminist Cinema｜女性主义电影 / Time｜时间",
-    "creator": "Agnès Varda",
-    "creatorZh": "阿涅斯·瓦尔达",
-    "focusTitle": "From Being Looked At to Looking at the World",
-    "focusTitleZh": "从被观看，到观看世界",
-    "summaryEn": "Cléo is a young singer waiting for the results of a medical examination. For ninety minutes, she moves through Paris among mirrors, hats, cafés, songs, taxis, strangers, friends, and street noise. At first, she tries to manage fear by confirming that she is still beautiful. If her image remains intact, perhaps death can be kept at a distance.\n\nBut Agnès Varda gradually changes the direction of vision. Cléo removes the blonde wig that helps compose her public image, leaves the people who infantilise her, and walks alone. The city is no longer only a stage on which she is seen. She begins to notice faces, bodies, labour, danger, illness, war, and lives continuing beside her own.\n\nThe film does not present this change as a complete escape from fear or from other people's gaze. Cléo is still frightened, still visible, and still vulnerable. What changes is her relation to the world: she becomes capable of looking outward and of meeting another person without performing the role of “Cléo” quite so completely.",
-    "summaryZh": "克莱奥是一位等待医学检查结果的年轻歌手。在九十分钟里，她穿过巴黎的镜子、帽子店、咖啡馆、歌曲、出租车、陌生人、朋友与街道噪音。最初，她试图通过确认自己仍然美丽来控制恐惧：只要镜中的形象没有破裂，死亡似乎就还能被推远。\n\n但阿涅斯·瓦尔达逐渐改变了观看的方向。克莱奥摘下构成她公众形象的金色假发，离开那些把她当作孩子的人，独自走上街头。城市不再只是供她被观看的舞台。她开始注意面孔、身体、劳动、危险、疾病、战争，以及与她的生命并行发生的其他人生。\n\n影片没有把这种变化写成对恐惧或他人目光的彻底逃离。克莱奥依然害怕，依然处于可见状态，也依然脆弱。真正改变的是她与世界的关系：她开始能够向外观看，也开始能够在不完全表演“克莱奥”这个角色的情况下与另一个人相遇。",
-    "tags": [
-      "Agnès Varda",
-      "Cléo from 5 to 7",
-      "French New Wave",
-      "female subjectivity",
-      "gaze",
-      "time",
-      "Paris",
-      "illness"
-    ],
-    "status": "published"
-  },
-  {
     "id": "2026-08-16-one-sings-the-other-doesnt",
     "date": "2026-08-16",
     "type": "film",
@@ -81,6 +55,30 @@ export const dailyCardIndex: DailyCardPreview[] = [
       "migration",
       "narrative authority",
       "metafiction"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "2026-08-18-women-and-puppetry",
+    "date": "2026-08-18",
+    "type": "criticism",
+    "title": "Women and Puppetry",
+    "titleZh": "《女性与木偶》",
+    "years": "2019",
+    "role": "Criticism / Performance Studies / Gender｜批评 / 表演研究 / 性别",
+    "author": "Edited by Alissa Mello, Claudia Orenstein, and Cariad Astles｜编者：Alissa Mello、Claudia Orenstein、Cariad Astles",
+    "focusTitle": "Who Is Allowed to Animate the World?",
+    "focusTitleZh": "谁被允许赋予世界生命？",
+    "summaryEn": "Women and Puppetry asks us to look beyond the figure onstage. A puppet may appear to be only cloth, wood, paper, or string, but its body is never culturally empty. Audiences learn to read gender into its face, costume, movement, voice, and story—and often treat an unmarked body as male by default.",
+    "summaryZh": "《女性与木偶：批评与历史研究》要求我们把目光移到舞台形象之外。一个木偶看似只是布、木头、纸或线，但它的身体从来不是文化上的空白。观众会从面孔、服装、动作、声音与故事中读出性别，也常常默认没有明显性别标记的身体是男性。",
+    "tags": [
+      "women and puppetry",
+      "performance studies",
+      "gender",
+      "puppet body",
+      "women artists",
+      "historical erasure",
+      "agency"
     ],
     "status": "published"
   }
