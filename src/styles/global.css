@@ -2071,3 +2071,119 @@ blockquote cite {
     line-height: 1.16;
   }
 }
+
+@page {
+  size: A4 portrait;
+}
+
+@media print {
+  :root {
+    --print-page-bg: #100814;
+    --print-card-bg: #1b101f;
+    --print-card-soft-bg: #211525;
+    --print-nav-bg: #190e1c;
+    --print-control-bg: #261a21;
+  }
+
+  :root[data-theme='light'] {
+    --print-page-bg: #f3e8ee;
+    --print-card-bg: #fffaf5;
+    --print-card-soft-bg: #eee1e8;
+    --print-nav-bg: #eadde4;
+    --print-control-bg: #f4e7e7;
+  }
+
+  html,
+  body,
+  #root,
+  .app-shell,
+  .app-main,
+  *,
+  *::before,
+  *::after {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  html,
+  body,
+  #root,
+  .app-shell {
+    background-color: var(--print-page-bg) !important;
+  }
+
+  body {
+    color: var(--text) !important;
+    background-color: var(--print-page-bg) !important;
+    background-image:
+      linear-gradient(
+        rgba(8, 3, 12, 0.72),
+        rgba(8, 3, 12, 0.82)
+      ),
+      url("/A-Calendar-of-Her-Own/magical-library-bg.jpeg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: scroll !important;
+    background-repeat: no-repeat !important;
+  }
+
+  :root[data-theme='light'] body {
+    background-color: var(--print-page-bg) !important;
+    background-image:
+      radial-gradient(circle at 18% 8%, #f0dbe5 0, transparent 18rem),
+      radial-gradient(circle at 92% 12%, #e5d5ed 0, transparent 16rem),
+      linear-gradient(#f8eef1e8, #f3e8eef2),
+      url("/A-Calendar-of-Her-Own/magical-library-bg.jpeg") !important;
+  }
+
+  .theory-card,
+  .profile-card,
+  .empty-state,
+  .detail-section,
+  .back-button,
+  .theme-toggle,
+  .bottom-nav {
+    color: var(--text) !important;
+    border-color: var(--border) !important;
+  }
+
+  .theory-card,
+  .profile-card,
+  .empty-state,
+  .detail-section {
+    background: var(--print-card-bg) !important;
+  }
+
+  .back-button,
+  .theme-toggle {
+    background: var(--print-control-bg) !important;
+  }
+
+  .bottom-nav {
+    background: var(--print-nav-bg) !important;
+  }
+
+  .framework-step,
+  .framework-note,
+  .research-lens,
+  blockquote,
+  .person-snapshot,
+  .theory-focus-details pre {
+    background: var(--print-card-soft-bg) !important;
+  }
+
+  .card-type-badge,
+  .tag,
+  .button--soft,
+  .button--icon,
+  .bottom-nav__link.is-active,
+  .framework-step__topline b {
+    border-color: var(--gold-soft) !important;
+    background-color: var(--print-control-bg) !important;
+  }
+
+  .button--primary {
+    color: var(--bg-deep) !important;
+    background-color: var(--gold) !important;
+  }
+}
