@@ -8710,5 +8710,515 @@ Finally, the sentence makes cultural value itself part of the analysis. Prestige
     tagsZh: ["女性与木偶", "表演研究", "性别", "木偶身体", "女性艺术家", "历史抹除", "能动性"],
     sourceText: "Women and Puppetry: Critical and Historical Investigations",
     status: "published"
+  },
+  {
+    "id": "2026-08-19-the-bloody-chamber",
+    "date": "2026-08-19",
+    "type": "text",
+    "title": "The Bloody Chamber",
+    "titleZh": "《染血之室》",
+    "titleSeparator": " ",
+    "author": "Angela Carter｜安吉拉·卡特",
+    "years": "1940–1992",
+    "role": "Short Story / Gothic / Feminist Fairy-Tale Rewriting｜短篇小说 / 哥特 / 女性主义童话改写",
+    "focusTitle": "Who Gets to Name a Woman's Curiosity and Desire?",
+    "focusTitleZh": "谁有权命名女人的好奇与欲望？",
+    "summaryEn": "Angela Carter's “The Bloody Chamber” rewrites the tale of Bluebeard from inside the experience of his young bride. The unnamed narrator is a poor pianist who marries an older Marquis and enters a world of jewels, mirrors, costly clothes, and sexual danger. Her marriage is not presented as pure romance: money, class, curiosity, fear, and desire are present from the beginning.",
+    "summaryZh": "安吉拉·卡特的《染血之室》从年轻新娘的经验内部重写了“蓝胡子”故事。无名叙述者是一位贫穷的钢琴家，她嫁给年长的侯爵，进入一个由珠宝、镜子、昂贵衣物与性危险构成的世界。这场婚姻并不只是浪漫爱情：金钱、阶级、好奇、恐惧与欲望从一开始就同时存在。",
+    "introEn": "When the bride opens the forbidden chamber, she does not create the violence she finds there. She discovers what her husband has already done to other women. Carter therefore changes the old moral attached to female curiosity. The dangerous knowledge is not that women should obey; it is that obedience can protect a violent man's secrecy.\n\nThe story also changes who is allowed to rescue a woman. The blind piano tuner can listen to the narrator, but he cannot defeat the Marquis. It is her mother who rides to the castle and shoots him. Carter does not simply exchange a passive heroine for a fearless one. She gives us a woman who is frightened, desiring, implicated in material conditions, and still entitled to survival.",
+    "introZh": "当新娘打开禁室时，她并没有制造其中的暴力。她发现的是丈夫已经对其他女性做过的事。因此，卡特改变了传统故事附着在女性好奇心上的道德训诫。危险的知识不再是“女性必须服从”，而是：服从可能保护一个暴力男性的秘密。\n\n故事也改变了谁有资格营救女性。失明的钢琴调音师能够倾听叙述者，却无法击败侯爵。最终骑马赶到城堡并开枪杀死侯爵的人，是她的母亲。卡特并没有简单地用一个无所畏惧的女英雄取代被动新娘。她写的是一个会恐惧、会欲望、受物质条件牵动，却仍然有权活下来的女人。",
+    "articleSections": [
+      {
+        "title": "A Collection of Rewritten Fairy Tales",
+        "titleZh": "一部重写童话的小说集",
+        "en": "Angela Carter's *The Bloody Chamber and Other Stories* was first published in 1979. The collection contains ten stories that return to familiar fairy-tale materials, including Bluebeard, Beauty and the Beast, Puss in Boots, vampires, and several traditions surrounding wolves and girls. Carter does not modernise these stories by merely changing their settings or giving them reassuring endings. She enters their structures to examine how they organise sexuality, violence, wealth, beauty, and power.\n\nThe title story rewrites Bluebeard, in which a wealthy husband gives his new wife access to his house but forbids her from opening one room. In the traditional tale, the wife's disobedience is often treated as the problem that sets disaster in motion. Carter preserves the key, the chamber, the dead wives, and the threatened execution, but changes the centre of moral attention.\n\nThe question becomes not “Why did she disobey?” but “What system requires her obedience in order to keep violence hidden?”",
+        "zh": "安吉拉·卡特的《染血之室及其他故事》首次出版于1979年。全书包含十篇小说，重新进入蓝胡子、《美女与野兽》、《穿靴子的猫》、吸血鬼，以及围绕狼与女孩形成的多种童话传统。卡特并不是只靠改变时代背景或补上令人安心的结局来“现代化”这些故事。她进入故事结构内部，检查它们如何组织性、暴力、财富、美与权力。\n\n同名小说重写“蓝胡子”：富有的丈夫允许新婚妻子进入宅邸各处，却禁止她打开某个房间。在传统故事中，妻子的不服从常被当作启动灾难的问题。卡特保留了钥匙、密室、死去的妻子与迫近的处决，却改变了道德注意力的中心。\n\n问题不再只是“她为什么不服从？”，而变成“什么样的制度必须依靠她的服从，才能让暴力继续被隐藏？”"
+      },
+      {
+        "title": "Marriage as a Material Bargain",
+        "titleZh": "婚姻作为物质交易",
+        "en": "The narrator is a seventeen-year-old pianist raised by a widowed mother in reduced financial circumstances. The Marquis offers entry into another material world: a castle, servants, travel, furs, jewels, rare books, and the promise that poverty will end. The story never allows these objects to remain decorative background. They help explain why the marriage can appear desirable before its danger becomes fully visible.\n\nTo notice this material calculation is not to blame the narrator for what happens to her. It is to refuse the fantasy that intimate decisions occur outside money and class. The story shows how luxury can function as seduction, how marriage can redistribute security, and how a young woman's limited alternatives can shape what she is able to recognise as choice.",
+        "zh": "叙述者是一位十七岁的钢琴家，由丧偶的母亲在经济拮据中抚养长大。侯爵向她打开了另一个物质世界：城堡、仆人、旅行、皮草、珠宝、珍本书，以及摆脱贫困的承诺。小说从不让这些物件只停留在装饰性背景中。它们帮助解释，在危险完全显露之前，这场婚姻为什么可能具有吸引力。\n\n注意这种物质计算，并不等于责怪叙述者后来遭遇的一切，而是拒绝一种幻想：仿佛亲密决定可以发生在金钱与阶级之外。小说展示奢侈如何成为诱惑，婚姻如何重新分配安全感，以及一个年轻女性有限的生活选项如何塑造她能够理解为“选择”的事物。"
+      },
+      {
+        "title": "Objects That Know Before the Bride Does",
+        "titleZh": "比新娘更早知道结局的物件",
+        "en": "The story builds foreknowledge through objects. The Marquis's ancestral castle, the choker that recalls an execution, the keys, the mirrors, the wedding dress, the lilies, and the blood-stained chamber all make danger materially present before the narrator can fully interpret it. Gothic atmosphere is not only mood; it is a system of clues distributed through possessions and rooms.\n\nThese objects also expose the unequal organisation of knowledge. The Marquis owns the house, controls its rooms, assigns meaning to the keys, and expects his bride to obey an order she cannot evaluate. Her investigation begins because she has been placed inside a system whose rules conceal the facts needed to judge it.",
+        "zh": "小说通过物件制造预知。侯爵的古老城堡、令人想到处决的项圈、钥匙、镜子、婚纱、百合与染血密室，都在叙述者尚未完全理解危险之前，让危险以物质形式出现。哥特氛围不只是情绪，而是一套散布在财物与房间中的线索系统。\n\n这些物件也暴露了知识的不平等组织方式。侯爵拥有房屋，控制房间，为钥匙规定意义，并要求新娘服从一条她无法判断的命令。她之所以开始调查，正因为自己被放进一套规则之中，而这套规则隐藏了作出判断所需的事实。"
+      },
+      {
+        "title": "The Mirror and the Divided Gaze",
+        "titleZh": "镜子与分裂的目光",
+        "en": "Mirrors repeatedly return the narrator's body to her as an image arranged for the Marquis. She is not only watched; she learns to watch herself being watched. The moment in which she sees herself through his eyes is therefore double. It reveals objectification, but it also reveals that the male gaze can become internalised as a way of understanding one's own desire and value.\n\nThis self-recognition is not uncomplicated liberation. To recognise desire does not mean that desire has escaped power. The narrator can feel curiosity and arousal while also encountering fear, coercion, and danger. Carter allows these sensations to coexist without making the narrator's desire responsible for the Marquis's violence.",
+        "zh": "镜子反复把叙述者的身体作为一幅为侯爵安排的图像返还给她。她不只被观看，也开始观看那个正在被观看的自己。她透过他的眼睛看见自己的瞬间因此具有双重意义：它揭示客体化，也揭示男性目光如何被内化，成为一个人理解自身欲望与价值的方式。\n\n这种自我辨认并不是毫无矛盾的解放。意识到欲望，并不意味着欲望已经逃离权力。叙述者可以同时感到好奇与兴奋，也遭遇恐惧、强迫与危险。卡特允许这些感受共存，却没有让叙述者的欲望承担侯爵暴力的责任。"
+      },
+      {
+        "title": "The Forbidden Chamber Is Knowledge",
+        "titleZh": "禁室意味着知识",
+        "en": "In a conventional warning tale, opening the forbidden room can be read as proof of feminine weakness: the wife fails to control her curiosity and must be punished or rescued. Carter reverses the ethical direction of that lesson. The chamber contains evidence of murder. Entering it does not corrupt an innocent world; it makes an already corrupt world legible.\n\nThe narrator's disobedience is therefore an act of reading. She connects bodies, objects, histories, and her husband's behaviour. What the Marquis names as a private prohibition becomes, from her perspective, the boundary protecting serial violence from discovery.",
+        "zh": "在传统训诫故事中，打开禁室可以被解释成女性弱点的证明：妻子无法控制好奇心，因此必须受到惩罚或等待营救。卡特扭转了这一教训的伦理方向。密室中存在谋杀的证据。进入其中并没有破坏一个原本无辜的世界，而是让一个早已腐败的世界变得可以辨认。\n\n因此，叙述者的不服从也是一种阅读行动。她把身体、物件、历史与丈夫的行为连接起来。侯爵命名为“私人禁令”的边界，从她的角度看，却是保护连续暴力不被发现的边界。"
+      },
+      {
+        "title": "Blood, Shame, and the Mark That Remains",
+        "titleZh": "血、羞耻与无法消失的印记",
+        "en": "After the narrator enters the chamber, blood marks the key. The Marquis later presses that evidence onto her forehead. The stain becomes a sign through which he attempts to redefine knowledge as guilt: she is marked not because she killed, but because she discovered his killings and disobeyed his command.\n\nThe mark remains after the Marquis is dead. The ending therefore refuses a restoration of untouched innocence. Survival does not erase experience, and rescue does not return the narrator to the person she was before. The visible trace can carry shame, memory, knowledge, and the history of having been looked at and judged.",
+        "zh": "叙述者进入密室后，血迹留在钥匙上。侯爵随后把这一证据压到她的额头。污迹成为他重新定义知识的符号：她被标记，并不是因为她杀了人，而是因为她发现了他的杀戮，也违背了他的命令。\n\n侯爵死后，印记仍然存在。因此，结局拒绝恢复一种未受触碰的纯真。幸存不会抹去经验，获救也不会让叙述者重新变回从前的人。这个可见痕迹同时携带羞耻、记忆、知识，以及曾经被观看和被审判的历史。"
+      },
+      {
+        "title": "Jean-Yves Listens, but He Is Not the Rescuer",
+        "titleZh": "Jean-Yves 倾听，却不是营救者",
+        "en": "The blind piano tuner Jean-Yves offers a relationship different from the Marquis's visual possession. He listens to the narrator, believes her account, and stays with her when danger approaches. His blindness creates an evident contrast with the castle's mirrors and the Marquis's controlling gaze.\n\nYet Carter does not simply replace a cruel man with a gentle prince. Jean-Yves cannot overpower the Marquis or perform the decisive rescue. His importance lies in listening and companionship, not in restoring the old structure in which a woman's life depends on the arrival of a heroic man.",
+        "zh": "失明的钢琴调音师 Jean-Yves 提供了一种不同于侯爵视觉占有的关系。他倾听叙述者，相信她的讲述，并在危险来临时留在她身边。他的失明与城堡中的镜子、侯爵的控制性目光形成明显对照。\n\n但卡特并没有简单地用温柔王子替换残酷男人。Jean-Yves 无法制服侯爵，也没有完成决定性的营救。他的重要性在于倾听与陪伴，而不是恢复那种女性生命必须依靠英雄男性及时到来的旧结构。"
+      },
+      {
+        "title": "The Mother Takes the Prince's Place",
+        "titleZh": "母亲取代王子的位置",
+        "en": "The traditional Bluebeard tale is commonly resolved by male relatives arriving in time to kill the husband. Carter gives that action to the narrator's mother. She recognises that her daughter is in danger, rides to the castle, enters the scene armed, and shoots the Marquis before he can complete the execution.\n\nThe mother has already been described through a life of travel, endurance, and physical courage. Her arrival is therefore not an arbitrary miracle but the return of a female history that the marriage plot had pushed to the edge. The daughter is rescued not by romantic love but through a bond between women.\n\nThis reversal is powerful, but it need not turn motherhood into a new compulsory ideal. Its structural importance lies in showing that courage, mobility, weapons, judgment, and rescue do not naturally belong to men.",
+        "zh": "传统蓝胡子故事通常由男性亲属及时赶到、杀死丈夫而解决。卡特把这个行动交给叙述者的母亲。她意识到女儿正处于危险之中，骑马奔向城堡，持枪进入现场，并在侯爵完成处决前将他射杀。\n\n母亲此前已经通过旅行、坚忍与身体勇气获得描述。因此，她的到来并不是任意降临的奇迹，而是一段曾被婚姻情节推到边缘的女性历史重新回到中心。女儿不是被浪漫爱情拯救，而是通过女性之间的关系获救。\n\n这个反转很有力量，但不必把母职重新塑造成一种强制性理想。它在结构上的重要性，是表明勇气、行动能力、武器、判断与营救并不天然属于男性。"
+      },
+      {
+        "title": "Rescue Also Has Material Conditions",
+        "titleZh": "营救同样具有物质条件",
+        "en": "After the Marquis's death, his wealth changes hands. The narrator does not remain inside his castle as its new mistress. The ending describes movement toward a life organised around music, companionship, and forms of redistribution. The story therefore connects escape from violence with the practical question of what happens to property.\n\nThis is one reason materiality matters so much to the story. Freedom is not presented as a purely internal change in consciousness. It requires somewhere to live, a way to work, supportive relationships, and the ability to redirect resources once controlled by the violent husband.",
+        "zh": "侯爵死后，他的财富转移了所有者。叙述者没有作为新女主人继续留在他的城堡中。结局转向一种由音乐、陪伴与财富再分配组织起来的生活。因此，小说把逃离暴力与一个实际问题连接起来：财产后来去了哪里？\n\n这正是物质性对小说如此重要的原因之一。自由并不只被表现为意识内部的改变。它需要居住之处、工作方式、支持性关系，以及重新安排曾由暴力丈夫控制的资源的能力。"
+      },
+      {
+        "title": "Pornography, Violence, and a Feminist Dispute",
+        "titleZh": "色情、暴力与女性主义争论",
+        "en": "*The Bloody Chamber* appeared during intense feminist debates about pornography, sexual representation, and violence against women. Carter's *The Sadeian Woman*, published in the same period, argued that sexual representation could expose the political arrangements hidden beneath apparently natural ideas about femininity and desire.\n\nCritics have disagreed about whether Carter's use of eroticised danger dismantles misogynistic fantasy or risks reproducing it. That disagreement is essential to an honest reading. The story gives the bride narrative consciousness and revises the rescue, but it still makes sexualised female vulnerability intensely available to the reader's gaze.\n\nThe most careful conclusion is not that Carter solves the politics of pornography. It is that she stages the problem inside a female narrator who both encounters desire and learns how desire has been organised for someone else's power.",
+        "zh": "《染血之室》出版时，女性主义内部正围绕色情、性再现与针对女性的暴力展开激烈争论。卡特同一时期出版的《萨德式女人》提出，性再现也可能揭示那些隐藏在“女性气质”与“自然欲望”观念下的政治安排。\n\n批评者一直争论：卡特对情色化危险的使用，究竟拆解了厌女幻想，还是可能再次复制它？诚实的阅读不能删除这一分歧。小说给予新娘叙述意识，也改写了营救结构，但它仍然把女性受到性化的脆弱处境强烈地呈现在读者目光之下。\n\n更谨慎的结论不是卡特“解决了”色情的政治问题，而是：她把这个问题放进一位女性叙述者内部。这个叙述者既遭遇自己的欲望，也逐渐看见欲望如何被安排来服务他人的权力。"
+      },
+      {
+        "title": "Beyond the Victim-or-Accomplice Binary",
+        "titleZh": "超越“受害者或共犯”的二元选择",
+        "en": "The narrator does not fit neatly into the image of the perfectly innocent victim who never desired, chose, wondered, or misjudged. Nor does her attraction to wealth, curiosity about the Marquis, or response to erotic imagery make her an accomplice in his crimes. The binary itself is inadequate.\n\nA feminist reading can preserve the narrator's complexity without converting complexity into blame. People can enter dangerous relationships for mixed emotional and material reasons. Responsibility for coercion and murder remains with the person who commits them.",
+        "zh": "叙述者并不完全符合一种“完美无辜受害者”的形象，仿佛她从未欲望、从未选择、从未好奇，也从未判断失误。但她被财富吸引、对侯爵好奇，或对情色图像产生反应，也不会使她成为侯爵罪行的共犯。真正不足的是这个二元选择本身。\n\n女性主义阅读可以保留叙述者的复杂性，却不把复杂性转化为责备。人可能出于混合的情感与物质原因进入危险关系，但强迫与谋杀的责任仍然属于实施这些行为的人。"
+      },
+      {
+        "title": "Rewriting Is Not a Simple Reversal",
+        "titleZh": "重写并不是简单反转",
+        "en": "Carter's method is more difficult than changing every weak woman into a strong one and every unhappy ending into victory. She preserves contamination, ambiguity, erotic attraction, shame, and memory. The old story is not erased; its machinery remains visible inside the new version.\n\nWhat changes is who can interpret that machinery. The bride becomes the narrator of what she saw, desired, feared, and learned. Her mother interrupts the expected rescue. Jean-Yves offers listening rather than ownership. The inherited plot survives, but no longer possesses exclusive authority over its meaning.",
+        "zh": "卡特的方法比“把所有弱女子改成强女人、把所有不幸结局改成胜利”更加困难。她保留了污染、歧义、情色吸引、羞耻与记忆。旧故事并未被抹去；它的机器仍然在新版本内部清晰可见。\n\n真正改变的是谁有权解释这套机器。新娘成为讲述自己看见、欲望、恐惧与学到什么的人；母亲打断了预期中的营救；Jean-Yves 提供倾听而不是占有。继承而来的情节继续存在，却不再垄断自身意义。"
+      }
+    ],
+    "researchLens": {
+      "title": "Scholarship",
+      "titleZh": "文献依据",
+      "citation": "Angela Carter, “The Bloody Chamber,” in The Bloody Chamber and Other Stories (1979). 本期故事事实、叙述结构与引文的原始文本依据。\nSteve Roberts, The Bloody Chamber, Angela Carter: York Notes Advanced (Longman, 2008). 本期用来核对小说集结构、标题故事情节、叙述视角、物件意象、母亲营救与结局；这是学习指南，不被当作原作或同行评审论文。\n徐千惠，〈為女性而寫的改編黑色童話──〈染血之室〉的色情、慾望與物質性〉，StoryStudio，2018。 本期关于镜像、色情争论、Jean-Yves 的倾听、母亲营救与物质条件的主要中文研究线索；这是文学评论文章，文案未把其中的解释写成学界共识。\nRobin Ann Sheets, “Pornography, Fairy Tales, and Feminism: Angela Carter's ‘The Bloody Chamber’”, Journal of the History of Sexuality 1.4 (1991), pp. 633–657. 用于核对围绕色情、童话与女性主义形成的批评争论。\nMerja Makinen, “Angela Carter's ‘The Bloody Chamber’ and the Decolonization of Feminine Sexuality”, Feminist Review 42 (1992), pp. 2–15. 用于核对将卡特的改写理解为女性性欲去殖民化的代表性学术路径，同时不把这一立场写成唯一结论。\nCheryl Renfroe, “Initiation and Disobedience: Liminal Experience in Angela Carter's ‘The Bloody Chamber’”, Marvels & Tales 12.1 (1998). 用于核对女性不服从、成长仪式与传统厌女训诫之间的关系。\nPenguin, The Bloody Chamber and Other Stories. 用于交叉核对作品简介、作者资料与小说集的出版信息。",
+      "summaryZh": "本期内容以原始文本、出版社资料与所列学术研究交叉核对；解释性判断不被写成唯一结论。"
+    },
+    "quotesTitle": "Quotation",
+    "quotesTitleZh": "引文",
+    "quotesAtEnd": true,
+    "quoteSelections": [
+      {
+        "en": "“I saw myself, suddenly, as he saw me.”",
+        "zh": "“我突然看见了自己，如同他看见我那样。”",
+        "source": "Angela Carter, “The Bloody Chamber”"
+      }
+    ],
+    "quoteReadingEn": "The sentence captures the story's divided way of seeing. The narrator becomes conscious of herself as an object inside the Marquis's desire. Her self-image is not formed in isolation; it passes through his gaze, the mirrors he controls, and the luxury he has arranged around her.\n\nBut the first-person narration also creates distance from that image. The older narrator can remember the moment, name its structure, and place it inside a larger history of violence. To see herself as he saw her is dangerous; to narrate how that sight was produced begins a different kind of knowledge.\n\nThe line should therefore not be treated as a simple awakening into sexual freedom. It records the simultaneous discovery of desire and objectification. Carter's difficulty lies precisely in refusing to pretend that the two can always be cleanly separated.",
+    "quoteReadingZh": "这句话抓住了小说分裂的观看方式。叙述者意识到自己是侯爵欲望中的一个物体。她的自我形象并非孤立形成，而是穿过他的目光、他控制的镜子，以及他在她周围安排的奢侈环境。\n\n但第一人称叙述也让她与这幅图像产生距离。后来的叙述者能够回忆这一时刻，为其结构命名，并把它放进更大的暴力历史中。按照他的目光看见自己是危险的；而讲述这种观看如何被制造，则开始形成另一种知识。\n\n因此，这句话不应被简单理解为对性自由的觉醒。它记录的是对欲望与客体化的同时发现。卡特作品的难题，恰恰在于她拒绝假装两者总能被清楚分开。",
+    "relatedWorks": [
+      {
+        "title": "The Sadeian Woman",
+        "relationZh": "Angela Carter｜《萨德式女人》——安吉拉·卡特 讨论色情、性权力与女性位置，可与《染血之室》的情色化暴力及其争议对读。"
+      },
+      {
+        "title": "Bluebeard",
+        "relationZh": "Charles Perrault｜《蓝胡子》——夏尔·佩罗 《染血之室》最直接改写的传统文本，可比较禁令、钥匙、女性好奇与营救结构如何发生变化。"
+      },
+      {
+        "title": "The Company of Wolves",
+        "relationZh": "Angela Carter｜《与狼为伴》——安吉拉·卡特 同一小说集中的童话重写，把女孩、狼、恐惧与欲望置于另一套权力关系中。"
+      },
+      {
+        "title": "Transformations",
+        "relationZh": "Anne Sexton｜《变形》——安妮·塞克斯顿 以诗歌重写格林童话，可与卡特如何让继承文本暴露性别意识形态并置阅读。"
+      },
+      {
+        "title": "Bluebeard's Egg",
+        "relationZh": "Margaret Atwood｜《蓝胡子的蛋》——玛格丽特·阿特伍德 从婚姻、知识与女性判断重新调用蓝胡子母题。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "“Pornography, Fairy Tales, and Feminism: Angela Carter's ‘The Bloody Chamber’”",
+        "url": "https://www.jstor.org/stable/3704419"
+      },
+      {
+        "label": "“Angela Carter's ‘The Bloody Chamber’ and the Decolonization of Feminine Sexuality”",
+        "url": "https://journals.sagepub.com/doi/10.1057/fr.1992.44"
+      },
+      {
+        "label": "“Initiation and Disobedience: Liminal Experience in Angela Carter's ‘The Bloody Chamber’”",
+        "url": "https://digitalcommons.wayne.edu/marvels/vol12/iss1/5/"
+      },
+      {
+        "label": "Penguin, The Bloody Chamber and Other Stories",
+        "url": "https://www.penguin.co.uk/books/359636/the-bloody-chamber-and-other-stories-by-angela-carter/9780099588115"
+      }
+    ],
+    "tags": [
+      "Angela Carter",
+      "The Bloody Chamber",
+      "fairy-tale rewriting",
+      "Bluebeard",
+      "desire",
+      "male gaze",
+      "materiality",
+      "female solidarity"
+    ],
+    "tagsZh": [
+      "安吉拉·卡特",
+      "染血之室",
+      "童话重写",
+      "蓝胡子",
+      "欲望",
+      "男性凝视",
+      "物质性",
+      "女性团结"
+    ],
+    "sourceText": "The Bloody Chamber and Other Stories",
+    "status": "published"
+  },
+  {
+    "id": "2026-08-20-all-passion-spent",
+    "date": "2026-08-20",
+    "type": "novel",
+    "title": "All Passion Spent",
+    "titleZh": "《激情耗尽》",
+    "titleSeparator": " ",
+    "author": "Vita Sackville-West｜薇塔·萨克维尔-韦斯特",
+    "years": "1892–1962",
+    "role": "Novel / Ageing / Women and Vocation｜小说 / 老年 / 女性与志业",
+    "focusTitle": "When Does a Woman's Life Become Her Own?",
+    "focusTitleZh": "一个女人的人生，何时才真正属于她自己？",
+    "summaryEn": "When the celebrated statesman Lord Slane dies at ninety-four, his six adult children immediately begin arranging the future of his eighty-eight-year-old widow. They assume that Lady Slane has no wishes of her own because she has spent nearly seventy years appearing gracious, obedient, and inseparable from her husband's public life.",
+    "summaryZh": "著名政治家斯莱恩勋爵九十四岁去世后，他的六个成年子女立即开始安排八十八岁母亲的余生。他们认定斯莱恩夫人没有自己的愿望，因为近七十年来，她始终显得温顺、得体，仿佛完全依附于丈夫的公共人生。",
+    "introEn": "Lady Slane quietly refuses them. She moves with her elderly maid Genoux into a modest rented house in Hampstead, limits family visits, and begins to remember the young woman she once was: Deborah Lee, who wanted to cut her hair, travel under another name, and become a painter.\n\n*All Passion Spent* does not present old age only as decline. It asks what may become visible when usefulness, beauty, marriage, motherhood, and public duty no longer organise a woman's identity. Lady Slane cannot recover the artistic life she surrendered, but she can finally judge that surrender in her own words and help a younger woman refuse the same bargain.",
+    "introZh": "斯莱恩夫人平静地拒绝了他们。她与年迈的女仆 Genoux 搬进汉普斯特德一所朴素的出租屋，减少家人的来访，并开始回忆自己曾经是谁：那个名叫 Deborah Lee 的年轻女人，曾想剪短头发、换一个名字远行，并成为画家。\n\n《激情耗尽》并没有只把老年写成衰退。它追问的是：当用途、美貌、婚姻、母职与公共责任不再组织一个女人的身份时，什么才可能显现？斯莱恩夫人无法追回自己放弃的艺术人生，却终于能够用自己的语言判断这场放弃，并帮助一位年轻女性拒绝同样的交换。",
+    "articleSections": [
+      {
+        "title": "A Late-Life Novel of Refusal",
+        "titleZh": "一部关于晚年拒绝的小说",
+        "en": "*All Passion Spent* was first published by the Hogarth Press in 1931. It begins with the death of Henry Lyulph Holland, the first Earl of Slane, a former prime minister and viceroy of India. Newspapers compress his long public career into a triumphant national biography. His wife, however, appears in that biography mainly as an elegant accompaniment.\n\nThe novel changes direction by turning toward the person whom public history has treated as secondary. Lady Slane has spent almost seventy years beside a “great man,” but the narrative asks what happened inside the life that made his greatness possible. Her apparent serenity concealed observation, judgment, frustration, memory, and an artistic ambition that was never allowed to become work.",
+        "zh": "《激情耗尽》由霍加斯出版社于1931年首次出版。小说从第一代斯莱恩伯爵 Henry Lyulph Holland 的死亡开始。他曾任英国首相与印度总督，报纸把他的漫长公共生涯压缩成一部辉煌的国家传记。相比之下，他的妻子在这部传记中主要作为优雅的陪衬出现。\n\n小说随即转向那个被公共历史当作次要人物的人。斯莱恩夫人在一位“伟大男人”身边生活了近七十年，叙事却追问：在支撑他的伟大的人生内部，究竟发生了什么？她表面的平静之下，长期保存着观察、判断、挫折、记忆，以及从未被允许转化为工作的艺术抱负。"
+      },
+      {
+        "title": "The Family Council",
+        "titleZh": "家庭会议",
+        "en": "Lord Slane's death briefly makes his widow the centre of attention. Yet her children do not interpret this new prominence as authority. They treat her future as a practical problem: which household should absorb her, how her income should be managed, and how care can be distributed without inconveniencing anyone too much.\n\nTheir confidence depends on a particular story about their mother. Because Lady Slane has complied for decades, they conclude that she has no independent will. Her eldest son is relieved that she is not “one of those clever women.” Obedience is mistaken for emptiness; silence is treated as evidence that there is nothing to hear.\n\nThe satire is sharp because the children describe their control as devotion. They repeatedly call their mother “wonderful,” even while discussing where to put her. The language of care allows possession and convenience to appear loving.",
+        "zh": "斯莱恩勋爵的死亡短暂地让遗孀成为家庭注意力的中心。但子女并没有把这种新的中心位置理解为权威。他们把母亲的未来当作一个实际问题：应该由哪个家庭接收她，如何管理她的收入，以及怎样分配照顾责任，才不会给任何人造成太多不便。\n\n他们的自信依赖于一个关于母亲的特定故事。因为斯莱恩夫人数十年来一直配合，他们便认定她没有独立意志。长子甚至庆幸母亲不是“那种聪明的女人”。顺从被误认为空白，沉默则被当作没有任何声音值得倾听的证据。\n\n小说的讽刺之所以尖锐，是因为子女把控制描述成孝顺。他们一边反复称母亲“了不起”，一边讨论应该把她安置在哪里。照护的语言让占有与便利看起来像爱。"
+      },
+      {
+        "title": "A House in Hampstead",
+        "titleZh": "汉普斯特德的一所房子",
+        "en": "Lady Slane's first independent decision is spatial. She rents a red-brick house in Hampstead that she noticed decades earlier and never forgot. She does not choose a grand house suitable for a former vicereine. She chooses rooms whose scale, light, garden, and quiet correspond to her own preferences.\n\nThe house does not erase her history, but it changes who controls the terms of daily life. She decides who may visit, how money should be spent, and which forms of comfort matter. Her landlord Mr Bucktrout and the craftsman Mr Gosheron treat her preferences as real rather than childish. Their courtesy differs from the family's patronising management because it begins by listening.\n\nShane McCoy's study of gender and space in the novel reads widowhood as opening a woman-centred space outside direct patriarchal control. The Hampstead house is therefore more than a retreat. It gives Lady Slane a position from which she can become the subject of her own memory.",
+        "zh": "斯莱恩夫人的第一个独立决定与空间有关。她租下汉普斯特德一所红砖房子，那是她几十年前偶然看见、却始终没有忘记的地方。她没有选择符合前总督夫人身份的宏大住宅，而是选择了一些在尺度、光线、花园与安静程度上符合自己感受的房间。\n\n这所房子没有抹去她的历史，却改变了谁有权决定日常生活的条件。她开始决定谁可以来访、金钱应当怎样花，以及什么样的舒适真正重要。房东 Mr Bucktrout 与工匠 Mr Gosheron 把她的偏好当作真实愿望，而不是老年人的任性。他们的礼貌不同于家人的居高临下，因为它从倾听开始。\n\nShane McCoy 关于小说中性别与空间的研究，把寡居理解为一种女性中心空间的开启，使斯莱恩夫人暂时离开直接的父权控制。因此，汉普斯特德的房子不只是退隐之所，也让她获得了一个位置，可以成为自己记忆的主体。"
+      },
+      {
+        "title": "The Painter Who Never Painted",
+        "titleZh": "那个从未真正作画的画家",
+        "en": "At seventeen, when she was still Deborah Lee, Lady Slane wanted to become a painter. She imagined cutting her hair, changing her name, dressing differently, and finding freedom in a foreign city. These fantasies were not simply a rejection of femininity. They expressed her recognition that artistic mobility, privacy, and seriousness were coded as masculine privileges.\n\nShe never laid a brush to canvas. Before she could test her ability, marriage offered her a socially legible future. Her parents imagined that a beautiful and capable daughter might assist and ornament an ambitious husband. The possibility of becoming an artist was replaced by the respectable function of standing beside a public man.\n\nThe novel does not claim that Lady Slane was secretly a great painter. It makes a more difficult point: she was never allowed to discover what kind of painter she might have become. Talent remains unknowable when the conditions for practice are removed before practice begins.",
+        "zh": "十七岁、仍叫 Deborah Lee 的时候，斯莱恩夫人想成为画家。她想象自己剪短头发、换一个名字、改变衣着，并在异国城市获得自由。这些幻想并不只是对女性身份的拒绝，而是源于她已经意识到：艺术所需要的流动、独处与严肃性，在当时被编码成男性特权。\n\n她从未真正把画笔落在画布上。在她有机会检验自己的能力之前，婚姻已经提供了一个更容易被社会理解的未来。她的父母认为，一个美丽而能干的女儿可以帮助并装点一位有抱负的丈夫。成为艺术家的可能性，于是被站在公共人物身边的体面功能取代。\n\n小说并没有声称斯莱恩夫人其实是一位被埋没的伟大画家。它提出了一个更困难的问题：她从未被允许发现自己可能成为怎样的画家。当实践尚未开始，实践条件就被取消，才能本身便永远无法得到验证。"
+      },
+      {
+        "title": "Marriage as Disappearance",
+        "titleZh": "婚姻如何让一个人消失",
+        "en": "Lady Slane remembers loving Henry, but love did not produce equality. His career determined where they lived, whom they met, what duties filled her day, and how the world understood her. She became Lady Slane, the wife of a statesman, while Deborah Lee receded into a private name that almost seemed to belong to somebody else.\n\nThis disappearance is not represented as a single act of violence. It occurs through praise, good manners, duty, travel, children, social success, and repeated small concessions. That gentleness makes the structure harder to name. Lady Slane was admired precisely for performing her own erasure beautifully.",
+        "zh": "斯莱恩夫人记得自己爱过 Henry，但爱并没有带来平等。丈夫的事业决定了他们住在哪里、与谁交往、她每天履行什么职责，以及世界如何理解她。她成为政治家之妻 Lady Slane，而 Deborah Lee 这个名字则退入私人记忆，几乎像是属于另一个人的名字。\n\n这种消失并不是通过一次明确的暴力完成的。它发生在赞美、礼仪、责任、旅行、子女、社会成功与无数微小退让之中。正因为过程如此温和，它才更难被命名。斯莱恩夫人受到赞赏，恰恰因为她把自己的消失完成得如此优雅。"
+      },
+      {
+        "title": "Old Age as a Point of View",
+        "titleZh": "老年作为一种观看位置",
+        "en": "The novel does not ask Lady Slane to recover youth. Her freedom depends partly on no longer being required to compete for marriage, beauty, status, or advancement. Nearness to death allows her to reassess values that appeared compulsory in middle life.\n\nGlenn Clifton describes *All Passion Spent* as a variation on the novel of awakening and the novel of maturity. Instead of treating an older woman as a remnant of the past, the book makes her a critical reader of history. Lady Slane carries knowledge of what strict gender roles cost, and that knowledge becomes useful to a younger generation.\n\nThe book nevertheless risks idealising old age. Lady Slane's final months are unusually serene, and Mr Bucktrout and Mr Gosheron share an almost utopian distance from competition. The value of the novel lies not in claiming that ageing automatically produces wisdom, but in insisting that an old woman's thought remains active, unfinished, and historically significant.",
+        "zh": "小说并没有要求斯莱恩夫人重新获得青春。她的自由在一定程度上来自不再需要为婚姻、美貌、地位或晋升而竞争。接近死亡，使她能够重新判断那些在中年时期看似不可拒绝的价值。\n\nGlenn Clifton 把《激情耗尽》描述成“觉醒小说”与“成熟小说”的一种变体。作品没有把老年女性当作过去的残余，而是让她成为历史的批判性读者。斯莱恩夫人保存着关于严格性别角色代价的知识，而这种知识最终能够帮助更年轻的一代。\n\n不过，小说也存在理想化老年的风险。斯莱恩夫人最后几个月异常平静，Mr Bucktrout 与 Mr Gosheron 也近乎乌托邦式地远离竞争。小说的价值不在于宣称衰老会自动产生智慧，而在于坚持：老年女性的思想仍然活跃、尚未完成，并具有历史意义。"
+      },
+      {
+        "title": "Inheritance and Refusal",
+        "titleZh": "遗产与拒绝",
+        "en": "Mr FitzGeorge, who admired Lady Slane when both were young, returns late in her life. After his death, he leaves her a valuable art collection and a large fortune. The gift appears generous, but it also threatens to make her the manager of another man's wealth and the object of renewed family calculation.\n\nLady Slane gives the collection to public museums and directs the money toward hospitals. Her decision rejects both private accumulation and the children's expectation that wealth should pass through the family. It is also mischievous: she knows the refusal will infuriate them.\n\nSackville-West's own biography makes the question of inheritance especially resonant. She loved the ancestral estate of Knole but could not inherit it because primogeniture privileged male heirs. The National Trust records this exclusion as a lasting source of distress. The novel should not be reduced to autobiography, but it repeatedly asks how property, names, houses, and inherited expectations decide whose life can take form.",
+        "zh": "年轻时曾仰慕斯莱恩夫人的 Mr FitzGeorge 在她晚年重新出现。他去世后，把价值高昂的艺术收藏与巨额财富留给她。这份礼物看似慷慨，却也可能再次让她成为男性财富的管理者，并重新变成家族计算的对象。\n\n斯莱恩夫人把收藏捐给公共博物馆，并把金钱用于医院。这个决定同时拒绝私人积累，也拒绝子女关于财富应在家族内部传递的期待。它还带有一点恶作剧意味：她很清楚，这场拒绝会让他们愤怒。\n\nSackville-West 本人的经历让遗产问题格外具有回声。她深爱家族庄园 Knole，却因长子继承制偏向男性继承人而无法继承它。英国国民信托把这种排除记录为她长期的痛苦来源。小说不能被简化成自传，但它反复追问：财产、姓名、房屋与继承而来的期待，如何决定谁的人生能够获得形式。"
+      },
+      {
+        "title": "Deborah and the Next Generation",
+        "titleZh": "Deborah 与下一代",
+        "en": "Near the end of the novel, Lady Slane's great-granddaughter Deborah visits Hampstead. The shared name creates a link between the woman Lady Slane once was and the young woman before her. Deborah has broken off an advantageous engagement and wants to become a musician.\n\nLady Slane cannot know whether Deborah will succeed. She does not ask the girl to prove her genius before deserving freedom. She recognises that the right to attempt an artistic life must come before achievement can be measured. Her support gives the younger Deborah what she herself never received: one person who does not translate vocation back into marriage.\n\nThis intergenerational encounter prevents the novel from becoming only a story of belated private peace. Lady Slane's freedom arrives too late to become a career, but her understanding does not end with her. It crosses generations as recognition, permission, and warning.",
+        "zh": "小说接近结尾时，斯莱恩夫人的曾孙女 Deborah 来到汉普斯特德。相同的名字把 Lady Slane 曾经的自己与眼前的年轻女性连接起来。Deborah 已经解除一段条件优越的婚约，并希望成为音乐家。\n\n斯莱恩夫人无法知道 Deborah 是否会成功。她也没有要求女孩先证明自己是天才，才配拥有自由。她认识到，在成就能够被衡量之前，一个人必须先拥有尝试艺术人生的权利。她给予年轻 Deborah 的，是自己从未得到过的东西：至少有一个人不会把志业重新翻译成婚姻。\n\n这场跨代相遇使小说没有停留在“迟来的私人平静”之中。斯莱恩夫人的自由来得太晚，无法发展成职业，但她的理解并没有随她结束。它以承认、许可与警告的形式跨越了世代。"
+      },
+      {
+        "title": "The Limits of Her Freedom",
+        "titleZh": "她的自由也有边界",
+        "en": "Lady Slane's decision is courageous, but it is also materially protected. She has an aristocratic title, income, social authority, and the lifelong domestic labour of Genoux. She can rent a house, refuse her children, and give away a fortune because poverty does not determine every choice.\n\nThis class position does not cancel the novel's feminist insight, but it limits the solution it offers. A room of one's own requires money, labour, housing, and the social power to make refusal stick. The novel is strongest when it makes these structures visible, not when solitude is treated as a purely inward victory.",
+        "zh": "斯莱恩夫人的决定富有勇气，却也受到物质条件保护。她拥有贵族头衔、收入、社会权威，以及 Genoux 一生提供的家务劳动。她能够租下房子、拒绝子女并捐出财富，是因为贫困没有预先决定她的每一个选择。\n\n这种阶级位置并不会取消小说的女性主义洞见，却限制了它所提供方案的普遍性。一间属于自己的房间需要金钱、劳动、住房，以及让拒绝真正生效的社会力量。小说最有力的地方，是让这些结构变得可见，而不是把独居写成完全内在的胜利。"
+      },
+      {
+        "title": "What Does “All Passion Spent” Mean?",
+        "titleZh": "“激情耗尽”意味着什么？",
+        "en": "The title comes from the closing words of John Milton's *Samson Agonistes*: “And calm of mind, all passion spent.” In the novel, “spent” carries more than one meaning. Passion may be exhausted, consumed by time, or expended in the service of others. It may also be released from the demands that once gave it an approved direction.\n\nLady Slane's calm is therefore not the absence of a self. It is the calm that becomes possible after she stops performing the self required by other people. Her final freedom is small in duration but radical in authorship: she decides what her remaining life will mean.",
+        "zh": "书名来自 John Milton《力士参孙》的结尾：“And calm of mind, all passion spent.” 在小说中，“spent”不只有一种含义。激情可能被耗尽、被时间消磨，也可能被花费在服务他人的人生中；它还可能意味着，激情终于不再服从那些曾经规定其正当方向的要求。\n\n因此，斯莱恩夫人的平静并不意味着自我消失。那是一种只有在她停止表演他人所要求的自我之后才可能出现的平静。她最后的自由持续时间很短，却在作者权意义上十分激进：她开始决定自己的余生意味着什么。"
+      }
+    ],
+    "researchLens": {
+      "title": "Scholarship",
+      "titleZh": "文献依据",
+      "citation": "Vita Sackville-West, All Passion Spent. First published by the Hogarth Press, 1931. 本文的情节、人物与引文以用户提供的 Random House 电子版原文为主要依据。\nRandom House, All Passion Spent. 出版社简介核实了小说的主人公年龄、Lord Slane 的政治身份、汉普斯特德迁居与年轻艺术志向等基本信息。\nGlenn Clifton, “The New Old Woman of the 1930s: Aging and Women's History in Woolf, Sackville-West, and Holtby,” intervalla, Vol. 4, 2016. 本文采用该研究关于老年女性、成熟小说、跨代传承与遗产政治的分析，并保留其对小说可能理想化老年的提醒。\nShane McCoy, “And still she asked, where, in this system, was there room for a studio?: Reading Gender and Lesbian Space in Vita Sackville-West's All Passion Spent,” Scientia et Humanitas, Vol. 1, 2011. 本文参考其关于寡居、女性自主与女性中心空间的研究，但没有把这一种理论读法写成小说唯一确定的含义。\nNational Trust, “Vita Sackville-West and Knole”. 用于核实 Sackville-West 出生于 Knole、因男性优先的长子继承制无法继承庄园，以及这场失去对她长期造成的影响。\n中文书名采用现有中文版常见译名《激情耗尽》。标题原文来自 Milton 的 Samson Agonistes；本文对标题的阐释属于日历编辑性分析。",
+      "summaryZh": "本期内容以原始文本、出版社资料与所列学术研究交叉核对；解释性判断不被写成唯一结论。"
+    },
+    "quotesTitle": "Quotation",
+    "quotesTitleZh": "引文",
+    "quotesAtEnd": true,
+    "quoteSelections": [
+      {
+        "en": "“The child was an artist, and must have her way.”",
+        "zh": "“这孩子是一个艺术家，她必须走自己的路。”",
+        "source": "Vita Sackville-West, *All Passion Spent*"
+      }
+    ],
+    "quoteReadingEn": "This sentence appears when Lady Slane decides to support her great-granddaughter Deborah's wish to become a musician. Its force lies in the order of the claim. Deborah does not become an artist only after producing recognised work. Lady Slane first recognises the orientation of her life and then defends the conditions under which it may develop.\n\nThe sentence also repairs, without pretending to erase, Lady Slane's own history. No one protected her right to discover whether she could paint. By saying that Deborah “must have her way,” she turns private regret into permission for another woman.",
+    "quoteReadingZh": "这句话出现在斯莱恩夫人决定支持曾孙女 Deborah 成为音乐家的愿望时。它的力量来自判断的顺序：Deborah 并不是先生产出得到承认的作品，才成为艺术家。斯莱恩夫人先承认她生命的方向，再捍卫这种方向得以发展的条件。\n\n这句话也在修复斯莱恩夫人自己的历史，却没有假装过去可以被抹去。年轻时，没有人保护她发现自己能否作画的权利。当她说 Deborah “必须走自己的路”时，她把私人的遗憾转化成了给予另一个女人的许可。",
+    "relatedWorks": [
+      {
+        "title": "The Edwardians",
+        "relationZh": "Vita Sackville-West 《爱德华时代群像》同样讨论英国贵族社会、继承、婚姻与个人欲望之间的冲突。"
+      },
+      {
+        "title": "The Heir",
+        "relationZh": "Vita Sackville-West 一部围绕房屋与继承展开的短篇小说，可与《激情耗尽》中对男性遗产的拒绝形成对照。"
+      },
+      {
+        "title": "A Room of One's Own",
+        "relationZh": "Virginia Woolf 《一间自己的房间》讨论女性写作所需的金钱与私人空间，与 Lady Slane 对房间、时间和未实现艺术志业的回望密切呼应。"
+      },
+      {
+        "title": "The Years",
+        "relationZh": "Virginia Woolf 《岁月》通过几代女性的生活讨论时间、家庭与历史，适合与《激情耗尽》的跨代结构并读。"
+      },
+      {
+        "title": "South Riding",
+        "relationZh": "Winifred Holtby 《南骑区》同样让年长女性成为现代社会与女性历史的积极解释者，而不是单纯作为衰老的象征。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Random House, All Passion Spent",
+        "url": "https://www.randomhousebooks.com/books/159623/"
+      },
+      {
+        "label": "Glenn Clifton, “The New Old Woman of the 1930s: Aging and Women's History in Woolf, Sackville-West, and Holtby,” intervalla, Vol. 4, 2016",
+        "url": "https://www.fus.edu/intervalla-files/vol4/3-GC.pdf"
+      },
+      {
+        "label": "Shane McCoy, “And still she asked, where, in this system, was there room for a studio?: Reading Gender and Lesbian Space in Vita Sackville-West's All Passion Spent,” Scientia et Humanitas, Vol. 1, 2011",
+        "url": "https://libjournals.mtsu.edu/index.php/scientia/article/view/618"
+      },
+      {
+        "label": "National Trust, “Vita Sackville-West and Knole”",
+        "url": "https://www.nationaltrust.org.uk/visit/kent/knole/vita-sackville-west-and-knole"
+      }
+    ],
+    "tags": [
+      "Vita Sackville-West",
+      "All Passion Spent",
+      "ageing",
+      "widowhood",
+      "women and vocation",
+      "domestic space",
+      "female artists"
+    ],
+    "tagsZh": [
+      "薇塔·萨克维尔-韦斯特",
+      "激情耗尽",
+      "老年",
+      "寡居",
+      "女性与志业",
+      "家庭空间",
+      "女性艺术家"
+    ],
+    "sourceText": "All Passion Spent",
+    "status": "published"
+  },
+  {
+    "id": "2026-08-21-women-playing-men",
+    "date": "2026-08-21",
+    "type": "criticism",
+    "title": "Women Playing Men",
+    "titleZh": "《诗与政治：20世纪上海公共文化中的女子越剧》",
+    "titleSeparator": " ",
+    "author": "Jin Jiang｜姜进",
+    "role": "History / Yue Opera / Gender｜历史 / 越剧 / 性别",
+    "focusTitle": "When Women Played Men, Who Could Speak of Love?",
+    "focusTitleZh": "当女人扮演男人，谁获得了表达爱情的权利？",
+    "summaryEn": "In twentieth-century Shanghai, Yue opera underwent two connected transformations: it moved from the Zhejiang countryside into the city, and its all-male troupes gave way to an art form defined by women. Young actresses from poor rural families became stars; women spectators became patrons, fans, critics, and organisers; and women playing male lovers became the genre's most distinctive attraction.",
+    "summaryZh": "二十世纪的上海，越剧经历了两个彼此相连的转变：它从浙江乡村进入都市，也从全男班转变为以女性为主体的艺术形式。来自贫困农村家庭的年轻女演员成为明星，女性观众成为赞助者、戏迷、批评者与组织者，而由女性扮演男性恋人，则成为这个剧种最鲜明的吸引力。",
+    "introEn": "The male roles created on the female body were not simple copies of existing men. Yue opera's xiaosheng were often graceful, learned, loyal, emotionally expressive, and attentive to women. Onstage, actresses and female audiences helped imagine what a desirable man, an equal lover, and a love worthy of public expression might look like.\n\nJin Jiang's history shows that popular entertainment was also a field of social change. By treating private feeling, domestic experience, and romantic desire as serious material for public art, women's Yue opera challenged a culture that dismissed such subjects as trivial simply because they were associated with women.\n\nJin Jiang's *Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai* was published by the University of Washington Press in 2009. Its Chinese edition is titled *Poetry and Politics: Women's Yue Opera in the Public Culture of Twentieth-Century Shanghai* and was published by Guangxi Normal University Press. The book reconstructs the history of women's Yue opera through newspapers, archives, performance materials, memoirs, and extensive oral interviews with actresses and audience members. Its subject is not only a theatrical genre. It is the social world that actresses, spectators, patrons, writers, and urban institutions created around the stage.\n\nThis method matters because many of the women who built Yue opera left few conventional written records. The first generations of actresses were often born into poor peasant families in Zhejiang, entered opera schools in their early teens, and had limited formal education. A history based only on elite publications would reproduce the very hierarchy that had already treated their labour and knowledge as insignificant.\n\nYue opera developed from a form of peasant story-singing in the Zhejiang countryside. Rural migration carried it into Shanghai, where commercial theatres, newspapers, new audiences, and competition with other performance forms changed what it could become. By the end of the 1930s, all-male troupes had largely disappeared, while all-female companies were becoming central to the genre.\n\nThis transformation was neither a timeless Chinese tradition nor a simple copy of Western modernity. It emerged from a specific history: rural economic hardship, migration, Shanghai's commercial entertainment market, changing ideas about women's public presence, and actresses' efforts to survive and gain dignity. The history of the genre therefore joins cultural form to material life.\n\nThe young women entering Yue opera were vulnerable to poverty, exploitative contracts, sexual objectification, and contempt toward female entertainers. Their struggle for artistic status therefore required more than individual fame. They had to change the public meaning of the actress and remake the performance form associated with her.\n\nFrom the 1940s, performers including Yuan Xuefen and her collaborators introduced scripts, rehearsals, directors, new music, realistic acting, stage design, and a more disciplined company structure. These reforms helped replace bawdy routines and the objectification of actresses with modern love dramas that foregrounded character, emotion, and social meaning.\n\nThe result should not be reduced to a story in which elite reformers civilised a crude popular form. Jiang shows that actresses themselves initiated change because their artistic ambition was inseparable from a demand for economic survival, sexual autonomy, respect, and control over their public image.\n\nCross-gender performance had a long history in Chinese theatre, but the all-female Yue opera that formed in modern Shanghai was historically distinctive. Its young male role, the nü xiaosheng, became a leading role and eventually one of the genre's greatest attractions. Performers such as Yin Guifang, Fan Ruijuan, and Xu Yulan created influential schools of singing and acting while developing memorable male characters.\n\nThese male characters were typically not defined by physical dominance. They were elegant, bookish, graceful, caring, loyal, and capable of intense feeling. Jiang argues that they were men created from a female perspective on the female body. The stage did not merely conceal a woman beneath male costume; it made masculinity available for women to design, perform, judge, and desire.\n\nYue opera reverses a familiar structure in Chinese theatre history. In late Qing and Republican Beijing opera, celebrated male performers created female figures on male bodies, often within systems of male patronage and spectatorship. In women's Yue opera, actresses created male lovers for an audience in which women were especially influential.\n\nThis reversal did not automatically abolish gender conventions. Many plays still centred heterosexual romance and inherited familiar ideals of feminine beauty. Yet the authority to shape the romantic pair had shifted. A female audience could reward male characters who respected women, remained emotionally present, and treated love as a serious ethical relation rather than a reward owed to men.\n\nThe all-female cast also altered how intimacy could appear onstage. Under Republican-era conventions, an actress and a male actor performing physical or emotional intimacy could be constrained by anxieties about propriety and sexual reputation. Two women playing a heterosexual couple could approach one another with a degree of physical and emotional freedom that mixed-gender casts did not always possess.\n\nThis helps explain why Yue opera became especially effective at staging love, grief, longing, and loyalty. The softness of its singing, the use of natural voices, expressive music, delicate costumes, and emotionally detailed acting produced what Jiang calls a feminine aesthetics. “Feminine” here names a historically produced cultural form, not a natural quality possessed by all women.\n\nThe women in the auditorium were not passive recipients. Their ticket purchases, patronage, letters, applause, criticism, fan organisations, and attachments to particular stars helped determine which companies survived and which styles flourished. Some patrons paid for costumes and productions; fans followed favourite actresses across theatres and debated their performances in print.\n\nThe audience was socially varied, and it should not be imagined as a single unified group. Middle- and upper-class women with leisure and money played an especially important role in patronage, while factory workers, shop employees, students, and other urban women also participated in Yue opera culture. Gender did not erase differences of class, income, education, or native-place ties.\n\nFor many women, attending Yue opera was more than consuming a performance. It required travel through streets, entry into commercial districts, coordination with friends, spending decisions, and participation in public discussion. The theatre offered a temporary departure from domestic and workplace routines while building networks among women.\n\nThis movement did not amount to complete emancipation. A theatre ticket could not dissolve family authority or economic dependence. But the repeated act of entering public entertainment made women visible as urban consumers, critics, and participants whose preferences had commercial and cultural consequences.\n\nTwo works carried Yue opera's emotional and visual language far beyond Shanghai. The 1953 film *The Butterfly Lovers* and the 1962 film *Dream of the Red Chamber* brought all-female performance, stylised male roles, and love-centred storytelling to audiences across China and abroad. Their popularity made Yue opera part of a wider twentieth-century culture of romantic feeling.\n\nThe two stories also complicate gender. Zhu Yingtai enters education through male disguise, while Jia Baoyu's sensitivity and identification with girls depart from rigid heroic masculinity. Yue opera's actresses did not invent these narrative possibilities, but their bodies, voices, and performance traditions gave them a new modern visibility.\n\nModern Chinese elite discourse often ranked war, revolution, nation, and political education above love, family, and everyday feeling. Subjects coded as masculine and public were treated as historically consequential, while subjects coded as feminine and private were dismissed as sentimental or trivial.\n\nWomen's Yue opera disturbed that hierarchy. It made romantic attachment, abandonment, loyalty, domestic injustice, and emotional recognition central to a major urban art form. Its popularity did not prove that every love story was liberating. It demonstrated that women's feelings and mundane experiences could organise public attention rather than remain hidden outside history.\n\nThe relationship between Yue opera and the Communist revolution was not simply one of liberation or repression. Left-wing cultural workers supported actresses' struggles in the 1940s, and after 1949 the state improved performers' social status, provided institutional support, and helped produce influential works. These changes offered security and public recognition that many actresses welcomed.\n\nAt the same time, state administration increasingly restricted repertoire and artistic response to audiences. During the Cultural Revolution, women's Yue opera and its love dramas were banned. Jiang's account therefore crosses the conventional divide of 1949: institutions could dignify performers while also narrowing what their art was permitted to say.\n\nA contemporary reader may recognise queer possibilities in women performing men, women spectators desiring actresses in male roles, and theatre creating intimacy outside ordinary gender arrangements. Those possibilities deserve attention. But historical cross-gender performance should not automatically be translated into a fixed modern identity for every actress or spectator.\n\nThe strongest claim supported by the evidence is about cultural possibility. The all-female stage loosened the assumed bond between body, role, desire, and social authority. It allowed women to inhabit masculinity, reshape it, and make it answerable to female spectators. What those experiences meant in individual lives varied and cannot always be recovered.\n\nIn a 2026 conversation about the Chinese edition of her research, Jiang explained why “women playing men” is more precise than a phrase that means merely dressing as men. To play is also to act, practise, and become. Yue opera actresses did not only represent male characters; they entered a public profession, became owners of companies and artistic styles, and claimed forms of personhood once reserved for men.\n\nThe phrase therefore works on two levels. Onstage, women perform men. In social history, women perform roles of artist, wage earner, organiser, public figure, patron, critic, and desiring subject. The stage becomes one place where a woman can rehearse being more than the role society assigned her.",
+    "introZh": "这些建立在女性身体上的男性角色，并不是对现实男性的简单复制。越剧小生往往温雅、有才、忠诚，能够表达情感，也愿意尊重女性。女演员与女性观众在舞台内外共同想象：一个值得爱的人、一个平等的伴侣，以及一种有资格公开表达的爱情，可能是什么样子。\n\n姜进的历史研究表明，通俗娱乐同样是社会变化发生的现场。女子越剧把私人情感、家庭经验与爱情欲望变成公共艺术的重要内容，从而挑战了一种长期存在的文化等级：只因为这些主题与女性有关，就把它们视为琐碎、软弱或不值一提。\n\n姜进的 *Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai* 于2009年由华盛顿大学出版社出版，中文版书名为《诗与政治：20世纪上海公共文化中的女子越剧》，由广西师范大学出版社出版。她通过报刊、档案、演出材料、回忆录，以及对女演员和观众的大量口述访谈，重建女子越剧的历史。全书讨论的不只是一个戏曲剧种，也包括由演员、观众、赞助者、编剧与城市机构围绕舞台共同创造的社会世界。\n\n这种研究方法十分重要，因为许多真正建立越剧的女性几乎没有留下传统意义上的书面记录。第一代与第二代女演员往往出生于浙江贫困农民家庭，十几岁便进入科班，也很少接受正式教育。如果历史只依赖精英出版物，就会再次复制一种既有等级：把这些女性的劳动、经验与知识视为不重要。\n\n越剧源于浙江乡村的一种农民唱书形式。人口迁移把它带进上海，而商业剧场、报刊、新观众，以及与其他表演形式的竞争，又改变了它能够成为什么。到1930年代末，传统全男班已经大体退出，女子班则逐渐成为剧种的中心。\n\n这种转变既不是一项从未变化的中国古老传统，也不是对西方现代性的简单模仿。它来自一段具体历史：乡村经济困境、人口迁移、上海的商业娱乐市场、关于女性进入公共空间的新观念，以及女演员为生存与尊严所作的努力。越剧史因此把艺术形式与物质生活紧密连接起来。\n\n进入越剧的年轻女性面对贫困、剥削性契约、性化凝视，以及社会对女艺人的轻蔑。因此，她们争取艺术地位的过程不只关乎个人成名，也必须改变公众对“女演员”的定义，并重塑与她们联系在一起的表演形式。\n\n从1940年代起，袁雪芬等演员与合作者引入剧本、排练、导演、新音乐、写实表演、舞台设计与更有组织的剧团结构。这些改革帮助越剧摆脱粗俗噱头与对女演员身体的物化，转向以人物、情感和社会意义为中心的现代爱情戏。\n\n这一过程不能被简化成“精英改革者教化粗俗民间艺术”的故事。姜进强调，女演员自身就是改革的发起者，因为她们的艺术抱负与经济生存、身体自主、社会尊严，以及掌握自身公共形象的要求密不可分。\n\n跨性别角色表演在中国戏曲中历史悠久，但形成于现代上海的女子越剧仍具有独特的历史意义。由女性扮演的青年男性角色“女小生”逐渐成为主角，并最终成为这个剧种最重要的吸引力之一。尹桂芳、范瑞娟与徐玉兰等演员创造了影响深远的唱腔与表演流派，也塑造了令人难忘的男性人物。\n\n这些男性人物通常不以身体支配力为核心。他们温雅、有书卷气、举止优美、体贴忠诚，也能够充分表达情感。姜进指出，这是由女性视角出发、建立在女性身体上的男性形象。舞台并不只是把一个女人隐藏在男性服装之下，而是让女性能够设计、表演、判断并欲望某种男性气质。\n\n越剧翻转了中国戏曲史中一个熟悉的结构。在晚清与民国京剧中，著名男演员在男性身体上塑造女性人物，这些表演又常常置于男性赞助与男性观看体系之中。女子越剧则由女演员创造男性恋人，而女性在它的观众群体中具有格外重要的影响。\n\n这种翻转并没有自动消除性别规范。许多剧目仍以异性爱情为中心，也继承了熟悉的女性美理想。但塑造爱情双方的权力已经发生移动：女性观众可以认可那些尊重女性、能够表达感情，并把爱情当作严肃伦理关系而非男性应得奖赏的男性人物。\n\n全女班也改变了亲密关系在舞台上的呈现方式。在民国时期的社会规范中，女演员与男演员共同表演身体或情感亲密，常会受到体面观念与性名誉焦虑的限制。由两位女性扮演一对异性恋人，反而能够获得某种身体与情感上的自由，而这并不总是存在于男女合演中。\n\n这有助于解释为什么越剧特别擅长表现爱情、悲伤、思念与忠诚。柔和的唱腔、自然嗓音、富于情感的音乐、精致服装与细腻表演，共同形成姜进所说的“女性化美学”。这里的“女性化”指一种被历史生产出来的文化形式，而不是所有女性天生具有的性质。\n\n剧场里的女性并不是被动接受者。她们购买戏票、提供赞助、写信、喝彩、批评、组织戏迷团体，也把情感投向特定明星。这些行动共同决定哪些剧团能够生存、哪些表演风格能够发展。有些赞助者出资制作服装与剧目，戏迷则追随喜爱的女演员穿梭于不同剧场，并在报刊上讨论她们的表演。\n\n这一观众群体具有社会差异，不能被想象成完全统一的“女性共同体”。拥有闲暇与金钱的中上层女性在赞助体系中尤其重要，但工厂女工、商店职员、学生及其他城市女性也参与越剧文化。共同的性别并没有消除阶级、收入、教育程度与地域关系的差别。\n\n对许多女性而言，观看越剧不只是消费一场演出。她们需要穿过街道、进入商业区、与朋友协调行程、决定如何花钱，并参与公共讨论。剧场使女性暂时离开家庭与工作场所的日常，也帮助她们建立彼此之间的网络。\n\n这种移动并不等于彻底解放。一张戏票无法消除家庭权威或经济依赖。但女性反复进入公共娱乐场所，使她们作为城市消费者、批评者与参与者变得可见，也让她们的偏好开始产生商业与文化后果。\n\n两部作品把越剧的情感与视觉语言带到上海之外。1953年的越剧电影《梁山伯与祝英台》和1962年的《红楼梦》，让全女班表演、女性塑造的小生，以及以爱情为中心的叙事进入中国各地与海外观众的视野。它们的流行使越剧成为二十世纪更广泛的爱情文化的一部分。\n\n这两个故事也使性别问题变得复杂。祝英台通过男装进入教育空间，贾宝玉的敏感以及他对女儿世界的认同，则偏离了僵硬的英雄式男性气质。越剧女演员并没有发明这些叙事可能性，但她们的身体、声音与表演传统赋予了这些可能性一种新的现代可见度。\n\n中国现代精英话语往往把战争、革命、民族与政治教育置于爱情、家庭和日常情感之上。被编码为男性化、公共性的主题被视为具有历史意义，而被编码为女性化、私人性的主题则常被贬低为感伤或琐碎。\n\n女子越剧扰乱了这一等级。它把爱情依恋、遗弃、忠诚、家庭不公与情感承认放在重要都市艺术的中心。它的流行并不能证明每一个爱情故事都具有解放性，却表明女性的情感与日常经验能够组织公共注意力，而不必继续隐藏在历史之外。\n\n越剧与共产主义革命之间的关系不能被简单概括为解放或压迫。1940年代，左翼文化工作者支持女演员争取权益；1949年以后，国家提高了表演者的社会地位，提供制度支持，也帮助制作了一批影响深远的作品。这些变化带来了许多女演员真诚欢迎的安全保障与公共承认。\n\n与此同时，国家管理也逐渐限制剧目内容与艺术家回应观众的能力。文化大革命期间，女子越剧及其爱情戏被禁止。姜进的叙述因此跨越了通常以1949年为界的断裂：制度可以一方面提升表演者的地位，另一方面又缩小艺术被允许表达的内容。\n\n当代读者可能会在女性扮演男性、女性观众迷恋男性角色中的女演员，以及剧场创造出日常性别秩序之外的亲密关系时，看见酷儿可能性。这些可能性值得注意，但历史上的跨性别角色表演，不能被自动翻译成每一位演员或观众都拥有某种固定的现代身份。\n\n现有证据最能够支持的，是一种关于文化可能性的判断。全女班舞台松动了身体、角色、欲望与社会权威之间看似天然的联系，让女性能够进入男性气质、重新塑造它，并让它接受女性观众的判断。至于这些经验在每个人的生活中意味着什么，则各不相同，也并不总能被历史还原。\n\n在2026年围绕这项研究中文版的一次对谈中，姜进解释了为什么“女演男”比单纯的“女扮男装”更加准确。“演”不仅是假扮，也是行动、实践与逐渐成为。越剧女演员不仅再现男性人物，也进入公共职业，成为剧团与艺术流派的主人，并争取过去被视为男性专属的完整人格。\n\n因此，这个短语同时在两个层面上成立。舞台上，女性扮演男人；社会历史中，女性则实践艺术家、劳动者、组织者、公共人物、赞助者、批评者与欲望主体的角色。舞台由此成为一个地方，让女性能够排演一种超出社会既定角色的人生。",
+    "articleSections": [
+      {
+        "title": "A Social History of Women, Performance, and the City",
+        "titleZh": "一部关于女性、表演与城市的社会史",
+        "en": "Jin Jiang's *Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai* was published by the University of Washington Press in 2009. Its Chinese edition is titled *Poetry and Politics: Women's Yue Opera in the Public Culture of Twentieth-Century Shanghai* and was published by Guangxi Normal University Press. The book reconstructs the history of women's Yue opera through newspapers, archives, performance materials, memoirs, and extensive oral interviews with actresses and audience members. Its subject is not only a theatrical genre. It is the social world that actresses, spectators, patrons, writers, and urban institutions created around the stage.\n\nThis method matters because many of the women who built Yue opera left few conventional written records. The first generations of actresses were often born into poor peasant families in Zhejiang, entered opera schools in their early teens, and had limited formal education. A history based only on elite publications would reproduce the very hierarchy that had already treated their labour and knowledge as insignificant.",
+        "zh": "姜进的 *Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai* 于2009年由华盛顿大学出版社出版，中文版书名为《诗与政治：20世纪上海公共文化中的女子越剧》，由广西师范大学出版社出版。她通过报刊、档案、演出材料、回忆录，以及对女演员和观众的大量口述访谈，重建女子越剧的历史。全书讨论的不只是一个戏曲剧种，也包括由演员、观众、赞助者、编剧与城市机构围绕舞台共同创造的社会世界。\n\n这种研究方法十分重要，因为许多真正建立越剧的女性几乎没有留下传统意义上的书面记录。第一代与第二代女演员往往出生于浙江贫困农民家庭，十几岁便进入科班，也很少接受正式教育。如果历史只依赖精英出版物，就会再次复制一种既有等级：把这些女性的劳动、经验与知识视为不重要。"
+      },
+      {
+        "title": "From Rural Story-Singing to Metropolitan Theatre",
+        "titleZh": "从乡村唱书到都市剧场",
+        "en": "Yue opera developed from a form of peasant story-singing in the Zhejiang countryside. Rural migration carried it into Shanghai, where commercial theatres, newspapers, new audiences, and competition with other performance forms changed what it could become. By the end of the 1930s, all-male troupes had largely disappeared, while all-female companies were becoming central to the genre.\n\nThis transformation was neither a timeless Chinese tradition nor a simple copy of Western modernity. It emerged from a specific history: rural economic hardship, migration, Shanghai's commercial entertainment market, changing ideas about women's public presence, and actresses' efforts to survive and gain dignity. The history of the genre therefore joins cultural form to material life.",
+        "zh": "越剧源于浙江乡村的一种农民唱书形式。人口迁移把它带进上海，而商业剧场、报刊、新观众，以及与其他表演形式的竞争，又改变了它能够成为什么。到1930年代末，传统全男班已经大体退出，女子班则逐渐成为剧种的中心。\n\n这种转变既不是一项从未变化的中国古老传统，也不是对西方现代性的简单模仿。它来自一段具体历史：乡村经济困境、人口迁移、上海的商业娱乐市场、关于女性进入公共空间的新观念，以及女演员为生存与尊严所作的努力。越剧史因此把艺术形式与物质生活紧密连接起来。"
+      },
+      {
+        "title": "The Actresses Who Changed the Form",
+        "titleZh": "改变剧种的女演员",
+        "en": "The young women entering Yue opera were vulnerable to poverty, exploitative contracts, sexual objectification, and contempt toward female entertainers. Their struggle for artistic status therefore required more than individual fame. They had to change the public meaning of the actress and remake the performance form associated with her.\n\nFrom the 1940s, performers including Yuan Xuefen and her collaborators introduced scripts, rehearsals, directors, new music, realistic acting, stage design, and a more disciplined company structure. These reforms helped replace bawdy routines and the objectification of actresses with modern love dramas that foregrounded character, emotion, and social meaning.\n\nThe result should not be reduced to a story in which elite reformers civilised a crude popular form. Jiang shows that actresses themselves initiated change because their artistic ambition was inseparable from a demand for economic survival, sexual autonomy, respect, and control over their public image.",
+        "zh": "进入越剧的年轻女性面对贫困、剥削性契约、性化凝视，以及社会对女艺人的轻蔑。因此，她们争取艺术地位的过程不只关乎个人成名，也必须改变公众对“女演员”的定义，并重塑与她们联系在一起的表演形式。\n\n从1940年代起，袁雪芬等演员与合作者引入剧本、排练、导演、新音乐、写实表演、舞台设计与更有组织的剧团结构。这些改革帮助越剧摆脱粗俗噱头与对女演员身体的物化，转向以人物、情感和社会意义为中心的现代爱情戏。\n\n这一过程不能被简化成“精英改革者教化粗俗民间艺术”的故事。姜进强调，女演员自身就是改革的发起者，因为她们的艺术抱负与经济生存、身体自主、社会尊严，以及掌握自身公共形象的要求密不可分。"
+      },
+      {
+        "title": "Why Women Played Men",
+        "titleZh": "女性为什么扮演男人",
+        "en": "Cross-gender performance had a long history in Chinese theatre, but the all-female Yue opera that formed in modern Shanghai was historically distinctive. Its young male role, the nü xiaosheng, became a leading role and eventually one of the genre's greatest attractions. Performers such as Yin Guifang, Fan Ruijuan, and Xu Yulan created influential schools of singing and acting while developing memorable male characters.\n\nThese male characters were typically not defined by physical dominance. They were elegant, bookish, graceful, caring, loyal, and capable of intense feeling. Jiang argues that they were men created from a female perspective on the female body. The stage did not merely conceal a woman beneath male costume; it made masculinity available for women to design, perform, judge, and desire.",
+        "zh": "跨性别角色表演在中国戏曲中历史悠久，但形成于现代上海的女子越剧仍具有独特的历史意义。由女性扮演的青年男性角色“女小生”逐渐成为主角，并最终成为这个剧种最重要的吸引力之一。尹桂芳、范瑞娟与徐玉兰等演员创造了影响深远的唱腔与表演流派，也塑造了令人难忘的男性人物。\n\n这些男性人物通常不以身体支配力为核心。他们温雅、有书卷气、举止优美、体贴忠诚，也能够充分表达情感。姜进指出，这是由女性视角出发、建立在女性身体上的男性形象。舞台并不只是把一个女人隐藏在男性服装之下，而是让女性能够设计、表演、判断并欲望某种男性气质。"
+      },
+      {
+        "title": "An Ideal Man Made by Women",
+        "titleZh": "由女性创造的理想男性",
+        "en": "Yue opera reverses a familiar structure in Chinese theatre history. In late Qing and Republican Beijing opera, celebrated male performers created female figures on male bodies, often within systems of male patronage and spectatorship. In women's Yue opera, actresses created male lovers for an audience in which women were especially influential.\n\nThis reversal did not automatically abolish gender conventions. Many plays still centred heterosexual romance and inherited familiar ideals of feminine beauty. Yet the authority to shape the romantic pair had shifted. A female audience could reward male characters who respected women, remained emotionally present, and treated love as a serious ethical relation rather than a reward owed to men.",
+        "zh": "越剧翻转了中国戏曲史中一个熟悉的结构。在晚清与民国京剧中，著名男演员在男性身体上塑造女性人物，这些表演又常常置于男性赞助与男性观看体系之中。女子越剧则由女演员创造男性恋人，而女性在它的观众群体中具有格外重要的影响。\n\n这种翻转并没有自动消除性别规范。许多剧目仍以异性爱情为中心，也继承了熟悉的女性美理想。但塑造爱情双方的权力已经发生移动：女性观众可以认可那些尊重女性、能够表达感情，并把爱情当作严肃伦理关系而非男性应得奖赏的男性人物。"
+      },
+      {
+        "title": "Love Could Be Performed Differently",
+        "titleZh": "爱情因此可以被不同地表演",
+        "en": "The all-female cast also altered how intimacy could appear onstage. Under Republican-era conventions, an actress and a male actor performing physical or emotional intimacy could be constrained by anxieties about propriety and sexual reputation. Two women playing a heterosexual couple could approach one another with a degree of physical and emotional freedom that mixed-gender casts did not always possess.\n\nThis helps explain why Yue opera became especially effective at staging love, grief, longing, and loyalty. The softness of its singing, the use of natural voices, expressive music, delicate costumes, and emotionally detailed acting produced what Jiang calls a feminine aesthetics. “Feminine” here names a historically produced cultural form, not a natural quality possessed by all women.",
+        "zh": "全女班也改变了亲密关系在舞台上的呈现方式。在民国时期的社会规范中，女演员与男演员共同表演身体或情感亲密，常会受到体面观念与性名誉焦虑的限制。由两位女性扮演一对异性恋人，反而能够获得某种身体与情感上的自由，而这并不总是存在于男女合演中。\n\n这有助于解释为什么越剧特别擅长表现爱情、悲伤、思念与忠诚。柔和的唱腔、自然嗓音、富于情感的音乐、精致服装与细腻表演，共同形成姜进所说的“女性化美学”。这里的“女性化”指一种被历史生产出来的文化形式，而不是所有女性天生具有的性质。"
+      },
+      {
+        "title": "Female Spectators Were Co-Creators",
+        "titleZh": "女性观众也是共同创作者",
+        "en": "The women in the auditorium were not passive recipients. Their ticket purchases, patronage, letters, applause, criticism, fan organisations, and attachments to particular stars helped determine which companies survived and which styles flourished. Some patrons paid for costumes and productions; fans followed favourite actresses across theatres and debated their performances in print.\n\nThe audience was socially varied, and it should not be imagined as a single unified group. Middle- and upper-class women with leisure and money played an especially important role in patronage, while factory workers, shop employees, students, and other urban women also participated in Yue opera culture. Gender did not erase differences of class, income, education, or native-place ties.",
+        "zh": "剧场里的女性并不是被动接受者。她们购买戏票、提供赞助、写信、喝彩、批评、组织戏迷团体，也把情感投向特定明星。这些行动共同决定哪些剧团能够生存、哪些表演风格能够发展。有些赞助者出资制作服装与剧目，戏迷则追随喜爱的女演员穿梭于不同剧场，并在报刊上讨论她们的表演。\n\n这一观众群体具有社会差异，不能被想象成完全统一的“女性共同体”。拥有闲暇与金钱的中上层女性在赞助体系中尤其重要，但工厂女工、商店职员、学生及其他城市女性也参与越剧文化。共同的性别并没有消除阶级、收入、教育程度与地域关系的差别。"
+      },
+      {
+        "title": "Going to the Theatre Meant Entering the City",
+        "titleZh": "去看戏，也意味着进入城市",
+        "en": "For many women, attending Yue opera was more than consuming a performance. It required travel through streets, entry into commercial districts, coordination with friends, spending decisions, and participation in public discussion. The theatre offered a temporary departure from domestic and workplace routines while building networks among women.\n\nThis movement did not amount to complete emancipation. A theatre ticket could not dissolve family authority or economic dependence. But the repeated act of entering public entertainment made women visible as urban consumers, critics, and participants whose preferences had commercial and cultural consequences.",
+        "zh": "对许多女性而言，观看越剧不只是消费一场演出。她们需要穿过街道、进入商业区、与朋友协调行程、决定如何花钱，并参与公共讨论。剧场使女性暂时离开家庭与工作场所的日常，也帮助她们建立彼此之间的网络。\n\n这种移动并不等于彻底解放。一张戏票无法消除家庭权威或经济依赖。但女性反复进入公共娱乐场所，使她们作为城市消费者、批评者与参与者变得可见，也让她们的偏好开始产生商业与文化后果。"
+      },
+      {
+        "title": "The Butterfly Lovers and Dream of the Red Chamber",
+        "titleZh": "《梁山伯与祝英台》与《红楼梦》",
+        "en": "Two works carried Yue opera's emotional and visual language far beyond Shanghai. The 1953 film *The Butterfly Lovers* and the 1962 film *Dream of the Red Chamber* brought all-female performance, stylised male roles, and love-centred storytelling to audiences across China and abroad. Their popularity made Yue opera part of a wider twentieth-century culture of romantic feeling.\n\nThe two stories also complicate gender. Zhu Yingtai enters education through male disguise, while Jia Baoyu's sensitivity and identification with girls depart from rigid heroic masculinity. Yue opera's actresses did not invent these narrative possibilities, but their bodies, voices, and performance traditions gave them a new modern visibility.",
+        "zh": "两部作品把越剧的情感与视觉语言带到上海之外。1953年的越剧电影《梁山伯与祝英台》和1962年的《红楼梦》，让全女班表演、女性塑造的小生，以及以爱情为中心的叙事进入中国各地与海外观众的视野。它们的流行使越剧成为二十世纪更广泛的爱情文化的一部分。\n\n这两个故事也使性别问题变得复杂。祝英台通过男装进入教育空间，贾宝玉的敏感以及他对女儿世界的认同，则偏离了僵硬的英雄式男性气质。越剧女演员并没有发明这些叙事可能性，但她们的身体、声音与表演传统赋予了这些可能性一种新的现代可见度。"
+      },
+      {
+        "title": "Private Feeling as Public Culture",
+        "titleZh": "私人情感如何成为公共文化",
+        "en": "Modern Chinese elite discourse often ranked war, revolution, nation, and political education above love, family, and everyday feeling. Subjects coded as masculine and public were treated as historically consequential, while subjects coded as feminine and private were dismissed as sentimental or trivial.\n\nWomen's Yue opera disturbed that hierarchy. It made romantic attachment, abandonment, loyalty, domestic injustice, and emotional recognition central to a major urban art form. Its popularity did not prove that every love story was liberating. It demonstrated that women's feelings and mundane experiences could organise public attention rather than remain hidden outside history.",
+        "zh": "中国现代精英话语往往把战争、革命、民族与政治教育置于爱情、家庭和日常情感之上。被编码为男性化、公共性的主题被视为具有历史意义，而被编码为女性化、私人性的主题则常被贬低为感伤或琐碎。\n\n女子越剧扰乱了这一等级。它把爱情依恋、遗弃、忠诚、家庭不公与情感承认放在重要都市艺术的中心。它的流行并不能证明每一个爱情故事都具有解放性，却表明女性的情感与日常经验能够组织公共注意力，而不必继续隐藏在历史之外。"
+      },
+      {
+        "title": "Revolution, Support, and Control",
+        "titleZh": "革命、支持与控制",
+        "en": "The relationship between Yue opera and the Communist revolution was not simply one of liberation or repression. Left-wing cultural workers supported actresses' struggles in the 1940s, and after 1949 the state improved performers' social status, provided institutional support, and helped produce influential works. These changes offered security and public recognition that many actresses welcomed.\n\nAt the same time, state administration increasingly restricted repertoire and artistic response to audiences. During the Cultural Revolution, women's Yue opera and its love dramas were banned. Jiang's account therefore crosses the conventional divide of 1949: institutions could dignify performers while also narrowing what their art was permitted to say.",
+        "zh": "越剧与共产主义革命之间的关系不能被简单概括为解放或压迫。1940年代，左翼文化工作者支持女演员争取权益；1949年以后，国家提高了表演者的社会地位，提供制度支持，也帮助制作了一批影响深远的作品。这些变化带来了许多女演员真诚欢迎的安全保障与公共承认。\n\n与此同时，国家管理也逐渐限制剧目内容与艺术家回应观众的能力。文化大革命期间，女子越剧及其爱情戏被禁止。姜进的叙述因此跨越了通常以1949年为界的断裂：制度可以一方面提升表演者的地位，另一方面又缩小艺术被允许表达的内容。"
+      },
+      {
+        "title": "What Cross-Gender Performance Does Not Automatically Mean",
+        "titleZh": "跨性别角色表演不自动意味着什么",
+        "en": "A contemporary reader may recognise queer possibilities in women performing men, women spectators desiring actresses in male roles, and theatre creating intimacy outside ordinary gender arrangements. Those possibilities deserve attention. But historical cross-gender performance should not automatically be translated into a fixed modern identity for every actress or spectator.\n\nThe strongest claim supported by the evidence is about cultural possibility. The all-female stage loosened the assumed bond between body, role, desire, and social authority. It allowed women to inhabit masculinity, reshape it, and make it answerable to female spectators. What those experiences meant in individual lives varied and cannot always be recovered.",
+        "zh": "当代读者可能会在女性扮演男性、女性观众迷恋男性角色中的女演员，以及剧场创造出日常性别秩序之外的亲密关系时，看见酷儿可能性。这些可能性值得注意，但历史上的跨性别角色表演，不能被自动翻译成每一位演员或观众都拥有某种固定的现代身份。\n\n现有证据最能够支持的，是一种关于文化可能性的判断。全女班舞台松动了身体、角色、欲望与社会权威之间看似天然的联系，让女性能够进入男性气质、重新塑造它，并让它接受女性观众的判断。至于这些经验在每个人的生活中意味着什么，则各不相同，也并不总能被历史还原。"
+      },
+      {
+        "title": "“Women Playing Men” Is More Than Disguise",
+        "titleZh": "“女演男”不只是换上男装",
+        "en": "In a 2026 conversation about the Chinese edition of her research, Jiang explained why “women playing men” is more precise than a phrase that means merely dressing as men. To play is also to act, practise, and become. Yue opera actresses did not only represent male characters; they entered a public profession, became owners of companies and artistic styles, and claimed forms of personhood once reserved for men.\n\nThe phrase therefore works on two levels. Onstage, women perform men. In social history, women perform roles of artist, wage earner, organiser, public figure, patron, critic, and desiring subject. The stage becomes one place where a woman can rehearse being more than the role society assigned her.",
+        "zh": "在2026年围绕这项研究中文版的一次对谈中，姜进解释了为什么“女演男”比单纯的“女扮男装”更加准确。“演”不仅是假扮，也是行动、实践与逐渐成为。越剧女演员不仅再现男性人物，也进入公共职业，成为剧团与艺术流派的主人，并争取过去被视为男性专属的完整人格。\n\n因此，这个短语同时在两个层面上成立。舞台上，女性扮演男人；社会历史中，女性则实践艺术家、劳动者、组织者、公共人物、赞助者、批评者与欲望主体的角色。舞台由此成为一个地方，让女性能够排演一种超出社会既定角色的人生。"
+      }
+    ],
+    "researchLens": {
+      "title": "Scholarship",
+      "titleZh": "文献依据",
+      "citation": "Jin Jiang, Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai. University of Washington Press, 2009. 本文以用户提供的 PDF 为主要资料，完整核对了序言、导论、六章正文、结论、注释与参考文献；直接引文来自序言。\n姜进，《诗与政治：20世纪上海公共文化中的女子越剧》，广西师范大学出版社。中文版书名与出版社信息采用正式出版信息。\nUniversity of Washington Press, Women Playing Men. 出版社页面核实出版信息、研究范围、越剧从乡村进入上海并从全男班转向全女班的基本历史，以及作者对演员、戏迷、赞助者和改革的综合研究。\nJSTOR, Women Playing Men. 电子书目与章节简介用于交叉核对全书结构、时间范围和各章论点。\nXiaomei Chen, review of Women Playing Men, The Opera Quarterly 26.2–3, 2010. 该书评确认本书对中国戏剧史、表演研究与现代史的贡献，并强调其对民国上海女性文化与性别身份问题的拓展。\nLiang Luo, review of Women Playing Men, China Review International 16.1, 2009. 该同行评议书评用于核实本书在女子越剧社会文化史研究中的学术位置。\nAndrew David Field, review of Women Playing Men, The American Historical Review 116.3, 2011. 该书评概括了越剧如何在以战争、革命与民族建构为中心的时代，成为表达女性情感的重要都市平台。\n姜进、许纪霖，“没有女演员，何来上海滩？”，《上海书评》，2026. 用于核对作者中文名、中文版《诗与政治：20世纪上海公共文化中的女子越剧》的出版信息，以及作者本人对“女演男”而非仅仅“女扮男装”的解释。\n本稿将“女小生”及女性观众文化置于性别表演与酷儿可能性的视野中，但没有据此推断具体演员或观众的性取向。相关表述属于基于史料的谨慎阐释，而非个人身份认定。",
+      "summaryZh": "本期内容以原始文本、出版社资料与所列学术研究交叉核对；解释性判断不被写成唯一结论。"
+    },
+    "quotesTitle": "Quotation",
+    "quotesTitleZh": "引文",
+    "quotesAtEnd": true,
+    "quoteSelections": [
+      {
+        "en": "“The women of Yue opera functioned within a world of value of their own making.”",
+        "zh": "“越剧女性生活在一个由她们自己创造的价值世界之中。”",
+        "source": "Jin Jiang, *Women Playing Men*, Preface"
+      }
+    ],
+    "quoteReadingEn": "This sentence identifies the book's most important methodological commitment. The women of Yue opera should not be measured only by standards imposed by elite theatre, nationalist politics, revolutionary ideology, or later feminist respectability. Their choices also made sense inside relations they built through performance, work, fandom, patronage, and shared feeling.\n\nRecognising that world does not require romanticising it. Exploitation, hierarchy, rivalry, and dependence remained real. But women were not merely acted upon by history. They produced aesthetic standards, public identities, emotional languages, and institutions that changed what Shanghai culture could see and hear.",
+    "quoteReadingZh": "这句话点明了本书最重要的方法立场。越剧女性不能只通过精英戏剧、民族主义政治、革命意识形态或后来形成的女性主义体面标准来衡量。她们的选择也存在于一个由表演、劳动、戏迷文化、赞助关系与共同情感建立起来的价值网络之中。\n\n承认这个世界，并不意味着把它浪漫化。剥削、等级、竞争与依赖始终真实存在。但这些女性不只是被历史作用的对象。她们生产审美标准、公共身份、情感语言与社会机构，并由此改变了上海文化能够看见和听见什么。",
+    "relatedWorks": [
+      {
+        "title": "The Butterfly Lovers",
+        "relationZh": "Yue opera film, 1953 越剧电影《梁山伯与祝英台》把全女班、女小生与爱情叙事带向更广泛的全国及海外观众。"
+      },
+      {
+        "title": "Dream of the Red Chamber",
+        "relationZh": "Shanghai Yue Opera House, film version 1962 1962年越剧电影《红楼梦》集中展现徐玉兰、王文娟的表演，以及越剧对贾宝玉、林黛玉与爱情情感的女性化重塑。"
+      },
+      {
+        "title": "Two Stage Sisters",
+        "relationZh": "Xie Jin, 1964 谢晋电影《舞台姐妹》通过两位越剧女演员的人生讲述舞台、阶级、革命与女性友谊，也适合与姜进对演员社会地位变化的历史研究并读。"
+      },
+      {
+        "title": "Some of Us: Chinese Women Growing Up in the Mao Era",
+        "relationZh": "Xueping Zhong, Wang Zheng, and Bai Di, eds. 《Some of Us》收录中国女性对毛泽东时代成长经验的反思，姜进也是撰稿者之一，可用于理解她如何把个人经验、性别与社会史联系起来。"
+      },
+      {
+        "title": "Women Playing Men: Same-Sex Relations in Republican Shanghai",
+        "relationZh": "Jin Jiang 姜进发表于 Harvard-Yenching Institute Working Paper Series 的论文进一步讨论民国上海女子越剧舞台上的异性恋爱情再现，以及剧场内外的女性同性爱欲与社会关系。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "University of Washington Press, Women Playing Men",
+        "url": "https://uwapress.uw.edu/book/9780295988443/women-playing-men/"
+      },
+      {
+        "label": "JSTOR, Women Playing Men",
+        "url": "https://www.jstor.org/stable/j.ctvcwnp92"
+      },
+      {
+        "label": "Xiaomei Chen, review of Women Playing Men, The Opera Quarterly 26.2–3, 2010",
+        "url": "https://academic.oup.com/oq/article/26/2-3/471/1511049"
+      },
+      {
+        "label": "Liang Luo, review of Women Playing Men, China Review International 16.1, 2009",
+        "url": "https://scholars.uky.edu/en/publications/review-of-jin-jiang-women-playing-men-yue-opera-and-social-change/"
+      },
+      {
+        "label": "Andrew David Field, review of Women Playing Men, The American Historical Review 116.3, 2011",
+        "url": "https://academic.oup.com/ahr/article-abstract/116/3/780/42326"
+      },
+      {
+        "label": "姜进、许纪霖，“没有女演员，何来上海滩？”，《上海书评》，2026",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33643651"
+      }
+    ],
+    "tags": [
+      "Jin Jiang",
+      "Yue opera",
+      "women playing men",
+      "Shanghai",
+      "female spectators",
+      "gender performance",
+      "public culture"
+    ],
+    "tagsZh": [
+      "姜进",
+      "女子越剧",
+      "女演男",
+      "上海",
+      "女性观众",
+      "性别表演",
+      "公共文化"
+    ],
+    "sourceText": "Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai",
+    "status": "published"
   }
 ];
