@@ -9220,5 +9220,566 @@ Finally, the sentence makes cultural value itself part of the analysis. Prestige
     ],
     "sourceText": "Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai",
     "status": "published"
+  },
+  {
+    "id": "2026-08-22-leonora-carrington-the-debutante",
+    "date": "2026-08-22",
+    "type": "text",
+    "title": "The Debutante",
+    "titleZh": "《初入社交界的少女》",
+    "titleSeparator": " ",
+    "author": "Leonora Carrington｜利奥诺拉·卡林顿",
+    "years": "1917–2011",
+    "role": "Short Story / Surrealism / Feminist Gothic｜短篇小说 / 超现实主义 / 女性主义哥特",
+    "focusTitle": "Who Must Wear the Face of a Proper Woman?",
+    "focusTitleZh": "谁必须戴上“体面女人”的脸？",
+    "summaryEn": "In Leonora Carrington's “The Debutante,” a young woman asks her closest friend, a hyena, to take her place at a ball arranged to present her to society. The disguise turns femininity into something visibly constructed: a dress, gloves, upright posture, polite conversation, and finally a human face that cannot contain the animal beneath it.",
+    "summaryZh": "在利奥诺拉·卡林顿的《初入社交界的少女》中，一个年轻女人请自己最亲近的朋友——一只鬣狗——代替她参加为她进入上流社会而举行的舞会。伪装让“女性气质”显出它被制造的一面：裙装、手套、直立姿势、得体谈吐，以及最终仍无法包住动物身体的一张人脸。",
+    "introEn": "Leonora Carrington wrote “The Debutante” in 1937–38, soon after leaving the upper-class English world in which she had herself been presented at court. The story transforms the debutante ritual—a public announcement that a young woman is ready to enter elite society and the marriage market—into a compact, grotesque comedy about refusal.\n\nThe narrator does not defeat the ritual by becoming its perfect opposite. She remains upstairs while another female creature performs her place. The hyena's disguise succeeds only briefly, and the escape depends on violence against Mary, the maid. Carrington's story is therefore more difficult than a simple fantasy of liberation: it asks whose bodies are disciplined into respectability, whose labour sustains that respectability, and who pays when one woman escapes.",
+    "introZh": "利奥诺拉·卡林顿于1937至1938年间写下《初入社交界的少女》，当时她刚离开那个曾要求她本人进宫觐见、进入上流社会的英国阶级世界。小说把“初次进入社交界”的仪式——公开宣布一个年轻女人可以进入精英社会与婚姻市场——改造成一则短促、怪诞而尖锐的拒绝故事。\n\n叙述者并不是通过成为这套礼仪的完美反面来战胜它。她留在楼上，让另一个雌性生物替她表演自己的位置。鬣狗的伪装只短暂成功，而这场逃离又以女佣玛丽遭受的暴力为代价。因此，这篇小说比单纯的“解放幻想”更难处理：它追问谁的身体被训练得必须体面，谁的劳动维持着这种体面，以及一个女人逃走时，最终由谁付出代价。",
+    "articleSections": [
+      {
+        "title": "The Complete Stories",
+        "titleZh": "《完整故事集》",
+        "en": "The 2017 volume *The Complete Stories of Leonora Carrington*, published by Dorothy for the centenary of Carrington's birth, brings together her short fiction for the first time and includes three stories that had not previously appeared in print. The collection moves across decades and languages: Carrington wrote in English, French, and Spanish, and the edition records the translators responsible for the French- and Spanish-language stories.\n\n“The Debutante” appears at the beginning of the section associated with *The House of Fear*. The edition dates its composition to 1937–38 and notes that the English text was translated from French by Kathrine Talbot with Marina Warner. These details matter because Carrington's literary voice was never confined to one national or linguistic tradition.",
+        "zh": "2017年，Dorothy出版社在卡林顿诞辰一百周年之际出版《利奥诺拉·卡林顿完整故事集》，首次把她的短篇小说集中收入一卷，其中包括三篇此前从未正式发表的作品。全书跨越多个年代与语言：卡林顿使用英语、法语与西班牙语写作，这一版本也明确记录了法语及西班牙语篇目的译者。\n\n《初入社交界的少女》位于与《恐惧之屋》相关的组篇开头。书后出版说明把它的写作时间定为1937至1938年，并注明英文文本由Kathrine Talbot与Marina Warner从法语译出。这些细节很重要，因为卡林顿的文学声音从来不属于单一国家或单一语言传统。"
+      },
+      {
+        "title": "A Ball That Announces a Woman",
+        "titleZh": "一场公开宣布女人身份的舞会",
+        "en": "A debutante ball is not merely entertainment. It is a social technology for making a young woman legible to her class. Dress, posture, conversation, family name, and bodily presentation combine to announce that she is ready to be seen, evaluated, and placed within elite adult society.\n\nCarrington turns this ceremony into a problem of representation. The narrator's mother can arrange the ball, the guests, the food, and the expected appearance of her daughter, but she cannot guarantee that the person occupying the daughter's place is the daughter at all. The ritual depends less on knowing the young woman than on recognising the correct signs.",
+        "zh": "初入社交界舞会并不只是娱乐。它是一套让年轻女人在所属阶级中变得可辨认的社会技术。服装、姿势、谈吐、家族姓名与身体呈现共同宣布：她已经可以被观看、被评价，并被安置进精英成年社会。\n\n卡林顿把这套仪式改造成一个关于再现的问题。叙述者的母亲可以安排舞会、宾客、食物和女儿应当呈现的外表，却无法保证占据女儿位置的真的是女儿本人。这场仪式依赖的与其说是认识年轻女人，不如说是识别一组正确符号。"
+      },
+      {
+        "title": "The Zoo as an Alternative Social World",
+        "titleZh": "动物园作为另一种社会世界",
+        "en": "The narrator goes to the zoo in order to avoid people and says she knows its animals better than girls her own age. The zoo is still a place of confinement, but within the story it also becomes the site of her most reciprocal relationship. She teaches the young hyena French; the hyena teaches her own language in return.\n\nTheir friendship does not begin with ownership. The hyena is not a pet, symbol, or silent projection waiting to be interpreted by the human girl. She speaks, bargains, complains about food, evaluates the plan, and makes decisions. The exchange of languages places the two characters beside one another rather than arranging them as rational human and mute animal.",
+        "zh": "叙述者为了躲开人群而前往动物园，并说自己对那里的动物比对同龄女孩更加熟悉。动物园依然是一个囚禁场所，但在小说中，它同时成为她最具互惠性的关系发生之处。她教年轻鬣狗法语，鬣狗则把自己的语言教给她。\n\n这段友谊并不从占有开始。鬣狗不是宠物，不是静止的象征，也不是等待人类女孩解释的投影。她会说话，会讨价还价，会抱怨食物，会判断计划，也会自己作出决定。语言的交换使两个角色并肩出现，而不是被排列成“理性的人类”与“沉默的动物”。"
+      },
+      {
+        "title": "Femininity as Costume and Training",
+        "titleZh": "女性气质作为服装与训练",
+        "en": "To pass as the narrator, the hyena must learn a sequence of bodily techniques. She wears the evening dress, struggles in high heels, covers her paws with gloves, and practises walking upright. The disguise makes visible how much respectable femininity already resembles a rehearsed performance.\n\nNothing about the required appearance is presented as effortless or natural. The body must be covered, corrected, perfumed, and taught how to move. Carrington's joke is not that a hyena makes an inadequate lady. It is that the category of “lady” can be assembled from surprisingly external parts.",
+        "zh": "为了冒充叙述者，鬣狗必须学习一连串身体技术。她穿上晚礼服，艰难适应高跟鞋，用手套遮住爪子，并练习直立行走。这场伪装让人看见，“体面女性气质”本来就多么接近一种经过排练的表演。\n\n小说没有把这种外表写成毫不费力的自然状态。身体必须被遮盖、纠正、熏香，也必须被教会如何移动。卡林顿的笑话并不只是“一只鬣狗无法成为合格淑女”，而是“淑女”这一类别竟然可以由如此多外在部件组装出来。"
+      },
+      {
+        "title": "The Human Face as a Mask",
+        "titleZh": "人脸作为面具",
+        "en": "The most grotesque part of the disguise is also the most literal: the hyena uses Mary's face as a mask. A social face is no longer a metaphor. It becomes detachable material placed over another species.\n\nThe scene makes passing depend on a terrible contradiction. Society may accept a hyena if she presents the visible surface of a human woman, yet the production of that surface requires another woman's disappearance. The story's violence interrupts any comfortable celebration of disguise as freedom.",
+        "zh": "伪装中最怪诞的部分也是最字面的部分：鬣狗把玛丽的脸当作面具。所谓“社会面孔”不再只是比喻，而变成一块能够从身体上取下、覆盖到另一物种身上的材料。\n\n这个场景让“成功混入社会”依赖一个可怕的矛盾：只要呈现出人类女性的可见表面，社会就可能暂时接受一只鬣狗；但这个表面的生产，却要求另一个女人消失。故事中的暴力打断了任何把伪装轻松赞美为自由的解释。"
+      },
+      {
+        "title": "Mary and the Class Limit of Rebellion",
+        "titleZh": "玛丽与反叛的阶级边界",
+        "en": "Mary, the maid, has almost no narrative interiority. Her labour is part of the household machinery that prepares the debutante and sustains the ball, yet she is treated as expendable by both narrator and hyena. The narrator worries about pain and discovery, but does not recognise Mary as an equal participant in the desire to escape social roles.\n\nA feminist reading should not make this death disappear. Carrington exposes the violence of upper-class femininity, but the story also shows how rebellion within a hierarchy can redirect violence downward. One privileged young woman's refusal does not automatically become freedom for women as a group.",
+        "zh": "女佣玛丽几乎没有叙事内部世界。她的劳动属于那套为初入社交界的少女做准备、维持舞会运转的家庭机器，但叙述者与鬣狗都把她当作可以牺牲的人。叙述者会担心疼痛与事情败露，却没有把玛丽看成同样可能渴望逃离社会角色的人。\n\n女性主义阅读不能让这场死亡消失。卡林顿揭露了上流阶级女性气质中的暴力，但小说也显示，等级结构内部的反叛可能把暴力继续向下转移。一个有特权年轻女人的拒绝，并不会自动成为所有女性的自由。"
+      },
+      {
+        "title": "Smell Refuses Respectability",
+        "titleZh": "气味拒绝体面",
+        "en": "The disguise can copy clothing, gait, conversation, and face, but it cannot eliminate smell. The mother notices it before the ball and recommends scented bath salts; the guests later respond when the hyena's bodily presence exceeds the polite surface.\n\nSmell is especially disruptive because it cannot be kept at a visual distance. It enters a room and reaches other bodies without permission. In the story, it becomes evidence that disciplined appearance has not transformed the creature underneath. The supposedly refined gathering is undone by a body that will not become odourless.",
+        "zh": "伪装可以复制服装、步态、谈吐与面孔，却无法消除气味。舞会之前，母亲已经闻到异样，并建议使用带香味的浴盐；进入宴席之后，当鬣狗的身体存在溢出礼貌表面，宾客也随之作出反应。\n\n气味格外具有破坏性，因为它无法被保持在视觉距离之外。它进入房间，不经允许便抵达其他身体。在小说中，气味证明经过规训的外表并没有改变下面的生物。那场自称高雅的聚会，最终被一个拒绝变得无味的身体打乱。"
+      },
+      {
+        "title": "Black Humour, Not a Moral Lesson",
+        "titleZh": "黑色幽默，而不是道德训诫",
+        "en": "Carrington narrates the impossible with a dry, practical tone. The girl and the hyena discuss murder, leftover feet, gloves, handbags, and dinner as though they were solving ordinary logistical problems. This tonal flatness prevents the story from settling into either moral instruction or pure horror.\n\nTraditional cautionary tales often discipline girls by making curiosity or disobedience lead to punishment. “The Debutante” instead directs ridicule toward the social ceremony itself. Yet its humour remains sharp enough to implicate the rebels as well as the respectable guests.",
+        "zh": "卡林顿用干燥而务实的语气叙述不可能之事。女孩与鬣狗讨论谋杀、剩下的双脚、手套、提包与晚餐，仿佛只是在解决普通的后勤问题。这种语调上的平淡，使故事既无法安稳地变成道德训诫，也无法只被归类为恐怖小说。\n\n传统警示故事常通过让好奇或不服从招致惩罚来规训女孩。《初入社交界的少女》却把嘲讽指向社交仪式本身。不过，它的幽默又足够尖锐，因此反叛者与体面宾客都无法完全置身事外。"
+      },
+      {
+        "title": "Writing Against the Muse Position",
+        "titleZh": "通过写作拒绝缪斯位置",
+        "en": "Carrington entered the Surrealist world at a time when women were often cast as muses, lovers, childlike conduits to the unconscious, or images inside men's work. Her own painting and fiction gave her another position: maker, narrator, and organiser of the strange.\n\nMoMA's account of Carrington stresses her refusal to be reduced to anyone's muse. “The Debutante” demonstrates that refusal formally. The young woman is not an enigmatic object observed by a male narrator. She controls the first-person account, arranges the substitution, and turns the social gaze back upon the society that hoped to display her.",
+        "zh": "卡林顿进入超现实主义世界时，女性常被安排为缪斯、恋人、通往无意识的孩子般媒介，或男性作品中的形象。她自己的绘画与小说则给予她另一个位置：制造者、叙述者，以及怪异世界的组织者。\n\n纽约现代艺术博物馆对卡林顿的介绍强调，她拒绝被缩减为任何人的缪斯。《初入社交界的少女》在形式上实践了这种拒绝。年轻女人不是被男性叙述者观看的神秘物体。她掌握第一人称叙事，安排替身，并把社会目光重新投向那个原本希望展示她的社会。"
+      },
+      {
+        "title": "The Hyena Across Story and Painting",
+        "titleZh": "穿行于小说与绘画之间的鬣狗",
+        "en": "Carrington painted *Self-Portrait (Inn of the Dawn Horse)* around 1937–38, the same period in which “The Debutante” was written. In the painting, Carrington extends a hand toward a lactating hyena while a white horse appears in the landscape beyond the room. The Metropolitan Museum of Art identifies the horse as one of Carrington's symbolic surrogates, while later scholarship has read the hyena and the story together as part of her challenge to fixed human, animal, and gender boundaries.\n\nThe relationship should not be reduced to a code in which one animal has one permanent meaning. Carrington repeatedly used hybrid creatures and animal surrogates, but she resisted closing their mystery with a final explanation. Story and painting are better approached as neighbouring experiments in what a female self might become.",
+        "zh": "卡林顿大约在1937至1938年间创作《自画像（黎明马客栈）》，这正是《初入社交界的少女》的写作时期。画中，卡林顿向一只哺乳期的鬣狗伸出手，房间外的风景中则出现一匹白马。大都会艺术博物馆把白马称为卡林顿的象征性替身之一，后来的研究也把画中鬣狗与小说并置，理解为她对固定人类、动物与性别边界的挑战。\n\n这种关系不应被简化成“一种动物永远代表一个意义”的密码。卡林顿反复使用混合生物与动物替身，却不愿用最终解释关闭它们的神秘。小说与绘画更适合被看作两个相邻实验：女性自我还可能变成什么？"
+      },
+      {
+        "title": "Escape Without a Clean Ending",
+        "titleZh": "没有洁净结局的逃离",
+        "en": "At the end, the hyena tears off the face, eats it, and escapes through the window. The narrator remains upstairs, reading *Gulliver's Travels*, while her furious mother reports the collapse of the performance. The ball fails, but no new social order replaces it.\n\nThis is the force of Carrington's refusal. She does not offer a programme for becoming the correct liberated woman. She contaminates the available categories instead: girl and animal, elegance and appetite, human face and bodily smell, civilisation and violence. The story opens a breach in respectable femininity without pretending that every escape is innocent.",
+        "zh": "结尾处，鬣狗扯下人脸，将它吃掉，从窗户跃出逃走。叙述者仍留在楼上阅读《格列佛游记》，由暴怒的母亲讲述表演如何崩溃。舞会失败了，却没有一套新的社会秩序取代它。\n\n这正是卡林顿式拒绝的力量。她没有提供一套“如何成为正确解放女性”的方案，而是污染所有现成类别：女孩与动物、优雅与食欲、人脸与身体气味、文明与暴力。小说在体面女性气质上打开一道裂口，同时拒绝假装每一次逃离都是无辜的。"
+      },
+      {
+        "title": "Scholarship",
+        "titleZh": "文献依据",
+        "en": "This entry uses the supplied 2017 Dorothy edition of *The Complete Stories of Leonora Carrington* as its primary text. The table of contents, “The Debutante,” Kathryn Davis's introduction, the note on publication, and the note on translations were checked directly.\n\nPublication details and the collection's scope were cross-checked with Dorothy, a publishing project. Carrington's biography and her position as artist rather than muse were checked against MoMA. The relationship between *Self-Portrait*, the hyena, and Carrington's animal imagery was checked against the Metropolitan Museum of Art and Fundación MAPFRE.\n\nThe feminist and anti-authoritarian framing draws cautiously on Eréndira Derbez's peer-reviewed study of “The Debutante,” *Down Below*, and *The Hearing Trumpet*. The reading of human-animal reciprocity and hybrid identity is informed by Karen Eckersley's research on female human-animal becomings. Janet Lyon's “Carrington's Sensorium,” in *Leonora Carrington and the International Avant-Garde*, supports attention to smell, appetite, touch, and bodily disturbance. The discussion of Mary and class is this calendar's close reading of the primary text rather than a claim attributed to all Carrington scholarship.",
+        "zh": "本篇以用户提供的2017年Dorothy版《利奥诺拉·卡林顿完整故事集》为主要文本，直接核对了目录、《初入社交界的少女》正文、Kathryn Davis导言、出版说明与翻译说明。\n\n故事集的出版信息与收录范围通过Dorothy出版社页面交叉核实；卡林顿的生平及她拒绝被缩减为“缪斯”的位置，通过纽约现代艺术博物馆资料核实；《自画像》、鬣狗与卡林顿动物意象之间的关系，则参照大都会艺术博物馆与Fundación MAPFRE的资料。\n\n本文对女性主义与反权威的理解，谨慎参考Eréndira Derbez关于《初入社交界的少女》《下方》与《听觉号角》的同行评议研究。关于人类—动物互惠关系与混合身份的讨论，参考Karen Eckersley对“女性人类动物之生成”的研究。Janet Lyon收入《利奥诺拉·卡林顿与国际先锋派》的“Carrington's Sensorium”，为本文关注气味、食欲、触觉与身体扰动提供研究背景。关于玛丽与阶级的段落属于本日历对原始文本的细读，并不被表述为所有卡林顿研究的共同结论。"
+      }
+    ],
+    "quotesTitle": "Quotation",
+    "quotesTitleZh": "引文",
+    "quotesAtEnd": true,
+    "quoteSelections": [
+      {
+        "en": "“You're my only friend, I beg you to do this for me.”",
+        "zh": "“你是我唯一的朋友，我求你替我做这件事。”",
+        "source": "Leonora Carrington, “The Debutante,” translated from French by Kathrine Talbot with Marina Warner"
+      }
+    ],
+    "quoteReadingEn": "The sentence names the emotional centre of the substitution. The narrator does not turn to another debutante, a sister, or an approved companion. She entrusts her social identity to a creature confined at the zoo. Friendship appears as recognition across the human-animal boundary.\n\nBut the request also begins a chain of unequal substitutions. The hyena takes the narrator's place, and Mary's face is then made to take the place of the hyena's face. The sentence therefore opens both an alliance and an ethical problem: intimacy can resist one hierarchy while remaining entangled in another.",
+    "quoteReadingZh": "这句话点出了替身计划的情感中心。叙述者没有向另一位初入社交界的女孩、姐妹或社会认可的同伴求助，而是把自己的社会身份交给一只被关在动物园里的生物。友谊在这里表现为跨越人类—动物边界的相互承认。\n\n但这项请求也启动了一连串不平等的替代：鬣狗代替叙述者，玛丽的脸又被迫代替鬣狗的脸。因此，这句话同时打开一场联盟与一个伦理问题：亲密关系可以抵抗一种等级，却仍可能纠缠在另一种等级之中。",
+    "relatedWorks": [
+      {
+        "title": "Self-Portrait (Inn of the Dawn Horse)",
+        "titleZh": "《自画像（黎明马客栈）》",
+        "relationEn": "Carrington's 1937–38 painting places her beside a hyena and a white horse, allowing the visual and literary forms of her animal self-fashioning to be read together.",
+        "relationZh": "卡林顿1937至1938年的画作让她与鬣狗、白马共同出现，可与小说并读，观察她如何在视觉与文学中借动物重新塑造自我。"
+      },
+      {
+        "title": "The House of Fear",
+        "titleZh": "《恐惧之屋》",
+        "relationEn": "Carrington's first published work combines English absurdist storytelling, speaking horses, and Surrealist black humour.",
+        "relationZh": "卡林顿第一部正式出版的作品，把英国荒诞叙事、会说话的马与超现实主义黑色幽默结合起来。"
+      },
+      {
+        "title": "Down Below",
+        "titleZh": "《下方》",
+        "relationEn": "Her account of psychiatric confinement makes the relation between bodily autonomy, institutional authority, and narration especially explicit.",
+        "relationZh": "卡林顿对精神病院禁闭经验的叙述，更直接地呈现身体自主、制度权威与叙事之间的关系。"
+      },
+      {
+        "title": "The Hearing Trumpet",
+        "titleZh": "《听觉号角》",
+        "relationEn": "This later novel centres an elderly woman and expands Carrington's anti-authoritarian imagination through community, metamorphosis, animals, and myth.",
+        "relationZh": "这部晚期小说以老年女性为中心，通过共同体、变形、动物与神话进一步展开卡林顿的反权威想象。"
+      },
+      {
+        "title": "Leonora Carrington and the International Avant-Garde",
+        "titleZh": "《利奥诺拉·卡林顿与国际先锋派》",
+        "relationEn": "Edited by Jonathan P. Eburne and Catriona McAra, this collection treats Carrington as a major artist and writer in her own right and includes Janet Lyon's “Carrington's Sensorium.”",
+        "relationZh": "Jonathan P. Eburne与Catriona McAra主编的研究文集，把卡林顿作为独立的重要艺术家与作家讨论，并收入Janet Lyon的“Carrington's Sensorium”。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Dorothy, The Complete Stories of Leonora Carrington",
+        "url": "https://dorothyproject.com/book/the-complete-stories/"
+      },
+      {
+        "label": "MoMA, Leonora Carrington",
+        "url": "https://www.moma.org/artists/993-leonora-carrington"
+      },
+      {
+        "label": "The Metropolitan Museum of Art, Self-Portrait",
+        "url": "https://www.metmuseum.org/art/collection/search/492697"
+      },
+      {
+        "label": "Fundación MAPFRE, Leonora Carrington: Revelation",
+        "url": "https://www.fundacionmapfre.org/en/art-and-culture/exhibitions/historical/year-2023/leonora-carrington/"
+      },
+      {
+        "label": "Eréndira Derbez, Literature as a Testimony of Authoritarianism",
+        "url": "https://doi.org/10.1080/09574042.2024.2479989"
+      },
+      {
+        "label": "Karen Eckersley, Encountering Female Human Animal Becomings",
+        "url": "https://doi.org/10.3366/edinburgh/9781474498029.003.0012"
+      },
+      {
+        "label": "Manchester University Press, Leonora Carrington and the International Avant-Garde",
+        "url": "https://manchesteruniversitypress.co.uk/9781526133199/"
+      }
+    ],
+    "tags": [
+      "Leonora Carrington",
+      "The Debutante",
+      "surrealism",
+      "hyena",
+      "femininity",
+      "class",
+      "human-animal boundary"
+    ],
+    "tagsZh": [
+      "利奥诺拉·卡林顿",
+      "初入社交界的少女",
+      "超现实主义",
+      "鬣狗",
+      "女性气质",
+      "阶级",
+      "人类与动物边界"
+    ],
+    "sourceText": "The Complete Stories of Leonora Carrington, Dorothy, a publishing project, 2017",
+    "status": "published"
+  },
+  {
+    "id": "2026-08-23-ashley-mears-very-important-people",
+    "date": "2026-08-23",
+    "type": "book",
+    "title": "Very Important People",
+    "titleZh": "《当女孩成为货币》",
+    "titleSeparator": " ",
+    "author": "Ashley Mears｜阿什莉·米尔斯",
+    "role": "Book / Ethnography / Sociology of Beauty｜著作 / 民族志 / 美貌社会学",
+    "focusTitle": "When Beauty Creates Value, Who Gets to Keep It?",
+    "focusTitleZh": "当美貌创造价值，谁获得它？",
+    "summaryEn": "Ashley Mears enters the global VIP party circuit to examine an economy in which young women's beauty helps clubs make money and men display status. The women receive access, meals, travel, friendship, and pleasure, but the value produced by their presence is usually converted into income and influence by other people.",
+    "summaryZh": "阿什莉·米尔斯进入全球VIP派对圈，考察一种由年轻女性的美貌帮助夜店获利、帮助男性展示地位的经济。女性得到入场资格、餐饮、旅行、友谊与快乐，但她们的在场所创造的价值，通常由其他人转化为收入与影响力。",
+    "introEn": "Ashley Mears's *Very Important People: Status and Beauty in the Global Party Circuit* was published by Princeton University Press in 2020. Its Chinese-language edition is titled *When Girls Become Currency*. The book follows the exclusive nightlife circuit connecting New York, Miami, the Hamptons, Cannes, and Saint-Tropez, but its subject is not celebrity gossip. It is the organised production of status.\n\nMears asks what work must happen before extravagant spending can look spontaneous, pleasurable, and socially impressive. In the VIP club, wealthy men buy highly marked-up bottles, promoters recruit groups of young women, and clubs arrange bodies, tables, music, light, and service into a visible hierarchy. Beauty is central to this process, but the people whose bodies carry that beauty do not necessarily control the value it creates.",
+    "introZh": "阿什莉·米尔斯的*Very Important People: Status and Beauty in the Global Party Circuit*由普林斯顿大学出版社于2020年出版，中文版本书名为《当女孩成为货币》。本书追踪连接纽约、迈阿密、汉普顿、戛纳与圣特罗佩的高端夜生活网络，但它研究的并不是名人八卦，而是地位如何被有组织地生产出来。\n\n米尔斯追问：奢侈消费在显得自发、快乐并令人羡慕之前，需要哪些劳动？在VIP夜店中，富裕男性购买价格被大幅抬高的酒，推广人招募成群的年轻女性，夜店则把身体、卡座、音乐、灯光与服务排列成可见的等级。美貌是这个过程的核心，但承载美貌的身体并不一定能够控制它所创造的价值。",
+    "articleSections": [
+      {
+        "title": "A Party Is Not Spontaneous",
+        "titleZh": "派对并不是自然发生的",
+        "en": "The VIP room presents itself as effortless abundance: champagne arrives with sparklers, beautiful people seem to gather naturally, and large expenditures appear to express confidence rather than calculation. Mears's central reversal is to move our attention backstage. Promoters send messages all day, negotiate transport and meals, monitor appearance, repair relationships, and make sure enough women arrive at the right table.\n\nThis labour matters because conspicuous consumption can easily look vulgar or desperate. The party must transform deliberate status-seeking into a scene of collective excitement. Wealth does not display itself. People have to stage it.",
+        "zh": "VIP空间把自己呈现成毫不费力的丰盛：香槟伴随烟火抵达，漂亮的人仿佛自然聚集，巨额消费看起来像自信，而不是精心计算。米尔斯的核心反转，是把我们的视线移到后台。推广人整天发送信息，协调交通与餐食，检查外表，修补关系，并确保足够多的女性在正确时间出现在正确卡座。\n\n这种劳动之所以重要，是因为炫耀性消费很容易显得粗俗或焦虑。派对必须把刻意追求地位转化为集体兴奋的场面。财富不会自行展示，必须有人把它表演出来。"
+      },
+      {
+        "title": "Studying Up with Bodily Capital",
+        "titleZh": "用身体资本“向上研究”",
+        "en": "The book is based on immersive ethnographic research conducted mainly between 2011 and 2013. Mears went out on more than one hundred nights in seventeen New York clubs and joined trips to Miami, the Hamptons, Cannes, and Saint-Tropez. She interviewed forty-four promoters, twenty women in the party circuit, and twenty bottle-service clients.\n\nHer access was embodied. A former fashion model, Mears could still be admitted as a “girl,” although at thirty-one or thirty-two she was older than most women at promoters' tables. She describes dressing for the role, using her appearance to enter spaces usually closed to researchers, and taking notes on her phone. This position produced unusual access, but it also made her body part of the economy she was studying.",
+        "zh": "本书主要依据2011至2013年间进行的沉浸式民族志研究。米尔斯在纽约17家夜店参与了一百多个夜晚，并跟随推广人前往迈阿密、汉普顿、戛纳与圣特罗佩。她访谈了44位推广人、20位派对圈女性，以及20位购买瓶装酒服务的顾客。\n\n她的进入方式与身体有关。作为前时装模特，米尔斯仍能以“女孩”的身份被允许入场，尽管当时31至32岁的她已经比推广人桌边的大多数女性年长。她说明自己如何为这一角色穿着，如何利用外表进入通常不向研究者开放的空间，又如何用手机记录观察。这种位置带来了罕见的研究机会，也使她的身体成为所研究经济的一部分。"
+      },
+      {
+        "title": "Models and Bottles",
+        "titleZh": "模特与酒瓶",
+        "en": "The phrase “models and bottles” condenses the club's visual economy. Expensive bottles show that a man can spend; groups of conventionally attractive women show that he can command desirable company. Together they make the table look important.\n\nThe women are not necessarily hired to have sex with clients, and reducing their presence to sexual availability would misrepresent Mears's findings. Their central task is aesthetic and social: to be visible, to dance, to create atmosphere, to make male gatherings look desirable, and to help powerful men feel that they belong among other powerful men.",
+        "zh": "“模特与酒瓶”这组说法浓缩了夜店的视觉经济。昂贵酒瓶证明一个男人有能力消费；一群符合主流审美的年轻女性，则显示他能够聚集令人向往的陪伴。两者共同让卡座看起来“重要”。\n\n这些女性并不必然受雇与顾客发生性关系，把她们的在场简化成性可得性，会误读米尔斯的研究。她们的核心作用是审美与社会性的：被看见、跳舞、制造气氛，让男性聚会显得令人羡慕，并帮助有权势的男人在其他有权势的男人之间确认归属。"
+      },
+      {
+        "title": "From Bodily Capital to Girl Capital",
+        "titleZh": "从身体资本到“女孩资本”",
+        "en": "Mears distinguishes between bodily capital and what she calls “girl capital.” Youth, height, thinness, beauty, styling, and bodily presentation can give an individual woman access to exclusive spaces. Yet once groups of women are assembled around a promoter or client, their beauty becomes a resource that men can convert into commissions, invitations, business ties, and status.\n\nThis is the book's sharpest account of appropriation. The asset appears to belong to the woman because it is located in her body, but its most profitable conversions are controlled by clubs, promoters, and wealthy men. Beauty creates access for women while creating accumulation for others.",
+        "zh": "米尔斯区分“身体资本”与她所说的“女孩资本”。年轻、身高、纤细、美貌、造型与身体呈现，可以让一位女性进入排他的空间；但当一群女性被组织在推广人或顾客周围时，她们的美貌就成为一种资源，男性可以把它转化为佣金、邀请、商业关系与地位。\n\n这是本书对“占有”最尖锐的分析。资产看起来属于女性，因为它位于她的身体之上；但最能产生利润的转换，却由夜店、推广人和富裕男性控制。美貌为女性带来进入资格，同时为其他人带来积累。"
+      },
+      {
+        "title": "Free Things Are Not Free",
+        "titleZh": "免费的东西并不免费",
+        "en": "Women in the circuit often receive dinner, drinks, admission, transport, holidays, or accommodation rather than wages. These benefits are real. For young women living precariously in expensive cities, a meal, a night out, friendship, travel, and access to unusual experiences can be meaningful compensation.\n\nBut calling the arrangement “free” hides the work women perform with their time, appearance, sociability, emotional attention, and physical endurance. The absence of a wage does not mean that no value has changed hands. It means that the exchange has been organised so that women's contribution appears as leisure.",
+        "zh": "派对圈中的女性通常得到晚餐、酒水、入场资格、交通、假期或住宿，而不是工资。这些好处是真实的。对生活在昂贵城市、工作不稳定的年轻女性来说，一顿饭、一个夜晚、友谊、旅行与罕见体验，都可能构成有意义的回报。\n\n但是，把这种安排称为“免费”，会遮蔽女性通过时间、外表、社交能力、情感注意与身体耐力完成的工作。没有工资并不意味着没有价值发生交换，而是意味着交换被组织成让女性的贡献看起来像休闲。"
+      },
+      {
+        "title": "Friendship as Relational Infrastructure",
+        "titleZh": "友谊作为关系基础设施",
+        "en": "Promoters cannot reliably mobilise women through orders alone. They build relationships through meals, messages, favours, flirtation, shared travel, care, and the language of friendship. Mears calls this relational work: the ongoing effort to match a relationship, its meaning, and its form of exchange.\n\nThe point is not that every friendship is fake. Promoters and women can genuinely care for one another, enjoy the same nights, and still occupy a structurally unequal exchange. The ambiguity is precisely what makes the system durable. Exploitation does not always feel like coercion; it can be pleasurable, affectionate, and mutually meaningful while benefits remain unequally distributed.",
+        "zh": "推广人无法只靠命令稳定地动员女性。他们通过餐食、信息、帮助、调情、共同旅行、照顾与“朋友”的语言建立关系。米尔斯把这种持续协调关系、关系意义与交换形式的努力称作“关系工作”。\n\n重点并不是所有友谊都是假的。推广人与女性可能真诚关心彼此、享受同一个夜晚，同时仍处于结构不平等的交换中。正是这种模糊性让体系能够持续。剥削并不总像强迫；它可以是快乐的、亲密的、对双方都有意义的，而利益仍然分配不均。"
+      },
+      {
+        "title": "Agency Is Not the Same as Equal Power",
+        "titleZh": "能动性并不等于权力平等",
+        "en": "Mears does not describe women as passive objects without judgment. They accept invitations for practical, relational, and sensual reasons. They seek meals, contacts, friendship, travel, excitement, validation, and the collective energy of the party. They can refuse unwanted advances, leave boring tables, change promoters, or stop participating.\n\nAcknowledging these choices does not erase exploitation. Agency answers whether a person can act; power asks who sets the terms, who can convert value, and who bears the long-term costs. Women can make meaningful choices inside an arrangement whose most profitable positions remain controlled by men.",
+        "zh": "米尔斯没有把女性写成毫无判断的被动客体。她们出于实际、关系与感官层面的原因接受邀请：餐食、人脉、友谊、旅行、兴奋、被认可的感觉，以及派对中的集体能量。她们可以拒绝不想要的身体接触，离开无聊的卡座，更换推广人，或停止参与。\n\n承认这些选择并不会取消剥削。能动性回答一个人是否能够行动；权力则追问谁设定条件、谁能够转换价值，以及谁承担长期代价。女性可以在一种安排中作出真实选择，而最有利润的位置仍然由男性控制。"
+      },
+      {
+        "title": "The Double Standard of Strategic Beauty",
+        "titleZh": "经营美貌的双重标准",
+        "en": "The party depends on women using their appearance, yet it punishes women who appear too deliberate about doing so. A woman who accepts free access can be welcomed as a beautiful guest; a woman who asks directly for money or gifts risks being called a user, schemer, or sex worker.\n\nThis moral boundary protects other people's ability to profit from beauty while limiting women's ability to claim a share. Beauty is celebrated when it supports the club and men's status, then treated as shameful when a woman openly names its economic value.",
+        "zh": "派对依赖女性使用外表，却会惩罚那些显得过于主动经营外表的女性。接受免费入场的女性可以作为漂亮宾客受到欢迎；直接要求金钱或礼物的女性，却可能被称作利用者、算计者或性工作者。\n\n这条道德边界保护了其他人从美貌获利的能力，同时限制女性要求分享收益。美貌在帮助夜店与男性获得地位时受到赞美；当女性公开说出它的经济价值时，又被视为可耻。"
+      },
+      {
+        "title": "Youth, Whiteness, and the Velvet Rope",
+        "titleZh": "年轻、白性与丝绒绳",
+        "en": "The club does not value every kind of beauty equally. Promoters and door staff rank women through age, height, thinness, clothes, race, and proximity to the fashion-model look. Mears uses the phrase “velvet rope racism” for exclusion expressed through apparently aesthetic terms such as beauty, quality, or the right look.\n\nThe system needs a renewable supply of young women. Individual bodily capital depreciates as women age, while promoters and clients can continually recruit newcomers. Whiteness is treated as the default high-status aesthetic, with limited and stereotyped exceptions for women and men of colour. The door therefore does not merely recognise beauty; it actively produces a racialised and age-bound definition of it.",
+        "zh": "夜店并不平等地评价所有美。推广人与门卫通过年龄、身高、纤细程度、服装、种族，以及是否接近时装模特外形来排列女性。米尔斯用“丝绒绳种族主义”描述一种借助“美”“品质”或“正确外形”等看似审美的词汇实施的排除。\n\n这个体系需要可以不断更新的年轻女性供给。女性个人的身体资本会随年龄贬值，而推广人与顾客能够持续招募新人。白性被当作高地位审美的默认标准，有色人种女性与男性则只在有限且刻板化的条件下成为例外。因此，夜店门口并不只是识别美，它也主动生产一种被种族化、被年龄限定的美。"
+      },
+      {
+        "title": "Promoters Are Brokers, Not Elites",
+        "titleZh": "推广人是掮客，而不是精英",
+        "en": "Promoters occupy a contradictory position. Many are immigrant or working-class men, and many are racially marginal within the mostly white elite spaces they serve. Their networks of women give them commissions and proximity to wealthy clients. They imagine this social capital may lead to investments, businesses, and eventual membership in the elite.\n\nMears finds that proximity rarely closes the distance. Promoters help wealthy men meet one another and appear important, but their own ties are marked as service relationships. Like the women they recruit, they are necessary to the party while remaining replaceable and outside full elite membership.",
+        "zh": "推广人处在矛盾位置。许多人是移民或工人阶级男性，在自己服务的、以白人为主的精英空间里也受到种族边缘化。他们掌握的女性网络带来佣金与接近富裕顾客的机会，并让他们想象这些社会资本最终能够变成投资、事业与精英成员资格。\n\n米尔斯发现，身体上的接近很少真正消除社会距离。推广人帮助富裕男性彼此相识并显得重要，但他们自己的关系仍被标记为服务关系。和他们招募的女性一样，推广人是派对不可缺少的组成部分，却仍然可以被替换，也无法获得完整的精英成员资格。"
+      },
+      {
+        "title": "The Labour of Conspicuous Leisure",
+        "titleZh": "炫耀性休闲背后的劳动",
+        "en": "The book connects VIP nightlife to older theories of conspicuous consumption and ritualised waste. A spectacular bottle order is not important because the liquid is useful. Its destruction becomes a public measure of spending power, especially when music, sparklers, women, staff, and competing tables turn the purchase into a collective event.\n\nMears therefore asks us to read leisure as organised social action. The men at the centre appear free precisely because other people coordinate the conditions of their freedom. What looks like effortless prestige rests on aesthetic labour, emotional labour, service work, brokerage, and exclusion.",
+        "zh": "本书把VIP夜生活与有关炫耀性消费及仪式化浪费的早期理论联系起来。一笔惊人的酒水订单之所以重要，并不是因为液体有多实用；当音乐、烟火、女性、工作人员与竞争中的卡座把购买变成集体事件时，酒的浪费就成为消费能力的公开尺度。\n\n因此，米尔斯要求我们把休闲理解成一种有组织的社会行动。中心位置的男性之所以显得自由，正是因为其他人协调了他们获得这种自由的条件。看似毫不费力的声望，建立在审美劳动、情感劳动、服务工作、关系中介与社会排除之上。"
+      },
+      {
+        "title": "Scholarship",
+        "titleZh": "文献依据",
+        "en": "This entry uses the supplied 2020 Princeton University Press EPUB as its primary text. The prologue, all seven chapters, research appendix, notes, and references were checked directly. The fieldwork dates, locations, sample sizes, and descriptions of participant observation come from Mears's own research appendix.\n\nPublication information and the book's scope were cross-checked with Princeton's JSTOR edition, Boston University, and Mears's University of Amsterdam profile. The concepts of relational work and unpaid labour were checked against Mears's peer-reviewed article “Working for Free in the VIP” in *American Sociological Review*. The concept of girl capital was checked against “Girls as Elite Distinction” in *Poetics*.\n\nPublished reviews in *The Sociological Review*, *American Journal of Sociology*, and *New Sociological Perspectives* were used to check the book's reception and its limits. In particular, this entry does not claim that women have no agency, that all party relationships are false, or that the women described are sex workers. Those stronger statements would contradict the care with which Mears distinguishes pleasure, consent, labour, intimacy, and structural inequality.",
+        "zh": "本篇以用户提供的2020年普林斯顿大学出版社EPUB为主要文本，直接核对了序言、七章正文、研究附录、注释与参考文献。田野时间、地点、样本数量与参与式观察方式均来自米尔斯自己的研究附录。\n\n出版信息与全书范围通过普林斯顿大学出版社的JSTOR版本、波士顿大学资料及米尔斯在阿姆斯特丹大学的个人页面交叉核实。“关系工作”与无偿劳动的概念，参照米尔斯发表于*American Sociological Review*的同行评议论文“Working for Free in the VIP”；“女孩资本”则参照发表于*Poetics*的“Girls as Elite Distinction”。\n\n本文也使用*The Sociological Review*、*American Journal of Sociology*与*New Sociological Perspectives*的书评核对本书的学术反响与解释边界。尤其需要说明：本文没有声称女性毫无能动性、所有派对关系都是虚假的，也没有把书中的女性等同于性工作者。这些更强的说法会违背米尔斯对快乐、同意、劳动、亲密与结构不平等所作的谨慎区分。"
+      }
+    ],
+    "quotesTitle": "Quotation",
+    "quotesTitleZh": "引文",
+    "quotesAtEnd": true,
+    "quoteSelections": [
+      {
+        "en": "“It takes an incredible amount of labor to enable conspicuous leisure.”",
+        "zh": "“要让炫耀性休闲得以发生，需要数量惊人的劳动。”",
+        "source": "Ashley Mears, Very Important People, Prologue"
+      }
+    ],
+    "quoteReadingEn": "The sentence reverses the usual direction of attention. Spectators are invited to look at the person spending money, the oversized bottle, or the glamorous table. Mears asks us to look instead at the people who recruited the guests, produced the atmosphere, maintained the relationships, carried the bottles, enforced the door, and made expenditure feel meaningful.\n\nThe phrase “enable conspicuous leisure” is especially precise. Leisure is not simply time free from work. In this setting it is an achievement produced through other people's work. The ease of the few depends on the coordination, visibility, and replaceability of many others.",
+    "quoteReadingZh": "这句话反转了通常的观看方向。观众会被引导去看花钱的人、巨大的酒瓶或光鲜的卡座；米尔斯却要求我们转向那些招募宾客、生产气氛、维护关系、搬运酒瓶、执行入场标准，并让消费显得有意义的人。\n\n“让炫耀性休闲得以发生”这一表述尤其准确。这里的休闲并不只是没有工作的时间，而是一种由其他人的工作生产出来的成就。少数人的轻松，依赖许多人的协调、可见性与可替换性。",
+    "relatedWorks": [
+      {
+        "title": "Pricing Beauty: The Making of a Fashion Model",
+        "titleZh": "《美丽的标价》",
+        "relationEn": "Mears's first book examines how fashion markets collectively produce and price a model's look rather than merely discovering natural beauty.",
+        "relationZh": "米尔斯的第一本书研究时尚市场如何集体生产并标价模特外形，而不是简单发现所谓天然美貌。"
+      },
+      {
+        "title": "Working for Free in the VIP",
+        "titleZh": "《在VIP派对中无偿工作》",
+        "relationEn": "This peer-reviewed article develops the analysis of relational work, unpaid women's labour, and the production of consent that later appears in the book.",
+        "relationZh": "这篇同行评议论文集中发展了关系工作、女性无偿劳动与同意如何被生产的分析，相关论证后来进入本书。"
+      },
+      {
+        "title": "Girls as Elite Distinction: The Appropriation of Bodily Capital",
+        "titleZh": "《作为精英区分的女孩：身体资本的占有》",
+        "relationEn": "Mears explains how men appropriate women's bodily capital as girl capital and convert it into symbolic, social, and economic advantages.",
+        "relationZh": "米尔斯在文中解释男性如何把女性的身体资本占有为“女孩资本”，再转化成象征、社会与经济优势。"
+      },
+      {
+        "title": "The Managed Heart",
+        "titleZh": "《心灵的整饰》",
+        "relationEn": "Arlie Russell Hochschild's study of emotional labour offers a broader framework for recognising the commercial value of feeling, sociability, and managed presentation.",
+        "relationZh": "阿莉·拉塞尔·霍克希尔德对情感劳动的研究，为理解感受、社交能力与经过管理的自我呈现如何具有商业价值提供更广阔的框架。"
+      },
+      {
+        "title": "The Theory of the Leisure Class",
+        "titleZh": "《有闲阶级论》",
+        "relationEn": "Thorstein Veblen's account of conspicuous consumption is an explicit theoretical predecessor for Mears's analysis of status display and gendered leisure.",
+        "relationZh": "凡勃伦对炫耀性消费的研究，是米尔斯分析地位展示与性别化休闲时明确使用的理论前史。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "JSTOR, Very Important People",
+        "url": "https://www.jstor.org/stable/j.ctvsn3mnv"
+      },
+      {
+        "label": "University of Amsterdam, Ashley Mears",
+        "url": "https://www.uva.nl/profiel/m/e/a.e.mears/a.e.mears.html"
+      },
+      {
+        "label": "Boston University, Very Important People",
+        "url": "https://www.bu.edu/articles/2020/ashley-mears-book-very-important-people/"
+      },
+      {
+        "label": "Ashley Mears, Working for Free in the VIP, American Sociological Review",
+        "url": "https://doi.org/10.1177/0003122415609730"
+      },
+      {
+        "label": "Ashley Mears, Girls as Elite Distinction, Poetics",
+        "url": "https://doi.org/10.1016/j.poetic.2015.08.004"
+      },
+      {
+        "label": "Eileen Otis, review in American Journal of Sociology",
+        "url": "https://doi.org/10.1086/716589"
+      },
+      {
+        "label": "Sam Pryke, review in The Sociological Review",
+        "url": "https://thesociologicalreview.org/reviews/very-important-people-by-ashley-mears/"
+      },
+      {
+        "label": "Chinese edition, When Girls Become Currency",
+        "url": "https://www.books.com.tw/products/0010903633"
+      }
+    ],
+    "tags": [
+      "Ashley Mears",
+      "beauty",
+      "girl capital",
+      "unpaid labour",
+      "status",
+      "elite nightlife",
+      "relational work"
+    ],
+    "tagsZh": [
+      "阿什莉·米尔斯",
+      "美貌",
+      "女孩资本",
+      "无偿劳动",
+      "地位",
+      "精英夜生活",
+      "关系工作"
+    ],
+    "sourceText": "Ashley Mears, Very Important People: Status and Beauty in the Global Party Circuit, Princeton University Press, 2020",
+    "status": "published"
+  },
+  {
+    "id": "2026-08-24-kaila-yu-fetishized",
+    "date": "2026-08-24",
+    "type": "book",
+    "title": "Fetishized",
+    "titleZh": "《被恋物化：重新审视“黄热病”、女性主义与美（暂译）》",
+    "titleSeparator": " ",
+    "author": "Kaila Yu",
+    "role": "Memoir-in-Essays / Cultural Criticism｜回忆录式随笔 / 文化批评",
+    "focusTitle": "Asian Women Are Still Fetishized",
+    "focusTitleZh": "依然被恋物化的亚裔女性",
+    "summaryEn": "Kaila Yu examines how Asian women can be intensely desired yet not fully seen. Moving between memoir and cultural criticism, she traces how colonial history, popular media, beauty standards, and the search for validation taught her to perform the very fantasy that reduced her to a type.",
+    "summaryZh": "Kaila Yu讨论亚裔女性如何可能被强烈欲望，却没有被完整看见。她在回忆与文化批评之间移动，追踪殖民历史、流行媒体、美貌标准与对认可的渴望，如何教会她表演一种最终把自己压缩成类型的幻想。",
+    "introEn": "Kaila Yu's *Fetishized: A Reckoning with Yellow Fever, Feminism, and Beauty* was published by Crown in 2025. The publisher describes it as a memoir-in-essays, and that form matters. Yu does not offer a detached sociology of every Asian woman's experience. She places episodes from her own life beside media criticism, historical research, interviews, journals, and conversations to ask how a racial fantasy can enter a person's understanding of beauty, power, and self-worth.\n\nKaila Yu formerly worked as a pinup and import model and was also the lead singer of the all-Asian American female rock band Nylon Pink. In the book, she revisits the limited images of Asian women available to her in the 1990s and early 2000s: geisha, China doll, dragon lady, schoolgirl, sex worker, exotic beauty. These figures seemed to offer visibility, but only on the condition that an Asian woman become legible as someone else's fantasy.",
+    "introZh": "Kaila Yu的 *Fetishized: A Reckoning with Yellow Fever, Feminism, and Beauty* 于2025年由Crown出版。出版社把它定义为一部“回忆录式随笔”，这种体裁很重要。Kaila Yu并不是从外部为所有亚裔女性提供一套社会学结论，而是把自己的生命片段与媒体批评、历史研究、访谈、日记和谈话并置，追问一种种族化幻想如何进入个人对美貌、权力与自我价值的理解。\n\nKaila Yu曾从事海报模特与改装车模特工作，也担任全亚裔美国女性摇滚乐队Nylon Pink的主唱。书中，她重新审视自己在1990年代与2000年代初接触到的有限亚裔女性形象：艺伎、瓷娃娃、龙女、女学生、性工作者与“异域美人”。这些形象似乎提供了可见性，但条件是亚裔女性必须作为他人的幻想才变得可以辨认。",
+    "articleSections": [
+      {
+        "title": "A Memoir, Not a Universal Formula",
+        "titleZh": "一部回忆录，而不是普遍公式",
+        "en": "In her author's note, Yu states that the nonfiction book is based on memory, interviews, journals, and conversations. Most names and identifying details have been changed to protect privacy, and she acknowledges that trauma shaped her point of view. This disclosure gives the book an ethical frame: remembered experience is presented as testimony, not as an all-seeing record.\n\nThat distinction is essential. Yu's life is unusually public and in some respects extreme. Her experiences cannot stand in for every Asian or Asian American woman. Their value lies in showing, from inside one life, how a cultural script can become a set of choices, rewards, injuries, and habits.",
+        "zh": "Kaila Yu在作者说明中写明，这部非虚构作品依据记忆、访谈、日记与谈话写成。为保护隐私，多数姓名及身份细节经过修改；她也承认创伤影响了自己的观看方式。这项说明为全书建立了伦理边界：被回忆的经验是一种见证，而不是无所不知的记录。\n\n这个区别至关重要。Kaila Yu的人生高度公开，在某些方面也十分极端，不能代表所有亚裔或亚裔美国女性。它的价值在于从一个人的生命内部展示：文化脚本如何变成具体选择、回报、伤害与习惯。"
+      },
+      {
+        "title": "Desire Is Not the Same as Recognition",
+        "titleZh": "被欲望并不等于被承认",
+        "en": "The book's use of “yellow fever” does not mean that every interracial relationship or every attraction to an Asian person is a fetish. The problem begins when racial category replaces encounter: an Asian woman is presumed to be submissive, sexually available, youthful, grateful, or interchangeable before she has been known as an individual.\n\nA fetish can therefore look positive on the surface. It may arrive as praise, preference, or admiration. Yet the apparent compliment is directed toward a type rather than a person. To be desired because someone imagines they already know what “Asian women” are is to be made visible and erased at the same time.",
+        "zh": "书中使用“黄热病”一词，并不意味着每一段跨种族关系，或每一次对亚裔个体的吸引，都是恋物化。问题开始于种族类别取代真实相遇之时：一个亚裔女性还没有作为个人被认识，就已经被假定为顺从、性开放、年轻、感恩或可以相互替换。\n\n因此，恋物化在表面上可能显得积极。它可以以赞美、偏好或欣赏的形式出现，但这种看似赞美的话指向的是一种类型，而不是一个具体的人。因为有人自以为已经知道“亚裔女性是什么”而被欲望，意味着一个人同时被看见又被抹除。"
+      },
+      {
+        "title": "The Archive of Available Women",
+        "titleZh": "“随时可得的女人”图像档案",
+        "en": "Yu reads popular culture as an archive that repeatedly attaches Asian femininity to availability. She examines the geisha imagined by Western fiction, the sacrificial Butterfly, the obedient China doll, the dangerous dragon lady, the hypersexual schoolgirl, the import model, and the silent decorative companion. These figures are not identical, but they share a refusal of ordinary complexity.\n\nThe submissive woman and the seductive woman may seem opposite. In the fantasy, however, both are organised around someone else's access to her body. One promises obedience; the other promises excitement. Neither needs a private interior life that could interrupt the viewer's desire.",
+        "zh": "Kaila Yu把流行文化读作一座不断把亚裔女性气质与“可得性”连接起来的图像档案。她讨论西方小说想象的艺伎、自我牺牲的“蝴蝶”、顺从的瓷娃娃、危险的龙女、被过度性化的女学生、改装车模特与沉默的装饰性伴侣。这些形象并不完全相同，却共同拒绝女性拥有普通而复杂的人格。\n\n顺从的女人与诱惑性的女人似乎彼此相反，但在幻想中，两者都围绕他人能否接近她的身体而组织。前者承诺服从，后者承诺刺激；两者都不需要一个可能打断观看者欲望的私人内在世界。"
+      },
+      {
+        "title": "Visibility with Conditions",
+        "titleZh": "附带条件的可见性",
+        "en": "As a young woman searching for images that resembled her, Yu found very few Asian American women presented as ordinary protagonists, artists, or complicated adults. Sexualised visibility could therefore feel better than invisibility. Pinup and import modelling offered attention, income, public recognition, and a recognisable place in a media landscape that otherwise provided few roles.\n\nThe trap is not that visibility has no value. It is that the available visibility comes with instructions. To be noticed, Yu felt pressure to become more legible to the white male gaze: more exotic, more sexually confident, more physically modified, and less connected to the shy bookish self she describes beneath the performance.",
+        "zh": "年轻时，Kaila Yu很少看到与自己相似的亚裔美国女性被表现为普通主人公、艺术家或复杂的成年人。与完全不可见相比，被性化的可见性因此可能显得更好。海报与改装车模特工作带来了注意、收入、公共认可，也让她在一个几乎没有其他角色的媒体环境中获得可辨认的位置。\n\n陷阱并不在于可见性毫无价值，而在于这种可见性附带说明书。为了被注意，Kaila Yu感到自己必须变得更符合白人男性凝视：更“异域”、更具性自信、更多地改造身体，也更远离她所描述的、表演之下那个害羞而爱读书的自我。"
+      },
+      {
+        "title": "Agency Inside a Narrow Choice",
+        "titleZh": "狭窄选择中的能动性",
+        "en": "One of the book's most difficult strengths is Yu's willingness to discuss complicity without denying coercive conditions. She says that she made decisions, pursued modelling, altered her appearance, and sometimes used fetishising attention when it benefited her. She does not present herself only as someone to whom things happened.\n\nBut agency is not the same as freedom from structure. A person can choose among options whose value has already been organised by racism, sexism, economic need, trauma, and a restricted media imagination. Naming her choices should deepen the analysis of power, not become a way to blame a young woman for the culture that taught her which choices would be rewarded.",
+        "zh": "这本书最困难也最有力量的部分之一，是Kaila Yu愿意讨论自身参与，而不否认限制选择的环境。她承认自己作出过决定，主动追求模特事业，改变外貌，也曾在恋物化关注对自己有利时利用它。她没有把自己只写成一个被动承受事件的人。\n\n但能动性并不等于摆脱结构的自由。一个人可以在若干选项中作出选择，而这些选项的价值早已被种族主义、性别歧视、经济需要、创伤与贫乏的媒体想象组织起来。说出她的选择，应当让权力分析更深入，而不是让人反过来责怪一个年轻女性接受了文化已经教她会得到回报的道路。"
+      },
+      {
+        "title": "Beauty as Discipline",
+        "titleZh": "美貌作为规训",
+        "en": "Yu connects racial fetishisation to beauty work: eyelid surgery, breast augmentation, styling, posing, dieting, comparison, and constant monitoring of the body. These practices are not treated as proof that every cosmetic choice is false or anti-feminist. The memoir asks a more intimate question: what desires were being served, and did the changed body feel more like the self or more like a marketable object?\n\nThe answer shifts across time. Beauty can offer pleasure, craft, money, and self-invention. It can also become discipline when the body is treated as a defective instrument requiring endless correction. Yu's reckoning is not with beauty itself, but with a system in which beauty becomes the price of being granted attention.",
+        "zh": "Kaila Yu把种族恋物化与美貌劳动联系起来：双眼皮手术、隆胸、造型、摆姿势、节食、比较，以及对身体不间断的监控。她并没有把这些实践写成“所有美容选择都是虚假或反女性主义”的证据，而是提出一个更私密的问题：这些改变服务于谁的欲望？改变后的身体更像自我，还是更像可以出售的物体？\n\n答案会随时间改变。美可以带来快乐、技艺、收入与自我创造；当身体被当作一件有缺陷、必须无止境修正的工具时，美也会成为规训。Kaila Yu所清算的不是美本身，而是一个把美貌变成获得注意之入场费的体系。"
+      },
+      {
+        "title": "Media Does Not Merely Reflect Desire",
+        "titleZh": "媒体并不只是反映欲望",
+        "en": "The memoir moves through *Memoirs of a Geisha*, *Madama Butterfly*, *Full Metal Jacket*, *Austin Powers*, Playboy imagery, import-car culture, music videos, pornography, and the limited celebrity field represented by Lucy Liu and Sung-Hi Lee. Yu's point is not that one film or model single-handedly creates a fetish. Repetition builds a grammar.\n\nMedia teaches audiences what kinds of Asian women are imaginable and teaches women which performances will be recognised. When the same traits recur across genres, stereotype begins to look like description. Representation matters not because every image must be exemplary, but because a wider field allows no single figure to carry the burden of defining an entire group.",
+        "zh": "这部回忆录穿过《艺伎回忆录》《蝴蝶夫人》《全金属外壳》《王牌大贱谍》、Playboy图像、改装车文化、音乐录影带、色情媒体，以及由刘玉玲与Sung-Hi Lee等少数名人构成的有限亚裔女性可见空间。Kaila Yu并不是说某一部电影或某一位模特单独制造了恋物癖，而是指出重复会建立一种语法。\n\n媒体既教观众什么样的亚裔女性是可以想象的，也教女性什么样的表演会得到承认。当相同特征跨越不同类型反复出现，刻板印象便开始伪装成客观描述。再现之所以重要，不是因为每个形象都必须成为榜样，而是因为只有更广阔的形象场域，才不会让某一个角色承担定义整个群体的重担。"
+      },
+      {
+        "title": "Colonialism, War, and Sexual Availability",
+        "titleZh": "殖民、战争与性可得性",
+        "en": "Yu places contemporary “yellow fever” within a longer history of Orientalism, Western imperialism, military occupation, migration, and commercial sex around war. This history matters because the fantasy of the compliant and available Asian woman did not emerge from private taste alone. It was shaped through unequal encounters in which Western men possessed military, economic, and narrative power.\n\nThe book's historical account is synthetic rather than archival scholarship of its own. Its claims are supported by the scholars Yu lists for further reading, including Celine Parreñas Shimizu on racial hypersexuality and Sunny Woan on white sexual imperialism. The calendar therefore treats this section as Yu's researched cultural framework, not as a substitute for those specialist histories.",
+        "zh": "Kaila Yu把当代“黄热病”放进一段更长的东方主义、西方帝国主义、军事占领、迁移，以及战争周边商业性产业的历史中。这段历史之所以重要，是因为“顺从且随时可得的亚裔女性”幻想并不是仅从私人品味中自然产生的。它形成于一系列不平等相遇之中，西方男性在其中拥有军事、经济与叙事权力。\n\n本书的历史论述是一种综合性文化叙述，而不是作者自己完成的档案史研究。Kaila Yu列出的延伸文献为这些论述提供支撑，包括Celine Parreñas Shimizu关于种族化过度性化的研究，以及Sunny Woan关于白人性帝国主义的论文。因此，本日历把这一部分视为Kaila Yu经过研究形成的文化框架，而不是对专业历史研究的替代。"
+      },
+      {
+        "title": "A Reckoning after Atlanta",
+        "titleZh": "亚特兰大枪击之后的清算",
+        "en": "Yu identifies the March 16, 2021 Atlanta-area spa shootings as a turning point. Eight people were killed, six of them women of Asian descent. The gunman described the businesses as a sexual “temptation,” while public debate exposed how quickly Asian women working in spas could be presumed sexual, interchangeable, and responsible for male desire.\n\nThe memoir connects this event to Yu's own history of objectification and to a wider climate of anti-Asian violence. That is Yu's interpretation, shared by a substantial body of feminist and sociological commentary, but the calendar does not present every disputed question about the shooter's motive as legally settled. What is beyond dispute is the convergence of gender, race, sexualisation, and lethal violence that made the event resonate so deeply for Asian American women.",
+        "zh": "Kaila Yu把2021年3月16日发生在亚特兰大地区的水疗中心枪击案视为转折点。八人遇害，其中六人为亚裔女性。枪手把这些场所描述成一种性“诱惑”；随后展开的公共争论，则暴露出人们如何迅速假定在水疗中心工作的亚裔女性必然与性有关、彼此可以替换，并应当为男性欲望负责。\n\n回忆录把这一事件与Kaila Yu自己的物化经历，以及更广泛的反亚裔暴力环境连接起来。这是Kaila Yu的解释，也得到大量女性主义与社会学评论的呼应；但本日历不会把围绕枪手动机的所有争议都写成已经获得法律定论。无可争议的是，性别、种族、性化与致命暴力在这一事件中汇合，也因此在亚裔美国女性中引发如此深刻的共鸣。"
+      },
+      {
+        "title": "Reclaiming a Body from Performance",
+        "titleZh": "从表演中收回身体",
+        "en": "The final chapter, “Deep,” shifts from displaying the body to inhabiting it. Yu writes about therapy, sobriety, meditation, self-compassion, and freediving. At first she approaches freediving through another performance logic: achieve a measurable depth, master the body, become exceptional. She then recognises the old pattern of treating her body as an instrument.\n\nLetting go of competition changes the meaning of the water. The body is no longer valuable because it can be watched, corrected, or made to produce an image. It becomes a living sensorium capable of pressure, breath, fear, pleasure, limitation, and connection. Recovery is presented not as a perfect escape from culture, but as an ongoing practice of being present in a body once treated as an object.",
+        "zh": "最后一章“Deep”把重心从展示身体转向居住在身体之中。Kaila Yu写到治疗、戒瘾、冥想、自我关怀与自由潜水。起初，她仍然用另一种表演逻辑接近自由潜水：达到可以测量的深度、控制身体、成为出众的人。随后她认出那个旧模式——再次把身体当作达成结果的工具。\n\n放下竞争改变了水的意义。身体不再因为可以被观看、修正或生产图像而有价值，而成为一个能够感受压力、呼吸、恐惧、快乐、边界与连接的生命。恢复没有被写成对文化影响的完美逃离，而是一种持续练习：重新活在一个曾经被当作物体的身体里。"
+      },
+      {
+        "title": "What This Book Can and Cannot Claim",
+        "titleZh": "这本书能够与不能声称什么",
+        "en": "*Fetishized* offers first-person knowledge of how a racialised beauty script can be internalised and performed. It is especially strong when Yu allows contradiction to remain visible: attention felt like power and also caused harm; sexuality could be chosen and still shaped by external pressure; she was acted upon and also acted within the system.\n\nThe book cannot determine another person's desire from the outside, represent every Asian woman's history, or prove that all sexual self-presentation is inauthentic. Its contribution is more precise. It shows why desire must remain answerable to personhood. Attraction becomes dehumanising when category outranks curiosity and when the desired person is permitted no complexity beyond the fantasy assigned to her.",
+        "zh": "《被恋物化》提供了一种第一人称知识：种族化的美貌脚本如何被一个人内化并亲自表演。全书最有力量之处，在于Kaila Yu让矛盾保持可见：注意曾像权力，也造成伤害；性表达可以出于选择，同时受到外部压力塑造；她既承受体系的作用，也在体系内部采取行动。\n\n这本书无法从外部判定另一个人的欲望，不能代表所有亚裔女性的历史，也不能证明所有性化自我呈现都不真实。它的贡献更加精确：欲望必须对人格负责。当类别的重要性超过对具体个人的好奇，当被欲望的人不被允许拥有幻想之外的复杂性时，吸引便转化为去人化。"
+      },
+      {
+        "title": "Scholarship",
+        "titleZh": "文献依据",
+        "en": "This entry uses the supplied Crown EPUB as its primary source. The author's note, introduction, sixteen named sections, source list, and author biography were checked directly. Publication date, format, length, ISBN, and professional biography were cross-checked with Penguin Random House Library Marketing and Google Books.\n\nYu's interpretation was checked against her extended Relationscapes interview and contemporary reviews in *Kirkus Reviews* and *Publishers Weekly*. For the broader conceptual boundary between preference and racial fetish, this entry consulted Robin Zheng's peer-reviewed article “Why Yellow Fever Isn't Flattering.” Historical framing was checked against sources Yu herself lists, especially Celine Parreñas Shimizu's *The Hypersexuality of Race* and Sunny Woan's “White Sexual Imperialism.”\n\nThe descriptions of Yu's trauma and recovery are paraphrased with restraint. No graphic details have been added. Claims based on her memory remain attributed to the memoir, and contested interpretations of the Atlanta shootings are identified as interpretations rather than undisputed legal findings.",
+        "zh": "本篇以用户提供的Crown版EPUB为主要资料，直接核对了作者说明、导言、十六个命名章节、资料书目与作者简介。出版日期、体裁、篇幅、ISBN及职业经历，则通过Penguin Random House Library Marketing与Google Books交叉核实。\n\n本文也参照了Kaila Yu在Relationscapes中的长篇访谈，以及*Kirkus Reviews*与*Publishers Weekly*的同期书评。关于“偏好”与种族恋物之间更广泛的概念边界，本文参考Robin Zheng的同行评议论文“Why Yellow Fever Isn't Flattering”；历史框架则核对Kaila Yu本人列出的研究，尤其是Celine Parreñas Shimizu的*The Hypersexuality of Race*与Sunny Woan的“White Sexual Imperialism”。\n\n文中对Kaila Yu创伤与恢复经历的描述经过克制转述，没有增加任何图像化细节。依据个人记忆的内容仍明确归于回忆录；亚特兰大枪击案中存在争议的解释，也被标示为解释，而不是没有争议的法律事实。"
+      }
+    ],
+    "quotesTitle": "Quotation",
+    "quotesTitleZh": "引文",
+    "quotesAtEnd": true,
+    "quoteSelections": [
+      {
+        "en": "“I felt the straightest path to empowerment was through courting the white male gaze.”",
+        "zh": "“我曾以为，通往赋权最直接的道路，是主动迎合白人男性的凝视。”",
+        "source": "Kaila Yu, Fetishized, Introduction"
+      }
+    ],
+    "quoteReadingEn": "This sentence names the book's central trap without pretending that Yu had no agency. She was seeking empowerment: visibility, desirability, income, confidence, and a way out of feeling unseen. The path appeared direct because the surrounding culture had already made one version of Asian femininity unusually legible and rewardable.\n\n“Courting” is the crucial word. It describes active participation, but it also identifies the authority being courted. The white male gaze remains the institution that grants recognition and sets its price. Yu's later reckoning asks whether power received from that gaze can remain power when it depends on continuing to satisfy the fantasy through which one became visible.",
+    "quoteReadingZh": "这句话说出了全书的核心陷阱，同时没有假装Kaila Yu毫无能动性。她追求的是赋权：可见性、被欲望、收入、自信，以及摆脱无人看见之感的道路。这条路之所以显得直接，是因为周围文化早已让某一种亚裔女性气质变得格外容易辨认，也格外容易得到回报。\n\n“主动迎合”是关键。它描述了个人参与，也指出被迎合的权威是谁。白人男性凝视仍然是发放认可并规定价格的制度。Kaila Yu后来的清算追问：如果一种权力依赖持续满足那个最初让自己获得可见性的幻想，那么从这道凝视中得到的权力，能否真正由自己保有？",
+    "relatedWorks": [
+      {
+        "title": "The Hypersexuality of Race",
+        "titleZh": "《种族的过度性化》",
+        "relationEn": "Celine Parreñas Shimizu examines Asian American women's hypersexual representation and performance across film, pornography, and feminist media.",
+        "relationZh": "Celine Parreñas Shimizu研究亚裔美国女性如何在电影、色情媒体与女性主义影像中被过度性化并进行表演。"
+      },
+      {
+        "title": "Why Yellow Fever Isn't Flattering",
+        "titleZh": "《为什么“黄热病”并不是赞美》",
+        "relationEn": "Robin Zheng gives a philosophical account of why racial fetishes remain harmful even when expressed as admiration or preference.",
+        "relationZh": "Robin Zheng从哲学层面解释，为什么种族恋物即使以欣赏或偏好的形式表达，仍然可能造成伤害。"
+      },
+      {
+        "title": "White Sexual Imperialism",
+        "titleZh": "《白人性帝国主义》",
+        "relationEn": "Sunny Woan connects the sexual stereotyping of diasporic Asian women to Western imperialism and Asian feminist jurisprudence.",
+        "relationZh": "Sunny Woan把亚裔离散女性的性刻板印象与西方帝国主义及亚裔女性主义法理学连接起来。"
+      },
+      {
+        "title": "The Asian Mystique",
+        "titleZh": "《亚洲迷思》",
+        "relationEn": "Sheridan Prasso traces Western fantasies of dragon ladies, geisha girls, and the exotic Orient.",
+        "relationZh": "Sheridan Prasso追踪西方文化关于龙女、艺伎女孩与“异域东方”的幻想。"
+      },
+      {
+        "title": "Ornamentalism",
+        "titleZh": "《装饰主义》",
+        "relationEn": "Anne Anlin Cheng offers a related account of how Asian femininity is produced through ornament, surface, and objecthood.",
+        "relationZh": "Anne Anlin Cheng从装饰、表面与物性出发，提供了理解亚裔女性气质如何被生产的相关理论。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Penguin Random House Library Marketing, Fetishized",
+        "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780593728024"
+      },
+      {
+        "label": "Google Books, Fetishized",
+        "url": "https://books.google.com/books/about/Fetishized.html?id=v3QyEQAAQBAJ"
+      },
+      {
+        "label": "Kirkus Reviews, Fetishized",
+        "url": "https://www.kirkusreviews.com/book-reviews/kaila-yu/fetishized/"
+      },
+      {
+        "label": "Publishers Weekly, Fetishized",
+        "url": "https://www.publishersweekly.com/9780593728017"
+      },
+      {
+        "label": "Relationscapes, Kaila Yu interview transcript",
+        "url": "https://www.relationscapes.org/p/yu-transcript/"
+      },
+      {
+        "label": "Robin Zheng, Why Yellow Fever Isn't Flattering",
+        "url": "https://doi.org/10.1017/apa.2016.25"
+      },
+      {
+        "label": "Sunny Woan, White Sexual Imperialism",
+        "url": "https://scholarlycommons.law.wlu.edu/crsj/vol14/iss2/5/"
+      },
+      {
+        "label": "Hwang and Parreñas, The Gendered Racialization of Asian Women as Villainous Temptresses",
+        "url": "https://doi.org/10.1177/08912432211029395"
+      }
+    ],
+    "tags": [
+      "Kaila Yu",
+      "Asian fetish",
+      "yellow fever",
+      "self-objectification",
+      "media representation",
+      "beauty",
+      "racialized desire"
+    ],
+    "tagsZh": [
+      "Kaila Yu",
+      "亚裔恋物",
+      "黄热病",
+      "自我物化",
+      "媒体再现",
+      "美貌",
+      "种族化欲望"
+    ],
+    "sourceText": "Kaila Yu, Fetishized: A Reckoning with Yellow Fever, Feminism, and Beauty, Crown, 2025",
+    "status": "published"
   }
 ];
