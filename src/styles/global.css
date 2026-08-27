@@ -491,6 +491,24 @@ h4 {
   gap: 20px;
 }
 
+.theory-card--kusama {
+  overflow: hidden;
+  background-color: var(--card);
+  background-image:
+    radial-gradient(circle, rgba(244, 206, 111, 0.16) 0 3px, transparent 3.6px),
+    radial-gradient(circle, rgba(211, 138, 169, 0.11) 0 7px, transparent 7.8px),
+    radial-gradient(circle at 92% 8%, rgba(232, 199, 122, 0.12), transparent 24rem);
+  background-position: 0 0, 23px 31px, 0 0;
+  background-size: 38px 38px, 104px 104px, 100% 100%;
+}
+
+:root[data-theme='light'] .theory-card--kusama {
+  background-image:
+    radial-gradient(circle, rgba(103, 50, 82, 0.12) 0 3px, transparent 3.6px),
+    radial-gradient(circle, rgba(158, 93, 128, 0.09) 0 7px, transparent 7.8px),
+    radial-gradient(circle at 92% 8%, rgba(185, 130, 159, 0.12), transparent 24rem);
+}
+
 .theory-card__header {
   display: flex;
   align-items: flex-start;

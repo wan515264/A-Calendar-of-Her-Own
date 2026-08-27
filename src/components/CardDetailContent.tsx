@@ -190,9 +190,14 @@ export default function CardDetailContent({ card, showActions = false }: CardDet
   const hasIntro = hasManualIntro || Boolean(fallbackIntroEn || fallbackIntroZh);
   const works = Array.from(new Set(card.relatedWorks.length > 0 ? card.relatedWorks : card.person?.keyWorks ?? []));
   const theoryFramework = card.theoryFramework ?? card.person?.theoryFramework;
+  const detailClassName = [
+    'theory-card',
+    'theory-card--detail',
+    card.id === '2026-08-27-yayoi-kusama-self-obliteration' ? 'theory-card--kusama' : undefined
+  ].filter(Boolean).join(' ');
 
   return (
-    <article className="theory-card theory-card--detail">
+    <article className={detailClassName}>
       <header className="detail-article__header">
         <p className="eyebrow">
           <span className="card-type-badge">{getTypeBadge(card)}</span>
