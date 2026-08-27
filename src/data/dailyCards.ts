@@ -9781,5 +9781,504 @@ Finally, the sentence makes cultural value itself part of the analysis. Prestige
     ],
     "sourceText": "Kaila Yu, Fetishized: A Reckoning with Yellow Fever, Feminism, and Beauty, Crown, 2025",
     "status": "published"
+  },
+  {
+    id: "2026-08-25-gerd-brantenberg-egalias-daughters",
+    date: "2026-08-25",
+    type: "novel",
+    title: "Egalia's Daughters",
+    titleZh: "《伊加利亚的女儿们》",
+    author: "Gerd Brantenberg｜格德·布兰腾伯格",
+    years: "b. 1941",
+    role: "Feminist Satire / Speculative Fiction｜女性主义讽刺 / 推想小说",
+    focusTitle: "When Reversal Makes Power Visible",
+    focusTitleZh: "当性别倒置让权力显形",
+    summaryEn: "In Egalia, wim control institutions and language while menwim perform care work, wear pehos, and are judged by their bodies. Gerd Brantenberg's reversal does not argue that women should dominate men; it makes familiar inequality strange enough to be seen.",
+    summaryZh: "在伊加利亚，女人掌握制度与语言，男人承担照护劳动、穿戴阴茎罩，并不断接受身体评判。格德·布兰腾伯格的性别倒置并不是主张女性应统治男性，而是让熟悉的不平等变得足够陌生，从而重新被看见。",
+    introEn: "Gerd Brantenberg's Egalia's Daughters was first published in Norwegian as Egalias døtre in 1977. Louis Mackay translated it into English in cooperation with Brantenberg; the English translation first appeared in 1985. The attached edition is the 2004 Seal Press edition. The novel imagines Egalia, a society in which women, called “wim,” occupy the dominant political, economic, and linguistic position, while men, called “menwim,” are expected to care for children, manage households, protect their modesty, and make themselves desirable.\n\nAt the centre is Petronius Bram, a young manwom who dreams of becoming a seawom. His ambition is treated as impractical because the sea is understood as women's work. As Petronius encounters bodily discipline, sexual violence, economic dependence, and the limits placed on men's public lives, he begins to recognise that his private frustrations belong to a system. The novel follows that recognition into a masculist movement whose members try to name, challenge, and imagine alternatives to Egalia's gender order.",
+    introZh: "格德·布兰腾伯格的《伊加利亚的女儿们》最初以挪威语书名 Egalias døtre 出版于1977年。Louis Mackay 与布兰腾伯格合作完成英文翻译，英译本于1985年首次出版；本期所依据的附件为 Seal Press 2004年版。小说虚构了伊加利亚：女人被称作“wim”，占据政治、经济与语言中的主导位置；男人则被称作“menwim”，被期待照顾孩子、管理家庭、保护贞洁，并努力让自己具有吸引力。\n\n故事中心是年轻男人佩特罗尼·布拉姆。他梦想成为一名航海者，却因为航海被视为女人的事业而遭到劝阻。当佩特罗尼经历身体规训、性暴力、经济依赖与男性公共生活的限制，他逐渐意识到，自己的私人挫败属于一套制度。小说沿着这一认识写到男性解放运动：参与者开始为压迫命名、挑战伊加利亚的性别秩序，并试着想象另一种社会。",
+    articleSections: [
+      {
+        title: "A World Built as a Reversal",
+        titleZh: "一个以倒置建成的世界",
+        en: "Egalia is constructed through systematic reversal rather than a single comic trick. Wim hold office, earn money, go to sea, define respectable conduct, and appear as the unmarked human norm. Menwim are associated with domesticity, beauty, chastity, emotional dependence, and reproductive care. Marriage is organised through “fatherhood protection,” an arrangement that can leave men economically dependent on women.\n\nThe reversal works because its details remain recognisable. Readers are not asked to believe that this order is natural. They are asked to notice how easily unequal customs can sound natural once institutions, language, and everyday repetition support them.",
+        zh: "伊加利亚并不是依靠一个简单笑话完成性别倒置，而是把倒置贯彻进整个社会。女人担任公职、获得收入、从事航海、定义得体行为，并作为无需特别说明的“人类默认值”出现。男人则与家务、美貌、贞洁、情感依赖和生育照护联系在一起。婚姻通过“父职保护”制度组织，也可能使男人在经济上依附女人。\n\n这种倒置之所以有效，正因为其中的细节如此熟悉。小说不是要求读者相信这一秩序天经地义，而是让人看见：只要制度、语言与日常重复共同支撑，不平等的习俗就很容易被说成自然。"
+      },
+      {
+        title: "Petronius and the Blocked Future",
+        titleZh: "佩特罗尼与被封锁的未来",
+        en: "Petronius wants a life larger than the one prepared for him. He dreams of becoming a seawom, but adults tell him that a real manwom should seek security, marriage, and fatherhood rather than dangerous public work. His mother, Ruth Bram, is a powerful director; his father, Christopher, remains tied to household labour and to a dependence that his family treats as ordinary.\n\nPetronius's problem is not a lack of talent or desire. It is the absence of a legitimate path. Brantenberg uses his thwarted ambition to show that vocation is political: a society decides which bodies may turn capacity into work and which must translate ambition into service to someone else.",
+        zh: "佩特罗尼想要一种比既定安排更宽阔的人生。他梦想成为航海者，但成年人告诉他，真正的男人应当追求安全、婚姻与父职，而不是危险的公共事业。他的母亲 Ruth Bram 是一位有权势的主管；父亲 Christopher 则被家庭劳动与经济依赖困住，而全家都把这种处境看作寻常。\n\n佩特罗尼的问题不是缺乏才能或愿望，而是缺少一条得到承认的道路。布兰腾伯格借他受阻的抱负说明，志业本身就是政治问题：社会决定哪些身体可以把能力转化为工作，又决定哪些身体只能把抱负转译成对他人的服务。"
+      },
+      {
+        title: "Language Decides Who Counts as the Norm",
+        titleZh: "语言决定谁是默认的人",
+        en: "The novel's language is one of its main political instruments. In the English translation, “wom” and “wim” replace man and men as generic terms, while “manwom,” “menwim,” and “seawom” mark men as the modified category. The effect is comic, but it is also analytic: readers repeatedly encounter a language in which the female is universal and the male is secondary.\n\nChristiane Luck's study of the novel argues that this reversal exposes the bias hidden in apparently generic language. Luise von Flotow, Ida Hove Solberg, and Enora Lessinger likewise show how the English translation uses lexical invention and compensatory strategies to preserve the source text's humour and its challenge to linguistic normality.",
+        zh: "语言是这部小说最重要的政治工具之一。在英译本中，“wom”与“wim”取代 man 与 men，成为泛指人类的词；“manwom”“menwim”与“seawom”等词则把男性标记成需要额外说明的类别。这种效果具有喜剧性，也具有分析性：读者不断进入一种女性是普遍、男性是派生的语言秩序。\n\nChristiane Luck 对小说的研究指出，这种倒置揭露了看似中性的泛指语言中隐藏的偏向。Luise von Flotow、Ida Hove Solberg 与 Enora Lessinger 也说明，英译本如何通过词汇创造与补偿策略，保存原作的幽默，以及它对语言“正常性”的挑战。"
+      },
+      {
+        title: "The Peho and the Disciplined Body",
+        titleZh: "阴茎罩与被规训的身体",
+        en: "The peho, a garment designed to hold and shape the penis, turns bodily discomfort into social obligation. Menwim are expected to wear it for modesty and appearance, even when it restricts movement or causes pain. They remove chest hair, worry about skirts, and learn to view their bodies through women's judgment.\n\nThe satire is effective because it does not treat dress as trivial. Clothing converts an unequal gaze into daily self-management. The disciplined body begins to monitor itself before anyone else needs to intervene. What looks like personal grooming is therefore connected to public safety, respectability, employability, and sexual value.",
+        zh: "“peho”是一种用来托住并塑造阴茎的衣物，它把身体不适转化成社会义务。男人为了端庄与外观被期待穿戴它，即使它妨碍行动或造成疼痛。他们去除胸毛、担心裙装是否得体，并学会通过女人的评判观看自己的身体。\n\n这段讽刺之所以有力，是因为小说没有把衣着当作小事。服装把不平等的凝视转化成日常自我管理：身体在别人介入之前，已经开始监视自己。看似私人的修饰因此与公共安全、体面、就业能力和性价值连接起来。"
+      },
+      {
+        title: "Care Work, Money, and Fatherhood Protection",
+        titleZh: "照护劳动、金钱与父职保护",
+        en: "Egalia makes reproductive and domestic labour visible by assigning it to men. Fathers feed children, organise homes, absorb emotional strain, and depend on women's wages and legal protection. Christopher's frustrations reveal that care can be indispensable while remaining economically unrecognised and politically weak.\n\nThe novel does not suggest that care work is degrading in itself. The inequality lies in making one sex responsible for it, treating that responsibility as natural, and then using unpaid dependence as evidence that the caregivers are less capable of public authority.",
+        zh: "伊加利亚通过让男人承担再生产与家庭劳动，使这些工作重新变得可见。父亲喂养孩子、管理家庭、承受情绪压力，并依赖女人的收入与法律保护。Christopher 的挫败说明，照护可以不可或缺，却仍然在经济上不受承认、在政治上缺乏力量。\n\n小说并不是说照护劳动本身低人一等。不平等来自把它固定分配给某一种性别，把这种责任说成自然，再利用无偿劳动造成的依赖，证明照护者不适合拥有公共权威。"
+      },
+      {
+        title: "Sexual Violence Through the Mirror",
+        titleZh: "镜像中的性暴力",
+        en: "After Petronius is sexually assaulted by three women, the novel follows fear, shame, self-blame, and the difficulty of making the event publicly intelligible. The reversal refuses the familiar assumption that sexual violence is produced by victims' bodies, clothing, or poor judgment. It places those explanations in an unfamiliar mouth so their cruelty becomes harder to ignore.\n\nThis scene is not a claim that gendered violence can be understood by mechanically exchanging women and men. It is a satirical mirror: it asks readers to hear how disbelief and victim-blaming operate when the expected gender positions are reversed.",
+        zh: "佩特罗尼遭到三名女人性侵后，小说继续写他的恐惧、羞耻、自责，以及这件事为何难以被公共语言理解。倒置拒绝一种熟悉假设：仿佛性暴力由受害者的身体、衣着或错误判断造成。小说把这些解释放进陌生的性别位置，使其中的残酷更难被忽视。\n\n这一情节并不是声称，只要机械交换女人与男人，就能解释性别暴力。它更像一面讽刺性的镜子：当预期的性别位置被倒转，读者会更清楚地听见不相信受害者与责怪受害者的语言如何运作。"
+      },
+      {
+        title: "The Masculists Learn to Name a System",
+        titleZh: "男性解放者开始命名制度",
+        en: "Petronius and other menwim begin by sharing experiences that had seemed private: compulsory beauty practices, restricted work, sexual vulnerability, domestic confinement, and dependence within marriage. The masculist movement gives these experiences a collective vocabulary. Members reject the peho, debate strategy, and try to imagine forms of work and citizenship not organised through female permission.\n\nThe movement is not presented as instantly unified or pure. Its members disagree, reproduce habits they are trying to escape, and discover that naming oppression does not immediately dismantle it. That difficulty is part of the novel's argument: institutions survive through law and money, but also through desire, shame, family bonds, and learned expectations.",
+        zh: "佩特罗尼与其他男人从分享那些原本被当作私事的经验开始：强制性的美貌规范、职业限制、性脆弱、家庭禁闭，以及婚姻中的依赖。男性解放运动为这些经验提供了集体词汇。成员拒绝阴茎罩、争论行动策略，并试着想象不再依靠女性许可的工作与公民身份。\n\n小说并没有把这场运动写成一开始就团结而纯粹。参与者彼此争执，也会重复自己试图摆脱的习惯，并发现为压迫命名并不会立刻拆除压迫。这种困难正是小说论点的一部分：制度通过法律与金钱延续，也通过欲望、羞耻、家庭关系与习得的期待延续。"
+      },
+      {
+        title: "The Sons of Democracy",
+        titleZh: "《民主之子》",
+        en: "Late in the novel, Petronius writes an internal book called The Sons of Democracy. It imagines a society recognisable to the reader as patriarchy: men control public life and women are subordinated. Egalian readers call the premise unrealistic, perverse, and linguistically absurd. Their reaction completes the satire. A hierarchy looks impossible only when its beneficiaries have never needed to explain it.\n\nThe internal book also makes reading itself part of political change. Petronius cannot immediately reorganise Egalia, but he can construct another order in language. Christopher's response suggests that imagination may alter what a person considers possible before institutions themselves change.",
+        zh: "小说后段，佩特罗尼写了一部书中之书《民主之子》。它想象了一个对现实读者而言十分熟悉的父权社会：男人掌握公共生活，女人处于从属位置。伊加利亚的读者却批评这个设定不现实、反常，连语言都荒谬。这样的反应完成了讽刺：一种等级制度之所以看似不可思议，常常只是因为它的受益者从未需要解释它。\n\n这部书中之书也使阅读本身成为政治变化的一部分。佩特罗尼无法立刻重组伊加利亚，却可以先在语言中建造另一种秩序。Christopher 的反应暗示，在制度真正改变之前，想象已经可能改变一个人对“什么可以发生”的判断。"
+      },
+      {
+        title: "Satire Is Not a Blueprint for Female Rule",
+        titleZh: "讽刺并不是女性统治蓝图",
+        en: "Brantenberg's reversal should not be read as a proposal that women are naturally better rulers or that justice would be achieved by placing men below women. The novel's target is the naturalisation of hierarchy itself. Ruth eventually acknowledges that she wants the existing arrangement because she benefits from power, then returns to arguments that present inequality as natural and protective.\n\nThat movement from interest to nature is crucial. Power first defends itself as useful, then forgets that it is power. Satire restores the missing history by showing rules being made, taught, enforced, desired, and defended.",
+        zh: "布兰腾伯格的倒置不应被理解成一种主张：仿佛女性天生更适合统治，或只要让男人处于女性之下就能实现正义。小说批判的是等级制度被自然化的过程。Ruth 最终承认自己希望现有秩序继续，因为她正从权力中获益；随后她又回到那些把不平等描述为自然、保护与文明的论证。\n\n这种从利益转向自然的过程非常关键。权力先把自己说成有用，然后忘记自己就是权力。讽刺则恢复被抹去的历史，让读者看见规则如何被制造、教授、执行、欲求与辩护。"
+      },
+      {
+        title: "What the Mirror Leaves Outside",
+        titleZh: "镜子没有照见什么",
+        en: "The reversal is powerful, but it has limits. Christiane Luck notes that the novel remains organised through a female-male binary even as it overturns linguistic hierarchy. The readers' guide in the attached edition also asks why the sex hierarchy is reversed while racial and ethnic hierarchies receive no comparable transformation.\n\nThese limits do not cancel the satire. They clarify its method. Egalia is a sharply focused experiment in estranging one dominant gender order, not a complete model of every relation of power. Reading it now also means asking which bodies and identities remain outside its mirror.",
+        zh: "这种倒置很有力量，但也存在边界。Christiane Luck 指出，小说虽然颠倒了语言等级，却仍然主要在女性与男性的二元框架中组织世界。附件版本的读者指南也提出问题：小说倒置了性别等级，却没有对种族与族裔等级进行同样系统的转换。\n\n这些限制并不会取消小说的讽刺效果，而是帮助我们更准确地理解它的方法。伊加利亚是一项聚焦明确的实验，用陌生化揭露一种主导性别秩序，却不是解释所有权力关系的完整模型。今天阅读它，也需要继续追问：哪些身体与身份仍然留在这面镜子之外？"
+      },
+      {
+        title: "Scholarship",
+        titleZh: "文献依据",
+        en: "This entry is based primarily on the attached 2004 Seal Press edition of Egalia's Daughters. Bibliographic and author information was checked against the publisher's official title page. The discussion of linguistic reversal draws on Christiane Luck's Rewriting Language: How Literary Texts Can Promote Inclusive Language Use (UCL Press, 2020), especially the chapter “Reversing the linguistic status quo: Egalias døtre”; Luise von Flotow, Ida Hove Solberg, and Enora Lessinger, “Laughing at ‘normality’: Gerd Brantenberg's Egalias døtre in translation” (Lexis 17, 2021); and Aniqua Munawar, “The Reversal of Sexist Language: Analysing Gerd Brantenberg's Egalia's Daughters” (International Journal of English and Education 8.3, 2019).",
+        zh: "本期主要依据附件中的 Seal Press 2004年版《伊加利亚的女儿们》。出版信息与作者资料通过出版方官方页面核对。关于语言倒置的讨论参考 Christiane Luck 的 Rewriting Language: How Literary Texts Can Promote Inclusive Language Use（UCL Press，2020），尤其是“Reversing the linguistic status quo: Egalias døtre”一章；Luise von Flotow、Ida Hove Solberg 与 Enora Lessinger 的“Laughing at ‘normality’: Gerd Brantenberg's Egalias døtre in translation”（Lexis 17，2021）；以及 Aniqua Munawar 的“The Reversal of Sexist Language: Analysing Gerd Brantenberg's Egalia's Daughters”（International Journal of English and Education 8.3，2019）。"
+      }
+    ],
+    quoteSelections: [
+      {
+        en: "It is the task of every civilization to remedy nature's injustice.",
+        zh: "弥补自然的不公，是每一种文明的任务。",
+        source: "Gerd Brantenberg, Egalia's Daughters"
+      }
+    ],
+    quoteSource: "Gerd Brantenberg, Egalia's Daughters",
+    quoteReadingEn: "In Egalia, this sentence is presented as a benevolent principle. Civilization supposedly corrects nature by placing men under women's protection and authority. The satire lies in the word “remedy”: an unequal institution describes itself not as domination, but as care.\n\nThe sentence shows how bodily difference is converted into political destiny. First a hierarchy is created; then the hierarchy is renamed protection; finally, protection is treated as proof that the hierarchy was necessary all along.",
+    quoteReadingZh: "在伊加利亚，这句话以一种仁慈原则的面貌出现：所谓文明通过让男人接受女人的保护与权威，来纠正自然的不公。讽刺的关键在“弥补”这个词。不平等制度不把自己称作统治，而把自己描述成照护。\n\n这句话显示，身体差异如何被转化成政治命运。人们先建立一种等级，再把等级重新命名为保护，最后又利用“保护”证明这种等级从一开始就有必要。",
+    relatedWorks: [
+      {
+        title: "Sultana's Dream",
+        titleZh: "《苏丹娜的梦》",
+        relationEn: "Rokeya Sakhawat Hossain's 1905 feminist utopia also reverses gendered public and domestic space, but imagines a different relation between satire, science, and social possibility.",
+        relationZh: "Rokeya Sakhawat Hossain 1905年的女性主义乌托邦同样倒置公共与家庭空间的性别分配，却以不同方式连接讽刺、科学与社会可能性。"
+      },
+      {
+        title: "The Left Hand of Darkness",
+        titleZh: "《黑暗的左手》",
+        relationEn: "Ursula K. Le Guin uses speculative fiction to estrange familiar assumptions about sex, gender, kinship, and political life.",
+        relationZh: "厄休拉·勒古恩借推想小说陌生化关于性、生理性别、亲属关系与政治生活的熟悉假设。"
+      },
+      {
+        title: "Woman on the Edge of Time",
+        titleZh: "《时间边缘的女人》",
+        relationEn: "Marge Piercy links gender, care, reproduction, medicine, class, and competing social futures.",
+        relationZh: "玛吉·皮尔西把性别、照护、再生产、医疗、阶级与彼此竞争的社会未来连接起来。"
+      },
+      {
+        title: "The Handmaid's Tale",
+        titleZh: "《使女的故事》",
+        relationEn: "Margaret Atwood likewise shows how institutions turn reproductive bodies into political resources and then naturalise the result.",
+        relationZh: "玛格丽特·阿特伍德同样展示制度如何把生殖身体转化为政治资源，再把结果自然化。"
+      }
+    ],
+    sources: [
+      {
+        label: "Hachette Book Group / Seal Press, Egalia's Daughters",
+        url: "https://www.hachettebookgroup.com/titles/gerd-brantenberg/egalias-daughters/9781580051255/"
+      },
+      {
+        label: "Christiane Luck, Rewriting Language (UCL Press, 2020)",
+        url: "https://discovery.ucl.ac.uk/id/eprint/10089970/"
+      },
+      {
+        label: "von Flotow, Solberg, and Lessinger, Laughing at normality (Lexis, 2021)",
+        url: "https://doi.org/10.4000/lexis.5429"
+      },
+      {
+        label: "Aniqua Munawar, The Reversal of Sexist Language (2019)",
+        url: "https://ijee.org/ijee/article/view/525"
+      }
+    ],
+    tags: [
+      "gender reversal",
+      "feminist satire",
+      "language",
+      "body discipline",
+      "care work",
+      "sexual violence",
+      "speculative fiction"
+    ],
+    tagsZh: [
+      "性别倒置",
+      "女性主义讽刺",
+      "语言",
+      "身体规训",
+      "照护劳动",
+      "性暴力",
+      "推想小说"
+    ],
+    sourceText: "Gerd Brantenberg, Egalia's Daughters, translated by Louis Mackay in cooperation with the author, Seal Press, 2004",
+    status: "published"
+  },
+  {
+    id: "2026-08-26-tamara-chaplin-becoming-lesbian",
+    date: "2026-08-26",
+    type: "book",
+    title: "Becoming Lesbian",
+    titleZh: "《成为女同性恋：现代法国酷儿史》（暂译）",
+    author: "Tamara Chaplin",
+    role: "Queer History / Media History / Sexual Citizenship｜酷儿史 / 媒介史 / 性公民身份",
+    focusTitle: "How Private Desire Became Public History",
+    focusTitleZh: "私人欲望如何成为公共历史",
+    summaryEn: "Tamara Chaplin challenges the familiar claim that lesbians were simply invisible in modern France. Cabarets, television, magazines, radio, the Minitel, and activist spaces did not merely represent an identity that already existed; they helped women who loved women become visible to one another, form publics, and contest who could appear as a sexual citizen.",
+    summaryZh: "Tamara Chaplin 挑战了“女同性恋在现代法国始终不可见”的熟悉说法。歌舞厅、电视、杂志、广播、Minitel 与行动空间，并不只是再现一种早已完成的身份；它们帮助爱女人的女人彼此看见、形成公共，并争夺谁能够作为性公民出现在社会之中。",
+    introEn: "Tamara Chaplin's Becoming Lesbian: A Queer History of Modern France was published by the University of Chicago Press in 2024. The book follows women who loved women across twentieth-century France, drawing on cabaret culture, sexology, police records, photographs, television and radio broadcasts, magazines, private letters, digital media, and more than one hundred interviews filmed by the author. Its scale allows Chaplin to place lesbian history not at the margin of modern France, but inside the history of media, urban space, citizenship, and the contested boundary between public and private life.\n\nThe title adapts Simone de Beauvoir's claim that one is not born but becomes a woman. For Chaplin, “becoming lesbian” does not describe the discovery of a timeless identity hidden unchanged inside a person. It names a historical process: desires, practices, styles, spaces, words, technologies, and political struggles make some forms of intimate life recognisable as lesbian. The book therefore asks not only who loved women, but how women came to understand themselves, find one another, become visible, and act collectively under that name.",
+    introZh: "Tamara Chaplin 的 Becoming Lesbian: A Queer History of Modern France 由芝加哥大学出版社于2024年出版。全书追踪20世纪法国爱女人的女人，使用歌舞厅文化、性学、警方档案、摄影、电视与广播节目、杂志、私人信件、数字媒介，以及作者拍摄的一百多次访谈。这样的研究规模，使 Chaplin 不再把女同性恋历史放在现代法国的边缘，而是把它写进媒介、城市空间、公民身份，以及公共生活与私人生活边界的历史。\n\n书名改写了西蒙娜·德·波伏瓦“女人不是天生的，而是后天形成的”这一命题。对 Chaplin 而言，“成为女同性恋”并不是发现一个始终不变、早已藏在个人内部的身份，而是一个历史过程：欲望、实践、风格、空间、词语、技术与政治斗争，共同使某些亲密生活能够被辨认为“女同性恋”。因此，本书不只追问谁曾经爱女人，也追问女人如何理解自己、找到彼此、变得可见，并以这一名称集体行动。",
+    articleSections: [
+      {
+        title: "Not a History of Simple Invisibility",
+        titleZh: "不是一部关于彻底隐形的历史",
+        en: "Histories of homosexuality have often treated lesbian life as difficult to find because law, medicine, police surveillance, and political controversy produced more records about men. Chaplin does not deny repression or archival silence. She shows instead that the absence of women from familiar histories is not the same as the absence of women from public life.\n\nHer archive reveals women who ran businesses, performed in cabarets, appeared on television, made magazines and radio, organised festivals, built digital networks, and lived in relationships that people around them could recognise. The question changes from “Where were the lesbians?” to “Why did our historical methods fail to see the forms in which they were already present?”",
+        zh: "同性恋史常常把女同性恋生活描述成难以寻找的对象，因为法律、医学、警务监控与政治争论留下的记录更多围绕男性展开。Chaplin 并不否认压迫或档案沉默，而是指出：女性在熟悉历史中的缺席，并不等于女性在公共生活中不存在。\n\n她的档案中有经营商业的女人、歌舞厅表演者、电视人物、杂志与广播制作者、电影节组织者、数字网络建设者，也有在周围人能够辨认的伴侣关系中生活的女人。问题因此从“女同性恋在哪里”转变为：“为什么我们的历史方法没有看见她们早已存在的形式？”"
+      },
+      {
+        title: "Becoming Is a Historical Process",
+        titleZh: "“成为”是一个历史过程",
+        en: "Chaplin works within queer historicism rather than searching for a stable lesbian subject across all periods. Women who loved women did not always use the same words, organise desire in the same way, or present gender consistently. Some called themselves lesbian, homosexual, bisexual, or “gay girls”; some rejected labels; some shifted descriptions across audiences and across their lives.\n\nThis approach creates an ethical problem for the historian. A modern label can make a past life legible, but it can also overrule how that person understood herself. Chaplin therefore follows historical language and self-description where evidence allows, while keeping identity open rather than forcing every subject into a final category.",
+        zh: "Chaplin 采用酷儿历史主义方法，而不是在所有时代中寻找一个稳定不变的女同性恋主体。爱女人的女人并不总是使用相同词语、以相同方式组织欲望，或保持一致的性别呈现。有人称自己为女同性恋、同性恋、双性恋或“gay girl”，有人拒绝标签，也有人面对不同对象、处于不同人生阶段时改变自我描述。\n\n这种方法给历史学家带来伦理难题：现代标签可以让过去的生命变得可理解，也可能压过当事人对自己的理解。因此，只要证据允许，Chaplin 就尽量跟随历史语境与自我命名，同时让身份保持开放，而不是把每个人固定进一个最终类别。"
+      },
+      {
+        title: "The Sapphic Cabaret Made a Public",
+        titleZh: "萨福式歌舞厅制造了一个公共",
+        en: "The first part of the book reconstructs an economically and racially varied world of cabarets, dance halls, bars, restaurants, brothels, and streets in interwar Paris. Chaplin identifies more than twenty venues intended for women seeking women in the 1930s. These places offered entertainment and profit, but they also circulated styles, relationships, information, and knowledge about where other women could be found.\n\nThe cabaret was never outside power. Commercial owners could exploit desire, working-class performers faced unequal conditions, racialised bodies were marketed, and visible gender difference could invite surveillance. Yet the same venues let women occupy urban space and build what Chaplin calls “sapphic genealogical geographies”: networks through which knowledge, support, and power moved across generations and locations.",
+        zh: "本书前半部分重建了战间期巴黎一个在经济与种族上具有差异的女性世界，其中包括歌舞厅、舞厅、酒吧、餐馆、妓院与街道。Chaplin 发现，1930年代巴黎有二十多处面向寻找女人的女人的场所。这些地方提供娱乐并创造利润，也传播风格、关系、信息，以及关于“在哪里能够找到其他女人”的知识。\n\n歌舞厅从来不在权力之外。商业经营者可能利用欲望获利，工人阶级表演者面对不平等条件，种族化身体被市场包装，可见的性别差异也可能招致监控。但同样的空间又让女性占据城市，并形成 Chaplin 所说的“萨福式谱系地理”：知识、支持与权力借此跨越世代和地点流动。"
+      },
+      {
+        title: "Media Did Not Merely Reflect Identity",
+        titleZh: "媒介不只是反映身份",
+        en: "One of the book's strongest arguments is that media helped produce the social reality it appeared merely to record. Television carried queer female performance from Parisian nightlife into homes across France and its empire during the 1950s and 1960s. Later, magazines, telephone services, pirate and community radio, video, and film gave women practical information and shared languages for describing their lives.\n\nRepresentation was never neutral. Television could make gender variance visible while containing it inside reassuring stereotypes such as the beautiful whore, the good mother, or the acceptable feminine lesbian. Media could open recognition and simultaneously narrow what a recognisable lesbian was allowed to look like.",
+        zh: "本书最有力的论点之一，是媒介参与生产了它看似只在记录的社会现实。1950至1960年代，电视把巴黎夜生活中的酷儿女性表演带进法国及其帝国范围内的家庭。后来，杂志、电话服务、地下与社群广播、录像和电影，又为女性提供实用信息，以及描述自身生活的共享语言。\n\n再现从来不是中性的。电视可以让性别越界变得可见，同时又把它限制在令人安心的刻板形象中，例如美丽的妓女、好母亲或符合期待的女性化女同性恋。媒介能够开启认同，也能缩窄“一个可被辨认的女同性恋应该是什么样子”。"
+      },
+      {
+        title: "From Subculture to Counterpublic",
+        titleZh: "从亚文化到对抗性公共",
+        en: "Chaplin distinguishes subcultures from counterpublics. A subculture can make life more liveable for its participants without trying to transform dominant society. A counterpublic emerges when subordinated people develop shared interpretations of their identities, interests, and needs, then use those interpretations to challenge the larger public sphere.\n\nAfter the political and sexual transformations around 1968, lesbian information activism increasingly connected women across cities and regions. Les Répondeuses, the magazine Quand les femmes s'aiment, broadcasts on Fréquence Gaie, and other projects turned isolation into correspondence and private experience into collective knowledge. Politics here did not begin only in parties or legislatures. It began when women built channels through which they could address one another.",
+        zh: "Chaplin 区分了亚文化与对抗性公共。亚文化可以让参与者的生活变得更可过，却不一定试图改变主导社会；当处于从属位置的人发展出对自身身份、利益与需要的共同解释，并利用这些解释挑战更大的公共领域时，对抗性公共才开始形成。\n\n1968年前后的政治与性变革之后，女同性恋信息行动越来越能够连接不同城市与地区的女人。Les Répondeuses 电话服务、杂志 Quand les femmes s'aiment、Fréquence Gaie 的广播节目及其他项目，把孤立转化为通信，也把私人经验转化为集体知识。这里的政治并不只从政党或议会开始，而是从女性建立彼此发言的渠道开始。"
+      },
+      {
+        title: "Before the Web, There Was the Minitel",
+        titleZh: "万维网之前，已经有了 Minitel",
+        en: "Chapter 7 follows Les Goudous Télématiques, a lesbian cooperative that developed an online community and email system on France's Minitel network between 1985 and 1989. The project aimed to share information, support friendship and romance, and connect women who could not simply move to a large city.\n\nThe initiative struggled with cost, technical access, security concerns, and uneven enthusiasm, and it ultimately failed. Chaplin nevertheless treats failure as historically meaningful. The organisers understood early that communication technology could create a public without requiring all its members to occupy the same physical room. Their experiment anticipated later forms of queer online community.",
+        zh: "第七章追踪女同性恋合作组织 Les Goudous Télématiques。它在1985至1989年间利用法国 Minitel 网络开发线上社群与电子邮件系统，希望分享信息、支持友谊和爱情，并连接那些无法简单迁往大城市的女性。\n\n这个项目受到成本、技术准入、安全顾虑与参与热情不均等问题影响，最终没有成功。但 Chaplin 并没有把失败等同于没有历史意义。组织者很早就认识到，通信技术能够创造一个无需所有成员共处同一房间的公共。她们的实验预示了后来出现的酷儿线上社群。"
+      },
+      {
+        title: "Visibility Is Not Automatically Freedom",
+        titleZh: "可见性不会自动变成自由",
+        en: "The book rejects a simple progress story in which people move from darkness into visibility and finally arrive at legal equality. Visibility can connect people, make claims possible, and change public opinion. It can also expose them to policing, commercial appropriation, stereotype, violence, or meanings they cannot control. Invisibility can isolate, but it can sometimes protect.\n\nThe question is therefore not only whether a group is seen. It is who controls the image, who is recognised by it, who is excluded, and what institutions do with that recognition. Chaplin's history treats representation as a struggle over power rather than a self-evident good.",
+        zh: "这本书拒绝一种简单的进步故事：人们从黑暗走向可见，最终抵达法律平等。可见性可以连接人、使权利主张成为可能并改变公共意见，也可能使人暴露在警务监控、商业挪用、刻板印象、暴力或无法控制的解释之下。不可见会造成孤立，却有时也能提供保护。\n\n因此，问题不只在于一个群体是否被看见，还在于谁控制图像、谁能在其中获得承认、谁被排除，以及制度如何使用这种承认。Chaplin 的历史把再现视作一场权力斗争，而不是不证自明的善。"
+      },
+      {
+        title: "The Public-Private Divide Is Political",
+        titleZh: "公共与私人之分本身就是政治",
+        en: "French republicanism imagines an abstract universal citizen whose race, gender, religion, class, and sexuality supposedly belong to private life. Chaplin argues that this universal subject is not neutral: it has historically been naturalised as white, male, and heterosexual. When queer women make sexual difference the basis of a public claim, they reveal the exclusions hidden inside universal citizenship.\n\nCabarets, cafés, streets, media, partnerships, parenting, and assisted reproduction all become sites where the line between private intimacy and public legitimacy is renegotiated. Lesbian history therefore changes how modern French citizenship itself is understood.",
+        zh: "法国共和主义想象出一种抽象的普遍公民，仿佛种族、性别、宗教、阶级与性倾向都只属于私人生活。Chaplin 指出，这个普遍主体并不中立：它在历史上被自然化为白人、男性与异性恋。当酷儿女性以性差异提出公共主张时，她们揭露了普遍公民身份内部隐藏的排除。\n\n歌舞厅、咖啡馆、街道、媒介、伴侣关系、亲职与辅助生殖，都成为重新协商私人亲密与公共合法性边界的场所。因此，女同性恋历史也改变了我们理解现代法国公民身份的方式。"
+      },
+      {
+        title: "Race Changes the Meaning of Lesbian Publics",
+        titleZh: "种族改变了女同性恋公共的意义",
+        en: "Chaplin does not treat “lesbian community” as automatically inclusive. Her final chapter examines why women of colour appear so rarely in predominantly white French lesbian archives and spaces. Class, colonial history, religion, migration, gender presentation, and racism shaped who could enter a venue, feel safe, claim visibility, or be accepted as representative.\n\nThe Groupe du 6 novembre, founded in Paris in 1999 by lesbians connected to colonialism, slavery, and immigration, challenged racism within white lesbian movements. Its members created their own press, anthology, art, festivals, demonstrations, and international networks. Their work shows that a counterpublic can resist one hierarchy while reproducing another, and that visibility without control over one's own media remains unequal.",
+        zh: "Chaplin 并没有把“女同性恋共同体”视作天然包容的空间。最后一章追问，为什么有色人种女性在以白人为主的法国女同性恋档案与空间中如此稀少。阶级、殖民历史、宗教、迁移、性别呈现与种族主义，共同影响谁能够进入一个场所、感到安全、要求可见，或被接受为具有代表性的主体。\n\nGroupe du 6 novembre 于1999年在巴黎成立，成员是与殖民主义、奴隶制和移民历史相连的女同性恋。她们建立自己的出版社，出版文集，并组织艺术、电影节、示威与国际网络。她们的工作说明，一个对抗性公共可以反对某种等级，同时复制另一种等级；如果不能控制自己的媒介，可见性仍然是不平等的。"
+      },
+      {
+        title: "An Archive Made from Many Kinds of Evidence",
+        titleZh: "由多种证据组成的档案",
+        en: "The book's method matters as much as its conclusions. Chaplin combines police files and legal history with commercial ephemera, nightclub records, photographs, television footage, letters, magazines, digital traces, and oral histories. More than one hundred filmed interviews allow women to interpret their own lives, while the archive reveals how institutions interpreted them.\n\nThese sources do not always agree. Memory changes; official records classify; publicity exaggerates; silence may protect or erase. Rather than forcing them into one seamless account, Chaplin uses contradiction to show that identity is produced differently for lovers, families, police, audiences, activists, historians, and the self.",
+        zh: "这本书的方法与结论同样重要。Chaplin 把警方档案与法律史，同商业印刷品、夜店记录、照片、电视影像、信件、杂志、数字痕迹与口述历史放在一起。一百多次拍摄访谈使女性能够解释自己的生活，而制度档案则显示机构如何解释她们。\n\n这些资料并不总是彼此一致。记忆会改变，官方记录会分类，宣传会夸张，沉默可能保护也可能抹除。Chaplin 没有强迫它们组成一条毫无缝隙的叙述，而是利用矛盾说明：对恋人、家庭、警方、观众、行动者、历史学家与个人自身而言，身份会以不同方式被生产。"
+      },
+      {
+        title: "Scholarship",
+        titleZh: "文献依据",
+        en: "This entry is based primarily on Tamara Chaplin's Becoming Lesbian: A Queer History of Modern France (University of Chicago Press, 2024), including its introduction, chapter overviews, chapter 9, and conclusion. Publication data and the description of its archive were checked against the University of Chicago Press and Chicago Scholarship Online. The interpretation was also cross-checked against Scott Gunther's review in The American Historical Review (2025), the University of Illinois account of Chaplin's research, and Chaplin's public discussion of her historical method and findings.\n\nThe Chinese title used here is an editorial translation because no verified official Chinese edition was found. Quotations are kept short; all other prose is a bilingual editorial synthesis of the book and cited scholarship rather than language attributed directly to Chaplin.",
+        zh: "本期主要依据 Tamara Chaplin 的 Becoming Lesbian: A Queer History of Modern France（芝加哥大学出版社，2024），重点核对导论、各章概要、第九章与结论。出版资料及档案构成通过芝加哥大学出版社和 Chicago Scholarship Online 核实；解读同时参考 Scott Gunther 发表于 The American Historical Review 的书评（2025）、伊利诺伊大学对 Chaplin 研究的介绍，以及 Chaplin 对其历史方法与研究发现的公开讨论。\n\n本期中文书名属于日历编辑性暂译，因为没有找到可核实的正式中文版。除短引文外，其余文字均是根据本书与所列研究整理的双语编辑性概括，不作为 Chaplin 的直接原话。"
+      }
+    ],
+    quoteSelections: [
+      {
+        en: "Becoming visible was integral to “becoming lesbian” in modern France.",
+        zh: "在现代法国，变得可见，是“成为女同性恋”这一过程不可分割的一部分。",
+        source: "Tamara Chaplin, Becoming Lesbian, Conclusion"
+      }
+    ],
+    quoteSource: "Tamara Chaplin, Becoming Lesbian, Conclusion",
+    quoteReadingEn: "The sentence does not say that visibility reveals a finished identity. It says that visibility participates in making the identity socially possible. A cabaret, broadcast, magazine, meeting place, or digital network allows women to recognise a pattern in private experience and to address others who might share it.\n\nBut Chaplin's conclusion immediately complicates the claim. Visibility can empower only when people have some control over its meaning. To be seen through a police category, stereotype, commercial fantasy, or racist movement is not the same as being able to represent oneself.",
+    quoteReadingZh: "这句话并不是说，可见性揭露了一个早已完成的身份，而是说，可见性参与使这一身份在社会中成为可能。歌舞厅、电视节目、杂志、聚会空间或数字网络，使女性能够在私人经验中辨认出某种共同模式，也能够向可能拥有相似经验的人发言。\n\n但 Chaplin 的结论立刻使这一命题变得复杂。只有当人们能够在一定程度上控制可见性的意义时，它才可能赋权。被警方类别、刻板印象、商业幻想或种族主义运动看见，并不等同于能够自我再现。",
+    relatedWorks: [
+      {
+        title: "The Apparitional Lesbian",
+        titleZh: "《幽灵般的女同性恋》",
+        relationEn: "Terry Castle examines the cultural mechanisms through which lesbian presence is made to appear ghostly, absent, or impossible.",
+        relationZh: "Terry Castle 分析女同性恋的存在如何在文化中被制造成幽灵般、缺席或不可能的对象。"
+      },
+      {
+        title: "Disturbing Practices",
+        titleZh: "《扰乱性的实践》",
+        relationEn: "Laura Doan develops the queer historical critique of treating modern identity categories as stable truths across time.",
+        relationZh: "Laura Doan 从酷儿历史方法出发，批判把现代身份类别当作跨越时代的稳定真理。"
+      },
+      {
+        title: "Information Activism",
+        titleZh: "《信息行动主义》",
+        relationEn: "Cait McKinney traces lesbian media technologies and the political labour required to build channels of community information.",
+        relationZh: "Cait McKinney 追踪女同性恋媒介技术，以及建立社群信息渠道所需要的政治劳动。"
+      },
+      {
+        title: "Queer French",
+        titleZh: "《酷儿法语》",
+        relationEn: "Denis Provencher connects language, globalisation, sexual citizenship, and queer belonging in contemporary France.",
+        relationZh: "Denis Provencher 把语言、全球化、性公民身份与当代法国的酷儿归属连接起来。"
+      },
+      {
+        title: "The Straight Mind and Other Essays",
+        titleZh: "《异性恋心智及其他论文》",
+        relationEn: "Monique Wittig offers a major French lesbian critique of heterosexuality as a political and linguistic regime.",
+        relationZh: "莫尼克·维蒂格从法国女同性恋思想出发，批判异性恋作为一种政治与语言制度。"
+      }
+    ],
+    sources: [
+      {
+        label: "University of Chicago Press, Becoming Lesbian",
+        url: "https://press.uchicago.edu/ucp/books/book/chicago/B/bo238328206.html"
+      },
+      {
+        label: "Chicago Scholarship Online, Becoming Lesbian",
+        url: "https://academic.oup.com/chicago-scholarship-online/book/60238"
+      },
+      {
+        label: "Scott Gunther, review in The American Historical Review",
+        url: "https://doi.org/10.1093/ahr/rhaf560"
+      },
+      {
+        label: "University of Illinois, The untold stories of the women of France",
+        url: "https://history.illinois.edu/news/2025-01-23/untold-stories-women-france-professor-chaplins-new-book-explores-nearly-lost"
+      },
+      {
+        label: "University of Illinois, Queering French History",
+        url: "https://criticism.illinois.edu/blog/2023-11-01t155439/queering-french-history-illuminating-lesbian-experience-archive"
+      }
+    ],
+    tags: [
+      "lesbian history",
+      "visibility",
+      "public sphere",
+      "counterpublics",
+      "media history",
+      "sexual citizenship",
+      "modern France"
+    ],
+    tagsZh: [
+      "女同性恋历史",
+      "可见性",
+      "公共领域",
+      "对抗性公共",
+      "媒介史",
+      "性公民身份",
+      "现代法国"
+    ],
+    sourceText: "Tamara Chaplin, Becoming Lesbian: A Queer History of Modern France, University of Chicago Press, 2024",
+    status: "published"
+  },
+  {
+    id: "2026-08-27-yayoi-kusama-self-obliteration",
+    date: "2026-08-27",
+    type: "artist",
+    personId: "kusama-2000",
+    title: "Yayoi Kusama",
+    titleZh: "草间弥生",
+    years: "b. 1929",
+    role: "Artist / Novelist｜艺术家 / 小说家",
+    focusTitle: "When Repetition Dissolves the Boundary of the Self",
+    focusTitleZh: "当重复消融自我的边界",
+    summaryEn: "Yayoi Kusama's dots, nets, soft sculptures, mirror rooms, films, and public actions do more than repeat a signature pattern. Through what she calls self-obliteration, repetition unsettles the boundary between body and environment, the singular object and infinity, private experience and collective space.",
+    summaryZh: "草间弥生的波点、无限网、软雕塑、镜屋、电影与公共行动，并不只是重复一种标志性图案。通过她所说的“自我消融”，重复动摇了身体与环境、单一物体与无限、私人经验与集体空间之间的边界。",
+    introEn: "Yayoi Kusama was born in Matsumoto, Japan, in 1929. According to her official biography, she experienced visions and hallucinations from childhood and began translating recurring fields of dots and nets into drawings. She studied Nihonga painting in Kyoto after the Second World War, but resisted its institutional conventions. In 1957 she left Japan for the United States and, after settling in New York, developed large Infinity Net paintings, soft sculptures, mirrored environments, films, fashion, publications, and public happenings.\n\nKusama's work is often reduced to a recognisable visual brand: brightly coloured dots, pumpkins, and rooms designed for spectacular photographs. That image contains part of the story, but not its structure. Across seven decades, repetition has served as a method for testing scale, perception, sexuality, fear, war, commerce, life, and death. A dot can mark an individual body, spread across a room, or place the earth inside a field of stars. The repeated motif does not simply decorate the world. It asks where the self ends and the world begins.",
+    introZh: "草间弥生1929年出生于日本松本。根据她的官方生平，她从童年起经历幻视与幻觉，并开始把反复出现的波点与网状视野转化为绘画。第二次世界大战后，她在京都学习日本画，却抗拒这套制度的规范。1957年，她离开日本前往美国；定居纽约后，她发展出大型“无限网”绘画、软雕塑、镜面环境、电影、时装、出版物与公共行为。\n\n草间弥生的作品经常被压缩成一种容易辨认的视觉品牌：鲜艳波点、南瓜，以及适合拍摄奇观照片的房间。这种形象包含部分事实，却没有解释作品的结构。七十多年来，重复一直是她检验尺度、感知、性、恐惧、战争、商业、生与死的方法。一个点可以标记单独的身体，可以扩散到整个房间，也可以把地球放回群星组成的场域。反复出现的图案并不只是在装饰世界，而是在追问：自我在哪里结束，世界又从哪里开始？",
+    articleSections: [
+      {
+        title: "Infinity Began with the Hand",
+        titleZh: "无限从手的动作开始",
+        en: "Kusama's Infinity Net paintings emerged during her first years in New York. Across large canvases, she placed thousands of small painted arcs over a ground until the image seemed to continue beyond every edge. The Hirshhorn describes these works as being made without a conventional beginning, end, centre, or composition. Their apparent infinity was produced through finite bodily labour: one brushstroke after another.\n\nThis tension matters. The paintings can look cool, restrained, and close to later Minimalism, but their surface records duration, fatigue, concentration, and compulsion. Infinity is not presented as an abstract idea detached from the body. It is built by a body that can never complete it.",
+        zh: "草间弥生的“无限网”绘画形成于她初到纽约的几年。她在大型画布底色上绘制成千上万个细小弧线，直到图像仿佛越过每一条边缘继续延伸。赫希洪博物馆把这些作品描述为没有传统意义上的开端、终点、中心或构图。看似无限的表面，实际上由有限的身体劳动制造：一笔接着一笔。\n\n这种张力很重要。画面可能显得冷静、克制，并预示后来极简主义的形式语言，但其表面记录着时间、疲劳、专注与强迫。无限并不是脱离身体的抽象观念，而是由一个永远无法把它完成的身体逐步建造出来。"
+      },
+      {
+        title: "Repetition as a Way Through Fear",
+        titleZh: "以重复穿过恐惧",
+        en: "In the early 1960s, Kusama began covering chairs, shoes, ladders, tables, and other found objects with clusters of hand-sewn, stuffed fabric forms. She called these works Accumulations or Compulsion Furniture. The forms were explicitly phallic, and Kusama described reproducing them again and again as a way of confronting sexual fear.\n\nThe result is not a simple image of mastery. The ordinary object remains recognisable, but its usefulness is overwhelmed by excessive growth. A chair becomes difficult to sit on; furniture associated with domestic order becomes strange, comic, and physically insistent. Repetition does not erase anxiety by pretending it was never there. It gives anxiety a material form that can be touched, multiplied, and rearranged.",
+        zh: "20世纪60年代初，草间弥生开始用手工缝制并填充的织物形体覆盖椅子、鞋、梯子、桌子与其他拾得物。她把这些作品称为“积聚”或“强迫家具”。这些形体明确带有阳具特征；草间曾把一次次复制它们描述成面对性恐惧的方式。\n\n结果并不是一幅简单的“战胜恐惧”图景。日常物件仍然可以辨认，其用途却被过度生长的形体淹没。椅子变得难以坐下，与家庭秩序相关的家具则变得陌生、滑稽而具有身体压迫感。重复并不是假装焦虑从未存在，从而把它抹除；它让焦虑获得可以触摸、增殖与重新排列的物质形式。"
+      },
+      {
+        title: "The First Infinity Mirror Room",
+        titleZh: "第一座无限镜屋",
+        en: "In 1965, Kusama created Infinity Mirror Room—Phalli's Field, her first mirrored environment. Mirrors multiplied a field of red-spotted soft forms far beyond the number she could sew by hand. A technical solution to exhausting labour became a major perceptual invention: repetition no longer remained on a canvas or object but surrounded the visitor.\n\nThe viewer is not outside this work. Entering the room places one's own reflected body inside the multiplying field. The mirrors make the visitor appear everywhere while weakening the sense of possessing one stable position. What Kusama called self-obliteration is therefore not simply disappearance. It is an unstable experience of being repeated into an environment larger than the individual self.",
+        zh: "1965年，草间弥生创作了第一座镜面环境《无限镜屋——阳具原野》。镜子把带有红色波点的软雕塑场域增殖到远远超过她能够亲手缝制的数量。一个回应高强度劳动的技术方案，变成了重要的感知发明：重复不再停留于画布或物体表面，而是包围观看者。\n\n观看者并不站在作品之外。走进房间，自己的倒影也会进入不断增殖的场域。镜子使访客仿佛无处不在，同时削弱“我拥有一个稳定位置”的感觉。因此，草间所说的“自我消融”并不只是消失，而是一种不稳定经验：个体被重复进一个比自身更大的环境。"
+      },
+      {
+        title: "Narcissus Garden and the Price of Art",
+        titleZh: "《那喀索斯花园》与艺术的价格",
+        en: "Kusama presented Narcissus Garden outside the 1966 Venice Biennale without an official invitation. The installation placed roughly 1,500 reflective spheres on the lawn. Dressed in a kimono, she attempted to sell individual spheres under a sign announcing “Your Narcissism for Sale” until organisers stopped the action.\n\nThe mirrored balls reflected viewers, architecture, sky, and one another while turning that reflection into a commodity with a price. The work made spectatorship and the art market part of the same scene. Kusama was not only asking people to admire an infinite field; she exposed how desire for one's own image, institutional permission, publicity, and commercial value circulate together.",
+        zh: "1966年，草间弥生在没有获得正式邀请的情况下，于威尼斯双年展场外呈现《那喀索斯花园》。作品把约1500个具有反射效果的球体铺在草地上。她身穿和服，试图在“你的自恋出售中”的标语下逐个售卖球体，直到组织方出面制止。\n\n镜面球反射观看者、建筑、天空与彼此，同时把倒影变成带有价格的商品。作品让观看与艺术市场进入同一个场景。草间不只邀请人们欣赏一个无限场域，也揭示了对自我形象的欲望、制度许可、公共曝光与商业价值如何共同流通。"
+      },
+      {
+        title: "The Body Became a Public Surface",
+        titleZh: "身体成为公共表面",
+        en: "Beginning in 1967, Kusama organised Body Festivals, Anatomic Explosions, and other happenings in New York. She painted dots on participants' bodies and staged actions near sites including the New York Stock Exchange and the United Nations. As opposition to the Vietnam War intensified, these performances joined nudity, publicity, collective participation, and anti-war protest.\n\nThe dots changed function when they moved from canvas to skin. They could interrupt the idea of the nude body as an isolated private object and connect different bodies to one repeated field. Yet the events also depended heavily on photography, newspapers, posters, and Kusama's carefully cultivated public image. Liberation and spectacle were never cleanly separated.",
+        zh: "从1967年起，草间弥生在纽约组织“身体节”“解剖爆炸”及其他行为活动。她把波点画在参与者身体上，并在纽约证券交易所、联合国总部等地点附近发起行动。随着反越战运动加强，这些表演把裸体、公共曝光、集体参与与反战抗议连接起来。\n\n当波点从画布移动到皮肤，其功能也发生变化。它们可以打断“裸体身体是一个孤立私人对象”的观念，把不同身体连接进同一个反复场域。但这些活动也高度依赖摄影、报纸、海报，以及草间精心经营的公共形象。解放与奇观从来没有被干净地分开。"
+      },
+      {
+        title: "A Woman in the New York Avant-Garde",
+        titleZh: "纽约前卫艺术中的女性",
+        en: "Kusama entered the New York art world as a Japanese woman working in scenes dominated by white male artists, critics, dealers, and institutions. Her Infinity Nets, Accumulations, environments, fashion, film, and happenings crossed categories that art history would later organise as Minimalism, Pop, performance, installation, feminist art, and institutional critique. MoMA notes that although her work used approaches associated with these movements, she insisted on defining herself in her own terms.\n\nA feminist reading need not turn every dot into a fixed symbol of womanhood. It can instead attend to how Kusama claimed scale, publicity, authorship, sexuality, and institutional space while refusing to remain in one assigned category. Her practice made the artist's own body visible, but never as a stable or easily possessed image.",
+        zh: "草间弥生以一位日本女性的身份进入纽约艺术界，而当时的艺术家、评论家、经纪人与机构主要由白人男性主导。她的无限网、积聚、环境、时装、电影与行为跨越了后来被艺术史整理为极简主义、波普、行为艺术、装置艺术、女性主义艺术与制度批判的类别。纽约现代艺术博物馆指出，虽然她的作品运用了与这些运动相关的方法，草间始终坚持以自己的方式定义自己。\n\n女性主义阅读不需要把每一个波点都变成固定的女性象征。它更可以关注：草间如何争取尺度、公共曝光、作者身份、性表达与制度空间，同时拒绝停留在任何被分配的单一类别中。她的实践让艺术家自身的身体变得可见，却从不把它呈现成一个稳定、容易占有的形象。"
+      },
+      {
+        title: "Return, Writing, and Continued Reinvention",
+        titleZh: "返回、写作与持续重塑",
+        en: "Kusama returned to Japan in 1973. Her official biography records that she developed an extensive literary practice alongside visual art, writing fiction and poetry while continuing to make sculpture and installation. Her 1983 novel Christopher Street Hustlers Grotto received a literary award for new writers. Later bodies of work include outdoor sculptures, new Infinity Mirror Rooms, the approximately nine hundred paintings of My Eternal Soul made between 2009 and 2021, and the ongoing series Every Day I Pray for Love.\n\nThis long chronology resists the idea that Kusama belongs only to the New York 1960s or to the recent museum spectacle of mirrored rooms. Her practice has repeatedly changed medium while returning to related questions: how life proliferates, how death enters beauty, how solitude becomes communication, and how repetition can both threaten and sustain a self.",
+        zh: "草间弥生于1973年返回日本。她的官方生平记录了她在视觉艺术之外发展出的广泛文学实践：她一边继续创作雕塑与装置，一边写小说和诗。1983年，她的小说《克里斯托弗男娼窟》获得新人文学奖。后来的创作还包括户外雕塑、新的无限镜屋、2009至2021年间约九百幅“我永远的灵魂”系列绘画，以及持续创作的“我每天都为爱祈祷”系列。\n\n这条漫长时间线拒绝把草间弥生只归属于20世纪60年代的纽约，或只归属于近年来美术馆中的镜屋奇观。她不断改变媒介，却持续回到相互关联的问题：生命如何增殖，死亡如何进入美，孤独如何转化为交流，以及重复如何既威胁自我，又支撑自我。"
+      },
+      {
+        title: "The Viewer Is Part of the Work",
+        titleZh: "观看者是作品的一部分",
+        en: "Kusama's popularity is often explained through the photographability of her mirror rooms. But the camera captures only one layer of an encounter structured by time, enclosure, reflection, light, and bodily orientation. In rooms such as Fireflies on the Water, a visitor can feel both multiplied and alone, apparently everywhere and nowhere.\n\nThe work does not offer infinity as something the viewer can own. Entry is temporary, one's image is unstable, and the reflected field exceeds any single frame. Even when a photograph preserves the visit, the room has already made the photographer one transient element within a larger system of repetitions.",
+        zh: "草间弥生的流行经常被解释为镜屋非常适合拍照。但相机只能捕捉一种由时间、封闭空间、反射、光线与身体方向共同组织的经验中的一层。在《水上萤火虫》等房间里，访客可能同时感到自己被无限复制、又极其孤独，仿佛无处不在，也仿佛不存在于任何地方。\n\n作品并没有把无限作为观看者能够拥有的东西。进入房间只是暂时的，个人形象并不稳定，反射场域也超出任何单一画框。即使照片保留了访问记录，房间已经先把摄影者变成更大重复系统中一个短暂的元素。"
+      },
+      {
+        title: "Scholarship",
+        titleZh: "文献依据",
+        en: "This entry is grounded in Yayoi Kusama's official biography and the artist's own concept of self-obliteration. Dates and descriptions of the Infinity Nets, Accumulations, Infinity Mirror Room—Phalli's Field, Narcissus Garden, and the anti-war happenings were cross-checked against the Museum of Modern Art, the Whitney Museum of American Art, and the Smithsonian's Hirshhorn Museum. The National Gallery of Art record was used to verify Infinity Nets Yellow (1960).\n\nDescriptions of psychological experience are limited to the artist's documented self-account and museum records. The broader readings of repetition, bodily boundaries, gender, spectacle, and institutional space are editorial interpretations for this calendar, not direct statements attributed to Kusama.",
+        zh: "本期以草间弥生官方生平及艺术家提出的“自我消融”概念为基础。关于无限网、积聚、《无限镜屋——阳具原野》《那喀索斯花园》与反战行为的年代和作品描述，通过纽约现代艺术博物馆、惠特尼美国艺术博物馆及史密森尼学会赫希洪博物馆交叉核实；《黄色无限网》（1960）的资料则通过美国国家美术馆记录确认。\n\n涉及心理经验的描述仅限于艺术家有记录的自述与美术馆资料。关于重复、身体边界、性别、奇观和制度空间的延伸分析，属于本日历的编辑性解读，不作为草间弥生的直接原话。"
+      }
+    ],
+    quoteSelections: [
+      {
+        en: "Our earth is only one polka dot among a million stars in the cosmos. Polka dots are a way to infinity.",
+        zh: "我们的地球，不过是宇宙万千星辰中的一个波点。波点是通往无限的方式。",
+        source: "Yayoi Kusama, quoted by the Hirshhorn Museum, Yayoi Kusama: Infinity Mirrors"
+      }
+    ],
+    quoteSource: "Yayoi Kusama, quoted by the Hirshhorn Museum, Yayoi Kusama: Infinity Mirrors",
+    quoteReadingEn: "The sentence changes the scale of the dot. A polka dot is not merely a decorative mark placed on a dress, pumpkin, body, or wall. It becomes a model for thinking relationally: the earth is one element in a field too large to be organised around human importance.\n\nYet becoming one dot among others does not mean that difference simply disappears. Each dot remains visible while belonging to a larger pattern. Kusama's infinity holds together two contrary desires: to lose the isolated ego and to leave a mark within a world that exceeds it.",
+    quoteReadingZh: "这句话改变了波点的尺度。波点不再只是放在裙子、南瓜、身体或墙面上的装饰标记，而成为一种关系性的思考模型：地球只是一个巨大场域中的单一元素，而这个场域不再以人类的重要性为中心。\n\n但成为众多波点中的一个，并不意味着差异简单消失。每个点仍然可见，同时又属于更大的图案。草间弥生的无限把两种相反欲望放在一起：既希望失去孤立的自我，又希望在一个远远超出自我的世界里留下痕迹。",
+    relatedWorks: [
+      {
+        title: "Infinity Nets",
+        titleZh: "“无限网”系列",
+        relationEn: "Large paintings in which repeated hand-painted arcs turn finite labour into an apparently boundless field.",
+        relationZh: "以反复手绘的细小弧线，把有限劳动转化为看似无边场域的大型绘画。"
+      },
+      {
+        title: "Accumulation",
+        titleZh: "“积聚”系列",
+        relationEn: "Soft sculptures that cover domestic objects with proliferating phallic forms and make anxiety materially excessive.",
+        relationZh: "以不断增殖的阳具形软体覆盖日常物件，使焦虑获得过度的物质形态。"
+      },
+      {
+        title: "Infinity Mirror Room—Phalli's Field",
+        titleZh: "《无限镜屋——阳具原野》",
+        relationEn: "Kusama's first mirrored environment, created in 1965, transforms repetition into an immersive and participatory experience.",
+        relationZh: "草间弥生1965年创作的第一座镜面环境，把重复转化为沉浸式、参与式经验。"
+      },
+      {
+        title: "Narcissus Garden",
+        titleZh: "《那喀索斯花园》",
+        relationEn: "The 1966 Venice action connects reflection, narcissism, institutional access, publicity, and the pricing of art.",
+        relationZh: "这场1966年的威尼斯行动把倒影、自恋、制度准入、公共曝光与艺术定价连接起来。"
+      },
+      {
+        title: "Kusama's Self-Obliteration",
+        titleZh: "《草间的自我消融》",
+        relationEn: "The 1967 experimental film extends dots, bodies, landscapes, and performance through moving images and editing.",
+        relationZh: "这部1967年的实验电影通过活动影像与剪辑，把波点、身体、风景与行为连接起来。"
+      },
+      {
+        title: "Infinity Net: The Autobiography of Yayoi Kusama",
+        titleZh: "《无限的网：草间弥生自传》",
+        relationEn: "Kusama's autobiography provides her own account of art, psychic experience, ambition, New York, and survival.",
+        relationZh: "草间弥生以自己的语言叙述艺术、心理经验、野心、纽约生活与生存。"
+      }
+    ],
+    sources: [
+      {
+        label: "Yayoi Kusama official biography",
+        url: "https://yayoi-kusama.jp/en/biography/"
+      },
+      {
+        label: "Hirshhorn Museum, Yayoi Kusama: Infinity Mirrors",
+        url: "https://hirshhorn.si.edu/kusama/yayoi-kusama/"
+      },
+      {
+        label: "Hirshhorn Museum, Infinity Mirror Rooms",
+        url: "https://hirshhorn.si.edu/kusama/infinity-rooms/"
+      },
+      {
+        label: "Museum of Modern Art, Yayoi Kusama",
+        url: "https://www.moma.org/artists/3315"
+      },
+      {
+        label: "Museum of Modern Art, Love Forever: Yayoi Kusama, 1958–1968",
+        url: "https://www.moma.org/documents/moma_catalogue_216_300025595.pdf"
+      },
+      {
+        label: "Whitney Museum of American Art, Yayoi Kusama",
+        url: "https://whitney.org/artists/735"
+      },
+      {
+        label: "Whitney Museum, Yayoi Kusama archival material",
+        url: "https://whitney.org/media/845"
+      },
+      {
+        label: "National Gallery of Art, Kusama Yayoi",
+        url: "https://www.nga.gov/artists/26515-kusama-yayoi"
+      }
+    ],
+    tags: [
+      "self-obliteration",
+      "infinity",
+      "repetition",
+      "installation",
+      "performance",
+      "body",
+      "anti-war art"
+    ],
+    tagsZh: [
+      "自我消融",
+      "无限",
+      "重复",
+      "装置",
+      "行为艺术",
+      "身体",
+      "反战艺术"
+    ],
+    sourceText: "Yayoi Kusama official biography; Hirshhorn Museum, Yayoi Kusama: Infinity Mirrors; MoMA, Love Forever: Yayoi Kusama, 1958–1968; Whitney Museum of American Art, Yayoi Kusama",
+    status: "published"
   }
 ];
