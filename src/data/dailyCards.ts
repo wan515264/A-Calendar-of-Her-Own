@@ -10282,6 +10282,1036 @@ Finally, the sentence makes cultural value itself part of the analysis. Prestige
     status: "published"
   },
   {
+    "id": "2026-08-28-ashley-mears-pricing-beauty",
+    "date": "2026-08-28",
+    "type": "book",
+    "title": "Pricing Beauty: The Making of a Fashion Model",
+    "titleZh": "《美丽的标价：模特行业的规则》",
+    "author": "Ashley Mears｜阿什莉·米尔斯",
+    "years": "b. 1976",
+    "role": "Book / Ethnography / Sociology of Work｜著作 / 民族志 / 劳动社会学",
+    "focusTitle": "Who Decides What a Look Is Worth?",
+    "focusTitleZh": "谁决定一种“外形”值多少钱？",
+    "summaryEn": "Fashion models appear to be paid for beauty they already possess. Ashley Mears shows a different process. A marketable “look” is discovered, disciplined, photographed, promoted, classified, and endorsed by an entire production world. Beauty does not enter the market with a price already attached; industry gatekeepers collectively make some bodies valuable and leave many similar bodies without work.\n\nThe book follows the labour hidden by glamour: unpaid castings, body management, agency debt, delayed payment, emotional performance, racial classification, and the gamble that low-paid prestige work might someday lead to a lucrative campaign. Its central question is not simply who is beautiful, but who has the authority to make beauty count.",
+    "summaryZh": "时装模特看起来像是凭借天生拥有的美貌获得报酬。Ashley Mears 展示的却是另一套过程。一种可以出售的“外形”，需要被发现、训练、拍摄、推销、分类，并由一整个生产世界给予认可。美并不是自带价格进入市场；行业守门人共同让某些身体获得价值，也让许多相似的身体得不到工作。\n\n这本书追踪魅力掩盖起来的劳动：无偿试镜、身体管理、经纪公司债务、延迟付款、情感表演、种族分类，以及一种赌注——今天报酬低微却有声望的工作，或许有一天会带来利润丰厚的广告合约。它的核心问题不只是“谁是美的”，而是“谁拥有让美产生价值的权力”。",
+    "introduction": [
+      {
+        "en": "Pricing Beauty: The Making of a Fashion Model was published by the University of California Press in 2011. Its official simplified-Chinese edition, translated by Zhang Hao and published by East China Normal University Press, is titled The Price of Beauty: The Rules of the Modeling Industry. The book examines fashion modelling as a labour market and a cultural-production system rather than as a parade of exceptional celebrities.",
+        "zh": "Pricing Beauty: The Making of a Fashion Model 于2011年由加州大学出版社出版。张皓翻译、华东师范大学出版社出版的正式简体中文版书名为《美丽的标价：模特行业的规则》。这本书把时装模特业作为一个劳动力市场与文化生产系统来研究，而不是把它写成少数名人的成功巡礼。"
+      },
+      {
+        "en": "Mears had modelled before beginning graduate study in sociology. For this research, she returned to the industry and worked through agencies in New York and London. The book's appendix records two and a half years of participant observation, including five Fashion Weeks, hundreds of castings, and dozens of modelling jobs. She also formally interviewed thirty-three agency employees, forty models evenly divided by gender, and forty clients including designers, photographers, editors, stylists, and casting directors.",
+        "zh": "Mears 在攻读社会学研究生之前已经做过模特。为了这项研究，她重新进入行业，在纽约与伦敦的经纪公司工作。书中研究附录记录了两年半的参与式观察，其中包括五届时装周、数百次试镜及数十份不同类型的模特工作。她还正式访谈了33位经纪公司员工、40位性别人数各半的模特，以及40位客户，包括设计师、摄影师、编辑、造型师与选角导演。"
+      },
+      {
+        "en": "This position gave her unusual access, but it did not place her outside the market she studied. Her body was assessed, measured, styled, accepted, rejected, and eventually removed from an agency's roster. The ethnography is therefore also an account of what it means to investigate a market while one's own appearance is being priced inside it.",
+        "zh": "这个位置给予她罕见的进入机会，却没有让她站在所研究市场之外。她的身体同样被评估、测量、造型、接受、拒绝，并最终从经纪公司的模特名单中移除。因此，这部民族志也记录了一种特殊处境：研究者一边调查市场，一边让自己的外表在市场内部接受定价。"
+      }
+    ],
+    "sections": [
+      {
+        "title": "A “Look” Is Not the Same as Beauty",
+        "titleZh": "“外形”并不等于美貌",
+        "paragraphs": [
+          {
+            "en": "Mears distinguishes a model's “look” from beauty in any general sense. Models must usually fit narrow requirements involving youth, height, body measurements, skin, teeth, and bodily condition. Yet passing this threshold does not explain why one candidate is selected over hundreds of physically similar candidates. Industry participants describe the decisive remainder with unstable words such as “edgy,” “classic,” “strong,” “soft,” “special,” or “strange.”",
+            "zh": "Mears 把模特的“外形”与一般意义上的美貌区分开来。模特通常必须符合关于年轻、身高、身体尺寸、皮肤、牙齿与身体状态的狭窄要求，但通过这道门槛，并不能解释为什么一个候选人会从数百位身体相似的人中被选中。行业参与者会用“前卫”“经典”“强烈”“柔和”“特别”或“奇异”等不稳定词语，描述那个决定性的剩余部分。"
+          },
+          {
+            "en": "A look includes appearance, personality, reputation, work performance, photographic effect, and suitability for a particular client at a particular moment. It is not a property that can be located entirely inside the model. It is a social code learned and interpreted by scouts, agents, editors, stylists, photographers, designers, and casting directors.",
+            "zh": "一种“外形”同时包含外貌、个性、声誉、工作表现、上镜效果，以及在某个特定时刻是否适合某位客户。它不是能够完全定位在模特身体内部的属性，而是一套由星探、经纪人、编辑、造型师、摄影师、设计师与选角导演共同学习和解释的社会编码。"
+          },
+          {
+            "en": "The phrase “pricing beauty” therefore names a collective valuation process. The market does not merely discover beauty that already exists. It selects among bodies, attaches meanings to them, and then treats the resulting judgment as though it were self-evident.",
+            "zh": "因此，“给美丽标价”指向一种集体估值过程。市场并不只是发现已经存在的美；它在身体之间作出选择，为身体附加意义，然后又把这一判断呈现成仿佛不言自明的事实。"
+          }
+        ]
+      },
+      {
+        "title": "An Uncertain Market Produces Certainty",
+        "titleZh": "不确定的市场制造确定感",
+        "paragraphs": [
+          {
+            "en": "Fashion clients have no stable formula for predicting which image will impress editors, consumers, or other industry insiders. This uncertainty does not make decisions random. It encourages decision-makers to rely on convention, imitation, reputation, trusted contacts, and the choices already made by prestigious people.",
+            "zh": "时尚客户并没有一套稳定公式，可以预测哪一种图像会打动编辑、消费者或其他业内人士。这种不确定性并不会让决定变得完全随机，反而促使决策者依赖惯例、模仿、声誉、可信关系，以及已经由权威人士作出的选择。"
+          },
+          {
+            "en": "A model gains “buzz” when influential agents and clients begin treating her as someone worth noticing. Attention can then become self-reinforcing: a prestigious booking makes later prestigious bookings more imaginable. What eventually looks like proof of exceptional personal quality may have been produced through a chain of endorsements.",
+            "zh": "当有影响力的经纪人与客户开始把一位模特当作值得注意的人，她便获得了所谓“热度”。注意力随后会自我强化：一次有声望的工作，会让下一次有声望的工作显得更有可能。最终看似证明个人拥有非凡品质的结果，可能是由一连串认可生产出来的。"
+          },
+          {
+            "en": "Mears does not argue that skill or bodily difference is irrelevant. Models learn how to move, pose, endure, socialise, and perform for the camera. Her point is that these capacities never explain value by themselves. They become valuable only inside a network capable of recognising and circulating them.",
+            "zh": "Mears 并没有声称技巧或身体差异毫不重要。模特需要学习如何移动、摆姿势、忍耐、社交并面对镜头表演。她的重点是，这些能力本身永远不足以解释价值；它们只有进入能够承认并传播其价值的网络，才会变得“值钱”。"
+          }
+        ]
+      },
+      {
+        "title": "Prestige Work and Money Work",
+        "titleZh": "声望工作与赚钱工作",
+        "paragraphs": [
+          {
+            "en": "The modelling market is divided broadly into editorial and commercial circuits. Editorial work includes high-fashion magazines and runway shows. It can pay very little or nothing, yet association with prestigious photographers, designers, and publications may generate symbolic capital. Commercial work, including catalogues, advertising, showrooms, and fittings, usually pays more reliably but carries less status within high fashion.",
+            "zh": "模特市场大体分成编辑与商业两条回路。编辑工作包括高级时装杂志与时装秀，报酬可能很低，甚至没有报酬；但与著名摄影师、设计师和刊物建立联系，可能产生象征资本。商业工作包括商品目录、广告、陈列室展示与试衣，通常报酬更稳定，却在高级时尚内部拥有较低地位。"
+          },
+          {
+            "en": "This creates what Mears, drawing on Pierre Bourdieu, describes as an economic world turned upside down. The best-paid regular work can mark a model as too commercial, while poorly paid editorial work may be treated as an investment in a future luxury campaign. Models and agencies repeatedly accept immediate economic loss in the hope that prestige will later become money.",
+            "zh": "这形成了 Mears 借用 Pierre Bourdieu 所描述的“倒转的经济世界”。报酬最好的常规工作可能使模特被标记成“过于商业”；低报酬的编辑工作却可能被视作对未来奢侈品牌广告的投资。模特与经纪公司不断接受眼前的经济损失，希望声望有一天能够转化为金钱。"
+          },
+          {
+            "en": "The conversion is never guaranteed. Symbolic capital can mature into a major campaign, but it can also disappear when fashion changes, a client loses interest, or a younger “fresh face” arrives. The model is asked to treat uncertainty as opportunity while carrying much of its cost.",
+            "zh": "这种转换从来没有保证。象征资本可能成熟为重要广告合约，也可能随着潮流改变、客户失去兴趣或更年轻的“新面孔”出现而消失。模特被要求把不确定性理解成机会，同时承担其中的大部分成本。"
+          }
+        ]
+      },
+      {
+        "title": "The Debt Behind the Dream",
+        "titleZh": "梦想背后的债务",
+        "paragraphs": [
+          {
+            "en": "Agencies commonly advance the costs required to make a model marketable: test photographs, portfolio prints, composite cards, travel, visas, cars, and agency accommodation. These expenses are entered against the model's future earnings. A model can therefore be working, attending castings, and appearing in published images while still owing money to the agency.",
+            "zh": "经纪公司通常会预付让模特变得可以出售所需的成本：测试照、作品集印刷、模特卡、交通、签证、车辆与经纪公司住宿。这些开支随后记入模特未来收入的账目。因此，一位模特可能一直在工作、试镜并出现在公开图像中，却仍然欠经纪公司钱。"
+          },
+          {
+            "en": "The arrangement distributes risk asymmetrically. Agencies invest in many possible careers because one successful campaign can compensate for numerous failures. The individual model, however, cannot spread her risk across dozens of bodies. She carries one career, one account, and a short period in which the industry may consider her current.",
+            "zh": "这种安排以不对称方式分配风险。经纪公司可以投资许多可能的职业生涯，因为一次成功广告足以补偿大量失败；但单个模特无法把风险分散到几十具身体上。她只有一段职业生涯、一个账户，以及一段被行业认为“正当时”的短暂时期。"
+          },
+          {
+            "en": "The book documents wide differences in earnings, including commercially successful models who make substantial incomes. It does not claim that every model loses money. It shows why spectacular winners cannot be used as evidence that the market offers similar chances or rewards to everyone who enters it.",
+            "zh": "本书记录了极为悬殊的收入，其中也包括获得可观收入的成功商业模特。它没有声称每一位模特都会亏钱，而是说明：少数耀眼的赢家，不能被用来证明所有进入市场的人都拥有相似机会或回报。"
+          }
+        ]
+      },
+      {
+        "title": "The Whole Person Becomes the Product",
+        "titleZh": "整个人成为产品",
+        "paragraphs": [
+          {
+            "en": "Modelling is a concentrated form of aesthetic labour. The worker does not leave the product at a studio when the job ends, because the product includes her body, face, personality, reputation, and availability. Eating, sleeping, exercise, sociability, clothing, and informal encounters can all affect whether she is understood as maintaining the right look.",
+            "zh": "模特工作是一种高度集中的审美劳动。工作结束时，劳动者无法把产品留在摄影棚，因为产品本身包括她的身体、脸、个性、声誉与随时可用的状态。饮食、睡眠、运动、社交、服装和非正式接触，都可能影响她是否被认为维持了“正确的外形”。"
+          },
+          {
+            "en": "Models are independent contractors, so discipline often arrives without a conventional manager continuously present. Agents and clients make comments, measurements, photographs, bookings, and rejections; models then learn to monitor themselves. Mears calls the shifting criteria “floating norms”: standards are strict enough to discipline the body but unstable enough that complete compliance can never guarantee success.",
+            "zh": "模特是独立承包者，因此纪律往往在没有传统管理者持续在场的情况下发生。经纪人与客户通过评论、测量、摄影、录用与拒绝施加判断；模特随后学会自我监控。Mears 把这些不断移动的标准称作“浮动规范”：它们严格到足以规训身体，却又不稳定到让完全服从也无法保证成功。"
+          },
+          {
+            "en": "This combination makes rejection difficult to interpret. A model may be too large, too thin, too commercial, not commercial enough, too mature, too young-looking, insufficiently distinctive, or distinctive in the wrong way. Because the criteria move, failure can continually be returned to the worker as a problem she should solve through more work on herself.",
+            "zh": "这种组合使拒绝变得难以解释。一位模特可能被认为太胖、太瘦、太商业、不够商业、太成熟、看起来太年轻、不够独特，或以错误方式独特。因为标准不断移动，失败便可以一次次被送回劳动者自身，成为一个仿佛应该通过更多自我改造解决的问题。"
+          }
+        ]
+      },
+      {
+        "title": "Race Is Rewritten as Taste",
+        "titleZh": "种族被改写成品味",
+        "paragraphs": [
+          {
+            "en": "The modelling industry does not value every body within the narrow size range equally. Mears shows how racial exclusion is often expressed through aesthetic vocabulary rather than explicit biological claims. Producers may speak of a model as unsuitable for a market, insufficiently “aspirational,” too specific, or simply not the look of the moment.",
+            "zh": "即使处在同一套狭窄身体尺寸之内，模特行业也不会平等评价每一具身体。Mears 展示了种族排除如何经常通过审美词汇表达，而不是诉诸明确的生物学主张。生产者可能说某位模特不适合某个市场、不够“令人向往”、特征过于具体，或只是不符合当下需要的外形。"
+          },
+          {
+            "en": "Her chapter “Size Zero High-End Ethnic” distinguishes the logics of commercial and editorial production. Commercial clients may seek racial inclusion when they imagine a diverse consumer market, although this inclusion can remain stereotyped and instrumental. High-end editorial producers make images primarily for other industry insiders and often pursue rarefied distinction within networks where whiteness continues to function as the unmarked centre.",
+            "zh": "在“零号、高端、族裔”一章中，她区分了商业与编辑生产的逻辑。商业客户在想象多元消费者市场时，可能寻求种族包容，尽管这种包容仍可能刻板而工具化；高级编辑生产者主要为其他业内人士制造图像，并经常在白性仍作为无标记中心的网络中追求稀有区分。"
+          },
+          {
+            "en": "This matters because gatekeepers often understand themselves as responding to “the market.” Mears shows that they are also making the market. Their assumptions about consumers, class, femininity, and prestige enter hiring decisions and then reappear in magazines and advertisements as though they were natural public preferences.",
+            "zh": "这一点很重要，因为守门人经常把自己理解成只是在回应“市场”。Mears 却表明，他们也在制造市场。他们对消费者、阶级、女性气质与声望的假设进入录用决定，又在杂志与广告中重新出现，仿佛这些本来就是自然的公众偏好。"
+          }
+        ]
+      },
+      {
+        "title": "An Inverted Wage Gap Is Not Gender Equality",
+        "titleZh": "倒转的工资差距并不等于性别平等",
+        "paragraphs": [
+          {
+            "en": "Fashion modelling is unusual because women often earn more than men. Mears treats this not as proof that gender hierarchy has disappeared, but as evidence that the market assigns different display value to feminised and masculinised bodies. Women's bodies are assumed to be more useful for selling fashion and attracting the gaze; men's bodily display is more likely to be trivialised or treated as incompatible with conventional masculinity.",
+            "zh": "时装模特业的特殊之处在于，女性收入往往高于男性。Mears 没有把这当作性别等级已经消失的证明，而是把它看成市场为女性化与男性化身体分配不同展示价值的证据。女性身体被认为更适合销售时尚并吸引观看；男性的身体展示则更容易受到轻视，或被看作与传统男性气质不相容。"
+          },
+          {
+            "en": "The reversal benefits some women economically, but it rests on a broader order in which women are trained to understand appearance as central to their social value. Female models are recruited younger, subjected to more exact measurements, and expected to treat bodily scrutiny as ordinary professional practice. Higher value as an image does not automatically mean greater authority as a worker.",
+            "zh": "这种倒转在经济上使部分女性受益，却建立在一个更广泛的秩序之上：女性从小被训练成把外表理解为社会价值的核心。女模特被招募得更早，受到更精确的身体测量，也被要求把身体审视当作普通职业实践。作为图像拥有更高价值，并不自动意味着作为劳动者拥有更大权力。"
+          },
+          {
+            "en": "The gender chapter also prevents a simple story in which women are uniquely objectified and men stand outside display. Male models also perform bodily and emotional labour, face sexual propositions, and manage stigma. Their lower pay reveals that objectification, remuneration, and power do not move together in a single direction.",
+            "zh": "性别一章也阻止了一种简单叙事：仿佛只有女性被客体化，而男性完全站在展示之外。男模特同样完成身体与情感劳动，面对性邀约并管理职业污名。他们较低的报酬说明，客体化、收入与权力并不会沿着同一个方向同步移动。"
+          }
+        ]
+      },
+      {
+        "title": "Glamour Hides Collective Labour",
+        "titleZh": "魅力隐藏集体劳动",
+        "paragraphs": [
+          {
+            "en": "The public image of modelling concentrates attention on the individual face. Mears moves attention backstage, toward the agents who campaign for models, the clients who confer prestige, the photographers and stylists who construct images, the accountants who chase payments, and the assistants who coordinate the repeated meetings through which a look acquires value.",
+            "zh": "模特业的公共形象把注意力集中在一张个人面孔上。Mears 把视线移向后台：为模特游说的经纪人、赋予声望的客户、制造图像的摄影师与造型师、追讨付款的会计，以及协调一次次会面、让一种外形逐渐获得价值的助理。"
+          },
+          {
+            "en": "No participant controls the entire process. Bookers may promote a model whom clients repeatedly reject; clients may wait for evidence that other clients already approve; models may perform every instruction without becoming fashionable. Value emerges from coordination and struggle across the field, then appears attached to one person.",
+            "zh": "没有任何参与者能够控制整个过程。经纪人可能推销一位不断遭到客户拒绝的模特；客户可能等待其他客户已经认可她的证据；模特可能服从所有要求，仍然无法成为潮流。价值从整个场域的协调与争夺中产生，最终却看起来附着在一个人身上。"
+          },
+          {
+            "en": "The glamorous result therefore performs a kind of disappearance. The finished photograph shows a seemingly effortless model while removing the castings, waiting, debt, negotiation, bodily control, and collective judgment that made the image possible.",
+            "zh": "因此，魅力结果完成了一种“消失术”。最终照片呈现一位看似毫不费力的模特，却抹去了让图像得以出现的试镜、等待、债务、协商、身体控制与集体判断。"
+          }
+        ]
+      },
+      {
+        "title": "Exit Is Built into the Career",
+        "titleZh": "退出从一开始就写进职业",
+        "paragraphs": [
+          {
+            "en": "Fashion celebrates novelty, and the editorial market continually searches for a “fresh face.” Yet models need time to learn the industry's codes, build relationships, develop confidence, and understand how prestige circulates. By the time a worker acquires the knowledge needed to navigate the market, the same market may decide that she is no longer new.",
+            "zh": "时尚赞美新鲜感，编辑市场持续寻找“新面孔”。但模特需要时间学习行业编码、建立关系、发展信心，并理解声望如何流通。当劳动者终于获得驾驭市场所需的知识时，同一个市场可能已经认为她不再新鲜。"
+          },
+          {
+            "en": "Mears follows careers that bring mobility, income, travel, friendship, and creative experience as well as careers interrupted by debt, unstable housing, abandoned education, and health insecurity. The book refuses both the fantasy that modelling is effortless privilege and the opposite fantasy that every pleasure within it must be false.",
+            "zh": "Mears 追踪的职业生涯既带来流动机会、收入、旅行、友谊与创作经验，也可能被债务、不稳定居住、教育中断与健康保障缺失所打断。这本书既拒绝“模特业只是毫不费力的特权”这一幻想，也拒绝相反的幻想——仿佛其中所有快乐都必然是虚假的。"
+          },
+          {
+            "en": "Its feminist force lies in keeping pleasure and inequality in the same frame. A person can enjoy modelling, make meaningful choices, and still work inside a system whose risks, standards, and powers of valuation are unequally distributed.",
+            "zh": "它的女性主义力量，在于把快乐与不平等保留在同一个画面中。一个人可以享受模特工作、作出有意义的选择，同时仍然在一套风险、标准与估值权分配不均的体系中劳动。"
+          }
+        ]
+      },
+      {
+        "title": "Quotation",
+        "titleZh": "引文",
+        "paragraphs": [
+          {
+            "en": "The sentence identifies the book's central reversal. A model's look is publicly presented as something immediately visible: we are invited to believe that anyone can simply see who has it. Mears instead treats visibility as the finished effect of work performed by many people.",
+            "zh": "这句话指出了全书最核心的反转。模特的外形在公共叙事中被呈现成一种立即可见的东西：仿佛任何人只要看一眼，就能知道谁“拥有它”。Mears 则把这种可见性理解成许多人共同劳动之后产生的最终效果。"
+          },
+          {
+            "en": "The words “natural state” are especially important. If the look appears natural, its exclusions can also appear natural. Thinness, youth, whiteness, class-coded femininity, and a model's market timing may be mistaken for personal essence rather than the result of institutional selection and cultural convention.",
+            "zh": "“天然状态”几个字尤其重要。如果外形显得天然，由它制造的排除也会显得天然。纤细、年轻、白性、带有阶级编码的女性气质，以及模特进入市场的时机，都可能被误认成个人本质，而不是制度选择与文化惯例的结果。"
+          },
+          {
+            "en": "To make the labour visible is not to claim that every model is interchangeable or that aesthetic judgment can be reduced to a conspiracy. It is to restore institutions, relationships, uncertainty, and power to a picture that glamour asks us to read as individual destiny.",
+            "zh": "让劳动变得可见，并不是声称所有模特都可以相互替换，也不是把审美判断简化成一场阴谋。它是在一幅被魅力要求我们理解成个人命运的图像中，重新放回制度、关系、不确定性与权力。"
+          }
+        ]
+      },
+      {
+        "title": "Scholarship",
+        "titleZh": "文献依据",
+        "paragraphs": [
+          {
+            "en": "This entry uses the supplied 2011 University of California Press EPUB as its primary text. All seven chapters and the research appendix were checked directly. The publication date, table of contents, book scope, and author information were cross-checked with the University of California Press and Ashley Mears's research page. The official Chinese title, publisher, translator, publication details, and ISBN were checked against the 2018 East China Normal University Press edition listed by San Min Book Co..",
+            "zh": "本篇以用户提供的2011年加州大学出版社EPUB为主要文本，直接核对了七章正文与研究附录。出版年份、目录、全书范围及作者资料通过加州大学出版社与Ashley Mears 的研究页面交叉确认；正式中文书名、出版社、译者、出版资料与ISBN，则参照三民书局所列2018年华东师范大学出版社版本核实。"
+          },
+          {
+            "en": "The account of editorial and commercial circuits was checked against Mears's chapter “Pricing Looks: Circuits of Value in Fashion Modeling Markets”. The discussion of body discipline and floating norms was checked against her peer-reviewed article “Discipline of the Catwalk”. The analysis of racialised selection was checked against “Size Zero High-End Ethnic”. The treatment of gender performance was cross-checked with Joanne Entwistle and Mears's “Gender on Display”.",
+            "zh": "关于编辑与商业回路的论述，参照 Mears 的“Pricing Looks: Circuits of Value in Fashion Modeling Markets”核对；身体规训与浮动规范参照其同行评议论文“Discipline of the Catwalk”；种族化选择的分析参照“Size Zero High-End Ethnic”；性别表演部分则与 Joanne Entwistle 和 Mears 合著的“Gender on Display”交叉核实。"
+          },
+          {
+            "en": "Published academic reviews in American Journal of Sociology and Gender & Society were used to check the book's scholarly reception. The editorial interpretations in this calendar do not claim that every model is exploited in the same way, that all aesthetic difference is fictitious, or that women earning more than men in this market constitutes gender equality.",
+            "zh": "本文也参照发表于American Journal of Sociology与Gender & Society的学术书评，核对本书的学术反响。日历中的编辑性分析并未声称每位模特都以相同方式受到剥削、所有审美差异都是虚构，也没有把这个市场中女性收入高于男性理解成已经实现性别平等。"
+          }
+        ]
+      }
+    ],
+    "quote": "There is an entire world of work that goes into producing that which appears to be a natural state: a model's ‘look.’",
+    "quoteReadingZh": "为了生产出一种看似天然的状态——模特的‘外形’——背后存在着一整个劳动世界。",
+    "quoteSource": "Ashley Mears, Pricing Beauty, Chapter 1, “Entry”",
+    "relatedWorks": [
+      "Very Important People: Status and Beauty in the Global Party Circuit｜《当女孩成为货币》— Ashley Mears",
+      "“Pricing Looks: Circuits of Value in Fashion Modeling Markets”｜《给外形定价：时装模特市场中的价值回路》— Ashley Mears",
+      "“Discipline of the Catwalk: Gender, Power and Uncertainty in Fashion Modeling”｜《T台的规训：时装模特业中的性别、权力与不确定性》— Ashley Mears",
+      "“Size Zero High-End Ethnic: Cultural Production and the Reproduction of Culture in Fashion Modeling”｜《零号、高端、族裔：时装模特业中的文化生产与文化再生产》— Ashley Mears",
+      "“Gender on Display: Performativity in Fashion Modelling”｜《展示中的性别：时装模特业的表演性》— Joanne Entwistle and Ashley Mears"
+    ],
+    "tags": [
+      "fashion models",
+      "beauty",
+      "labour",
+      "ethnography",
+      "valuation",
+      "gender",
+      "race"
+    ],
+    "sources": [
+      {
+        "label": "University of California Press",
+        "url": "https://www.ucpress.edu/book/9780520270763/pricing-beauty"
+      },
+      {
+        "label": "Ashley Mears's research page",
+        "url": "https://www.ashleymears.com/pricing-beauty"
+      },
+      {
+        "label": "San Min Book Co.",
+        "url": "https://www.sanmin.com.tw/product/index/006865201"
+      },
+      {
+        "label": "“Pricing Looks: Circuits of Value in Fashion Modeling Markets”",
+        "url": "https://academic.oup.com/book/6024/chapter-abstract/149431403"
+      },
+      {
+        "label": "“Discipline of the Catwalk”",
+        "url": "https://journals.sagepub.com/doi/10.1177/1466138108096985"
+      },
+      {
+        "label": "“Size Zero High-End Ethnic”",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0304422X09000485"
+      },
+      {
+        "label": "“Gender on Display”",
+        "url": "https://kclpure.kcl.ac.uk/portal/en/publications/gender-on-display-performativity-in-fashion-modelling/"
+      },
+      {
+        "label": "*American Journal of Sociology*",
+        "url": "https://www.journals.uchicago.edu/doi/10.1086/664830"
+      },
+      {
+        "label": "*Gender & Society*",
+        "url": "https://journals.sagepub.com/doi/full/10.1177/0891243212461302"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "2026-08-29-mason-currey-daily-rituals-women-at-work",
+    "date": "2026-08-29",
+    "type": "book",
+    "title": "Daily Rituals: Women at Work",
+    "titleZh": "《她们的创作日常》",
+    "author": "Mason Currey｜梅森·柯里",
+    "years": "b. 1975",
+    "role": "Book / Biography / Creative Work｜著作 / 传记 / 创作劳动",
+    "focusTitle": "Who Gets to Have a Creative Routine?",
+    "focusTitleZh": "谁有资格拥有一种创作日常？",
+    "summaryEn": "The word “routine” suggests control: a quiet desk, protected hours, regular meals, and a life arranged around work. In Daily Rituals: Women at Work, Mason Currey gathers 143 short portraits of women writers, artists, composers, performers, filmmakers, and scientists whose working lives were rarely so orderly. Many created while earning wages, raising children, caring for relatives, managing households, resisting hostile families, or negotiating institutions that treated women's ambition as secondary.\n\nThe book's most revealing question is therefore not “What is the perfect routine?” It is “Who receives the time, space, money, care, and permission from which a routine can be built?” A ritual may be a disciplined morning schedule, but it may also be ten minutes beside the children, writing before a factory shift, or returning to an unfinished page after the dishes are done.",
+    "summaryZh": "“日常”这个词常常意味着一种控制感：安静的书桌、受到保护的时间、规律的饮食，以及围绕工作安排好的人生。但在《她们的创作日常》中，Mason Currey 收集的143幅女性创作者短篇肖像很少如此整齐。许多人一边谋生，一边养育孩子、照顾亲人、维持家庭、抵抗家人的反对，或在把女性抱负视为次要事务的制度中争取位置，同时完成写作、艺术、音乐、表演、电影与科学工作。\n\n因此，这本书最值得追问的并不是“最完美的日程是什么”，而是“谁能够获得建立日程所需的时间、空间、金钱、照护与许可”。创作仪式可以是严格的晨间安排，也可以是孩子身边的十分钟、轮班工作开始前的一段写作，或洗完碗以后重新回到尚未完成的页面。",
+    "introduction": [
+      {
+        "en": "Daily Rituals: Women at Work was published by Alfred A. Knopf in 2019. It is a sequel to Currey's 2013 book Daily Rituals: How Artists Work, but its introduction also calls it a corrective. Only 27 of the first book's 161 subjects were women. The later volume turns entirely to the working lives of 143 women.",
+        "zh": "Daily Rituals: Women at Work 于2019年由 Alfred A. Knopf 出版。它既是 Currey 2013年著作 Daily Rituals: How Artists Work 的续篇，也在前言中被作者称为一次纠正。前一本书收录的161人中只有27位女性，后一本书则完全转向143位女性的工作生活。"
+      },
+      {
+        "en": "The simplified-Chinese edition, translated by Bai Ruixia and published by Hunan People's Publishing House in 2025, is titled Their Creative Daily Lives. Currey constructs each entry from biographies, diaries, letters, interviews, autobiographies, and other published accounts. The result is not a single theory of female creativity, but a comparative archive of how work was made possible under radically different conditions.",
+        "zh": "白瑞霞翻译、湖南人民出版社于2025年出版的简体中文版名为《她们的创作日常》。Currey 依据传记、日记、书信、访谈、自传与其他已出版资料写成各个人物条目。全书并不试图建立一套统一的“女性创造力理论”，而是形成一份比较档案，展示创作如何在截然不同的条件下成为可能。"
+      }
+    ],
+    "sections": [
+      {
+        "title": "A Sequel and a Corrective",
+        "titleZh": "一部续篇，也是一次纠正",
+        "paragraphs": [
+          {
+            "en": "Currey begins by acknowledging a failure of selection. His first book aimed to portray celebrated creative minds in Western culture, but the canon he treated as an obvious starting point was overwhelmingly male. The imbalance was not produced only by missing information. It also reflected what editors, publishers, museums, schools, and cultural memory had already trained readers to recognise as greatness.",
+            "zh": "Currey 从承认一次选择上的失败开始。第一本书原本希望描绘西方文化中著名创作者的工作方式，但那个被当作理所当然起点的经典名单几乎完全由男性构成。这种失衡并不只是资料不足造成的，它也反映了编辑、出版商、美术馆、学校与文化记忆早已训练读者把什么认作“伟大”。"
+          },
+          {
+            "en": "Adding 143 women does more than repair a list of names. It changes the meaning of a creative routine. Many men in the earlier volume could divide their days among work, walks, meals, naps, correspondence, and conversation because wives, servants, inherited wealth, or secure employment absorbed the practical demands of life. The women's profiles make those supporting conditions harder to overlook.",
+            "zh": "补入143位女性，不只是修复一份名字清单，也改变了“创作日常”的含义。前一本书中的许多男性之所以能够把一天整齐地分配给工作、散步、吃饭、午睡、通信与交谈，是因为妻子、佣人、继承财产或稳定职业吸收了生活中的实际需求。女性人物的故事使这些支撑条件更难被忽视。"
+          },
+          {
+            "en": "The correction is therefore methodological as well as numerical. Once women move to the centre, routine can no longer be described only as personal preference. It becomes a record of who prepares meals, who watches children, who controls money, whose room can be closed, and whose work is permitted to interrupt family life.",
+            "zh": "因此，这次纠正既关乎数量，也关乎方法。当女性进入中心，“日常”便不能再只被描述成个人偏好。它同时记录着谁准备饭菜、谁照看孩子、谁控制金钱、谁能够关上房门，以及谁的工作被允许打断家庭生活。"
+          }
+        ]
+      },
+      {
+        "title": "Routine Is a Material Condition",
+        "titleZh": "日常是一种物质条件",
+        "paragraphs": [
+          {
+            "en": "A routine is often presented as a psychological technology: wake early, remove distractions, repeat the same gestures, and inspiration will follow. Currey's collection shows that repetition depends on material arrangements. A person needs some combination of time, space, health, income, childcare, tools, mobility, education, and social recognition before a stable schedule becomes possible.",
+            "zh": "日常经常被描绘成一种心理技术：早起、排除干扰、重复相同动作，灵感便会到来。但 Currey 的人物集表明，重复首先依赖物质安排。一个人需要时间、空间、健康、收入、育儿支持、工具、行动自由、教育与社会承认中的若干条件，稳定日程才可能出现。"
+          },
+          {
+            "en": "This does not mean that privileged conditions automatically produce important work, or that hardship produces better art. It means that the visible habit belongs to a larger infrastructure. When that infrastructure is absent, the worker must build it, borrow it, improvise it, or work in fragments.",
+            "zh": "这并不意味着优越条件会自动产生重要作品，也不意味着困境能够制造更好的艺术。它意味着，可见的习惯属于一套更大的基础设施。当这套基础设施不存在时，创作者必须亲手建立、向他人借用、临时拼装，或只能在碎片时间里工作。"
+          }
+        ]
+      },
+      {
+        "title": "Octavia Butler: Before the Workday Begins",
+        "titleZh": "Octavia Butler：在工作日开始以前",
+        "paragraphs": [
+          {
+            "en": "Before she could live from fiction, Octavia Butler worked as a dishwasher, telemarketer, warehouse worker, and potato-chip inspector. Physical labour left her too tired to write at night, so she learned to wake in the early morning, sometimes around two, and write before leaving for work. The schedule was not a fashionable productivity ritual. It was an adaptation to wage labour and exhaustion.",
+            "zh": "在能够依靠小说生活以前，Octavia Butler 做过洗碗工、电话推销员、仓库工人与薯片检验员。体力劳动让她夜晚疲惫得无法写作，于是她学会在清晨起床，有时凌晨两点左右便开始写，直到必须出门上班。这套日程并不是一种时髦的效率仪式，而是对有薪劳动与身体疲惫的适应。"
+          },
+          {
+            "en": "Currey also records Butler's insistence that writers discover their own working conditions by observing themselves and other writers. Her early mornings were not a universal command. They were a solution she found because sleep created a boundary between other people's demands and the solitude she needed for fiction.",
+            "zh": "Currey 也记录了 Butler 的主张：作家需要通过观察自己与其他作家，发现真正适合自己的工作条件。她的清晨写作并不是一条普遍命令，而是她找到的一种解决方法，因为睡眠在他人的需求与小说所需的独处之间建立了一道边界。"
+          }
+        ]
+      },
+      {
+        "title": "Ten Minutes Can Preserve a Practice",
+        "titleZh": "十分钟也能保存一种实践",
+        "paragraphs": [
+          {
+            "en": "When Barbara Hepworth's four children were young, she could not maintain the long studio days available to her later in life. She nevertheless tried to touch her sculpture every day, even when only ten minutes were available. For Hepworth, brief contact kept ideas developing through interruption and prevented domestic crisis from postponing art indefinitely.",
+            "zh": "Barbara Hepworth 的四个孩子年幼时，她无法维持晚年那种漫长而连续的工作室日程。但即使只有十分钟，她仍尽量每天接触雕塑。对 Hepworth 来说，这种短暂接触让想法能够穿过一次次中断继续发展，也避免家庭中的紧急事务把艺术无限推迟。"
+          },
+          {
+            "en": "Ruth Asawa developed a related practice while raising six children. She worked with simple materials in the midst of family life and returned to sculpture whenever a free interval appeared. Her routine did not depend on separating art completely from the household. It made art one of the household's ordinary activities.",
+            "zh": "Ruth Asawa 在养育六个孩子时发展出一种相近的实践。她使用简单材料，在家庭生活中间工作，只要出现空闲片刻便回到雕塑。她的日常并不依赖把艺术与家庭彻底分开，而是让艺术成为家庭中的一种普通活动。"
+          },
+          {
+            "en": "These examples should not be romanticised as proof that women can effortlessly “have it all.” They show discipline, but they also reveal why continuity itself becomes an achievement when uninterrupted time is unevenly distributed.",
+            "zh": "这些例子不应被浪漫化成女性可以毫不费力地“拥有一切”的证明。它们的确展示了自律，但也揭示了另一件事：当不受打扰的时间分配不均时，保持工作的连续性本身便会成为一种成就。"
+          }
+        ]
+      },
+      {
+        "title": "Domestic Work Does Not Disappear",
+        "titleZh": "家务劳动不会自动消失",
+        "paragraphs": [
+          {
+            "en": "Shirley Jackson wrote six novels and many stories while raising four children and running a large household. Currey's account shows her composing mentally while making beds, washing dishes, shopping, and driving children to activities, then typing when an interval opened. The writing desk was not the beginning of her work; much of the imaginative process had already taken place during domestic labour.",
+            "zh": "Shirley Jackson 在养育四个孩子、维持一个繁忙家庭的同时写成六部长篇小说与许多短篇作品。Currey 的叙述显示，她在铺床、洗碗、购物和开车送孩子时已在头脑中构思，直到出现空档才坐下来打字。书桌并不是她工作的起点，大量想象活动早已发生在家务劳动之中。"
+          },
+          {
+            "en": "Grace Paley's life was pulled among writing, teaching, political activism, marriage, and motherhood. She refused the fantasy that a meaningful life could be reduced to one perfectly protected project. Her example broadens the book's question: creative time is not only time rescued from other commitments; political work, relationships, and children may also belong to the life a writer is trying to understand.",
+            "zh": "Grace Paley 的生活同时受到写作、教学、政治行动、婚姻与母职的牵引。她拒绝一种幻想，即有意义的人生可以被缩减成一个受到完美保护的项目。她的例子扩展了全书的问题：创作时间并不只是从其他责任中抢救出来的时间；政治工作、人际关系与孩子，也可能属于作家试图理解的生活本身。"
+          },
+          {
+            "en": "The point is not that domestic labour secretly improves art. It is that histories of art often show the finished book, sculpture, or performance while leaving the surrounding work invisible. Currey restores some of that missing labour to the frame.",
+            "zh": "这里的重点并不是家务会秘密提升艺术，而是艺术史经常展示完成的书、雕塑或表演，却让环绕作品的劳动消失。Currey 把部分被遗漏的劳动重新放回画面。"
+          }
+        ]
+      },
+      {
+        "title": "Refusal Also Has a Cost",
+        "titleZh": "拒绝同样需要付出代价",
+        "paragraphs": [
+          {
+            "en": "Some women protected their work by refusing marriage, motherhood, housekeeping, or conventional respectability. Others left relationships, delegated care, relied on partners, or accepted disorder. These decisions could open creative space, but they could also bring guilt, public condemnation, financial insecurity, or lasting conflict.",
+            "zh": "一些女性通过拒绝婚姻、母职、家务或传统体面生活来保护工作；另一些人离开关系、转交照护责任、依靠伴侣，或接受生活中的混乱。这些决定可能打开创作空间，也可能带来愧疚、公众谴责、经济不安或长期冲突。"
+          },
+          {
+            "en": "Doris Lessing's story makes the moral difficulty especially visible. Her departure from two of her children cannot be turned into a simple tale of liberation, and Currey does not present it that way. The episode shows how a social order can make care and vocation appear mutually destructive, then place responsibility for that conflict almost entirely on an individual woman.",
+            "zh": "Doris Lessing 的故事尤其清楚地呈现了这种道德困难。她离开两个孩子的决定不能被改写成简单的解放叙事，Currey 也没有如此处理。这段经历显示，一种社会秩序如何让照护与志业显得彼此摧毁，然后又把这场冲突的责任几乎完全放到一个女性个体身上。"
+          },
+          {
+            "en": "The book is strongest when it allows such choices to remain unresolved. There is no single arrangement that makes art innocent of dependence, sacrifice, or unequal care. The question is not whether a woman chose perfectly, but why the available choices were structured as they were.",
+            "zh": "这本书最有力量的地方，在于它允许这些选择保持未解决状态。没有任何一种安排能够让艺术彻底摆脱依赖、牺牲或不平等照护。问题并不是一位女性是否作出了完美选择，而是她能够选择的选项为什么被如此组织。"
+          }
+        ]
+      },
+      {
+        "title": "Routine Is Not a Moral Ranking",
+        "titleZh": "日常不是道德排行榜",
+        "paragraphs": [
+          {
+            "en": "The 143 profiles resist a universal formula. Virginia Woolf protected regular morning hours; Susan Sontag often worked in intense bursts; Isabel Allende attached beginnings to a date; Jessye Norman distrusted rituals; some women needed solitude, while others worked among children, assistants, collaborators, students, or performers.",
+            "zh": "143幅人物肖像拒绝提供一套普遍公式。Virginia Woolf 保护规律的晨间时间；Susan Sontag 经常以高度集中的长时间爆发完成工作；Isabel Allende 把开篇与一个特定日期联系起来；Jessye Norman 不信任仪式；一些女性需要独处，另一些人则在孩子、助理、合作者、学生或表演者中间工作。"
+          },
+          {
+            "en": "Regularity is not evidence of greater seriousness, and disorder is not evidence of greater freedom. A routine can protect concentration, but it can also become punishing. An irregular practice can be responsive and alive, but it can also reflect precarity. The schedule acquires meaning only when read together with the conditions that produced it.",
+            "zh": "规律并不证明一个人更加认真，混乱也不证明一个人更加自由。日程可以保护专注，也可能变得具有惩罚性；不规则的实践可以灵活而充满生命，也可能反映不稳定处境。只有把日程与生产它的条件放在一起阅读，它才真正具有意义。"
+          },
+          {
+            "en": "This is why the book should not be used as a catalogue of habits to copy. Its value lies less in discovering what time a famous woman woke up than in seeing how she learned what her work required, what she had to negotiate, and who or what made persistence possible.",
+            "zh": "这也是为什么本书不应被当作一份可以照抄的习惯目录。它的价值不只在于发现一位著名女性几点起床，而在于看见她如何认识工作的需要、必须协商什么，以及谁或什么让坚持成为可能。"
+          }
+        ]
+      },
+      {
+        "title": "Who Supports the Ritual?",
+        "titleZh": "谁在支撑这种日常？",
+        "paragraphs": [
+          {
+            "en": "The mythology of creative genius concentrates attention on the person whose name appears on the work. A daily-life perspective reveals a wider cast: partners who share care, relatives who oppose or enable ambition, editors who impose deadlines, assistants who extend physical capacity, schools and patrons that provide access, and workers whose paid or unpaid labour keeps a household functioning.",
+            "zh": "创造天才的神话把注意力集中在作品署名者身上，而日常生活的视角揭示出更广泛的参与者：分担照护的伴侣、反对或支持抱负的亲属、设定期限的编辑、延伸身体能力的助理、提供准入机会的学校与赞助者，以及用有偿或无偿劳动维持家庭运转的人。"
+          },
+          {
+            "en": "Naming this support does not diminish the creator's achievement. It makes achievement more accurately social. It also allows us to ask why some artists are praised for complete devotion while the people who make that devotion possible disappear from the story.",
+            "zh": "说出这些支持，并不会削弱创作者的成就，而是更准确地揭示成就的社会性。它也让我们能够追问：为什么一些艺术家会因全身心投入而受到赞美，让这种投入成为可能的人却从故事中消失？"
+          },
+          {
+            "en": "For women, the historical asymmetry is especially sharp. They were often expected to provide the background labour that protected somebody else's concentration while treating their own work as optional. To establish a ritual was therefore sometimes to make a claim: this work is not a hobby left over after life; it is part of life itself.",
+            "zh": "对女性而言，这种历史不对称尤其尖锐。她们经常被期待提供保护他人专注的背景劳动，同时又把自己的工作视为可有可无的事情。因此，建立一种创作日常有时也是在提出一项主张：这份工作不是生活剩余时间里的爱好，它本身就是生活的一部分。"
+          }
+        ]
+      },
+      {
+        "title": "Quotation",
+        "titleZh": "引文",
+        "paragraphs": [
+          {
+            "en": "The sentence holds together two truths that productivity culture often separates. Making time for creative work may require difficult negotiations, material support, refusal, compromise, or loss. Yet the work is not merely another burden added to an already crowded life. It can also be the activity through which a person recovers attention, pleasure, identity, and contact with herself.",
+            "zh": "这句话把效率文化经常分开的两个事实放在一起。为创作争取时间，可能需要艰难协商、物质支持、拒绝、妥协或失去；但创作并不只是加在拥挤生活上的又一项负担，它也可能是一种活动，让一个人重新获得注意力、快乐、身份与同自己的联系。"
+          },
+          {
+            "en": "“Cunning” matters because direct permission was often unavailable. Women worked before others woke, after children slept, inside illness, between appointments, or under the cover of socially acceptable roles. Their methods reveal resourcefulness, but they also expose the arrangements that made resourcefulness necessary.",
+            "zh": "“机智”这个词很重要，因为直接的许可往往并不存在。女性在别人醒来以前、孩子睡着以后、疾病之中、约会之间，或借助社会能够接受的身份掩护完成工作。她们的方法展示了应变能力，也暴露了为什么这种应变能力会成为必要。"
+          },
+          {
+            "en": "The restorative quality of work likewise resists a simple opposition between vocation and care. Creative practice may compete with other lives and obligations, but it can also preserve the self who performs that care. The demand for time to work is therefore not necessarily a rejection of relationship. It can be a demand to remain a full person within it.",
+            "zh": "创作的修复性同样拒绝把志业与照护简单对立起来。创作实践可能与他人的生活和责任竞争，却也可能保存那个承担照护的自我。因此，要求拥有工作的时间并不必然意味着拒绝关系，也可以意味着要求在关系中继续作为一个完整的人存在。"
+          }
+        ]
+      },
+      {
+        "title": "Sources and Editorial Method",
+        "titleZh": "资料与编辑说明",
+        "paragraphs": [
+          {
+            "en": "This entry uses the supplied Pan Macmillan EPUB as its primary text. The introduction, all thirteen grouped sections, the 143 biographical profiles, and the source notes were checked directly. The quotation above is reproduced from Currey's introduction; its Chinese rendering is a calendar translation rather than a quotation from the published Chinese edition.",
+            "zh": "本篇以用户提供的 Pan Macmillan EPUB 为主要文本，直接核对了前言、十三组正文、143篇人物小传与资料注释。上方英文引文来自 Currey 的前言，中文为本日历翻译，并非正式中文版原句。"
+          },
+          {
+            "en": "Publication date, publisher, page count, scope, and the description of the book as a sequel were cross-checked with Penguin Random House and Mason Currey's official book page. Currey's explanation of the gender imbalance in his first volume and the different conditions shaping women's routines was checked against his 2020 interview with The Korea Times.",
+            "zh": "出版日期、出版社、页数、全书范围及其续篇性质，通过企鹅兰登与Mason Currey 官方图书页面交叉核实。作者对第一本书性别失衡的说明，以及女性日常受到不同条件塑造的讨论，则参照其2020年接受The Korea Times的访谈。"
+          },
+          {
+            "en": "The official simplified-Chinese title, translator, publisher, publication date, and ISBN were checked against the bibliographic record for the 2025 edition: Their Creative Daily Lives, translated by Bai Ruixia, Hunan People's Publishing House, ISBN 9787556137831. The structural argument about time, care, and support in this calendar is an editorial interpretation based on comparisons across the book; it is not presented as a direct statement made by every woman profiled.",
+            "zh": "正式简体中文书名、译者、出版社、出版日期与ISBN依据2025年版本书目核实：《她们的创作日常》，白瑞霞译，湖南人民出版社，ISBN 9787556137831。本日历关于时间、照护与支持结构的论述，是在比较全书人物后形成的编辑性分析，并不声称书中每一位女性都直接表达了相同观点。"
+          }
+        ]
+      }
+    ],
+    "quote": "Even as making space for creative work may require reserves of cunning and sacrifice, the work itself is often deeply absorbing and restorative.",
+    "quoteReadingZh": "即使为创作腾出空间需要大量机智与牺牲，创作本身仍常常令人全神贯注，并带来修复的力量。",
+    "quoteSource": "Mason Currey, Daily Rituals: Women at Work, Introduction",
+    "relatedWorks": [
+      "Daily Rituals: How Artists Work｜《创作者的日常生活》— Mason Currey",
+      "A Room of One's Own｜《一间自己的房间》— Virginia Woolf",
+      "The Second Shift｜《第二轮班》— Arlie Russell Hochschild and Anne Machung",
+      "The Argonauts｜《阿尔戈英雄》— Maggie Nelson",
+      "Bloodchild and Other Stories｜《血孩子》— Octavia E. Butler",
+      "A Rather Haunted Life｜《雪莉·杰克逊：一段颇受困扰的人生》（暂译）— Ruth Franklin"
+    ],
+    "tags": [
+      "creative work",
+      "routine",
+      "women artists",
+      "time",
+      "care",
+      "labour"
+    ],
+    "sources": [
+      {
+        "label": "Penguin Random House",
+        "url": "https://www.penguinrandomhouse.com/books/604080/daily-rituals-women-at-work-by-mason-currey/"
+      },
+      {
+        "label": "Mason Currey's official book page",
+        "url": "https://www.masoncurrey.com/daily-rituals-women-at-work"
+      },
+      {
+        "label": "*The Korea Times*",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20200117/women-pull-off-creative-works-against-all-odds"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "2026-08-30-roland-allen-the-notebook",
+    "date": "2026-08-30",
+    "type": "book",
+    "title": "The Notebook: A History of Thinking on Paper",
+    "titleZh": "《笔记本：纸上思考史》（暂译）",
+    "author": "Roland Allen｜罗兰·艾伦",
+    "role": "Book / Material Culture / Intellectual History｜著作 / 物质文化 / 思想史",
+    "focusTitle": "Whose Thoughts Survive on Paper?",
+    "focusTitleZh": "谁的思想能够在纸上留下来？",
+    "summaryEn": "A notebook looks like an empty object. Roland Allen's The Notebook shows that its blank pages are a technology: they allow people to store memory, test an idea, draw what does not yet exist, reorganise information, keep accounts, record a journey, draft a novel, preserve a recipe, or speak privately to a future self.\n\nBut paper does not preserve every life equally. For centuries, access to literacy, paper, education, professional work, and archives was uneven. Women's notebooks often survived under labels such as diary, recipe book, friendship album, household record, or private journal rather than philosophy, science, or literature. When historians return to these pages, apparently ordinary records can change what counts as knowledge and whose work enters history.",
+    "summaryZh": "笔记本看起来像一个空白物件。Roland Allen 的《笔记本》表明，空白页面其实是一种技术：人们借它储存记忆、试验想法、画出尚不存在的事物、重组信息、记录账目与旅程、起草小说、保存食谱，或私下向未来的自己说话。\n\n但纸张并不会平等保存每一种人生。几个世纪以来，识字能力、纸张、教育、专业工作与档案保存的机会分配不均。女性留下的笔记常被归入日记、食谱、纪念册、家庭账簿或私人手记，而不是哲学、科学或文学。当历史学家重新阅读这些页面，看似普通的记录便可能改变什么算作知识，以及谁的劳动能够进入历史。",
+    "introduction": [
+      {
+        "en": "The Notebook: A History of Thinking on Paper was first published by Profile Books in the United Kingdom in 2023. The supplied EPUB is the 2024 Biblioasis edition. Allen is a publisher and longtime diarist who became interested in why an object made from bound blank pages remained useful despite increasingly powerful digital alternatives.",
+        "zh": "The Notebook: A History of Thinking on Paper 于2023年由英国 Profile Books 首次出版。用户提供的 EPUB 是2024年 Biblioasis 版本。Allen 是出版人，也长期书写日记。他关注的问题是：在数字工具越来越强大的时代，为什么由装订空白纸页构成的物件仍然如此有用？"
+      },
+      {
+        "en": "Across thirty chapters, the book moves from ancient tablets and medieval account books to sketchbooks, commonplace books, travel journals, ships' logs, scientific field notes, authors' notebooks, recipe books, bullet journals, patient diaries, and contemporary studies of handwriting. Its conclusion connects the notebook to the philosophical idea of the extended mind.",
+        "zh": "全书共三十章，从古代书写板与中世纪账簿，写到素描本、摘抄本、旅行手记、航海日志、科学考察记录、作家笔记、食谱本、子弹笔记、病人日记与当代手写研究。结尾把笔记本与哲学中的“延展心智”观念联系起来。"
+      },
+      {
+        "en": "Allen describes this as a history of Europe's adventure with the notebook. The book includes encounters with other places, but it is not a comprehensive global history of paper thinking. This boundary matters, especially when asking whose writing traditions remain outside the story.",
+        "zh": "Allen 把它描述成一部欧洲使用笔记本的历史。书中也涉及其他地区，却不是一部完整的全球纸上思考史。指出这一边界十分重要，尤其当我们继续追问：还有哪些书写传统没有进入这套叙述？"
+      }
+    ],
+    "sections": [
+      {
+        "title": "The Blank Page Is a Technology",
+        "titleZh": "空白页面是一种技术",
+        "paragraphs": [
+          {
+            "en": "The notebook is easy to overlook because it does not dictate a single use. A printed book arrives with words already arranged; a form asks predetermined questions. A notebook provides sequence, portability, physical boundaries, and the possibility of revision, while leaving the purpose of each page open.",
+            "zh": "笔记本之所以容易被忽视，是因为它并不规定单一用途。印刷书带着已经排列好的文字出现，表格则提出预先决定的问题。笔记本提供顺序、便携性、物理边界与修改的可能，却把每一页的用途留给使用者。"
+          },
+          {
+            "en": "Allen traces important developments to the commercial worlds of late medieval Italy, where paper account books helped merchants record transactions and compare credits with debits. The same practices of collecting, crossing out, transferring, grouping, and reviewing information later travelled into art, science, travel, literature, and personal life.",
+            "zh": "Allen 把重要发展追溯到中世纪晚期意大利的商业世界，纸质账簿帮助商人记录交易并核对借贷。收集、划除、转移、分组与回看信息的做法，后来进入艺术、科学、旅行、文学与私人生活。"
+          },
+          {
+            "en": "The notebook did not merely hold thought after it had occurred. Marks on the page could be inspected, rearranged, answered, or contradicted. Thinking became a loop between eye, hand, paper, and mind.",
+            "zh": "笔记本并不只是在思想发生以后收纳它。页面上的痕迹可以被查看、重排、回应或反驳。思考由此成为眼睛、手、纸张与头脑之间的循环。"
+          }
+        ]
+      },
+      {
+        "title": "From Muse to Writer",
+        "titleZh": "从缪斯到书写者",
+        "paragraphs": [
+          {
+            "en": "Early in the book, Allen discusses a Pompeian image of a woman holding a writing tablet and stylus. It has often been casually identified as Sappho, although the evidence does not support that name. Scholarship cited by Allen notes a gendered visual convention: men with tablets could be shown managing business or practising letters, while women were more readily represented as Muses who inspired knowledge rather than produced it.",
+            "zh": "书中开头讨论了一幅庞贝壁画：一位女性手持书写板与笔。它经常被随意称作 Sappho，但证据并不支持这个身份。Allen 引用的研究指出一种性别化视觉惯例：男性拿着书写板时，可以被理解成管理事务或从事文学；女性则更容易被表现成激发知识的缪斯，而不是知识的生产者。"
+          },
+          {
+            "en": "This distinction is not a minor problem of iconography. It shows how an object can signify authority differently according to who holds it. The woman may appear next to writing while still being denied the identity of writer.",
+            "zh": "这并不只是图像辨认中的小问题，而是说明同一物件会因持有者不同而代表不同权威。一个女人可以出现在书写旁边，却仍然被拒绝“书写者”的身份。"
+          },
+          {
+            "en": "Later examples complicate that convention. Christine de Pizan earned her living as a writer and supervised the production of manuscripts; early modern women kept commonplace books; women in the Netherlands used friendship albums to preserve affiliations, tastes, visual culture, and relationships that formal records often ignored.",
+            "zh": "后来的例子使这种惯例变得复杂。Christine de Pizan 依靠写作谋生，并监督手稿制作；近代早期女性保存自己的摘抄本；荷兰女性则借助友谊纪念册记录社会联系、个人品味、视觉文化与正式档案经常忽略的人际关系。"
+          }
+        ]
+      },
+      {
+        "title": "Household Pages Are Historical Evidence",
+        "titleZh": "家庭页面也是历史证据",
+        "paragraphs": [
+          {
+            "en": "Notebooks kept inside homes have often been classified as private or domestic rather than intellectual. Yet household books can preserve financial decisions, medical practices, recipes, remedies, reading, births, deaths, labour, migration, and exchange. The category “domestic” describes a setting; it does not measure the importance of the knowledge recorded there.",
+            "zh": "家庭内部保存的笔记经常被归类成私人或家务资料，而不是思想记录。但家庭簿册可以保存经济决定、医疗实践、食谱、药方、阅读、生育、死亡、劳动、迁徙与交换。“家庭”描述的是发生地点，并不能衡量其中知识的重要性。"
+          },
+          {
+            "en": "Allen's account of Clara Nguyen makes this visible. As her family prepared to leave Saigon in 1975, Nguyen began copying recipes into a school notebook, anticipating that a Vietnamese restaurant might help support them in the United States. The book became a portable store of culinary knowledge, an economic plan, and a material connection to a home the family was about to lose.",
+            "zh": "Allen 对 Clara Nguyen 的叙述清楚说明了这一点。1975年，当她的家庭准备离开西贡时，Nguyen 开始把食谱抄进一本学生练习簿，希望将来能在美国开越南餐厅维持生计。这本笔记由此成为可携带的烹饪知识库、经济计划，也成为连接即将失去的家园的物质纽带。"
+          },
+          {
+            "en": "After migration, new American recipes entered the notebook in the daughters' handwriting; Vietnamese dishes later returned when ingredients became available. The pages did not preserve one frozen tradition. They recorded how family knowledge changed through displacement, adaptation, and transmission among women.",
+            "zh": "迁徙以后，女儿们用自己的笔迹加入新的美国食谱；当原料重新可以买到，越南菜又回到本子中。这些页面并没有保存一种冻结不变的传统，而是记录了家庭知识如何在离散、适应与女性之间的传递中发生变化。"
+          }
+        ]
+      },
+      {
+        "title": "A Midwife's Diary Changes History",
+        "titleZh": "一位助产士的日记改变历史",
+        "paragraphs": [
+          {
+            "en": "The diary kept by the New England midwife Martha Ballard from 1785 to 1812 appeared repetitive and unremarkable to many early readers. It recorded weather, visits, household work, medical care, payments, and hundreds of deliveries. Read closely by historian Laurel Thatcher Ulrich, however, it revealed an extensive female economy and a world in which women practised medicine despite being excluded from the title of physician.",
+            "zh": "新英格兰助产士 Martha Ballard 在1785至1812年间留下的日记，曾被许多早期读者视为重复而平凡。它记录天气、拜访、家务、医疗、报酬与数百次接生。但历史学家 Laurel Thatcher Ulrich 细读这些页面后，揭示出广泛的女性经济活动，以及一个女性实际从医、却被排除在“医生”称号之外的世界。"
+          },
+          {
+            "en": "Ballard's diary demonstrates that archives do not simply contain history; methods of reading make some histories visible. A record dismissed as mundane can challenge an account built mainly from institutions controlled by men.",
+            "zh": "Ballard 的日记说明，档案并不只是被动容纳历史；阅读方法会让某些历史获得可见性。一份曾被视为琐碎的记录，可以挑战主要依靠男性掌控机构建立起来的历史叙述。"
+          },
+          {
+            "en": "This is one of the book's strongest feminist implications. The problem is not only that women's names were omitted from history. Forms associated with women's work were themselves ranked as less serious evidence.",
+            "zh": "这是全书最重要的女性主义启示之一：问题不只在于女性姓名被历史遗漏，也在于与女性劳动相关的记录形式本身曾被判定为不够严肃的证据。"
+          }
+        ]
+      },
+      {
+        "title": "The Writer Thinks Beside the Finished Book",
+        "titleZh": "作家在成书旁边思考",
+        "paragraphs": [
+          {
+            "en": "Allen's chapter on authors' notebooks resists the fantasy that literature arrives in a clean line from inspiration to final manuscript. Virginia Woolf used reading notebooks for her reviewing work and drafted fiction in handwritten volumes. Patricia Highsmith maintained interlocking diaries and professional notebooks. Joan Didion collected scenes and phrases, then reshaped her notes through selection and style.",
+            "zh": "Allen 关于作家笔记的一章拒绝一种幻想：仿佛文学会沿着从灵感到定稿的整洁直线出现。Virginia Woolf 用阅读笔记支持书评工作，也在手写本中起草小说；Patricia Highsmith 同时保存彼此关联的私人日记与职业笔记；Joan Didion 收集场景与语句，再通过选择与文体重新塑造材料。"
+          },
+          {
+            "en": "Agatha Christie's seventy-three surviving exercise books were especially disorderly. Ideas for several novels could coexist in one volume, while the plan for one mystery might be scattered across many. She generated possibilities, questioned herself on the page, rearranged sequences, changed culprits, and crossed through ideas once used.",
+            "zh": "Agatha Christie 留下的73本练习簿尤其混乱。一本中可能同时出现多部小说的想法，同一个谜案的计划也可能散落在许多册中。她在纸上制造多种可能、向自己提问、重排情节、替换凶手，并划掉已经使用的想法。"
+          },
+          {
+            "en": "Their value lies precisely in not being finished literature. The notebook provides a space where contradiction, repetition, bad ideas, hesitation, and alternative endings may remain visible long enough to produce a work.",
+            "zh": "这些笔记的价值恰恰在于它们不是完成的文学。笔记本提供一个空间，让矛盾、重复、糟糕的想法、迟疑与替代结局能够保留足够长的时间，最终参与作品的形成。"
+          }
+        ]
+      },
+      {
+        "title": "Frida Kahlo: Word and Image Without Permission",
+        "titleZh": "Frida Kahlo：无需许可的文字与图像",
+        "paragraphs": [
+          {
+            "en": "Frida Kahlo's journals do not fit neatly into either diary or sketchbook. Allen describes pages where spontaneous words, colour, drawing, bodily experience, political feeling, and shifting emotion meet. Their apparent looseness differs from the carefully composed paintings for which she is best known.",
+            "zh": "Frida Kahlo 的手记无法整齐归入日记或素描本。Allen 描述的页面让即兴文字、色彩、绘画、身体经验、政治感受与变化中的情绪相互交汇。它们表面的松散，与她最著名的那些精心构图的绘画形成差异。"
+          },
+          {
+            "en": "The notebook permits forms that public categories may keep apart. A line can become a sentence, a face can interrupt a paragraph, and private pain can coexist with visual invention without first becoming an exhibition-ready object.",
+            "zh": "笔记本允许那些在公共分类中相互分开的形式共处。一条线可以变成一句话，一张脸可以打断一段文字，私人痛苦也可以与视觉创造并存，而不必首先变成适合展览的对象。"
+          },
+          {
+            "en": "This freedom should not be confused with transparency. A notebook is still made through selection, performance, omission, and revision. It can offer intimacy without becoming an unmediated window into its maker's mind.",
+            "zh": "这种自由不应被误认为完全透明。笔记仍然通过选择、表演、省略与修改形成。它可以带来亲密感，却不会成为直接通往作者内心的无媒介窗口。"
+          }
+        ]
+      },
+      {
+        "title": "Scientific Notes and Unequal Recognition",
+        "titleZh": "科学笔记与不平等的承认",
+        "paragraphs": [
+          {
+            "en": "Scientific notebooks preserve observations, measurements, failed trials, diagrams, and the intermediate reasoning hidden by a polished publication. Allen mentions Marie Curie's laboratory notebooks as unusually literal material witnesses: contamination from her research means they remain radioactive and require controlled handling.",
+            "zh": "科学笔记保存观察、测量、失败实验、图表，以及正式论文掩盖起来的中间推理。Allen 提到 Marie Curie 的实验笔记是一种格外字面的物质见证：研究造成的污染使它们至今仍具有放射性，必须在受控条件下查阅。"
+          },
+          {
+            "en": "Such notebooks show that discovery is a process rather than a single heroic moment. They also raise questions about recognition. Whose preliminary labour is preserved, catalogued, published, and studied? Whose assistance disappears when the final result is assigned to one celebrated name?",
+            "zh": "这类笔记说明，发现是一段过程，而不是孤立的英雄时刻。它们也提出了承认的问题：谁的前期劳动会被保存、编目、出版和研究？当最终成果归入一个著名姓名时，又有谁的协助会消失？"
+          },
+          {
+            "en": "The notebook cannot answer these questions by itself, but it can retain traces with which later historians reconstruct collaboration, revision, and exclusion.",
+            "zh": "笔记本本身无法回答这些问题，却可以保留痕迹，让后来的历史学家借此重建合作、修改与排除的过程。"
+          }
+        ]
+      },
+      {
+        "title": "A Notebook Can Become Part of the Mind",
+        "titleZh": "笔记本可以成为心智的一部分",
+        "paragraphs": [
+          {
+            "en": "The conclusion turns to Andy Clark and David Chalmers's 1998 essay “The Extended Mind.” Their well-known thought experiment imagines Otto, a man with Alzheimer's disease who reliably uses a notebook to store information that biological memory no longer retains. If the notebook performs a stable role in cognition, they argue, it should not be treated as merely an external accessory.",
+            "zh": "结尾转向 Andy Clark 与 David Chalmers 1998年的论文“The Extended Mind”。他们著名的思想实验设想患有阿尔茨海默病的 Otto：他持续依靠笔记本储存生物记忆无法保留的信息。两位哲学家认为，如果笔记本在认知中发挥稳定作用，就不应只被视为外部附件。"
+          },
+          {
+            "en": "Allen uses this idea to reinterpret the entire history. A ledger enables calculations that cannot be held in working memory; a sketch answers the hand that drew it; a notebook lets a novelist encounter an earlier version of an idea; a diary carries a self across time. Paper participates in thinking.",
+            "zh": "Allen 借助这一观念重新解释全书。账簿让人完成工作记忆无法容纳的计算；素描会回应画出它的手；笔记让小说家重新遇见一个想法的早期版本；日记则让自我穿越时间。纸张参与了思考。"
+          },
+          {
+            "en": "This makes access to writing tools a question of cognitive opportunity as well as literacy. To deny someone education, paper, privacy, or the right to preserve records is also to limit the external structures through which complex thought can develop and endure.",
+            "zh": "这使书写工具的准入不仅成为识字问题，也成为认知机会的问题。拒绝一个人接受教育、使用纸张、拥有隐私或保存记录的权利，也是在限制复杂思想得以发展与延续的外部结构。"
+          }
+        ]
+      },
+      {
+        "title": "Quotation",
+        "titleZh": "引文",
+        "paragraphs": [
+          {
+            "en": "The sentence sounds modest, but it names the book's method. Allen does not argue that the notebook single-handedly caused modern commerce, science, literature, or selfhood. He follows moments when portable blank pages entered a practice and made new operations easier to perform.",
+            "zh": "这句话听起来很轻，却指出了全书的方法。Allen 并没有声称笔记本单独创造了现代商业、科学、文学或自我观念，而是追踪便携的空白页面进入某种实践以后，哪些新的操作因此更容易发生。"
+          },
+          {
+            "en": "The most important word may be “appear.” Notebooks do not enter history as neutral objects. They appear where paper can be afforded, literacy can be learned, records can be protected, and institutions decide that certain pages deserve to survive.",
+            "zh": "最重要的词或许是“出现”。笔记本并不是作为中立物件进入历史，而是出现在纸张可以负担、识字能力可以学习、记录可以受到保护，并且某些机构决定特定页面值得留存的地方。"
+          },
+          {
+            "en": "To ask what happened when notebooks appeared is therefore also to ask where they did not appear, whose pages were lost, and which forms of thinking were never granted archival value.",
+            "zh": "因此，追问笔记本出现以后发生了什么，也意味着追问它们没有在哪里出现、谁的页面已经遗失，以及哪些思考形式从未获得档案价值。"
+          }
+        ]
+      },
+      {
+        "title": "Sources and Editorial Method",
+        "titleZh": "资料与编辑说明",
+        "paragraphs": [
+          {
+            "en": "This entry uses the supplied Biblioasis EPUB as its primary text. The introduction, thirty chapters, conclusion, references, and image credits were checked directly. The short quotation above comes from Allen's introduction; the Chinese rendering is a calendar translation. No official simplified-Chinese edition was located during research, so the Chinese title used here is explicitly marked as provisional.",
+            "zh": "本篇以用户提供的 Biblioasis EPUB 为主要文本，直接核对了前言、三十章正文、结论、参考资料与图片来源。上方短引文来自 Allen 的前言，中文为本日历翻译。检索过程中未找到正式简体中文版，因此本文中文书名明确标记为暂译。"
+          },
+          {
+            "en": "The original UK publication date, scope, ISBN, author biography, and description of the book's European focus were cross-checked with Profile Books. The 2024 North American edition was checked against Biblioasis. The book's broad chronology and critical reception were also compared with Kirkus Reviews and The Washington Post.",
+            "zh": "英国初版日期、全书范围、ISBN、作者简介及其欧洲叙述边界，通过Profile Books核实；2024年北美版资料参照Biblioasis。全书时间线与评论反响也同Kirkus Reviews及The Washington Post交叉核对。"
+          },
+          {
+            "en": "The discussion of Martha Ballard was checked against PBS American Experience. Frida Kahlo's 1944–1954 diary was cross-checked with the Museo Frida Kahlo. The account of the extended-mind thesis was checked against Clark and Chalmers's original article in Analysis and the authors' open text.",
+            "zh": "Martha Ballard 日记部分参照PBS American Experience核实；Frida Kahlo 1944至1954年的日记参照Museo Frida Kahlo；“延展心智”部分则同 Clark 与 Chalmers 发表于Analysis的原论文及作者提供的开放文本交叉核对。"
+          },
+          {
+            "en": "The feminist argument in this calendar is an editorial reading developed from the book's documented examples. It does not claim that Allen wrote a comprehensive feminist or global history of notebooks. Dates and quantities follow the supplied edition where reliable sources differ slightly.",
+            "zh": "本日历的女性主义论述，是依据书中有文献支持的案例形成的编辑性阅读，并不声称 Allen 写成了一部完整的女性主义或全球笔记本史。当可靠资料中的日期或数量略有差异时，正文以用户提供的版本为准。"
+          }
+        ]
+      }
+    ],
+    "quote": "When notebooks appear on the scene, interesting things happen.",
+    "quoteReadingZh": "当笔记本出现时，有趣的事情便会发生。",
+    "quoteSource": "Roland Allen, The Notebook: A History of Thinking on Paper, Introduction",
+    "relatedWorks": [
+      "A Midwife's Tale: The Life of Martha Ballard, Based on Her Diary, 1785–1812｜《一个助产士的故事》（暂译）— Laurel Thatcher Ulrich",
+      "The Diary of Frida Kahlo: An Intimate Self-Portrait｜《弗里达·卡洛日记：一个私密的自画像》— Frida Kahlo",
+      "On Keeping a Notebook｜《记笔记》— Joan Didion",
+      "Virginia Woolf's Reading Notebooks｜《弗吉尼亚·伍尔夫阅读笔记》（暂译）— Brenda R. Silver, ed.",
+      "Agatha Christie's Secret Notebooks｜《阿加莎·克里斯蒂的秘密笔记》（暂译）— John Curran",
+      "“The Extended Mind”｜《延展心智》（暂译）— Andy Clark and David Chalmers"
+    ],
+    "tags": [
+      "notebooks",
+      "writing",
+      "material culture",
+      "women's history",
+      "archives",
+      "thinking"
+    ],
+    "sources": [
+      {
+        "label": "Profile Books",
+        "url": "https://profilebooks.com/work/the-notebook/"
+      },
+      {
+        "label": "Biblioasis",
+        "url": "https://www.biblioasis.com/wp-content/uploads/2024/05/Fall-24-Canadian-1.pdf"
+      },
+      {
+        "label": "*Kirkus Reviews*",
+        "url": "https://www.kirkusreviews.com/book-reviews/roland-allen/the-notebook-2/"
+      },
+      {
+        "label": "*The Washington Post*",
+        "url": "https://www.washingtonpost.com/books/2024/10/04/notebook-history-roland-allen-review/"
+      },
+      {
+        "label": "PBS American Experience",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/midwife-gallery-diary/"
+      },
+      {
+        "label": "Museo Frida Kahlo",
+        "url": "https://www.museofridakahlo.org.mx/museo/?lang=en"
+      },
+      {
+        "label": "*Analysis*",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111%2F1467-8284.00096"
+      },
+      {
+        "label": "open text",
+        "url": "https://www.consc.net/papers/extended.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "2026-08-31-charmian-clift-the-end-of-the-morning",
+    "date": "2026-08-31",
+    "type": "book",
+    "title": "The End of the Morning",
+    "titleZh": "《清晨的尽头》（暂译）",
+    "author": "Charmian Clift｜查米安·克利夫特",
+    "years": "1923–1969",
+    "role": "Book / Memoir / Essays｜著作 / 回忆录 / 随笔",
+    "focusTitle": "Who Gets to Tell a Woman's Life?",
+    "focusTitleZh": "谁拥有讲述一个女人一生的权利？",
+    "summaryEn": "Charmian Clift spent years trying to write the story of the place where she grew up and the girl she had been there. In The End of the Morning, Cressida Morley lives with her eccentric family beside a quarry during the Great Depression. They inhabit a weatherboard cottage, carry meals to the quarry, argue, read, play music, and refuse to understand themselves simply as poor.\n\nCressida begins to see that class and gender do not merely describe her world; they organise what its people are expected to become. Her beautiful older sister is assigned one kind of future, her brother another. Cressida, intelligent and restless, watches the road beyond the settlement and imagines a life for which she does not yet have a name.\n\nThe book's history makes that question more urgent. Clift began this autobiographical project in 1962, set it aside while helping her husband George Johnston complete My Brother Jack, and returned to it under the pressures of paid journalism, care work, illness, and family life. She died in 1969 before completing the full novel. The childhood section she left behind had been revised and can stand on its own as a novella; NewSouth published it for the first time in 2024, edited by Nadia Wheatley and accompanied by thirty of Clift's essays.",
+    "summaryZh": "Charmian Clift 用多年时间尝试书写自己长大的地方，也书写曾经生活在那里的女孩。《清晨的尽头》中，Cressida Morley 与性情鲜明的家人住在大萧条时期的一座采石场旁。他们住在木板房里，把午餐送往采石场，彼此争论、阅读、演奏音乐，也拒绝只用“贫穷”理解自己。\n\nCressida 逐渐发现，阶级与性别不只描述她的世界，也在安排人们应当成为什么。美丽的姐姐被分配了一种未来，弟弟则拥有另一种未来。聪明而不安分的 Cressida 望着通往聚落之外的公路，想象一种她还无法命名的人生。\n\n这本书的写作史让上述问题更加紧迫。Clift 于1962年开始这项自传性写作，后来为了帮助丈夫 George Johnston 完成《我的兄弟杰克》而暂时搁置，又在有偿新闻写作、照护劳动、疾病与家庭生活的压力中重新拾起。她在1969年去世，未能完成整部长篇。但她留下的童年部分已经过修改，可以独立作为一部中篇小说阅读。2024年，NewSouth 首次出版这份文本，由 Nadia Wheatley 编辑，并收入 Clift 的三十篇随笔。",
+    "introduction": [
+      {
+        "en": "The End of the Morning is both a recovered literary work and evidence of an interrupted one. The 2024 edition contains the revised childhood portion of Clift's unfinished autobiographical novel, an afterword and notes by her biographer Nadia Wheatley, and thirty newspaper essays selected from the approximately 225 weekly pieces Clift published between 1964 and 1969.",
+        "zh": "《清晨的尽头》既是一部重新被发现的文学作品，也是一项受到中断的写作留下的证据。2024年版收入 Clift 未完成自传性长篇中经过修改的童年部分、传记作者 Nadia Wheatley 撰写的后记与注释，以及从 Clift 在1964至1969年间发表的约225篇每周专栏中选出的三十篇随笔。"
+      },
+      {
+        "en": "The supplied EPUB identifies NewSouth Publishing as the publisher and gives 2024 as the publication year. The novel itself was not completed or published during Clift's lifetime. Calling it a “lost novel” can be useful publicity shorthand, but the edition is precise about what survives: the complete revised childhood sequence stands alone as a novella, while the planned continuation into Cressida's adult life was never finished.",
+        "zh": "用户提供的 EPUB 标明出版社为 NewSouth Publishing，出版年份为2024年。这部小说在 Clift 生前并未完成或出版。把它称作“失落的小说”可以作为简略的宣传说法，但这个版本对现存文本的性质说明得更准确：经过完整修改的童年部分可以作为中篇小说独立成立，而原计划继续写到 Cressida 成年生活的部分则从未完成。"
+      }
+    ],
+    "sections": [
+      {
+        "title": "A Quarry Settlement at the Edge of the World",
+        "titleZh": "世界边缘的采石场聚落",
+        "paragraphs": [
+          {
+            "en": "The novella is set in the fictional Lebanon Bay, recognisably shaped by Clift's childhood around Kiama and Bombo on the New South Wales coast. The quarry whistle divides the day. The beach, road, railway, cemetery, workers' cottages, headland, machinery, and sea form the child's map of the known world.",
+            "zh": "小说发生在虚构的 Lebanon Bay，其地理明显取材于 Clift 在新南威尔士州海岸 Kiama 与 Bombo 一带度过的童年。采石场的汽笛划分一天的时间，海滩、公路、铁路、墓地、工人木屋、岬角、机器与大海共同构成孩子所知世界的地图。"
+          },
+          {
+            "en": "The Morleys occupy an unstable class position. They possess little money, yet distinguish themselves from their neighbours through books, music, argument, and a fierce sense of intellectual independence. Clift does not romanticise deprivation. She shows instead that class is lived through material conditions and through the stories a family tells about its own difference.",
+            "zh": "Morley 一家处在不稳定的阶级位置上。他们没有多少钱，却借助书籍、音乐、争论与强烈的思想独立感，把自己同邻居区分开来。Clift 并没有浪漫化匮乏，而是显示阶级既存在于物质条件中，也存在于一个家庭如何讲述自身差异的故事里。"
+          },
+          {
+            "en": "For Cressida, the road is more than transport. It leaves the settlement and continues toward an elsewhere she cannot yet picture. Her desire to “go somewhere” is therefore geographical, social, intellectual, and artistic at once.",
+            "zh": "对 Cressida 来说，公路不只用于交通。它离开聚落，通向一个她尚且无法想象的别处。她想要“去往别处”的愿望因此同时具有地理、社会、思想与艺术含义。"
+          }
+        ]
+      },
+      {
+        "title": "A Girl Who Has Not Yet Been Given a Future",
+        "titleZh": "一个尚未被赋予未来的女孩",
+        "paragraphs": [
+          {
+            "en": "Cressida does not begin with a clearly recognised vocation. She begins with perception: she notices contradictions, remembers language, tests the adults' explanations, and understands that the roles offered to girls do not exhaust what a girl may become.",
+            "zh": "Cressida 并不是从一个得到明确承认的志业开始，而是从观看开始：她注意矛盾，记住语言，检验成年人提供的解释，也意识到社会给予女孩的角色并不能穷尽一个女孩可能成为的样子。"
+          },
+          {
+            "en": "Her older sister Cordelia is repeatedly understood through beauty. Cressida and her brother Ben are allied through their supposed ordinariness. These family distinctions show children learning very early that appearance, sex, age, and temperament determine whose labour will be expected, whose ambitions will be encouraged, and whose future can be imagined as departure.",
+            "zh": "姐姐 Cordelia 不断通过美貌被理解；Cressida 与弟弟 Ben 则因为被认为相貌普通而结成同盟。这些家庭内部的区别说明，孩子很早就学会了：外貌、性别、年龄与性情会决定谁应当承担劳动、谁的抱负会受到鼓励，以及谁的未来可以被想象成离开。"
+          },
+          {
+            "en": "Clift writes childhood without treating the child as innocent of power. Cressida can be cruel, proud, frightened, observant, and self-dramatising. Autobiographical fiction becomes valuable here because it does not have to turn the remembered girl into either a victim or a model heroine.",
+            "zh": "Clift 书写童年，却没有把孩子写成完全不懂权力的天真存在。Cressida 会残酷、骄傲、恐惧、敏锐，也会把自己戏剧化。自传性虚构的价值正在这里：它不必把记忆中的女孩变成单纯的受害者或典范式女主人公。"
+          }
+        ]
+      },
+      {
+        "title": "The Crib Tin and the Organisation of Care",
+        "titleZh": "午餐罐与照护的组织方式",
+        "paragraphs": [
+          {
+            "en": "One of the novella's most revealing routines concerns the “crib tin,” the meal carried to Cressida's father at the quarry. Grace Morley prepares the food, and one of the younger children delivers it. The narration pauses over an assumption nobody questions: the father does not carry his own meal to work.",
+            "zh": "小说中最能揭示家庭秩序的日常仪式之一，是把装着午餐的“crib tin”送给在采石场工作的父亲。Grace Morley 准备食物，再由年幼的孩子之一负责送去。叙述特别停留在一个无人质疑的假设上：父亲不会自己把午餐带去工作。"
+          },
+          {
+            "en": "The detail makes domestic service visible without separating it from love, habit, pride, and family loyalty. Care is not unreal because affection accompanies it. It remains work, distributed according to gender and age, and necessary to the labour that the quarry recognises as employment.",
+            "zh": "这个细节使家庭服务获得可见性，却没有把它与爱、习惯、自尊和家庭忠诚简单分开。照护不会因为伴随着感情就变得不真实。它仍然是依据性别与年龄分配的劳动，也是采石场所承认的有薪劳动得以持续的必要条件。"
+          },
+          {
+            "en": "Grace is not merely a background mother. She is intelligent, capable, dissatisfied, and constrained. The family depends on her practical and emotional labour while offering few forms in which her own desires might develop independently.",
+            "zh": "Grace 并不只是背景中的母亲。她聪明、能干、不满足，也受到限制。家庭依赖她的实际劳动与情感劳动，却几乎没有提供让她自己的欲望独立发展的形式。"
+          }
+        ]
+      },
+      {
+        "title": "Autobiography Is an Act of Arrangement",
+        "titleZh": "自传是一种重新组织",
+        "paragraphs": [
+          {
+            "en": "Cressida Morley is closely connected to Charmian Clift, but she is not a transparent transcript of the author. Names, scenes, chronology, emphasis, omission, and voice transform lived material into fiction. The value of the book does not depend on proving that every episode happened exactly as narrated.",
+            "zh": "Cressida Morley 与 Charmian Clift 紧密相关，却不是作者人生的透明记录。姓名、场景、时间顺序、重点、省略与声音共同把生活材料转化成虚构。我们不必证明每个事件都完全按照叙述中的方式发生，才能确认这本书的价值。"
+          },
+          {
+            "en": "This distinction matters because Clift was writing against versions of her life already produced by other people. Family memory, public mythology, literary celebrity, and her husband's fiction had all helped determine how “Charmian Clift” and “Cressida Morley” could be seen.",
+            "zh": "这个区别之所以重要，是因为 Clift 写作时面对着他人已经生产出来的各种人生版本。家庭记忆、公共神话、文学名望与丈夫的小说，都曾参与决定“Charmian Clift”与“Cressida Morley”能够以何种方式被看见。"
+          },
+          {
+            "en": "To write autobiographical fiction was not simply to disclose private facts. It was to recover the authority to select, order, interpret, and withhold them.",
+            "zh": "书写自传性虚构并不只是公开私人事实，而是重新取得选择、排列、解释并保留这些事实的权力。"
+          }
+        ]
+      },
+      {
+        "title": "Collaboration and the Cost of Another Writer's Book",
+        "titleZh": "合作，以及另一位作家的书所付出的代价",
+        "paragraphs": [
+          {
+            "en": "Clift and George Johnston had a long literary partnership. They co-wrote novels, shared an expatriate life, raised a family, and depended on writing for income. It would be inaccurate to reduce their relationship to a simple opposition between a male author and a silenced wife.",
+            "zh": "Clift 与 George Johnston 拥有长期的文学合作关系。他们合写小说，在海外共同生活，养育家庭，也依靠写作为生。把这段关系简化成男性作者与被压抑妻子的对立，并不准确。"
+          },
+          {
+            "en": "The asymmetry is nevertheless documented. In 1962 Clift set aside her autobiographical novel while supporting the ill Johnston as he completed My Brother Jack. Johnston acknowledged her contribution to that book as virtually collaborative. His later fiction also used Cressida Morley, the alter ego Clift had created for her own autobiographical project.",
+            "zh": "但这段合作中的不对称同样有据可查。1962年，Clift 搁置自己的自传性小说，支持患病的 Johnston 完成《我的兄弟杰克》。Johnston 承认，她对那本书的贡献几乎构成共同创作。他后来的小说也使用了 Cressida Morley 这个由 Clift 为自己的自传项目创造的替身人物。"
+          },
+          {
+            "en": "Wheatley's afterword explains why Clift wanted to reclaim Cressida. In Johnston's version, Cressida could appear as muse, lover, wife, and mother, but not fully as a writer. Clift's unfinished book can therefore be read as a counter-narrative: an attempt to give the woman who inspired and sustained literary production her own point of view and artistic history.",
+            "zh": "Wheatley 的后记解释了 Clift 为什么想要重新取回 Cressida。在 Johnston 的版本中，Cressida 可以作为缪斯、情人、妻子与母亲出现，却不能完整地作为作家出现。因此，Clift 未完成的小说可以被读作一种反叙事：它试图让那个启发并维持文学生产的女人，拥有自己的视角与艺术史。"
+          }
+        ]
+      },
+      {
+        "title": "A Weekly Voice Placed on the Women's Pages",
+        "titleZh": "被放进“女性版面”的每周声音",
+        "paragraphs": [
+          {
+            "en": "After returning to Australia in 1964, Clift became widely known through a weekly newspaper column published in the Sydney Morning Herald and the Melbourne Herald. She wrote about domestic life, politics, landscape, citizenship, social change, women's freedom, and the moral atmosphere of contemporary Australia.",
+            "zh": "1964年返回澳大利亚以后，Clift 因在《悉尼先驱晨报》与《墨尔本先驱报》发表每周专栏而广为人知。她写家庭生活、政治、景观、公民身份、社会变化、女性自由，也写当时澳大利亚的道德氛围。"
+          },
+          {
+            "en": "The columns generated income and gave Clift a direct relationship with a large readership. They also consumed much of the time required by the novel. Wheatley's reconstruction indicates that one weekly essay could take several days, while Clift also managed other paid work, a household, children, and care for Johnston during serious illness.",
+            "zh": "这些专栏带来收入，也让 Clift 与广大读者建立直接联系。但它们同样占用了小说所需要的时间。Wheatley 的梳理表明，一篇每周随笔可能耗费数日；与此同时，Clift 还要完成其他有偿工作，维持家庭，照料孩子，并在 Johnston 重病期间承担照护。"
+          },
+          {
+            "en": "Newspapers placed these essays in women's sections, a location that could expand female readership while also marking the work as culturally secondary. Their later survival complicates that hierarchy: the supposedly occasional, domestic form is now central to Clift's literary reputation.",
+            "zh": "报纸把这些随笔放在女性版面。这一位置既可能扩大女性读者群，也会把作品标记成文化上较次要的写作。它们后来持续流传，使这种等级关系变得复杂：曾被视为应时而家庭化的文体，如今已经成为 Clift 文学声誉的核心。"
+          }
+        ]
+      },
+      {
+        "title": "Who Receives Time to Write?",
+        "titleZh": "谁能够获得写作时间？",
+        "paragraphs": [
+          {
+            "en": "In 1968 the Commonwealth Literary Fund awarded Clift a six-month fellowship worth 3,000 Australian dollars, while Johnston received twelve months and 6,000 dollars. The amounts are documented. The fund's private reasoning cannot be reduced to a single motive without further archival evidence.",
+            "zh": "1968年，Commonwealth Literary Fund 向 Clift 提供为期六个月、金额3,000澳元的创作资助，Johnston 则获得十二个月与6,000澳元。这些数额有文献记录，但如果没有更多档案证据，就不能把基金内部的决定简化成单一动机。"
+          },
+          {
+            "en": "Wheatley nevertheless asks a necessary interpretive question: did this unequal allocation reflect a broader culture in which women's work and women's lives were valued as less important? The question belongs beside the practical record. Clift had talent and a manuscript; what she repeatedly lacked was uninterrupted time protected from the needs of other people.",
+            "zh": "Wheatley 仍然提出了一个必要的解释性问题：这种不平等分配是否反映出一种更广泛的文化，即女性的工作与女性的人生被认为没有那么重要？这个问题必须与实际记录并置。Clift 拥有才能，也拥有手稿；她不断缺少的，是不被他人需求打断并受到保障的时间。"
+          },
+          {
+            "en": "This is why the novel's unfinished state should not be treated as evidence of insufficient commitment. Unfinishedness can have a social history. Manuscripts stop where money, care, illness, publishing structures, family obligations, and unequal recognition enter the page.",
+            "zh": "因此，这部小说的未完成状态不应被理解成投入不足的证据。未完成同样拥有社会史：当金钱、照护、疾病、出版结构、家庭责任与不平等承认进入纸页时，手稿会在那里停下来。"
+          }
+        ]
+      },
+      {
+        "title": "The Essays Do Not Merely Complete the Novel",
+        "titleZh": "随笔不只是小说的补充",
+        "paragraphs": [
+          {
+            "en": "The thirty essays in the edition are not fragments inserted to make an unfinished book longer. They reveal the public writer Cressida might have become: observant, argumentative, formally agile, politically alert, and capable of turning an ordinary occasion into a question about how people live together.",
+            "zh": "这个版本收入的三十篇随笔，并不是为了让一本未完成的书显得更长而加入的碎片。它们呈现了 Cressida 可能成长为的公共写作者：敏锐、善辩、形式灵活、具有政治警觉，也能够从日常事件中提出人们如何共同生活的问题。"
+          },
+          {
+            "en": "Read beside the novella, the essays create a movement from the child's private act of watching to the adult woman's public act of address. They do not supply the missing chapters of Cressida's life, but they show that the desire to “go somewhere” did become a writing life.",
+            "zh": "与中篇小说并读时，这些随笔形成一条从女孩私下观看到成年女性公开发言的路径。它们没有补上 Cressida 人生中缺失的章节，却证明“去往别处”的愿望的确成为了一种写作人生。"
+          },
+          {
+            "en": "The form of that life was not the one Clift had planned. The unfinished novel and finished columns should therefore be held together without allowing either to cancel the other. One records an ambition repeatedly deferred; the other records the authority Clift achieved under the conditions available to her.",
+            "zh": "这种人生并没有采取 Clift 原先计划的形式。因此，我们需要把未完成的小说与已经完成的专栏放在一起，同时不让其中一方取消另一方：前者记录一项被不断推迟的抱负，后者则记录 Clift 如何在现实条件中取得自己的发言权。"
+          }
+        ]
+      },
+      {
+        "title": "Quotation",
+        "titleZh": "引文",
+        "paragraphs": [
+          {
+            "en": "Cressida thinks this while carrying her father's meal along the road toward the quarry. The sentence grows from a task assigned inside the family, but her attention follows the highway beyond that task. Duty and departure occupy the same scene.",
+            "zh": "Cressida 在沿公路把父亲的午餐送往采石场时想到这句话。它生长于一项家庭内部被分配的任务，但她的注意力却跟随公路越过这项任务。责任与离开同时存在于同一个场景中。"
+          },
+          {
+            "en": "“Somewhere” remains deliberately undefined. The child cannot yet name authorship, independence, travel, public speech, or the costs attached to them. She knows only that the world continues beyond the route she walks every day.",
+            "zh": "“别处”被有意保留为一个没有定义的地方。这个女孩还无法说出作者身份、独立、旅行、公共发言，以及它们各自的代价。她只知道，世界延伸到了每天所走道路之外。"
+          },
+          {
+            "en": "Read against the book's publication history, the line becomes more than a promise of escape. Clift did go elsewhere: to journalism, fiction, Europe, the Greek islands, and a large public readership. Yet the manuscript also asks how much of a woman's journey can remain hidden when other people possess greater power to narrate it.",
+            "zh": "联系这本书的出版史来读，这句话便不只是一项逃离的承诺。Clift 的确去了别处：进入新闻写作与小说，前往欧洲与希腊群岛，也抵达广大公众读者。但这份手稿仍在追问：当他人拥有更大的叙述权力时，一个女人的旅程会有多少部分继续被遮蔽？"
+          }
+        ]
+      },
+      {
+        "title": "Sources and Editorial Method",
+        "titleZh": "资料与编辑说明",
+        "paragraphs": [
+          {
+            "en": "This entry uses the supplied 2024 NewSouth EPUB as its primary source. The novella, editors' notes, publication history, selected essays, notes, and Nadia Wheatley's afterword were checked directly. The short quotation above comes from the novella; its Chinese rendering is a calendar translation. No official simplified-Chinese edition was located, so the Chinese title is marked as provisional.",
+            "zh": "本篇以用户提供的2024年 NewSouth EPUB 为主要资料，直接核对了中篇小说、编辑说明、出版史、随笔选集、注释与 Nadia Wheatley 的后记。上方短引文来自小说正文，中文为本日历翻译。检索过程中未找到正式简体中文版，因此中文书名标明为暂译。"
+          },
+          {
+            "en": "Publication date, format, editor, ISBN, and the publisher's description of the revised text as a standalone novella were cross-checked with UNSW Press / NewSouth. Clift's life, publications, work with George Johnston, return to Australia, newspaper writing, and final years were checked against Nadia Wheatley's entry in the Australian Dictionary of Biography.",
+            "zh": "出版日期、版本形式、编辑、ISBN，以及出版社对现存修改稿可以独立作为中篇小说阅读的说明，均通过UNSW Press / NewSouth交叉核对。Clift 的生平、出版经历、与 George Johnston 的合作、返回澳大利亚后的专栏写作及晚年经历，则参照 Nadia Wheatley 撰写的《澳大利亚传记辞典》条目核实。"
+          },
+          {
+            "en": "The timing of the manuscript's recovery and publication was also compared with the Guardian's 2024 feature. Critical interpretation was checked against Beth McLean's review in the Sydney Review of Books. These sources support the publication history and reception; the feminist emphasis on authorship, care, and interrupted time is this calendar's editorial reading of documented material.",
+            "zh": "手稿重新被发现与出版的时间线，也同Guardian 2024年的专题报道进行核对；评论性理解则参照 Beth McLean 发表于Sydney Review of Books的书评。这些资料支持本文的出版史与接受史陈述；围绕作者权、照护与被中断时间展开的女性主义重点，是本日历依据有文献支持的材料形成的编辑性阅读。"
+          }
+        ]
+      }
+    ],
+    "quote": "one day I was going somewhere too.",
+    "quoteReadingZh": "总有一天，我也会去往别处。",
+    "quoteSource": "Charmian Clift, The End of the Morning",
+    "relatedWorks": [
+      "My Brother Jack｜《我的兄弟杰克》（暂译）— George Johnston",
+      "Clean Straw for Nothing｜《无用的净草》（暂译）— George Johnston",
+      "The Mermaid Singing｜《美人鱼之歌》（暂译）— Charmian Clift",
+      "Peel Me a Lotus｜《为我剥一朵莲花》（暂译）— Charmian Clift",
+      "Walk to the Paradise Gardens｜《走向天堂花园》（暂译）— Charmian Clift",
+      "Honour's Mimic｜《荣誉的模仿者》（暂译）— Charmian Clift",
+      "Sneaky Little Revolutions: Selected Essays of Charmian Clift｜《隐秘的小革命：查米安·克利夫特随笔选》（暂译）— Charmian Clift, edited by Nadia Wheatley"
+    ],
+    "tags": [
+      "women writers",
+      "autobiography",
+      "creative labour",
+      "care",
+      "Australian literature",
+      "essays"
+    ],
+    "sources": [
+      {
+        "label": "UNSW Press / NewSouth",
+        "url": "https://unsw.press/books/the-end-of-the-morning/"
+      },
+      {
+        "label": "Australian Dictionary of Biography",
+        "url": "https://adb.anu.edu.au/biography/clift-charmian-9764"
+      },
+      {
+        "label": "*Guardian*'s 2024 feature",
+        "url": "https://www.theguardian.com/books/2024/apr/01/the-end-of-the-morning-charmian-clift-novel-published-62-years"
+      },
+      {
+        "label": "*Sydney Review of Books*",
+        "url": "https://sydneyreviewofbooks.com/reviews/infinite-resources-secrets-plans-schemes"
+      }
+    ],
+    "status": "published"
+  },
+  {
     id: "2026-09-01-berthe-morisot",
     date: "2026-09-01",
     type: "artist",
