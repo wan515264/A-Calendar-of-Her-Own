@@ -10,30 +10,6 @@ export type DailyCardPreview = Pick<DailyCard,
 
 export const dailyCardIndex: DailyCardPreview[] = [
   {
-    "id": "2026-08-25-gerd-brantenberg-egalias-daughters",
-    "date": "2026-08-25",
-    "type": "novel",
-    "title": "Egalia's Daughters",
-    "titleZh": "《伊加利亚的女儿们》",
-    "years": "b. 1941",
-    "role": "Feminist Satire / Speculative Fiction｜女性主义讽刺 / 推想小说",
-    "author": "Gerd Brantenberg｜格德·布兰腾伯格",
-    "focusTitle": "When Reversal Makes Power Visible",
-    "focusTitleZh": "当性别倒置让权力显形",
-    "summaryEn": "In Egalia, wim control institutions and language while menwim perform care work, wear pehos, and are judged by their bodies. Gerd Brantenberg's reversal does not argue that women should dominate men; it makes familiar inequality strange enough to be seen.",
-    "summaryZh": "在伊加利亚，女人掌握制度与语言，男人承担照护劳动、穿戴阴茎罩，并不断接受身体评判。格德·布兰腾伯格的性别倒置并不是主张女性应统治男性，而是让熟悉的不平等变得足够陌生，从而重新被看见。",
-    "tags": [
-      "gender reversal",
-      "feminist satire",
-      "language",
-      "body discipline",
-      "care work",
-      "sexual violence",
-      "speculative fiction"
-    ],
-    "status": "published"
-  },
-  {
     "id": "2026-08-26-tamara-chaplin-becoming-lesbian",
     "date": "2026-08-26",
     "type": "book",
@@ -77,6 +53,29 @@ export const dailyCardIndex: DailyCardPreview[] = [
       "performance",
       "body",
       "anti-war art"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "2026-09-01-berthe-morisot",
+    "date": "2026-09-01",
+    "type": "artist",
+    "title": "Berthe Morisot",
+    "titleZh": "贝尔特·莫里索",
+    "years": "1841–1895",
+    "role": "Painter / Printmaker｜画家 / 版画家",
+    "focusTitle": "A Woman at the Centre of Impressionism",
+    "focusTitleZh": "站在印象派中心的女性",
+    "summaryEn": "Berthe Morisot was not merely a woman who knew the Impressionists or modelled for Édouard Manet. She was a founding participant in the 1874 independent exhibition, the only woman among its thirty artists, and she went on to exhibit in seven of the group's eight exhibitions. Working from spaces structured by gender and class, she turned interiors, balconies, gardens, parks, boats, and seaside resorts into laboratories of Impressionist painting.",
+    "summaryZh": "贝尔特·莫里索不只是一位认识印象派画家或曾为 Édouard Manet 担任模特的女人。她是1874年独立展览的创始参与者，也是三十位参展艺术家中唯一的女性；此后，她参加了印象派八届展览中的七届。她从受到性别与阶级塑造的空间出发，把室内、阳台、花园、公园、船只与海滨度假地变成了印象派绘画的实验室。",
+    "tags": [
+      "Impressionism",
+      "women artists",
+      "modernity",
+      "gendered space",
+      "domesticity",
+      "the gaze",
+      "art institutions"
     ],
     "status": "published"
   }
