@@ -146,6 +146,614 @@ export type DailyCard = {
 // }
 
 export const dailyCards: DailyCard[] = [
+{
+  "id": "2026-09-02-magda-szabo-the-door",
+  "date": "2026-09-02",
+  "type": "novel",
+  "title": "The Door",
+  "titleZh": "《门》",
+  "author": "Magda Szabó｜玛格达·萨博",
+  "years": "1987",
+  "focusTitle": "Whose Labour Makes a Woman's Writing Possible?",
+  "focusTitleZh": "一个女人的写作自由，由谁的劳动支撑？",
+  "summaryEn": "When her writing career begins to recover, the narrator of The Door needs someone to take over the housework. Emerence makes that writing life possible, but refuses to recognise intellectual work as superior to work done with the hands. Their relationship becomes a struggle over labour, affection, privacy, and the authority to decide what is best for another woman.",
+  "summaryZh": "当写作事业开始恢复，《门》的叙述者需要有人接手家务。埃梅伦兹使这种写作生活成为可能，却拒绝承认知识劳动高于双手完成的劳动。两人的关系逐渐成为一场围绕劳动、感情、隐私，以及谁有权替另一位女性决定什么才是对她好的争执。",
+  "introduction": [
+    {
+      "en": "Magda Szabó's The Door was first published in Hungarian as Az ajtó in 1987. This entry is based on the supplied New York Review Books edition, translated by Len Rix, with an introduction by Ali Smith. The copyright page dates Rix's translation and Smith's introduction to 2005; 2015 is the NYRB edition, not the novel's original publication year.",
+      "zh": "玛格达·萨博的《门》于1987年以匈牙利文书名 Az ajtó 首次出版。本篇依据所提供的 New York Review Books 版本修订，译者为 Len Rix，导言作者为 Ali Smith。版权页注明，Rix 的译文与 Smith 的导言均作于2005年；2015年是 NYRB 版本的出版年份，并非小说初版年份。"
+    },
+    {
+      "en": "The story is told retrospectively by a woman writer. Its opening confession makes the ethical problem explicit before the relationship is reconstructed: the narrator holds herself responsible for Emerence's death, although she intended to save her. This is the narrator's judgment of herself, not a neutral finding that the novel asks us to accept without examination. The following discussion includes major plot developments.",
+      "zh": "小说由一位女性作家回顾往事。开篇的忏悔在关系被重新讲述之前就点明了伦理问题：叙述者认为自己应为埃梅伦兹的死亡负责，尽管她原本想要救她。这是叙述者对自己的判断，而不是小说要求我们不加审视地接受的中立结论。下文涉及重要情节。"
+    }
+  ],
+  "sections": [
+    {
+      "title": "A Room Someone Else Maintains",
+      "titleZh": "由另一个人维持的房间",
+      "paragraphs": [
+        {
+          "en": "In “The Contract,” the narrator explains why she seeks domestic help. Her literary career, politically obstructed for ten years, is reviving. She and her husband have moved into a larger home. Unless someone takes over the housekeeping, she cannot publish work accumulated during her enforced silence or produce new writing. Domestic labour is therefore not an incidental detail: the novel names it as a condition of literary production.",
+          "zh": "在“The Contract”（契约）一章，叙述者明确说明自己为何寻找家务帮手。她受到政治阻碍长达十年的文学生涯正在恢复，她与丈夫也搬入更大的住所。如果没有人接手家务，她就无法出版沉默时期积累的作品，也无法继续创作。因此，家务劳动并非无关紧要的生活细节：小说直接把它写成文学生产的条件。"
+        },
+        {
+          "en": "Read beside Woolf, this changes the question of a room of one's own. A room is also a place that must be cleaned and maintained. Recognising this dependence need not mean condemning women for writing. It means refusing to describe intellectual independence as if it had no supporting labour.",
+          "zh": "与伍尔夫对读，这改变了“一间自己的房间”的问题。房间也是一个需要被清洁与维护的地方。承认这种依赖，并不意味着谴责女性写作，而是拒绝把思想独立描述成一种无需他人劳动支撑的状态。"
+        }
+      ]
+    },
+    {
+      "title": "The Housekeeper Interviews the Employer",
+      "titleZh": "女管家反过来审查雇主",
+      "paragraphs": [
+        {
+          "en": "Emerence does not arrive as a grateful applicant. She investigates the couple's character, requires references, and postpones setting her pay until she understands how much work they will create. Her refusal to wash just anyone's dirty linen turns a domestic phrase into a judgment of the people whose household she might enter.",
+          "zh": "埃梅伦兹并不是以感激的求职者姿态出现的。她调查这对夫妇的品行，要求有人为他们作保，并要等弄清他们会制造多少工作之后再决定报酬。她拒绝替随便什么人洗脏衣服，让一句家务用语变成对自己可能进入其家庭的人的评判。"
+        },
+        {
+          "en": "This reversal complicates a simple picture of domination. Emerence chooses, commands, and refuses. Yet bargaining power inside one household is not identical to the writer's access to publication and public honours. Their unequal positions coexist with the older woman's formidable personal authority.",
+          "zh": "这种反转使简单的支配图景变得复杂。埃梅伦兹能够选择、命令与拒绝。但一个家庭内部的议价能力，并不等同于作家获得出版与公共荣誉的机会。两人位置的不平等，与这位年长女性强大的个人威严同时存在。"
+        }
+      ]
+    },
+    {
+      "title": "Hands, Books, and the Meaning of Work",
+      "titleZh": "双手、书籍与劳动的意义",
+      "paragraphs": [
+        {
+          "en": "In “Politics,” the narrator describes Emerence's suspicion of occupations that do not involve physical effort. The writer measures much of her world through books; Emerence judges people through what they do with their hands. Their conflict concerns not only who works harder, but who has the authority to define useful work.",
+          "zh": "在“Politics”（政治）一章，叙述者描写埃梅伦兹对不涉及体力付出的职业抱有的怀疑。作家主要通过书籍衡量世界；埃梅伦兹则通过人们用双手做了什么来判断他们。她们的冲突不只是关于谁更辛苦，也关于谁有权定义有用的劳动。"
+        },
+        {
+          "en": "Neither scale should become the calendar's unquestioned standard. Intellectual work is not automatically idleness, and physical work is not merely a lower stage on the way to culture. The novel allows each woman's standard to expose the other's blind spots, while the narrator's language also reveals her own class assumptions.",
+          "zh": "这两套尺度都不应成为本日历不加质疑的标准。知识劳动并不自动等于游手好闲，体力劳动也不是通往文化的某个低级阶段。小说让两位女性各自的尺度暴露对方的盲点，而叙述者的语言也显露出她自己的阶级预设。"
+        }
+      ]
+    },
+    {
+      "title": "Affection Does Not Abolish Power",
+      "titleZh": "感情不会消除权力",
+      "paragraphs": [
+        {
+          "en": "The rescued dog Viola makes dependence tangible. Although the narrator's household takes him in, he becomes intensely attached to Emerence, who nurses, feeds, and trains him. The narrator's jealousy shows how easily providing a home can be confused with possessing another creature's affection. Emerence's harsh training also prevents care from becoming a simple emblem of goodness.",
+          "zh": "获救的狗 Viola 让依赖关系变得具体。虽然是叙述者一家收留了他，他却强烈依恋护理、喂养并训练他的埃梅伦兹。叙述者的嫉妒显示，提供住所很容易被混同为拥有另一生命的感情。埃梅伦兹严厉的训练，也使照护无法成为善良的简单象征。"
+        }
+      ]
+    },
+    {
+      "title": "The Door Is a Boundary, Not a Puzzle to Solve",
+      "titleZh": "门是边界，不只是等待破解的谜",
+      "paragraphs": [
+        {
+          "en": "Emerence's closed home cannot be separated from her control over what others may see. In “Action,” illness and relentless work in the snow bring that control into crisis. The narrator helps organise an intervention, but then leaves for a television engagement while the rescue is taking place. Saving a life and protecting a person's privacy no longer coincide.",
+          "zh": "埃梅伦兹紧闭的家门，与她决定他人可以看见什么的控制权密不可分。在“Action”（行动）一章，疾病与雪地里不间断的劳动使这种控制陷入危机。叙述者参与组织干预，却在救援进行时离开，前往参加电视节目。挽救生命与保护一个人的隐私，不再自动是一回事。"
+        },
+        {
+          "en": "This is not a general argument against emergency care. It is a conflict over how help is delivered, who remains present, and what happens to the person whose vulnerability becomes publicly visible. Good intentions do not settle those questions in advance.",
+          "zh": "这并不是对紧急救援的一般性否定，而是关于帮助如何实施、谁留在现场，以及一个人的脆弱处境公开之后会发生什么的冲突。善意并不能提前解决这些问题。"
+        }
+      ]
+    },
+    {
+      "title": "Public Success and Private Failure",
+      "titleZh": "公共成功与私人失败",
+      "paragraphs": [
+        {
+          "en": "“Without Her Headscarf” and “The Ceremony” place literary recognition beside the narrator's growing sense of failure. She is welcomed into television and honoured in Parliament while Emerence is hospitalised. The contrast does not prove that a woman must choose care instead of a career. It asks what responsibility accompanies success when that success has depended on someone now in need.",
+          "zh": "“Without Her Headscarf”（没有头巾的她）与“The Ceremony”（典礼）把文学承认和叙述者日益强烈的失败感并置。埃梅伦兹住院期间，她进入电视世界，并在国会受到表彰。这一对照并不证明女性必须放弃事业、选择照护，而是追问：当成功依赖过一个如今需要帮助的人时，成功同时带来怎样的责任。"
+        }
+      ]
+    },
+    {
+      "title": "Comfort Built on a False Account",
+      "titleZh": "建立在虚假叙述上的安慰",
+      "paragraphs": [
+        {
+          "en": "In “Amnesia,” Emerence believes that the narrator alone cleaned her home and protected her from the neighbours' scrutiny. The narrator allows this belief to stand. The relief it produces is real, but rests on a false account of what happened. Knowledge becomes power again: one woman decides what another can bear to know.",
+          "zh": "在“Amnesia”（失忆）一章，埃梅伦兹相信，是叙述者独自清理了她的家，保护她免受邻居的窥视。叙述者让这个信念继续存在。它产生的宽慰是真实的，却建立在对事件的虚假描述之上。知识再次成为权力：一位女性替另一位女性决定，她能够承受知道什么。"
+        }
+      ]
+    },
+    {
+      "title": "Writing After the Failure of Care",
+      "titleZh": "照护失败之后的写作",
+      "paragraphs": [
+        {
+          "en": "The ending refuses an easy restoration. The furniture left as an inheritance disintegrates, and the narrator is urged to arrange domestic help again. The material structure that made writing possible has not disappeared with Emerence. Nor can turning her life into a book simply repay what is owed.",
+          "zh": "结尾拒绝轻易的修复。作为遗产留下的家具崩解，叙述者又被劝说重新安排家务帮手。使写作成为可能的物质结构，并没有随着埃梅伦兹的死亡消失。把她的人生写成一本书，也不能简单偿还欠下的一切。"
+        },
+        {
+          "en": "The opening confession therefore remains a question about authorship itself. Writing can acknowledge a failure that public success conceals; it also gives the surviving writer the final account. A demanding feminist reading keeps both possibilities in view, without making either woman a saint or reducing either to a class symbol.",
+          "zh": "因此，开篇的忏悔始终也是关于作者身份本身的问题。写作能够承认公共成功遮蔽的失败；同时，它也让幸存的作家掌握最终的讲述。一种要求更高的女性主义阅读，需要同时保留这两种可能，而不把任何一位女性塑造成圣人，或缩减成阶级符号。"
+        }
+      ]
+    }
+  ],
+  "quoteSelections": [
+    {
+      "en": "The fact that I was trying to save her rather than destroy her changes nothing.",
+      "zh": "我原本是想救她，而不是毁掉她，这个事实并不能改变什么。",
+      "source": "Magda Szabó, The Door, opening chapter “The Door”, translated by Len Rix; Chinese translation for this calendar｜开篇“The Door”，Len Rix 英译；中文为本日历译文"
+    }
+  ],
+  "quotesTitle": "Quotation",
+  "quotesTitleZh": "引文",
+  "quotesAtEnd": true,
+  "quoteReadingEn": "The speaker is the narrator, looking back, not the author issuing a universal rule about rescue. Her sentence separates intention from consequence. It asks readers to examine what she did, what she failed to protect, and how her need to confess shapes the story she tells.",
+  "quoteReadingZh": "说话者是回顾往事的叙述者，并非作者在颁布一条关于救援的普遍规则。这句话把意图与后果分开，要求读者考察她做了什么、未能保护什么，以及她的忏悔需要如何塑造了这个故事。",
+  "sources": [
+    {
+      "label": "New York Review Books｜《门》版本资料",
+      "url": "https://www.nyrb.com/products/the-door"
+    }
+  ],
+  "sourceText": "Magda Szabó, The Door, translated by Len Rix, introduction by Ali Smith, New York Review Books, 2015. User-supplied EPUB; chapter references rather than unstable electronic page numbers.｜依据用户提供的 EPUB；采用章节定位，不编造电子书页码。",
+  "sourceNote": "Primary-text anchors: “The Contract”; “Viola”; “Politics”; “Action”; “Without Her Headscarf”; “The Ceremony”; “Amnesia”; “Inheritance”; “The Solution”. Ali Smith's introduction is distinguished from the novel. Connections with Woolf and feminist care ethics are this calendar's interpretations.｜原文定位：“契约”“Viola”“政治”“行动”“没有头巾的她”“典礼”“失忆”“遗产”“解决办法”（章节中文为暂译）。Ali Smith 的导言与小说正文分别处理；与伍尔夫及女性主义照护伦理的联系属于本日历解读。",
+  "relatedWorks": [
+    {
+      "title": "A Room of One's Own",
+      "titleZh": "《一间自己的房间》",
+      "relationEn": "Virginia Woolf: reconsider the labour that maintains a private space for writing.",
+      "relationZh": "弗吉尼亚·伍尔夫：进一步追问维持私人写作空间的劳动。"
+    },
+    {
+      "title": "Wages Against Housework",
+      "titleZh": "《反对家务劳动》",
+      "relationEn": "Silvia Federici: compare the visibility of domestic work, while distinguishing paid employment in this novel from unwaged labour.",
+      "relationZh": "西尔维娅·费代里奇：对读家务劳动的可见性，同时区分本小说中的有偿雇佣与无偿劳动。"
+    }
+  ],
+  "tags": [
+    "domestic labour",
+    "class",
+    "authorship",
+    "care",
+    "privacy"
+  ],
+  "status": "draft"
+},
+{
+  "id": "2026-09-04-chantal-akerman-jeanne-dielman",
+  "date": "2026-09-04",
+  "type": "film",
+  "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+  "titleZh": "《让娜·迪尔曼》",
+  "author": "Chantal Akerman｜香特尔·阿克曼",
+  "years": "1975",
+  "focusTitle": "When Housework Takes Up the Time of Cinema",
+  "focusTitleZh": "当家务占据电影的时间",
+  "summaryEn": "Jeanne cooks, cleans, and maintains a household. Akerman gives these repeated actions a duration that cinema often removes. The question is no longer what happens after the chores, but what it means to spend a life performing them.",
+  "summaryZh": "让娜做饭、清洁，维持一个家庭。阿克曼给予这些重复动作一种常被电影删去的持续时间。问题不再是做完家务之后发生了什么，而是把生命用于完成这些事情，究竟意味着什么。",
+  "introduction": [
+    {
+      "en": "Released in 1975, Chantal Akerman's film follows a widow living with her son in Brussels. Delphine Seyrig plays Jeanne, whose domestic routines coexist with paid sexual encounters. Criterion lists the film at 201 minutes. Its length matters because ordinary maintenance becomes something the viewer must spend time watching.",
+      "zh": "香特尔·阿克曼这部1975年的电影，描绘一位与儿子同住布鲁塞尔的寡妇。德尔菲娜·塞里格饰演让娜，她的家务日程与有偿性接触并存。Criterion 标注影片长201分钟。这个长度十分重要，因为普通的生活维护成为观众必须花时间观看的事情。"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Work Usually Cut Away",
+      "titleZh": "通常被剪掉的劳动",
+      "paragraphs": [
+        {
+          "en": "Many films use a meal to stage a conversation while omitting its preparation. Here, domestic tasks receive sustained attention. This changes narrative value: the work that enables other people's lives is no longer merely the interval between supposedly important events.",
+          "zh": "许多电影用一顿饭安排谈话，却省略准备饭菜的过程。在这里，家务获得持续的关注。这改变了叙事中的价值排序：使他人生活得以继续的劳动，不再只是所谓重要事件之间的空隙。"
+        }
+      ]
+    },
+    {
+      "title": "Repetition Makes Difference Visible",
+      "titleZh": "重复让差异变得可见",
+      "paragraphs": [
+        {
+          "en": "As viewers learn Jeanne's routines, small disruptions acquire weight. Ivone Margulies's essay for Criterion examines the film's organisation of time and daily gestures. Repetition is therefore not an absence of form. It establishes a pattern through which alterations can be felt.",
+          "zh": "随着观众逐渐熟悉让娜的日程，微小的偏离也获得重量。Ivone Margulies 为 Criterion 撰写的文章分析了影片对时间与日常动作的组织。因此，重复并不是形式的缺席，而是建立一种让变化可以被感受到的模式。"
+        }
+      ]
+    },
+    {
+      "title": "Not a Diagnosis",
+      "titleZh": "不是一份心理诊断",
+      "paragraphs": [
+        {
+          "en": "It would be reductive to explain Jeanne through a single clinical label or to treat her as a representative of every housewife. The film's restraint leaves motives difficult to settle. A feminist reading can examine the organisation of labour without claiming complete access to this woman's interior life.",
+          "zh": "用一个临床标签解释让娜，或把她当作所有家庭主妇的代表，都会使作品变得简单。影片的克制让人物动机难以被最终确定。女性主义阅读可以考察劳动如何被组织，而不声称已经完全进入这位女性的内心。"
+        }
+      ]
+    },
+    {
+      "title": "Whose Time Counts?",
+      "titleZh": "谁的时间值得被看见？",
+      "paragraphs": [
+        {
+          "en": "Read beside Federici, the film offers a useful change of medium. An argument about domestic labour becomes an experience of duration. This is a proposed pairing, not a claim of direct influence: the camera asks us to stay with activities that social recognition and narrative convention often hurry past.",
+          "zh": "与费代里奇对读，这部电影提供了一次有价值的媒介转换：关于家务劳动的论述，变成对持续时间的体验。这是本日历建议的并读，而不是关于直接影响的断言。镜头要求我们停留在那些常被社会承认与叙事惯例匆匆略过的活动之中。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Criterion｜影片资料",
+      "url": "https://www.criterion.com/films/302-jeanne-dielman-23-quai-du-commerce-1080-bruxelles"
+    },
+    {
+      "label": "Ivone Margulies, A Matter of Time｜时间、形式与日常劳动",
+      "url": "https://www.criterion.com/current/posts/1215"
+    }
+  ],
+  "relatedWorks": [
+    {
+      "title": "Wages Against Housework",
+      "titleZh": "《反对家务劳动》",
+      "relationEn": "Silvia Federici: an editorial pairing on the recognition of domestic work.",
+      "relationZh": "西尔维娅·费代里奇：围绕家务劳动的承认进行编辑性并读。"
+    }
+  ],
+  "tags": [
+    "cinema",
+    "domestic labour",
+    "time"
+  ],
+  "status": "draft",
+  "sourceNote": "Publication and work details are checked against the sources below. The feminist connections are editorial readings, not direct quotations or claims of scholarly consensus.｜出版与作品资料依据下列来源核对；女性主义联系属于本日历的编辑性解读，并非直接引文，也不宣称代表学界共识。"
+},
+{
+  "id": "2026-09-05-martha-rosler-semiotics-of-the-kitchen",
+  "date": "2026-09-05",
+  "type": "performance",
+  "title": "Semiotics of the Kitchen",
+  "titleZh": "《厨房的符号学》",
+  "author": "Martha Rosler｜玛莎·罗斯勒",
+  "years": "1975",
+  "focusTitle": "When Kitchen Utensils Become a Language of Refusal",
+  "focusTitleZh": "当厨房器具成为拒绝的语言",
+  "summaryEn": "In a short video, Martha Rosler presents kitchen utensils in alphabetical order. Her abrupt gestures unsettle the familiar promise of a helpful cooking demonstration. The kitchen becomes a place to examine how femininity is taught and performed.",
+  "summaryZh": "在一段短片中，玛莎·罗斯勒按照字母顺序展示厨房器具。她突兀的动作扰乱了人们对于实用烹饪示范的熟悉期待。厨房成为一个考察女性气质如何被教授、被表演的场所。",
+  "introduction": [
+    {
+      "en": "Made in 1975, Semiotics of the Kitchen is a black-and-white video performance. Rosler stands behind a table, naming and demonstrating utensils. MoMA and MACBA document the work as a critique of the signs and roles through which domestic femininity becomes familiar.",
+      "zh": "创作于1975年的《厨房的符号学》是一件黑白录像表演作品。罗斯勒站在桌后，命名并演示器具。MoMA 与 MACBA 的作品资料把它放在对符号与角色的批评中：家庭化的女性气质正是通过这些符号与角色变得熟悉。"
+    }
+  ],
+  "sections": [
+    {
+      "title": "An Alphabet of Domesticity",
+      "titleZh": "家庭生活的字母表",
+      "paragraphs": [
+        {
+          "en": "The alphabetical sequence looks orderly and educational. Yet naming an object is not neutral when the expected user is already imagined as a woman. An editorial reading can ask how learning the proper use of things also becomes learning one's assigned place.",
+          "zh": "字母顺序看起来井然有序，也具有教学意味。但当器具的预期使用者已经被想象为女性时，命名物品就并非完全中立。本篇由此追问：学习物件的正确使用方式，如何也变成学习自己被分配的位置？"
+        }
+      ]
+    },
+    {
+      "title": "A Demonstration That Refuses to Reassure",
+      "titleZh": "不再让人安心的示范",
+      "paragraphs": [
+        {
+          "en": "The force and awkwardness of Rosler's movements interrupt the reassuring manner associated with cooking programmes. She does not simply provide another recipe. She alters the relation between the demonstrator, the tool, and the viewer's expectations of pleasant service.",
+          "zh": "罗斯勒动作中的力度与不协调，打断了烹饪节目常见的令人安心的姿态。她并不是提供另一份食谱，而是在改变示范者、工具，以及观众对愉快服务的期待之间的关系。"
+        }
+      ]
+    },
+    {
+      "title": "A Woman Is Not an Appliance",
+      "titleZh": "女人不是一件家用器具",
+      "paragraphs": [
+        {
+          "en": "Rosler's account of the work connects language with a subject shaped by systems of food production. The feminist question is not whether cooking is inherently degrading. It is what happens when competence, availability, and service become the terms through which a woman is expected to make herself intelligible.",
+          "zh": "罗斯勒对作品的说明，把语言与受到食物生产系统塑造的主体联系起来。这里的女性主义问题，不是烹饪本身是否低贱，而是当熟练、随时待命与服务成为女性必须用来解释自身价值的条件时，会发生什么。"
+        }
+      ]
+    },
+    {
+      "title": "Two Ways of Making Labour Visible",
+      "titleZh": "让劳动可见的两种方式",
+      "paragraphs": [
+        {
+          "en": "Placed after Jeanne Dielman, the work creates a contrast. Akerman asks us to endure domestic time; Rosler compresses a domestic vocabulary into a confrontational performance. Neither work requires us to dismiss the skill of household workers. Both invite attention to the roles through which that skill is organised.",
+          "zh": "把这件作品安排在《让娜·迪尔曼》之后，可以形成对照。阿克曼要求我们经历家务的时间；罗斯勒则把家庭词汇压缩成一场带有对抗性的表演。两部作品都不要求我们贬低家务劳动者的技能，而是邀请我们关注这些技能如何被角色分工组织起来。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "MoMA｜作品与艺术家说明",
+      "url": "https://www.moma.org/collection/works/88937"
+    },
+    {
+      "label": "MACBA｜作品馆藏资料",
+      "url": "https://www.macba.cat/ca/obra/r2821-semiotics-of-the-kitchen/"
+    }
+  ],
+  "relatedWorks": [
+    {
+      "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "titleZh": "《让娜·迪尔曼》",
+      "relationEn": "Chantal Akerman: compare duration with Rosler's compressed performance.",
+      "relationZh": "香特尔·阿克曼：将持续时间与罗斯勒的压缩式表演对读。"
+    }
+  ],
+  "tags": [
+    "video art",
+    "domesticity",
+    "language"
+  ],
+  "status": "draft",
+  "sourceNote": "Publication and work details are checked against the sources below. The feminist connections are editorial readings, not direct quotations or claims of scholarly consensus.｜出版与作品资料依据下列来源核对；女性主义联系属于本日历的编辑性解读，并非直接引文，也不宣称代表学界共识。"
+},
+{
+  "id": "2026-09-06-yuko-tsushima-territory-of-light",
+  "date": "2026-09-06",
+  "type": "novel",
+  "title": "Territory of Light",
+  "titleZh": "《光的领地》",
+  "author": "Yūko Tsushima｜津岛佑子",
+  "focusTitle": "A Mother Does Not Have to Be an Exemplary Woman",
+  "focusTitleZh": "母亲不必成为完美的榜样",
+  "summaryEn": "A woman lives with her young daughter in Tokyo as her marriage comes apart. Territory of Light makes room for fatigue, longing, and uncertainty without requiring its mother to become either a saint or a cautionary tale.",
+  "summaryZh": "婚姻走向破裂，一位女性与年幼的女儿在东京生活。《光的领地》为疲惫、渴望与不确定留下位置，而不要求这位母亲成为圣人，或成为警示他人的反面教材。",
+  "introduction": [
+    {
+      "en": "Yūko Tsushima's Territory of Light follows a mother and daughter through a period of separation and adjustment. The publisher describes the movement between a bright apartment and a life at risk of becoming unstable. This contrast offers a starting point for reading motherhood as lived experience rather than a finished moral identity.",
+      "zh": "津岛佑子的《光的领地》跟随一对母女经历分离与重新适应的时期。出版社的介绍突出明亮公寓与逐渐不稳定的生活之间的反差。这一反差提供了一个起点：把母职读作正在经历的生活，而不是已经完成的道德身份。"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Beyond the Good-Mother Test",
+      "titleZh": "走出好母亲的考核",
+      "paragraphs": [
+        {
+          "en": "A feminist reading need not certify every decision the narrator makes. It can instead question why a mother's imperfections are so readily treated as a verdict on her entire person. Understanding a difficult action is not the same as excusing harm; it means refusing to let judgment replace attention.",
+          "zh": "女性主义阅读不需要为叙述者的每个决定背书，而可以追问：为什么母亲的不完美如此容易变成对她整个人的判决？理解一个困难的行动不等于为伤害开脱，而是拒绝让评判取代关注。"
+        }
+      ]
+    },
+    {
+      "title": "Independence Is Not Self-Sufficiency",
+      "titleZh": "独立不是不再需要别人",
+      "paragraphs": [
+        {
+          "en": "Living apart from a partner does not abolish the need for care. The proposed connection with this calendar's earlier entries is material: someone must earn, organise, rest, and respond to a child. Calling a woman independent should not mean imagining that she no longer needs support.",
+          "zh": "与伴侣分开生活，并不会消除对照护的需要。本篇与此前日历的联系首先是物质性的：必须有人挣钱、安排生活、休息，并回应孩子。称一个女人独立，不应意味着想象她从此不再需要支持。"
+        }
+      ]
+    },
+    {
+      "title": "Light Is Not a Promise",
+      "titleZh": "光并不是保证",
+      "paragraphs": [
+        {
+          "en": "The title encourages attention to how a place feels, not only to what a character decides. In this editorial reading, brightness should not be forced into a simple symbol of recovery. A room can be luminous while the person inside it remains uncertain. Change does not have to follow a reassuring upward line.",
+          "zh": "书名让我们关注一个空间给人的感受，而不只是人物作出了什么决定。在本篇解读中，明亮不应被强行解释成康复的简单象征。房间可以充满光，而身处其中的人依然不确定。变化并不必须沿着令人安心的上升曲线发生。"
+        }
+      ]
+    },
+    {
+      "title": "Permission to Remain a Person",
+      "titleZh": "允许母亲继续作为一个人",
+      "paragraphs": [
+        {
+          "en": "The most useful question may be what disappears when motherhood becomes the only description of a woman. Desire, anger, and vulnerability do not automatically vanish with responsibility. Reading for these tensions allows care to matter without demanding that the caregiver surrender every other part of herself.",
+          "zh": "最值得追问的，也许是当母亲成为描述一个女人的唯一方式时，什么被抹去了。欲望、愤怒与脆弱不会因为责任而自动消失。阅读这些张力，能够让照护保持重要，同时不要求照护者交出自己的其他全部部分。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Penguin｜作品简介与版本资料",
+      "url": "https://www.penguin.co.uk/books/305722/territory-of-light-by-tsushima-yuko/9780241312629"
+    }
+  ],
+  "relatedWorks": [
+    {
+      "title": "The Door",
+      "titleZh": "《门》",
+      "relationEn": "Magda Szabó: compare dependence and the material conditions of autonomy.",
+      "relationZh": "玛格达·萨博：对读依赖关系与自主生活的物质条件。"
+    }
+  ],
+  "tags": [
+    "motherhood",
+    "care",
+    "autonomy"
+  ],
+  "status": "draft",
+  "sourceNote": "Publication and work details are checked against the sources below. The feminist connections are editorial readings, not direct quotations or claims of scholarly consensus.｜出版与作品资料依据下列来源核对；女性主义联系属于本日历的编辑性解读，并非直接引文，也不宣称代表学界共识。"
+},
+{
+  "id": "2026-09-07-toni-morrison-the-bluest-eye",
+  "date": "2026-09-07",
+  "type": "novel",
+  "title": "The Bluest Eye",
+  "titleZh": "《最蓝的眼睛》",
+  "author": "Toni Morrison｜托妮·莫里森",
+  "years": "1970",
+  "focusTitle": "Who Teaches a Girl to Despise Her Own Appearance?",
+  "focusTitleZh": "是谁教一个女孩厌恶自己的样子？",
+  "summaryEn": "Pecola Breedlove wants blue eyes, not simply a different appearance. She imagines that different eyes could change the world that looks at her. Through dolls, sweets, films, school hierarchies, and family relationships, Morrison asks how racial contempt becomes a child's judgment of herself.",
+  "summaryZh": "佩科拉·布里德洛夫渴望蓝眼睛，却不只是想改变外貌。她想象，不同的眼睛能够改变那个看待她的世界。通过娃娃、糖果、电影、学校等级与家庭关系，莫里森追问：种族蔑视如何变成一个孩子对自己的判断？",
+  "introduction": [
+    {
+      "en": "First published in 1970, The Bluest Eye is Toni Morrison's first novel. This revision draws on the supplied EPUB, especially its opening, four seasonal sections, and the author's afterword dated November 1993. The year in the attachment's filename is not treated as the novel's original publication date. Chapter and section references are used instead of unstable ebook page numbers.",
+      "zh": "《最蓝的眼睛》首次出版于1970年，是托妮·莫里森的第一部长篇小说。本次修订依据所附 EPUB，重点核对开篇、四个季节部分，以及署于1993年11月的作者后记。附件文件名中的年份不作为小说初版年份；引用采用章节与分节定位，不使用不稳定的电子书页码。"
+    },
+    {
+      "en": "The novel concerns a Black girl in Lorain, Ohio, and the people who injure, judge, fail, or try to help her. It includes child sexual abuse and domestic violence. The discussion below contains major plot developments but avoids graphic description. Pecola's experience must not be treated as representative of all Black families: Morrison explicitly rejects that generalisation in her afterword.",
+      "zh": "小说围绕俄亥俄州洛雷恩的一个黑人女孩，以及伤害她、评判她、辜负她或试图帮助她的人展开。作品涉及儿童性侵与家庭暴力。以下讨论包含重要情节，但不作具体暴力描写。佩科拉的经历不能被当作所有黑人家庭的代表：莫里森在后记中明确拒绝这种概括。"
+    }
+  ],
+  "sections": [
+    {
+      "title": "The Happy Family in the Primer",
+      "titleZh": "识字课本里的幸福家庭",
+      "paragraphs": [
+        {
+          "en": "Before the seasonal narrative begins, a Dick-and-Jane-style passage presents a pretty house and a happy family. It reappears without punctuation and then without spaces. The words remain familiar, but their order becomes increasingly difficult to inhabit as language. Fragments of this model recur as compressed headings within the novel.",
+          "zh": "四季叙事开始之前，一段模仿 Dick and Jane 识字读本的文字展示漂亮的房子与幸福家庭。它随后去掉标点，又去掉词间空格。词语依然熟悉，这套秩序却越来越难以作为语言被进入。这个范本的碎片也作为压缩的标题反复出现在小说内部。"
+        },
+        {
+          "en": "This is more than a contrast between a happy home and an unhappy one. The novel asks who can recognise themselves inside the approved image of ordinary life. The apparently innocent model becomes a standard against which other households can be made to appear deficient.",
+          "zh": "这不只是幸福家庭与不幸家庭的对照。小说追问的是：谁能够在受到认可的普通生活图景里认出自己？看似无害的范本，可能变成一种把其他家庭判定为不足的标准。"
+        }
+      ]
+    },
+    {
+      "title": "Claudia Does Not Love the Doll",
+      "titleZh": "克劳迪娅并不爱那个娃娃",
+      "paragraphs": [
+        {
+          "en": "Claudia, who narrates part of the story through remembered childhood and later reflection, resists the blue-eyed doll adults expect her to cherish. She takes it apart to investigate the lovability everyone else assumes. Her response shows that racialised beauty is learned, not simply an instinct shared by every girl.",
+          "zh": "克劳迪娅通过童年记忆与后来的反思讲述了小说的一部分。她抗拒大人们期待她珍爱的蓝眼睛娃娃，把它拆开，试图调查所有人都认定存在于其中的可爱。她的反应表明，种族化的美是学来的，而不是每个女孩自然共有的本能。"
+        },
+        {
+          "en": "Her resistance should not become another test that Pecola fails. The two children do not receive identical protection or live in identical circumstances. Morrison gives us different responses to pressure, not a competition between the strong girl and the weak one.",
+          "zh": "她的抵抗不应变成佩科拉未能通过的另一场考核。两个孩子得到的保护并不相同，生活条件也不相同。莫里森给予我们的是面对压力的不同反应，而不是坚强女孩与软弱女孩之间的比赛。"
+        }
+      ]
+    },
+    {
+      "title": "A Sweet That Carries a Gaze",
+      "titleZh": "携带目光的糖果",
+      "paragraphs": [
+        {
+          "en": "In “Autumn,” Pecola buys Mary Jane sweets from Mr. Yacobowski. His failure to recognise her as someone worth attending to precedes her encounter with the blue-eyed girl on the wrapper. Ordinary consumption joins a painful social encounter to an image of desirable girlhood.",
+          "zh": "在“Autumn”（秋）中，佩科拉向 Yacobowski 先生购买 Mary Jane 糖果。在她面对糖纸上的蓝眼睛女孩之前，店主已经没有把她当作值得认真关注的人。普通的消费行为，把一次痛苦的社会接触与一种令人向往的女孩形象连接起来。"
+        },
+        {
+          "en": "The question is not whether a single sweet causes self-hatred. It is how repeated images and encounters teach a child where affection seems to reside. Beauty works through everyday objects as well as explicit insults.",
+          "zh": "问题不是一颗糖是否造成自我憎恨，而是反复出现的图像与接触如何教一个孩子判断，爱似乎存在于何处。美的等级既通过直接侮辱起作用，也通过日常物品起作用。"
+        }
+      ]
+    },
+    {
+      "title": "Colour, Class, and Respectability",
+      "titleZh": "肤色、阶级与体面",
+      "paragraphs": [
+        {
+          "en": "“Winter” introduces Maureen Peal, whose lighter complexion, clothing, and relative wealth bring admiration. Geraldine's household offers another form of distinction, maintained through cleanliness, propriety, and distance from those she despises. Pecola encounters exclusion not only across a white–Black boundary but within hierarchies of status and colour.",
+          "zh": "“Winter”（冬）引入莫琳·皮尔，她较浅的肤色、衣着与相对富裕的生活为她带来赞赏。杰拉尔丁的家庭则提供另一种区分方式：通过整洁、规矩，以及远离她所鄙视的人来维持位置。佩科拉遭遇的排斥，不只发生在白人与黑人之间，也发生在地位与肤色的内部等级之中。"
+        },
+        {
+          "en": "Recognising these distinctions does not relocate the whole responsibility for racism inside the Black community. It shows how an external hierarchy can be adopted and enforced in intimate, local relationships.",
+          "zh": "承认这些区分，并不是把种族主义的全部责任转移到黑人共同体内部，而是看见外部等级如何被吸收，并在亲密的、地方性的关系中得到执行。"
+        }
+      ]
+    },
+    {
+      "title": "Pauline's Labour in Another Family's Home",
+      "titleZh": "波琳在另一个家庭中的劳动",
+      "paragraphs": [
+        {
+          "en": "Pauline Breedlove finds order, praise, and a sense of authority in her work for the Fisher family. Their resources allow her to maintain a domestic world she cannot reproduce in her own home. The novel also connects her judgments of beauty with moviegoing, where glamorous images offer a powerful measure for ordinary life.",
+          "zh": "波琳·布里德洛夫在为费舍尔一家工作时找到秩序、赞赏与权威感。雇主的资源让她能够维持一个无法在自己家中复制的家庭世界。小说也把她对于美的判断与看电影联系起来：银幕上的华丽图像成为衡量普通生活的强大尺度。"
+        },
+        {
+          "en": "When hot cobbler spills onto Pecola, Pauline strikes her daughter and comforts the employer's little girl. The scene makes unequal care concrete. Understanding the pressures surrounding Pauline does not excuse her violence; it reveals the painful division between the household where her labour is valued and the child whose need she fails to meet.",
+          "zh": "当滚烫的水果甜点泼到佩科拉身上，波琳打了自己的女儿，却安抚雇主家的小女孩。这一场景让不平等的照护变得具体。理解波琳所受的压力并不等于原谅她的暴力，而是揭示一个痛苦的分裂：她的劳动在一个家庭中受到重视，自己孩子的需要却未被回应。"
+        }
+      ]
+    },
+    {
+      "title": "Explanation Is Not Absolution",
+      "titleZh": "解释不等于免责",
+      "paragraphs": [
+        {
+          "en": "The novel supplies histories for adults who harm Pecola, including Cholly's experiences of abandonment and racist sexual humiliation. These histories make violence intelligible without making it inevitable or acceptable. His abuse of his daughter remains his responsibility; prior victimisation does not confer a right to injure a child.",
+          "zh": "小说为伤害佩科拉的成年人提供历史，包括乔利遭遇的遗弃与带有种族暴力的性羞辱。这些历史让暴力的形成可以被理解，却不使它变得必然或可以接受。他对女儿的性侵仍然是他的责任；曾经受害，并不会赋予伤害儿童的权利。"
+        },
+        {
+          "en": "Morrison explains in the afterword that she wanted to avoid dehumanising the people who destroy Pecola. Refusing to make them monsters is not the same as protecting them from judgment. It makes the reader confront harm within human relationships rather than banishing it to an imaginary category of inhuman people.",
+          "zh": "莫里森在后记中解释，她不希望把那些摧毁佩科拉的人非人化。拒绝把他们写成怪物，不等于让他们免于评判，而是要求读者面对人类关系内部的伤害，而不是把伤害驱逐到一个想象中的非人类别里。"
+        }
+      ]
+    },
+    {
+      "title": "Why the Bluest Eyes Are Never Enough",
+      "titleZh": "为什么最蓝的眼睛也不够",
+      "paragraphs": [
+        {
+          "en": "In “Summer,” Pecola's conversation with an imagined companion repeatedly returns to whether someone else might have bluer eyes. The apparent fulfilment of the wish has not ended comparison. The demand keeps moving: possessing the desired feature cannot secure recognition in a world organised through ranking.",
+          "zh": "在“Summer”（夏）中，佩科拉与想象中的伙伴交谈，不断回到是否有人拥有更蓝眼睛的问题。愿望看似实现，却没有终结比较。要求始终在移动：在一个通过排名组织承认的世界中，拥有被渴望的特征，也不能确保自己得到承认。"
+        },
+        {
+          "en": "This ending should not be presented as a magical cure or a successful transformation. Morrison makes the fantasy part of Pecola's devastation. The tragedy is not that she fails to improve herself, but that a child's need for protection has been redirected into an impossible project of bodily correction.",
+          "zh": "这个结尾不应被表现成魔法般的治愈或成功的转变。莫里森把幻想写成佩科拉遭到摧毁的一部分。悲剧并不是她未能改善自己，而是一个孩子对保护的需要，被转移成一项不可能完成的身体修正工程。"
+        }
+      ]
+    },
+    {
+      "title": "The Marigolds and the Community",
+      "titleZh": "金盏花与共同体",
+      "paragraphs": [
+        {
+          "en": "Claudia and Frieda plant seeds in the hope that Pecola's baby will live. When the flowers fail, they initially blame themselves. The ending returns to the soil, widening the question from an individual mistake to an environment unable or unwilling to sustain certain lives.",
+          "zh": "克劳迪娅与弗里达播下种子，希望佩科拉的孩子能够活下来。花没有长出时，她们最初责备自己。结尾重新回到土壤，把问题从个人失误扩展到一种无法或不愿滋养某些生命的环境。"
+        },
+        {
+          "en": "Claudia's final reflection includes the community in the harm: people make themselves feel respectable, articulate, or strong by measuring themselves against Pecola. The reader is not offered an innocent position outside that process. Pity alone can preserve the distance that the novel asks us to examine.",
+          "zh": "克劳迪娅最后的反思把共同体纳入伤害之中：人们以佩科拉为对照，使自己显得体面、善于表达或强大。读者并没有获得一个置身事外的无辜位置。只有怜悯，反而可能保留小说要求我们审视的距离。"
+        }
+      ]
+    },
+    {
+      "title": "The Author Questions Her Own Form",
+      "titleZh": "作者对自身形式的追问",
+      "paragraphs": [
+        {
+          "en": "The 1993 afterword is not merely an explanation of a completed achievement. Morrison criticises aspects of her own handling of voice, fragmentation, and Pecola's silence. She worries that readers may pity the child without examining their own implication. That self-criticism matters: the ethical ambition of a novel is not proof that every formal decision has fulfilled it.",
+          "zh": "1993年的后记并不只是对既有成就的说明。莫里森批评了自己处理声音、碎片化结构与佩科拉沉默的某些方式，担心读者只是怜悯孩子，却不审视自身的卷入。这种自我批评十分重要：小说具有伦理抱负，并不证明每一项形式选择都已经实现了它。"
+        }
+      ]
+    }
+  ],
+  "quoteSelections": [
+    {
+      "en": "This soil is bad for certain kinds of flowers.",
+      "zh": "这片土壤不适合某些花朵生长。",
+      "source": "Toni Morrison, The Bluest Eye, “Summer”, Claudia's closing reflection. Chinese translation for this calendar.｜《最蓝的眼睛》“夏”，克劳迪娅的结尾反思；中文为本日历译文。"
+    }
+  ],
+  "quotesTitle": "Quotation",
+  "quotesTitleZh": "引文",
+  "quotesAtEnd": true,
+  "quoteReadingEn": "The sentence shifts attention from the seed to the conditions of growth. Read in its closing context, it does not declare some children naturally incapable of flourishing. It asks what the surrounding world refuses to nurture. The metaphor must not turn oppression into nature: the preceding account of communal conduct makes people part of the soil's hostility.",
+  "quoteReadingZh": "这句话把注意力从种子转向生长条件。放在结尾语境中，它并不是宣称某些孩子天生无法成长，而是在追问周围的世界拒绝滋养什么。这个隐喻不能把压迫自然化：此前对共同体行为的叙述，已经使人们成为土壤敌意的一部分。",
+  "sourceText": "Primary source: user-supplied EPUB of Toni Morrison, The Bluest Eye; opening primer, “Autumn”, “Winter”, “Spring”, “Summer”, and “Afterword” dated November 1993.｜主要依据用户提供的 EPUB：开篇读本段落、“秋”“冬”“春”“夏”及署于1993年11月的后记。",
+  "sourceNote": "Plot description, Claudia's retrospective narration, and Morrison's later commentary are distinguished. Chinese quotations are calendar translations. The attachment contains conversion artefacts; no unverified page numbers or edition-specific publication claims are supplied.｜区分情节描述、克劳迪娅的回顾性叙述与莫里森后来的评论。中文引文为本日历翻译。附件存在转换痕迹，因此不提供未经核对的页码或具体版本出版断言。",
+  "sources": [
+    {
+      "label": "Nobel Prize｜莫里森著作目录与1970年初版记录",
+      "url": "https://www.nobelprize.org/prizes/literature/1993/morrison/bibliography/"
+    }
+  ],
+  "relatedWorks": [
+    {
+      "title": "Black Looks: Race and Representation",
+      "relationEn": "bell hooks: further reading on racialised looking; a suggested pairing, not a claim of influence.",
+      "relationZh": "bell hooks：关于种族化观看的延伸阅读；属于并读建议，不宣称存在影响关系。"
+    },
+    {
+      "title": "The Door",
+      "titleZh": "《门》",
+      "relationEn": "Magda Szabó: compare domestic labour across class positions without treating different racial and historical contexts as equivalent.",
+      "relationZh": "玛格达·萨博：比较不同阶级位置之间的家务劳动，但不把不同种族与历史语境等同起来。"
+    }
+  ],
+  "tags": [
+    "race",
+    "beauty",
+    "girlhood",
+    "domestic labour",
+    "narrative"
+  ],
+  "status": "draft"
+},
   {
     id: "2026-07-01-mary-wollstonecraft",
     date: "2026-07-01",
