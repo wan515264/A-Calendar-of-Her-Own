@@ -147,6 +147,304 @@ export type DailyCard = {
 
 export const dailyCards: DailyCard[] = [
 {
+  "id": "2026-09-08-florence-nightingale",
+  "date": "2026-09-08",
+  "type": "thinker",
+  "title": "Florence Nightingale",
+  "titleZh": "弗洛伦斯·南丁格尔",
+  "titleSeparator": " ",
+  "years": "1820–1910",
+  "role": "Nursing / Statistics / Social Reform｜护理 / 统计 / 社会改革",
+  "focusTitle": "Care Is Not Only Kindness: It Is Knowledge and Organisation",
+  "focusTitleZh": "照护不只是善意，也是知识与组织",
+  "tags": [
+    "care",
+    "nursing",
+    "statistics"
+  ],
+  "status": "published",
+  "articleSections": [
+    {
+      "title": "The Environment Is Part of Care",
+      "titleZh": "环境也是照护的一部分",
+      "en": "Notes on Nursing: What It Is, and What It Is Not asks readers to examine conditions that can easily become invisible through familiarity. An uncomfortable bed or an avoidable interruption is not trivial merely because it seems small to a healthy visitor. The patient's experience may be very different.\n\nThe book’s sections on ventilation, noise, bedding, light, and cleanliness shift attention from a nurse’s intentions to the effects of an environment. Goodwill cannot substitute for noticing whether the circumstances actually permit rest.\n\nA feminist reading can extend this distinction without turning a historical nursing manual into a universal theory. If caring work is judged only by devotion, the worker’s knowledge disappears. If it is judged by what must be observed and arranged, its skill becomes harder to dismiss.",
+      "zh": "《护理札记：何为护理，何非护理》（副标题暂译）要求读者检查那些可能因习以为常而变得不可见的条件。不舒服的床，或者一次本可避免的打扰，并不会因为在健康的探访者看来很小，就真的微不足道。病人的经验可能完全不同。\n\n书中关于通风、噪音、寝具、光线与清洁的章节，把注意力从护理者的意愿转向环境产生的实际效果。善意不能代替观察：这些条件是否真的允许病人休息？\n\n女性主义阅读可以延伸这种区分，但不必把一本历史上的护理手册说成包罗万象的理论。如果照护工作只按奉献程度被评价，劳动者的知识就会消失；如果我们关注她必须观察和安排什么，其中的技能就更难被轻视。"
+    },
+    {
+      "title": "Observation Is Not an Impression",
+      "titleZh": "观察不是随口的印象",
+      "en": "In “Observation of the Sick,” Nightingale distinguishes useful information from a vague judgment that a patient seems better or worse. Nursing requires learning what to notice and how to communicate it. Familiarity with a person is not automatically the same as careful observation.\n\nThis is a demanding form of attention. It asks the carer to resist filling gaps with reassuring assumptions. The point is not to remove feeling, but to prevent feeling from replacing an account of what is actually happening.",
+      "zh": "在“Observation of the Sick”（观察病人）一章中，南丁格尔区分了有用的信息与“病人似乎好些了”或者“似乎更糟了”这种模糊判断。护理需要学习观察什么，以及如何传达所见。熟悉一个人，并不自动等于对这个人有细致的观察。\n\n这是一种要求很高的注意力。它要求照护者抵抗用令人安心的假设填补信息空缺的冲动。目的不是取消感情，而是防止感情代替对实际状况的说明。"
+    },
+    {
+      "title": "Kind Words Can Still Fail the Patient",
+      "titleZh": "好听的话也可能辜负病人",
+      "en": "The chapter “Chattering Hopes and Advices” questions unsolicited advice and cheerful talk that fail to attend to the sick person. A visitor’s need to sound encouraging can displace the patient’s actual condition.\n\nRead this way, care includes restraint: not every silence needs filling, and not every difficulty becomes easier because someone insists on optimism. This is an interpretation of her argument about sickroom conduct, not a claim that Nightingale developed a contemporary theory of consent.",
+      "zh": "“Chattering Hopes and Advices”（喋喋不休的希望与劝告）一章，质疑那些没有真正关注病人的主动建议与乐观言谈。探访者想表现得鼓舞人心，却可能挤掉病人的真实处境。\n\n如此阅读，照护也包含克制：不是每一段沉默都需要填满，也不是每一种困难都会因为有人坚持乐观而减轻。这里是在解释她对病房交往的讨论，并不是声称南丁格尔提出了当代的同意理论。"
+    },
+    {
+      "title": "No Single Woman Can Replace Infrastructure",
+      "titleZh": "一个女人不能替代基础设施",
+      "en": "The familiar rescue story needs qualification. The National Army Museum notes that mortality at Scutari fell after a sanitary commission repaired drainage and ventilation. Nightingale’s contribution should not erase that collective work or imply that compassion alone corrected the hospital’s conditions.\n\nThat qualification strengthens rather than weakens this calendar’s central question. Why do we so often celebrate an exceptional carer instead of asking what would make adequate care ordinary? Admiration is not a staffing plan, a training programme, or a functioning building.",
+      "zh": "熟悉的救援故事需要补充限定。英国国家陆军博物馆指出，斯库塔里的死亡率是在卫生委员会修复排污与通风条件后下降的。南丁格尔的贡献不应遮蔽这些集体工作，更不能让人以为，仅凭慈悲就能纠正医院的条件。\n\n这种限定不是削弱，而是加强了本期的核心问题：为什么我们如此经常赞美一位非凡的照护者，却不追问什么条件能让充分的照护成为日常？赞美不是人员配置，不是培训计划，也不是能够正常运作的建筑。"
+    },
+    {
+      "title": "Quotation",
+      "titleZh": "引文",
+      "en": "“What you want are facts, not opinions”\n\nFlorence Nightingale, Notes on Nursing, Chapter XIII, “Observation of the Sick.” Short excerpt; Chinese translation prepared for this calendar.\n\nThe contrast is not between cold facts and humane feeling. It is between attention that can be examined and an impression that may conceal what the patient needs. Care becomes more accountable when another person can understand the observations behind it.",
+      "zh": "“你需要的是事实，而不是意见。”\n\n弗洛伦斯·南丁格尔，《护理札记》，第十三章“观察病人”。以上为短句节选，中文为本期自译。\n\n这里的对比并不是冰冷事实与人性温情之间的对立，而是可以被检验的注意力，与可能遮蔽病人需求的印象之间的区别。当另一个人能够理解照护背后的观察，照护也就更能够接受检验与问责。"
+    },
+    {
+      "title": "Sources and Editorial Notes",
+      "titleZh": "资料与编辑说明",
+      "en": "The historical facts above are checked against Nightingale’s text, the Royal Statistical Society, and the National Army Museum. The feminist connections are this calendar’s interpretations. Notes on Nursing is a nineteenth-century document, not a substitute for current medical guidance.\n\nThe membership year follows the Society’s own record, 1858; the museum page gives a different year. This draft does not treat Nightingale as the sole originator of nursing or credit her alone with falling wartime mortality.",
+      "zh": "以上历史事实依据南丁格尔原著、皇家统计学会与英国国家陆军博物馆核对；女性主义联系属于本期阅读。《护理札记》是十九世纪文献，不能代替当代医疗建议。\n\n加入学会的年份采用学会自身记录的1858年；博物馆页面记载的年份不同。本稿不把南丁格尔写成护理的唯一创始人，也不把战争期间死亡率下降归功于她一人。"
+    },
+    {
+      "title": "Sources",
+      "titleZh": "资料链接",
+      "en": "全文\nhttps://www.gutenberg.org/cache/epub/17366/pg17366-images.html\n\n作品背景\nhttps://www.nam.ac.uk/explore/florence-nightingale-lady-lamp\n\nRoyal Statistical Society\nhttps://rss.org.uk/news-publication/news-publications/2020/general-news/nightingale-2020-the-bicentenary-our-first-female/",
+      "zh": "Full text\nhttps://www.gutenberg.org/cache/epub/17366/pg17366-images.html\n\nBackground\nhttps://www.nam.ac.uk/explore/florence-nightingale-lady-lamp\n\n皇家统计学会\nhttps://rss.org.uk/news-publication/news-publications/2020/general-news/nightingale-2020-the-bicentenary-our-first-female/"
+    }
+  ],
+  "relatedWorks": [
+    {
+      "title": "Notes on Nursing: What It Is, and What It Is Not — Florence Nightingale. Read especially “Observation of the Sick” and “Chattering Hopes and Advices.”",
+      "titleZh": "《护理札记》——弗洛伦斯·南丁格尔。可重点阅读“观察病人”与“喋喋不休的希望与劝告”两章。"
+    },
+    {
+      "title": "Notes on Hospitals — Florence Nightingale. A companion direction for examining the relation between buildings and care.",
+      "titleZh": "《医院札记》（暂译）——弗洛伦斯·南丁格尔。可继续思考建筑条件与照护之间的关系。"
+    }
+  ],
+  "sources": [
+    {
+      "label": "全文｜Full text",
+      "url": "https://www.gutenberg.org/cache/epub/17366/pg17366-images.html"
+    },
+    {
+      "label": "作品背景｜Background",
+      "url": "https://www.nam.ac.uk/explore/florence-nightingale-lady-lamp"
+    },
+    {
+      "label": "Royal Statistical Society｜皇家统计学会",
+      "url": "https://rss.org.uk/news-publication/news-publications/2020/general-news/nightingale-2020-the-bicentenary-our-first-female/"
+    }
+  ],
+  "summaryEn": "A lamp is an incomplete portrait of Florence Nightingale. Reading her work today, we encounter a demanding account of care: notice what is happening, distinguish observation from assumption, and organise the conditions in which another person must live.\n\nIn Notes on Nursing, air, light, noise, bedding, food, and cleanliness are not merely background. They belong to the work of nursing. This offers a different starting point from the familiar idea that women care well because they are naturally patient or self-sacrificing.\n\nThe question for this calendar is therefore not simply how to become more caring. It is how care can be recognised as skilled work, supported by knowledge and shared arrangements rather than endless individual sacrifice.",
+  "summaryZh": "一盏灯不足以概括弗洛伦斯·南丁格尔。今天阅读她的著作，我们会遇见一种要求很高的照护观：注意正在发生什么，区分观察与臆测，并组织另一个人赖以生活的条件。\n\n在《护理札记》中，空气、光线、噪音、寝具、饮食与清洁并非无关紧要的背景，它们属于护理工作本身。这为我们提供了一个不同的起点：女性能够照护他人，并不是因为她们天生耐心，或者理应牺牲自己。\n\n因此，本期日历追问的不只是如何变得更有爱心，而是：照护如何被承认为有技能的工作，如何得到知识与共同安排的支持，而不是依赖个人无止境的牺牲？",
+  "introEn": "Florence Nightingale was a British nursing reformer and statistician. She served at Scutari during the Crimean War, and a training school bearing her name opened at St Thomas’ Hospital in 1860. Her legacy includes both bedside practice and the organisation of nursing education.\n\nThe Royal Statistical Society records that she became its first woman member in 1858, when it was still called the London Statistical Society. Her reform campaigns drew on statistical analysis and visual communication, not only personal testimony.",
+  "introZh": "弗洛伦斯·南丁格尔是一位英国护理改革者与统计学家。克里米亚战争期间，她在斯库塔里工作；1860年，以她命名的护理学校在圣托马斯医院开办。她留下的影响既涉及床边照护，也涉及护理教育的组织。\n\n英国皇家统计学会记载，她于1858年成为该会首位女性会员，当时学会仍名为伦敦统计学会。她推动改革，依靠的不只是个人见闻，还有统计分析与数据的视觉表达。"
+},
+{
+  "id": "2026-09-09-gertrude-ederle",
+  "date": "2026-09-09",
+  "type": "text",
+  "title": "Gertrude Ederle",
+  "titleZh": "格特鲁德·埃德尔",
+  "titleSeparator": " ",
+  "years": "1905–2003",
+  "role": "Athlete / Swimmer｜运动员 / 游泳选手",
+  "focusTitle": "A Woman’s Limits Are Not for Others to Decide",
+  "focusTitleZh": "女性身体的界限，不应由偏见预先决定",
+  "tags": [
+    "women in sport",
+    "swimming",
+    "physical autonomy"
+  ],
+  "status": "published",
+  "articleSections": [
+    {
+      "title": "Before the Record, There Was Training",
+      "titleZh": "纪录之前，首先是训练",
+      "en": "Ederle developed as a swimmer within New York’s Women’s Swimming Association, associated with organiser Charlotte Epstein and coach Louis de Breda Handley. Her story belongs to the history of organised women’s sport, not only to the biography of an exceptional individual.\n\nThis provides a useful feminist distinction: ability is embodied, but the chance to develop it is social. A person needs more than permission in principle. She needs somewhere to practise, competent instruction, time, and a setting in which ambition is not automatically treated as inappropriate.",
+      "zh": "埃德尔在纽约女子游泳协会的环境中成长为运动员。组织者夏洛特·爱泼斯坦与教练路易斯·德·布雷达·汉德利，是与这个环境相关的重要人物。她的故事属于有组织的女性体育史，而不只是一个非凡个体的传记。\n\n这提供了一项有用的女性主义区分：能力体现于身体，但发展能力的机会具有社会性。一个人需要的不只是原则上的许可。她还需要练习的地点、合格的指导、时间，以及一个不会自动把她的抱负判定为不合适的环境。"
+    },
+    {
+      "title": "A Crossing Is Not a Straight Line",
+      "titleZh": "横渡不是一条直线",
+      "en": "Her successful crossing ran from Cap Gris-Nez in France to Kingsdown in England. It followed an unsuccessful attempt in 1925. The French departmental archives emphasise preparation, experienced support, and knowledge of the Channel, rather than physical endurance alone.\n\nA map makes the task look like a distance between two shores. The swimmer encounters moving water, changing conditions, and a body that must continue working over time. The gap between the map and the experience is precisely where preparation matters.\n\nCalling this achievement a matter of willpower alone would conceal its practical intelligence. Determination does not make material conditions disappear.",
+      "zh": "她成功横渡的路线从法国格里内角通往英国金斯敦；此前，她在1925年的一次尝试未能完成。法国地方档案资料强调准备、经验丰富的支援，以及对海峡的了解，而不只是身体耐力。\n\n地图让这项任务看起来像两岸之间的一段距离；游泳者面对的却是流动的水、变化的条件，以及必须长时间持续工作的身体。地图与经验之间的差距，恰恰是准备发挥作用的地方。\n\n把这项成就仅仅称为意志力的胜利，会遮蔽其中的实际智慧。决心并不会让物质条件消失。"
+    },
+    {
+      "title": "What Does a Record Actually Prove?",
+      "titleZh": "一项纪录究竟证明什么？",
+      "en": "Ederle’s performance contradicted a blanket claim about female incapacity. It did not establish that every woman could swim the Channel, or that women are inherently superior endurance athletes. A specific achievement can refute a universal prohibition without becoming another universal rule.\n\nFor this calendar, the distinction is central. Equality should not depend on finding a woman who can win every comparison. It should include the right to learn, compete, fail, improve, or choose not to compete at all.",
+      "zh": "埃德尔的表现反驳了关于女性无能的一概断言。它并没有证明每个女人都能游过海峡，也没有证明女性天生就是更优秀的耐力运动员。一项具体成就可以反驳一项普遍禁令，而不必变成另一条普遍法则。\n\n对本期日历而言，这个区分至关重要。平等不应依赖找到一个能够赢得每次比较的女人。它应当包括学习、竞争、失败、进步的权利，也包括选择不参与竞争的权利。"
+    },
+    {
+      "title": "The First Woman Was Not the Only Woman",
+      "titleZh": "第一位女性，并不是唯一的女性",
+      "en": "Historian Ying Wushanley’s conference abstract, “Gertrude Ederle and a Reconsideration of the 1926 English Channel Swim,” shifts attention to the other women who attempted the crossing that summer. Its argument is that Ederle’s fame should be situated within a broader collective challenge to assumptions about female fragility.\n\nThis changes how we tell a breakthrough story. Celebrating the first can preserve a history, but it can also compress that history until everyone else disappears. The women who did not become the headline still belong to the conditions of change.",
+      "zh": "历史学者Ying Wushanley的会议摘要“Gertrude Ederle and a Reconsideration of the 1926 English Channel Swim”（《重新审视格特鲁德·埃德尔与1926年横渡英吉利海峡》，暂译），把注意力转向同年夏天尝试横渡的其他女性。其论点是，应把埃德尔的声望放回一个更广泛的集体挑战之中：女性共同挑战关于女性脆弱性的假设。\n\n这改变了我们讲述突破的方式。庆祝第一位，可以保存历史；也可能把历史压缩到其他人全部消失。那些没有成为新闻标题的女性，同样属于变化得以发生的条件。"
+    },
+    {
+      "title": "Beyond the Celebrated Body",
+      "titleZh": "被赞美的身体之外",
+      "en": "Ederle later taught swimming to deaf children. Accounts of her life also document her own hearing loss. These facts should not be turned into a sentimental claim that disability existed to make her more inspiring.\n\nInstead, they allow the calendar to move from exceptional performance to access. Who gets to enter the water, receive instruction, and develop confidence? A sporting culture becomes more inclusive not only when it celebrates a champion, but when it makes participation possible for people who will never hold a record.",
+      "zh": "埃德尔后来向失聪儿童教授游泳。关于她的生平记述也记录了她自身的听力损失。这些事实不应被改写成一种感伤说法：仿佛残障的存在，是为了让她更加励志。\n\n相反，它们让日历能够从非凡表现转向参与条件：谁能够进入水中、得到指导，并建立信心？一种体育文化变得更包容，不只是因为它赞美冠军，也因为它让那些永远不会保持纪录的人有机会参与。"
+    },
+    {
+      "title": "Editorial Closing",
+      "titleZh": "编辑结语",
+      "en": "A record measures one performance. It should not become the price of admission to a life.\n\nThese sentences are written for this calendar, not quoted from Ederle. No unverified personal quotation is included in this draft.",
+      "zh": "纪录衡量一次表现，却不应成为获得一种生活资格的代价。\n\n以上为本期文案，并非埃德尔原话。本稿不收录无法可靠核实的个人引语。"
+    },
+    {
+      "title": "Sources and Editorial Notes",
+      "titleZh": "资料与编辑说明",
+      "en": "The central event, Olympic results, and later teaching are checked against the sources linked above. The argument about participation and equality is an editorial interpretation, not an attributed statement by Ederle.\n\nPublished accounts differ on the precise crossing time: the French archive gives 14 hours 32 minutes, while the foundation gives 14 hours 34 minutes. This draft uses approximately fourteen and a half hours. It does not use dramatised film scenes to establish historical facts, and the LA84 item is identified as a conference abstract, not a fully examined journal article.",
+      "zh": "核心赛事、奥运成绩与后来的教学经历，依据上述链接核对。关于参与和平等的讨论属于编辑性解读，不冒充埃德尔本人观点。\n\n已发表资料对横渡的精确用时存在差异：法国档案馆记为14小时32分，基金会记为14小时34分。因此，本稿采用“约十四个半小时”。本稿不以电影戏剧化场景确定史实；LA84所存材料明确标为会议摘要，不冒充已经完整阅读的期刊论文。"
+    },
+    {
+      "title": "Sources",
+      "titleZh": "资料链接",
+      "en": "阅读\nhttps://www.archivespasdecalais.fr/layout/set/print/Decouvrir/Anniversaires/Anniversaires/Premiere-traversee-feminine-de-la-Manche-a-la-nage\n\nInternational Swimming Hall of Fame\nhttps://ishof.org/wp-content/uploads/2024/03/2020-yearbook.pdf\n\nPBS American Masters\nhttps://www.pbs.org/video/she-was-first-woman-swim-across-english-channel-r8r7td/\n\n阅读\nhttps://digital.la84.org/digital/api/collection/p17103coll10/id/11713/download\n\n基金会的用时记载\nhttps://www.trudyederlefoundation.org/en/trudy-ederle/life-legacy/",
+      "zh": "Read\nhttps://www.archivespasdecalais.fr/layout/set/print/Decouvrir/Anniversaires/Anniversaires/Premiere-traversee-feminine-de-la-Manche-a-la-nage\n\n国际游泳名人堂\nhttps://ishof.org/wp-content/uploads/2024/03/2020-yearbook.pdf\n\n美国公共广播人物纪录片\nhttps://www.pbs.org/video/she-was-first-woman-swim-across-english-channel-r8r7td/\n\nRead\nhttps://digital.la84.org/digital/api/collection/p17103coll10/id/11713/download\n\nFoundation’s timing\nhttps://www.trudyederlefoundation.org/en/trudy-ederle/life-legacy/"
+    }
+  ],
+  "relatedWorks": [
+    {
+      "title": "Ying Wushanley, “Gertrude Ederle and a Reconsideration of the 1926 English Channel Swim.” Conference abstract.",
+      "titleZh": "Ying Wushanley，《重新审视格特鲁德·埃德尔与1926年横渡英吉利海峡》（暂译）。会议摘要，适合继续思考“第一位”之外的集体体育史。"
+    },
+    {
+      "title": "“Première traversée féminine de la Manche à la nage.” Pas-de-Calais departmental archives.",
+      "titleZh": "《首次女性游泳横渡英吉利海峡》（暂译）。加来海峡省档案馆的历史介绍，附当时报刊图像。"
+    }
+  ],
+  "sources": [
+    {
+      "label": "阅读｜Read",
+      "url": "https://www.archivespasdecalais.fr/layout/set/print/Decouvrir/Anniversaires/Anniversaires/Premiere-traversee-feminine-de-la-Manche-a-la-nage"
+    },
+    {
+      "label": "International Swimming Hall of Fame｜国际游泳名人堂",
+      "url": "https://ishof.org/wp-content/uploads/2024/03/2020-yearbook.pdf"
+    },
+    {
+      "label": "PBS American Masters｜美国公共广播人物纪录片",
+      "url": "https://www.pbs.org/video/she-was-first-woman-swim-across-english-channel-r8r7td/"
+    },
+    {
+      "label": "阅读｜Read",
+      "url": "https://digital.la84.org/digital/api/collection/p17103coll10/id/11713/download"
+    },
+    {
+      "label": "基金会的用时记载｜Foundation’s timing",
+      "url": "https://www.trudyederlefoundation.org/en/trudy-ederle/life-legacy/"
+    }
+  ],
+  "summaryEn": "On 6 August 1926, Gertrude Ederle became the first woman to swim across the English Channel. She completed the crossing in approximately fourteen and a half hours, faster than the existing men’s record. The achievement made a familiar assumption harder to sustain: that a woman’s body was necessarily too fragile for such endurance.\n\nBut this is not only a story about proving doubters wrong. It invites us to ask what precedes a record: training, opportunity, practical knowledge, and people who take an athlete’s ambition seriously.\n\nA woman should not have to outperform every man to earn the right to participate. Ederle’s achievement matters because it challenged a limit declared in advance, not because it created a new requirement that women must be extraordinary.",
+  "summaryZh": "1926年8月6日，格特鲁德·埃德尔成为第一位游泳横渡英吉利海峡的女性。她用时约十四个半小时，比此前由男性保持的纪录更快。这项成绩让一种习以为常的假设更难维持：女性的身体必然过于脆弱，无法承受这样的耐力挑战。\n\n但这不只是一个证明质疑者错误的故事。它邀请我们追问，一项纪录之前存在什么：训练、机会、实际知识，以及认真对待运动员抱负的人。\n\n女性不应该必须超过每一个男性，才能获得参与的权利。埃德尔的成就之所以重要，是因为它挑战了预先被宣布的界限，而不是因为它建立了一项新要求：女性必须非凡。",
+  "introEn": "Gertrude Ederle was an American competitive swimmer before she became famous for the Channel crossing. At the 1924 Paris Olympics, she won gold in the women’s 4 × 100-metre freestyle relay and bronze in the 100-metre and 400-metre freestyle events.\n\nThis chronology matters. The Channel did not transform an untrained woman into an athlete overnight. Public recognition arrived at a dramatic moment, but the capacity it recognised had a history.",
+  "introZh": "在因横渡海峡成名之前，格特鲁德·埃德尔已经是一位美国竞技游泳运动员。1924年巴黎奥运会上，她获得女子4 × 100米自由泳接力金牌，以及100米和400米自由泳铜牌。\n\n这个先后顺序很重要。海峡并没有让一个未经训练的女人一夜之间成为运动员。公共承认在一个戏剧性时刻到来，但它所承认的能力拥有自己的形成过程。"
+},
+{
+  "id": "2026-09-10-susan-leigh-star",
+  "date": "2026-09-10",
+  "type": "thinker",
+  "title": "Susan Leigh Star",
+  "titleZh": "苏珊·利·斯塔尔",
+  "titleSeparator": " ",
+  "years": "1954–2010",
+  "role": "Sociologist / Science and Technology Studies｜社会学家 / 科学技术研究",
+  "focusTitle": "When a System Works, Whose Labour Disappears?",
+  "focusTitleZh": "当系统正常运转，谁的劳动消失了？",
+  "tags": [
+    "infrastructure",
+    "classification",
+    "invisible labour"
+  ],
+  "status": "published",
+  "articleSections": [
+    {
+      "title": "The Ordinary Is Worth Investigating",
+      "titleZh": "普通的事物值得研究",
+      "en": "In her 2002 essay on infrastructure and ethnographic practice, Star argues for studying the edges and material arrangements of information systems. Attending to everyday details can expose layers of access and control that a description of technical functions alone would miss.\n\nConsider an illustrative example, not a case attributed to Star: an appointment system assumes that every user has a stable address and a working phone. For one person, booking is effortless. For another, the same procedure demands borrowed equipment, repeated explanations, or someone else’s intervention.\n\nThe system has not necessarily changed between the two encounters. What changes is the relationship between its assumptions and a person’s circumstances. Describing it as convenient without asking “for whom?” leaves out part of its operation.",
+      "zh": "在2002年关于基础设施与民族志实践的文章中，Star主张研究信息系统的边缘与物质安排。关注日常细节，能够显露出仅靠描述技术功能可能遗漏的准入和控制层次。\n\n举一个说明性的例子，并非声称这是Star研究过的案例：某个预约系统假定每个使用者都有固定地址和能正常使用的电话。对一个人而言，预约毫不费力；对另一个人而言，同样的流程却要求借用设备、反复解释，或者请别人介入。\n\n两次接触之间，系统未必发生了变化。变化的是它的假设与个人处境之间的关系。如果不追问“对谁方便”，就把它形容为方便，我们便遗漏了它实际运作的一部分。"
+    },
+    {
+      "title": "Classification Is a Decision, Not Just a Label",
+      "titleZh": "分类是一项决定，不只是一个标签",
+      "en": "In Sorting Things Out, Bowker and Star examine classification systems including medical categories, nursing interventions, and racial classification under apartheid. Their concern is not confined to inaccurate labels. Categories help organise consequential decisions about people and work.\n\nThese examples must not be treated as morally interchangeable. A clinical classification and an oppressive racial regime are not the same thing. The analytical connection is a question about how an apparently orderly scheme acquires practical consequences, and who bears them.",
+      "zh": "在《分类及其后果》中，鲍克与Star考察了包括医学类别、护理干预，以及种族隔离制度下的种族分类在内的分类系统。他们关注的并不只是不准确的标签。类别参与组织那些影响人和工作的实际决定。\n\n这些例子不能被当作道德上可以互换的事物。临床分类与压迫性的种族制度并不是一回事。它们在分析层面的联系，是一个问题：一套看似有序的方案如何产生实际后果，又由谁承担这些后果？"
+    },
+    {
+      "title": "Making Work Count Can Also Change It",
+      "titleZh": "让工作被计算，也可能改变工作",
+      "en": "The book’s attention to nursing classification creates a useful connection with the calendar’s earlier discussions of care. Recording a task can help make it visible, but a record is never identical with the activity it describes.\n\nAs an editorial example, imagine a form that counts completed procedures but leaves no place for explaining a frightening event to a patient. The explanation still takes time. Its absence from the form does not mean it did not happen; it may mean the institution has made it harder to recognise.\n\nThe answer is not simply to record everything. More recording can create additional work and exposure. The question is which forms of visibility help workers and patients, and which primarily serve monitoring or administrative convenience.",
+      "zh": "这本书对护理分类的关注，为本日历此前关于照护的讨论提供了一个连接。记录一项任务，可以帮助它被看见，但记录永远不等于它所描述的活动。\n\n举一个编辑性示例：设想一张表格统计已完成的操作，却没有位置记录向病人解释一件令人恐惧的事情。解释仍然需要时间。它没有出现在表格中，并不意味着它没有发生，也可能意味着制度让它更难被承认。\n\n答案也不只是记录一切。更多记录可能制造额外工作，也可能增加暴露程度。问题是：哪些可见性真正帮助劳动者和病人，哪些主要服务于监控或行政便利？"
+    },
+    {
+      "title": "Cooperation Without Identical Meanings",
+      "titleZh": "不必意义完全相同，也能合作",
+      "en": "Star and Griesemer’s 1989 article examines collaboration around Berkeley’s Museum of Vertebrate Zoology. Their concept of boundary objects addresses how people from different social worlds can cooperate through shared objects without giving those objects precisely the same meaning.\n\nThis is more specific than saying that any document passed between departments is a boundary object. The concept draws attention to the combination of local flexibility and a recognisable shared identity that makes coordination possible.\n\nFor this calendar, the important implication is that agreement need not mean erasing difference. At the same time, cooperation does not guarantee equal power: we still need to ask whose version becomes authoritative.",
+      "zh": "Star与格里泽默1989年的论文研究了围绕伯克利脊椎动物博物馆展开的合作。他们提出的“边界物”概念，讨论来自不同社会世界的人，如何通过共同对象进行合作，而不必赋予这些对象完全相同的意义。\n\n这比“任何在部门之间传递的文件都是边界物”更具体。这个概念让我们注意到一种结合：对象在局部使用中具有灵活性，同时又保留可以共同辨认的身份，使协调成为可能。\n\n对本期日历而言，一个重要启示是：达成合作不必意味着抹去差异。与此同时，合作也不保证权力平等，我们仍然需要追问，谁的版本最终成为权威。"
+    },
+    {
+      "title": "A Feminist Attention to Maintenance",
+      "titleZh": "把女性主义注意力投向维持工作",
+      "en": "This reading does not claim that women naturally belong to maintenance, care, or support roles. That would repeat the allocation of labour it should examine.\n\nInstead, it asks how supporting work becomes secondary in an organisation’s account of itself. Who receives credit for innovation, and who is expected to keep everything usable? When an arrangement fails, who must translate, repair, explain, and absorb the delay?\n\nStar’s work offers a way to begin with apparently minor arrangements rather than heroic personalities. What keeps the world working is not necessarily what the world has learned to celebrate.",
+      "zh": "这种阅读并不声称女性天然属于维护、照护或支持性角色。那样反而会重复我们应该检查的劳动分配。\n\n相反，它追问的是：支持性工作如何在一个组织对自身的叙述中变得次要？谁因创新得到赞赏，谁被期待让一切持续可用？当安排失效时，又是谁必须翻译、修补、解释，并消化延误？\n\nStar的研究提供了一种方法，让我们可以从看似微小的安排出发，而不是只从英雄人物出发。让世界持续运转的东西，未必就是世界已经学会赞美的东西。"
+    },
+    {
+      "title": "Quotation",
+      "titleZh": "引文",
+      "en": "“Boundary objects are both adaptable to different viewpoints and robust enough to maintain identity across them.”\n\nSusan Leigh Star and James R. Griesemer, “Institutional Ecology, ‘Translations’ and Boundary Objects: Amateurs and Professionals in Berkeley’s Museum of Vertebrate Zoology, 1907–39,” 1989, abstract. Chinese translation prepared for this calendar.\n\nThe sentence holds flexibility and continuity together. Neither total uniformity nor unlimited difference alone explains how people manage to work together.",
+      "zh": "“边界物既能适应不同视角，又足够稳固，能够在这些视角之间保持可辨认的一致性。”\n\n苏珊·利·斯塔尔与詹姆斯·R.格里泽默，1989年论文《制度生态、“转译”与边界物：伯克利脊椎动物博物馆中的业余参与者与专业人员，1907—1939》（暂译），摘要。中文为本期自译。\n\n这句话把灵活性与连续性放在一起。无论是完全一致，还是毫无限制的差异，都无法单独解释人们如何实现共同工作。"
+    },
+    {
+      "title": "Sources and Editorial Notes",
+      "titleZh": "资料与编辑说明",
+      "en": "This draft uses the UCLA memorial, the MIT Press description and publication record, and the authors’ journal abstracts. It does not claim to have examined the full text of every listed work. The appointment-system and reporting-form examples are explicitly editorial illustrations, not invented fieldwork attributed to Star.\n\nThe book first appeared in hardcover in 1999; the publisher’s linked paperback edition dates to 2000. The feminist connections here are interpretations, not quotations or claims of a single scholarly consensus.",
+      "zh": "本稿使用UCLA纪念页面、MIT Press内容介绍与出版记录，以及作者论文摘要，不声称完整研读了每一项列出作品。预约系统与记录表格的例子明确属于编辑性说明，不是捏造后归于Star的田野研究。\n\n该书精装版首次出版于1999年，所链接的出版社平装版页面标注2000年。本稿的女性主义联系属于解释，不是引文，也不声称代表单一学术共识。"
+    },
+    {
+      "title": "Sources",
+      "titleZh": "资料链接",
+      "en": "期刊页面\nhttps://aisel.aisnet.org/sjis/vol14/iss2/6/\n\nUCLA memorial\nhttps://www.sscnet.ucla.edu/soc/LeighStar/index.htm\n\n期刊页面\nhttps://journals.sagepub.com/doi/10.1177/030631289019003001\n\nMIT Press\nhttps://mitpress.mit.edu/9780262522953/sorting-things-out/",
+      "zh": "Journal page\nhttps://aisel.aisnet.org/sjis/vol14/iss2/6/\n\nUCLA纪念页面\nhttps://www.sscnet.ucla.edu/soc/LeighStar/index.htm\n\nJournal page\nhttps://journals.sagepub.com/doi/10.1177/030631289019003001\n\nMIT Press\nhttps://mitpress.mit.edu/9780262522953/sorting-things-out/"
+    }
+  ],
+  "relatedWorks": [
+    {
+      "title": "Sorting Things Out: Classification and Its Consequences — Geoffrey C. Bowker and Susan Leigh Star, 1999.",
+      "titleZh": "《分类及其后果》（暂译）——杰弗里·C.鲍克与苏珊·利·斯塔尔，1999年。讨论分类如何组织生活并产生后果。"
+    },
+    {
+      "title": "“Infrastructure and Ethnographic Practice: Working on the Fringes” — Susan Leigh Star, 2002.",
+      "titleZh": "《基础设施与民族志实践：在边缘工作》（暂译）——苏珊·利·斯塔尔，2002年。把观察引向信息系统的日常安排。"
+    },
+    {
+      "title": "“Institutional Ecology, ‘Translations’ and Boundary Objects” — Susan Leigh Star and James R. Griesemer, 1989.",
+      "titleZh": "《制度生态、“转译”与边界物》（暂译，简称）——苏珊·利·斯塔尔与詹姆斯·R.格里泽默，1989年。讨论不同社会世界之间的合作。"
+    }
+  ],
+  "sources": [
+    {
+      "label": "期刊页面｜Journal page",
+      "url": "https://aisel.aisnet.org/sjis/vol14/iss2/6/"
+    },
+    {
+      "label": "UCLA memorial｜UCLA纪念页面",
+      "url": "https://www.sscnet.ucla.edu/soc/LeighStar/index.htm"
+    },
+    {
+      "label": "期刊页面｜Journal page",
+      "url": "https://journals.sagepub.com/doi/10.1177/030631289019003001"
+    },
+    {
+      "label": "MIT Press",
+      "url": "https://mitpress.mit.edu/9780262522953/sorting-things-out/"
+    }
+  ],
+  "summaryEn": "A smoothly functioning system can make its supporting work difficult to notice. Susan Leigh Star’s research invites us to examine what usually remains in the background: categories, shared records, technical arrangements, and the people who keep them usable.\n\nHer approach to infrastructure connects mundane details with questions of access and control. This calendar takes that connection as a feminist question: when an organisation looks efficient, whose effort has become ordinary enough to go unrecognised?\n\nThe point is not that every system conceals the same injustice. It is that we cannot judge an arrangement only from the position of the person for whom it already works.",
+  "summaryZh": "一个顺畅运转的系统，可能让支撑它的工作变得难以察觉。苏珊·利·斯塔尔的研究邀请我们检查通常留在背景里的事物：类别、共同记录、技术安排，以及让它们持续可用的人。\n\n她研究基础设施的方法，把日常细节与准入和控制问题连接起来。本期把这种联系转化为一个女性主义问题：当一个组织看起来很高效，谁的付出已经平常到不再受到承认？\n\n这并不是说，每一种系统都隐藏着同一种不公，而是说：我们不能只站在那些已经能够顺利使用它的人的位置上，判断一种安排。",
+  "introEn": "Susan Leigh Star was a sociologist whose work connected science and technology studies with information, classification, and infrastructure. A UCLA memorial describes the importance of her work on boundary objects, marginality, and infrastructure.\n\nTwo collaborations are especially useful here: the 1989 boundary-objects article written with James R. Griesemer, and Sorting Things Out: Classification and Its Consequences, written with Geoffrey C. Bowker and first published in 1999. These ideas should not be presented as the work of a solitary thinker.",
+  "introZh": "苏珊·利·斯塔尔是一位社会学家，她的研究把科学技术研究与信息、分类及基础设施问题联系起来。加州大学洛杉矶分校的纪念页面介绍了她在边界物、边缘处境与基础设施研究中的重要贡献。\n\n这里尤其适合阅读两项合作成果：1989年，她与詹姆斯·R.格里泽默合写的边界物论文；以及与杰弗里·C.鲍克合著、1999年首次出版的《分类及其后果》（暂译）。这些思想不应被呈现为一个孤独思想家的独自创造。；"
+},
+{
   "id": "2026-09-03-gloria-steinem",
   "date": "2026-09-03",
   "type": "writer",
